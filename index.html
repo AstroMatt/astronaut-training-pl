@@ -1,0 +1,55 @@
+---
+permalink: /
+---
+
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="utf-8">
+
+    <title>Proces przygotownia astronautów do długoterminowych lotów kosmicznych</title>
+    <meta name="author" content="Matt Harasymczuk">
+    <meta name="description" content="Wyższa Szkoła Oficerska Sił Powietrznych Katedra Nawigacji, praca magisterska - Proces przygotownia astronautów do długoterminowych lotów kosmicznych">
+
+    <link rel="cannonical" href="http://astromatt.space">
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <section id="first-page">
+        <header>
+            <h1>Wyższa Szkoła Oficerska Sił Powietrznych Katedra Nawigacji</h1>
+        </header>
+
+        <div id="title">
+            <p>Mateusz Harasymczuk</p>
+            <p>Praca magisterska</p>
+            <h1>Proces przygotownia astronautów do długoterminowych lotów kosmicznych</h1>
+        </div>
+
+        <div id="about">
+            <p>Praca magisterska napisana pod kierownictwem</p>
+            <p>prof. dr hab. inż. Janusz Zieliński</p>
+        </div>
+
+        <footer>Dęblin 2016<footer>
+    </section>
+
+    <section id="content">
+
+        {% for page in site.pages %}
+            {% if page.categories == "chapter" %}
+
+                <article class="chapter" id="{{ page.name }}">
+                    {{ page.content |markdownify }}
+                </article>
+
+            {% endif %}
+        {% endfor %}
+
+    </section>
+
+    <section id="bibliography">
+    </section>
+<body>
+<html>
+
