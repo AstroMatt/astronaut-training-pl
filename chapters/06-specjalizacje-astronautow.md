@@ -2,7 +2,9 @@
 categories: chapter
 ---
 
-# Proces przygotowania ze względu charakter pełnienia misji Commander
+# Proces przygotowania ze względu charakter pełnienia misji
+
+## Commander
 
 ## Pilot
 

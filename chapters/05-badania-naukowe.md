@@ -6,9 +6,13 @@ categories: chapter
 
 ## Badania kognitywistyczne## Badania biologiczne
 
-## Badania chemiczne## Badania techniczne
+## Badania chemiczne
 
-## Badania fizyczne## Badania medyczne
+## Badania techniczne
+
+## Badania fizyczne
+
+## Badania medyczne
 
 ## Ćwiczenia kondycyjne
 
