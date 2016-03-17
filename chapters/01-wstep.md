@@ -35,3 +35,4 @@ Jednym z najważniejszych ogniw całego programu pobytu człowieka poza Ziemią 
 - nauka pilotażu samolotów odrzutowych.
 
 Niniejsza praca jest próbą podumowania procesu przygotowania astronautów i kosmonautów do długotrwałych lotów kosmicznych.
+

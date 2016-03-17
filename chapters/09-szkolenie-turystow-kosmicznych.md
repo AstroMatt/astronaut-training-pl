@@ -1,1 +1,6 @@
----categories: chapter---# Proces szkolenia turystów kosmicznych
+---
+categories: chapter
+---
+
+# Proces szkolenia turystów kosmicznych
+
