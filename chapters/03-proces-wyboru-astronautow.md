@@ -18,15 +18,17 @@ Przygotowanie astronautów i kosmonautów do długotrwałych misji kosminczych z
 
 Na wybór kandydata ma ogromny wpływ również doświadczenie, wykształcenie nalot lotniczy oraz przebyte kursy i wyprawy przetrwania. Astronauci to także osoby publiczne często występujące przed dużymi audiencjami dlatego ceniona jest umiejętność posługiwania się mediami społecznościowymi, pisania tekstów oraz przemawiania {% bibliography "How to Become an Astronaut" %}. Język angielski i rosyjski są obecnie oficjalnymi używanymi na ISS - międzynarodowej stacji kosmicznej dlatego od kandydatów wymaga się znajomości tych dwóch powyższych. Dodatkowo ze względu na międzynarodowy charakter misji kosmicznych mile widziane jest zainteresowanie kulturą Stanów Zjednoczonych, Japonii i Rosji.
 
-Z tego powodu proces selekcji astronatów i kosmonautów jest zadaniem trudnym. W poniższym rozdziale przedstawione zostną kryteria oraz proces wyboru najlepszych kandydatów.
+ Sam proces podstawowego szkolenia astronautów trwa dwa lata i jego ukończenie pozwala na zmianę tytułu z "kandydat na astronautę" na astronauta<!-- TODO: Quote Needed -->. Jest to długi proces i wymagający wielu poświęceń z życia prywatnego.
+
+Z tego powodu proces selekcji astronatów i kosmonautów jest zadaniem trudnym. Wymaga umiejętności multidyscyplinarnych. W poniższym rozdziale przedstawione zostną kryteria oraz proces wyboru najlepszych kandydatów.
 
 ## Selekcja psychologiczna
 
-Agencje kosmiczne poszukują kandydatów stabilnych psychinczne<!-- TODO: Quote Needed -->. Ma to ogromne znaczenie, gdyż tym osobą zostaną powierzone odpowiedzialne zadania oraz badania naukowe. Sam proces podstawowego szkolenia astronautów trwa dwa lata i jego ukończenie pozwala na zmianę tytułu z "kandydat na astronautę" na astronauta<!-- TODO: Quote Needed -->.
+Jednym z kluczowych elementów branych pod uwage jest odporność na stres i umiejętność działania pod presją. Astronauta jako operator musi umieć realizować zadane czynności bez względu na okoliczności. Podążanie za procedurami w przypadku różnego rodzaju awarii i zdarzeń wyjątkowych jest absolutnie niezbędne. Prodcedury te zostały przygotowane przez lata praktyki i wszelkie odstępstwa mogą narazić członków załogi na niebezpieczeństwo lub śmierć.
+
+Ponadto cechą pracy w warunkach kosmicznych jest przebywanie w małych pomieszczeniach pozbawionych okien (z wyjątkiem miejsc widokowych) w rzadko zmieniającym się towarzystwie. Kandydacji muszą umieć współistnieć w międzynarodowym środowisku, prowadzić badania i interakcje oraz komunikować się. Od kandydatów wymaga się stabilności psychicznej i dojrzałości emocjonalnej.
 
 Proces badań wstępnych jest prowadzony przez zespół wykwalifikowanych specjalistów z zakresu psychologii.
-
-Jednym z kluczowych elementów branych pod uwage jest odporność na stres i umiejętność działania pod presją. Astronauta jako operator musi umieć realizować zadane czynności bez względu na okoliczności. Podążanie za procedurami w przypadku różnego rodzaju awarii i zdarzeń wyjątkowych jest absolutnie niezbędne. Prodcedury te zostały przygotowane przez lata praktyki i wszelkie odstępstwa mogą narazić członków załogi na niebezpieczeństwo lub śmierć. 
 
 ## Selekcja kondycyjna
 
