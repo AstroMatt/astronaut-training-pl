@@ -12,8 +12,9 @@ Przygotowanie astronautów i kosmonautów do długotrwałych misji kosminczych z
 - aktywność psycho-motoryczna,
 - umiejętność kojarzenia i przewidywania.
 
-Na wybór kandydata ma ogromny wpływ również doświadczenie, wykształcenie nalot lotniczy oraz przebyte kursy i wyprawy przetrwania. Z tego powodu proces selekcji astronatów i kosmonautów jest zadaniem trudnym. W poniższym rozdziale przedstawione zostną kryteria oraz proces wyboru najlepszych kandydatów.
+Na wybór kandydata ma ogromny wpływ również doświadczenie, wykształcenie nalot lotniczy oraz przebyte kursy i wyprawy przetrwania. Astronauci to także osoby publiczne często występujące przed dużymi audiencjami dlatego ceniona jest umiejętność posługiwania się mediami społecznościowymi, pisania tekstów oraz przemawiania {% bibliography "How to Become an Astronaut" %}. Język angielski i rosyjski są obecnie oficjalnymi używanymi na ISS - międzynarodowej stacji kosmicznej. Dlatego od kandydatów wymaga się znajomości tych dwóch powyższych.
 
+Z tego powodu proces selekcji astronatów i kosmonautów jest zadaniem trudnym. W poniższym rozdziale przedstawione zostną kryteria oraz proces wyboru najlepszych kandydatów.
 
 ## Selekcja psychologiczna
 
@@ -36,9 +37,24 @@ Każda z tych profesji ma swoje zalety przy prowadzeniu badań w środowisku kos
 
 ## Selekcja w różnych agencjach i organizacjach kosmicznych Agencje rządowe
 
-### Roscosmos NASA
+### NASA
+
+Amerykańska agencja kosmiczna NASA organizuje rekrutację na kandydata na astronautę (ang. Astronaut Candidate) regularnie co dwa lata. Ostania tego typu rekrutacja miała miejsce na przełomie 2015/2016 roku i zakończyła się 15 lutego 2016<!-- TODO: Quote Needed -->. Dzięki zaangażowaniu mediów społecznościowych oraz innych środków masowego przekazu swoje aplikacje złożyło rekrodowo dużo osób. Komisja rekrutacyjna będzie musiała rozpatrzyć 18000 podań i z tego grona wybrać 8-10 najlepszych kandydatów, którzy rozpoczną przygotowanie wstępne.
+
+### Roscosmos
+
+Do końca roku 2015 agencja kosmiczna Roscosmos podlegała strukturom wojskowym Federacji Rosyjskiej i wcześniej Związkowi Radzieckiemu. Z tego powodu kandydaci na kosmonautów byli wybierani wśród oficerów sił powietrznych. Wraz ze zmianami organizacyjnymi z 31 grudnia 2015 Roscosmos przekształcił się w cywilną agencję zarządzaną na wzór amerykańskiej NASA<!-- TODO: Quote Needed -->. Z tego powodu proces rekrutacj kosmonautów może ulec zmianie i w najbliższych latach wśród rosyjskich kosmonautów znajdzie się więcej cywili, naukowców i inżynierów.
 
 ### ESA
+
+Jednym z warunków bycia astronautą ESA jest aby państwo narodowości kandydata było oficjalnym członkiem tej agencji. Ostatni proces rekrutacji Europejskiej Agencji Kosmicznej odbył się w maju 2008 oraz maju 2009 roku. Przedsięwzięcie prowadziła jednostka EAC (ang. European Astronaut Centre) w Kolonii w Niemczech. Wzięło w nim udział 8413 kandydatów . 20 maja 2009 sześciu nowych kandydatów na astronautów zostało przedstawionych na konferencji prasowej w siedzibie ESA w Paryżu. Kandydaci rozpoczęli swoje wstępne przeszkolenie 1 września 2009 roku. W tej selekcji wybrano następujących kandydatów {% bibliography "How to Become an Astronaut" %}:
+
+- Luca Parmitano (Włochy),
+- Samantha Crostoforetti (Włochy),
+- Alexander Gerst (Niemcy),
+- Thomas Pasquet (Francja),
+- Andreas Mogensen (Dania),
+- Timothy Peak (Wielka Brytania).
 
 ### Jaxa
 
@@ -61,3 +77,8 @@ Każda z tych profesji ma swoje zalety przy prowadzeniu badań w środowisku kos
 ### Blue Origin
 
 ### Boeing
+
+### He Space
+
+<!-- TODO: Sprawdzić poprawność nazwy firmy -->
+Frima He Space na początku roku 2016 rozpoczęła proces poszukiwania kandydatki na astronautę.
