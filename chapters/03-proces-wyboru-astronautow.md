@@ -9,10 +9,14 @@ Przygotowanie astronautów i kosmonautów do długotrwałych misji kosminczych z
 - kondycja fizyczna i wydolność organizmu,
 - zdolność adaptacji do zmiennych warunków,
 - stabilność psychiczna,
+- odporność na stres,
+- umiejętność działania pod presją,
+- umiejętność podążania za procedurami,
 - aktywność psycho-motoryczna,
+- wytrzymałość na przeciążenia,
 - umiejętność kojarzenia i przewidywania.
 
-Na wybór kandydata ma ogromny wpływ również doświadczenie, wykształcenie nalot lotniczy oraz przebyte kursy i wyprawy przetrwania. Astronauci to także osoby publiczne często występujące przed dużymi audiencjami dlatego ceniona jest umiejętność posługiwania się mediami społecznościowymi, pisania tekstów oraz przemawiania {% bibliography "How to Become an Astronaut" %}. Język angielski i rosyjski są obecnie oficjalnymi używanymi na ISS - międzynarodowej stacji kosmicznej. Dlatego od kandydatów wymaga się znajomości tych dwóch powyższych.
+Na wybór kandydata ma ogromny wpływ również doświadczenie, wykształcenie nalot lotniczy oraz przebyte kursy i wyprawy przetrwania. Astronauci to także osoby publiczne często występujące przed dużymi audiencjami dlatego ceniona jest umiejętność posługiwania się mediami społecznościowymi, pisania tekstów oraz przemawiania {% bibliography "How to Become an Astronaut" %}. Język angielski i rosyjski są obecnie oficjalnymi używanymi na ISS - międzynarodowej stacji kosmicznej dlatego od kandydatów wymaga się znajomości tych dwóch powyższych. Dodatkowo ze względu na międzynarodowy charakter misji kosmicznych mile widziane jest zainteresowanie kulturą Stanów Zjednoczonych, Japonii i Rosji.
 
 Z tego powodu proces selekcji astronatów i kosmonautów jest zadaniem trudnym. W poniższym rozdziale przedstawione zostną kryteria oraz proces wyboru najlepszych kandydatów.
 
@@ -22,7 +26,16 @@ Agencje kosmiczne poszukują kandydatów stabilnych psychinczne<!-- TODO: Quote 
 
 Proces badań wstępnych jest prowadzony przez zespół wykwalifikowanych specjalistów z zakresu psychologii.
 
-## Selekcja medyczna i kondycyjna
+Jednym z kluczowych elementów branych pod uwage jest odporność na stres i umiejętność działania pod presją. Astronauta jako operator musi umieć realizować zadane czynności bez względu na okoliczności. Podążanie za procedurami w przypadku różnego rodzaju awarii i zdarzeń wyjątkowych jest absolutnie niezbędne. Prodcedury te zostały przygotowane przez lata praktyki i wszelkie odstępstwa mogą narazić członków załogi na niebezpieczeństwo lub śmierć. 
+
+## Selekcja kondycyjna
+
+Charakter pracy jako astronauta wymaga wysokiej aktywności kondycyjnej i dużej sprawności fizycznej. Podczas wielomiesięcznych a docelowo wieloletnich misji kosmicznych astronauci aby przeciwdziałać niebezpiecznemu wpływowi braku grawitacji na układ szkieletowy, mięśniowy i zapobiec atrofi mięśni muszą ćwiczyć przynajmniej dwie do trzech godzin dziennie. Sam proces przygotowania do spacerów kosmicznych trwa sześć godzin, w trakcie którego astronauta wykonuje zadania pod wodą będąc umieszczonym w skafandrze. Każdy jednorazowy EVA (ang. Extra Cechicular Activity - spacer kosmiczny) jest poprzedzony przynajmniej dwudziestokrotnym treningiem w środowisku symulującym stan nieważkości w basenie przy użyciu ciężarów i wyporników nadających skafandrowi kosmicznemu cechę neutralnego unoszenia się.
+
+Kandydacji którzy biorą udział w rekrutacji muszą być zdolni do wytrzymywania zadanych obciążeń i dużego wysiłku fizycznego. Umiejętności te wymagają wieloletniego przygotowania kondycyjno-wytrzymałościowego i są oceniane przez komisję rekrutacyjną.
+
+## Selekcja medyczna
+
 
 ## Selekcja umiejętności technicznych i naukowych
 
