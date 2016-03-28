@@ -30,7 +30,7 @@ module Jekyll
         end
 
         def render(context)
-            if "#{context['title']}"
+            if context['title']
                 @title = "#{context['title']}"
             end
 

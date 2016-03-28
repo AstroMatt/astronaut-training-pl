@@ -33,6 +33,22 @@ Po stronie Stanów Zjednoczonych największym wpływ na program rakietowy tego k
 <!-- TODO: źródło cytatu 2 -->
 Pierwszym człowiekiem w kosmosie był pułkownik Yuri Gagarin. Został wystrzelony przez Związek Radziecki w 90 minutowy orbitalny do okoła Ziemii. Gagarin był jednym z 20 osób, które zostały zrekrutowane z pilotów wojskowych Związku Radzieckiego w tym celu. Wg. podań świadków pułkownik wyróżniał się wytrzymałością, duchem oraz doświadczeniem. Wśród wszyskich rekrutowanych kosmonautów przeprowadzono ankietę "kogo wytypowałbyś na pierwszy lot". Osiemnaście na dwadzieścia osób z załogi wybrało Yuriego.
 
+Amerykańską odpowiedzią był program Mercury. W trakcie programu wybrano siedmiu astronautów. Nazwiska astronautów, znak wywoławczy oraz datę wystrzelenia przedstawia tabela poniżej.
+
+| Astronauta      | Znak wywowałwczy | Data wystrzelenia | Czas trwania       |
+|:----------------|:-----------------|:------------------|:-------------------|
+| Alan Shepard    | Freedom 7        | 1961-05-05        | 15 m 22 s          |
+| Gus Grissom     | Liberty Bell 7   | 1961-07-21        | 15 m 37 s          |
+| John Glenn      | Friendship 7     | 1962-02-20        | 4 h 55 m 23 s      |
+| Scott Carpenter | Aurora 7         | 1962-05-24        | 4 h 56 m 5 s       |
+| Wally Shirra    | Sigma 7          | 1962-10-03        | 9 h 13 m 15 s      |
+| Gordon Cooper   | Faith 7          | 1963-05-15        | 1 d 10 h 19 m 49 s |
+| Deke Slayton    | Apollo-Soyuz     | 1974-07-15        | 5 d 22 h 30 m      |
+**Tab. 1. - Astronauci programu Mercury**
+
+
+Z przyczyn zdrowotnych Deke Slayton nie
+
 ## Program kosminczy NASA
 
 ### Program Mercury
