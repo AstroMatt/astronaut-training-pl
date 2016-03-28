@@ -18,15 +18,17 @@ Przygotowanie astronautów i kosmonautów do długotrwałych misji kosminczych z
 
 Na wybór kandydata ma ogromny wpływ również doświadczenie, wykształcenie nalot lotniczy oraz przebyte kursy i wyprawy przetrwania. Astronauci to także osoby publiczne często występujące przed dużymi audiencjami dlatego ceniona jest umiejętność posługiwania się mediami społecznościowymi, pisania tekstów oraz przemawiania {% bibliography "How to Become an Astronaut" %}. Język angielski i rosyjski są obecnie oficjalnymi używanymi na ISS - międzynarodowej stacji kosmicznej dlatego od kandydatów wymaga się znajomości tych dwóch powyższych. Dodatkowo ze względu na międzynarodowy charakter misji kosmicznych mile widziane jest zainteresowanie kulturą Stanów Zjednoczonych, Japonii i Rosji.
 
- Sam proces podstawowego szkolenia astronautów trwa dwa lata i jego ukończenie pozwala na zmianę tytułu z "kandydat na astronautę" na astronauta<!-- TODO: Quote Needed -->. Jest to długi proces i wymagający wielu poświęceń z życia prywatnego.
+ Sam proces podstawowego szkolenia astronautów trwa dwa lata i jego ukończenie pozwala na zmianę tytułu z "kandydat na astronautę" na astronauta<!-- TODO: Quote Needed -->. Jest to długi proces i wymagający wielu poświęceń z życia prywatnego. Ponadto jest bardzo kosztowny i długotrwały. A wsparcie jakiego wymaga przygotowanie do i po misji jest orgomne. Z tego powodu agencje kosmiczne wybierają najbardziej odpowiednie osoby na to stanowisko.
 
-Z tego powodu proces selekcji astronatów i kosmonautów jest zadaniem trudnym. Wymaga umiejętności multidyscyplinarnych. W poniższym rozdziale przedstawione zostną kryteria oraz proces wyboru najlepszych kandydatów.
+ Aby przygotować misję kosmiczną wymagane są lata pracy wielu zespołów profesjonalistów. I choć pozycja astronauty jest jedną z najbardziej prestiżowych na świecie to ich sukces zbudowany jest przez tych co pozostali na Ziemii{% bibliography "How to Become an Astronaut" %}. Ograniczone możliwości w zakresie wysyłania ludzi w przestrzeń kosmiczną i koszt tego przedsięwzięcia wymaga starannego doboru kandydatów. Z tego powodu proces selekcji astronatów i kosmonautów jest zadaniem trudnym. Wymaga umiejętności multidyscyplinarnych. W poniższym rozdziale przedstawione zostną kryteria oraz proces wyboru najlepszych kandydatów.
 
 ## Selekcja psychologiczna
 
 Jednym z kluczowych elementów branych pod uwage jest odporność na stres i umiejętność działania pod presją. Astronauta jako operator musi umieć realizować zadane czynności bez względu na okoliczności. Podążanie za procedurami w przypadku różnego rodzaju awarii i zdarzeń wyjątkowych jest absolutnie niezbędne. Prodcedury te zostały przygotowane przez lata praktyki i wszelkie odstępstwa mogą narazić członków załogi na niebezpieczeństwo lub śmierć.
 
 Ponadto cechą pracy w warunkach kosmicznych jest przebywanie w małych pomieszczeniach pozbawionych okien (z wyjątkiem miejsc widokowych) w rzadko zmieniającym się towarzystwie. Kandydacji muszą umieć współistnieć w międzynarodowym środowisku, prowadzić badania i interakcje oraz komunikować się. Od kandydatów wymaga się stabilności psychicznej i dojrzałości emocjonalnej.
+
+Jednym z kluczowych elementów szkolenia astronautów jest pobyt w różnych centrach szkolenia na świecie. Jest to związane z długimi pobytami poza miejscem zamieszkania i zdala od rodziny. Sam pobyt na międzynarodowej stacji kosmicznej na chwilę obecną trwa zwykle do sześciu miesięcy, ale te czasy zdecydowanie się wydłużą ze względu na konieczność przygotowania do długotwałych misji kosmicznych na Księżyc i Marsa.
 
 Proces badań wstępnych jest prowadzony przez zespół wykwalifikowanych specjalistów z zakresu psychologii.
 
@@ -48,7 +50,7 @@ Jednym z najbardziej kluczowych elementów selekcji kandydatów na astronautów 
 - pilot,
 - lekarz.
 
-Każda z tych profesji ma swoje zalety przy prowadzeniu badań w środowisku kosmicznym. Obecnie agencje odchodzą od specjalizacji astronautów<!-- TODO: Quote Needed --> i każdy z członków załogi musi poznać wszystkie aspekty pracy na orbicie, tj. pilotowanie statków kosmicznych, prowadzenie badań naukowych, udzielanie pomocy medycznej i przeprowadzanie operacji, kwestie związane z manipulowaniem ramion robotycznych i dokonywanie spacerów kosmicznych, czyli tzw. EVA (ang. Extra Vechicular Activity). Astronauta czy kosmonauta staje się operatorem czyli wysoce wykawlifikowanym specjalistą w wykonywaniu starannie zaplanowanych czynności.
+Każda z tych profesji ma swoje zalety przy prowadzeniu badań w środowisku kosmicznym. Obecnie agencje odchodzą od specjalizacji astronautów<!-- TODO: Quote Needed --> i każdy z członków załogi musi poznać wszystkie aspekty pracy na orbicie, tj. pilotowanie statków kosmicznych, prowadzenie badań naukowych, udzielanie pomocy medycznej i przeprowadzanie operacji, kwestie związane z manipulowaniem ramion robotycznych i dokonywanie spacerów kosmicznych, czyli tzw. EVA (ang. Extra Vechicular Activity). Astronauta czy kosmonauta staje się operatorem czyli wysoce wykawlifikowanym specjalistą w wykonywaniu starannie zaplanowanych czynności. To wymaga dużej wszechstronności od kandydata i umiejętności adaptowania się do zmieniających się warunków.
 
 ## Selekcja w różnych agencjach i organizacjach kosmicznych Agencje rządowe
 
