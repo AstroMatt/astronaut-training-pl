@@ -31,4 +31,17 @@ Jednym z najważniejszych ogniw całego programu pobytu człowieka poza Ziemią 
 - nauka spacerów kosmicznych (ang. EVA - Extra Vechicular Activity),
 - nauka pilotażu samolotów odrzutowych.
 
-Niniejsza praca jest próbą podumowania procesu przygotowania astronautów i kosmonautów do długotrwałych lotów kosmicznych w tym docelowo do permanentnej obecności człowieka na Księżycu i Marsie.
+Każda agencja kosmiczna ma prawo nazwania ludzi, którzy lecą w kosmos wedle uznania. Tak przyjęły się trzy najbardziej rozpowszechnione nazwy. Poniższa tabela prezentuje konwencje przyjęte przez poszczególne agencje.
+
+| Nazwa w oryginale                | Nazwa w języku angielskim | Nazwa w języku polskim | Agencja         |
+|:---------------------------------|:--------------------------|:-----------------------|:----------------|
+| astronaut                        | astronaut                 | astronauta             | NASA, ESA, JAXA |
+| spationaut                       | spationaut                | spationauta            | ESA, CNES       |
+| космонавт                        | cosmonaut                 | kosmonauta             | Roscosmos       |
+| 趙裡昱 (trad.) / 赵里昱 (simpl.) | taikonaut                 | taikonauta             | CNSA            |
+
+*Tabela 1. - Konwencje nazewnicze stanowiska osoby lecącej w kosmos w różnych agencjach kosmicznych*
+
+W celu uposzczenia w poniższej pracy przyjmuję konwencję stosowania nazewnictwa w języku polskim dla wszystkich profesji. Ponadto słowo astronauta będzie wykorzystane jako zamiennik pozostałych. Znaczenie tytułu pracy: "proces szkolenia astronautów do długotrwałych lotów kosmicznych" należy więc rozpatrywać jako "proces szkolenia astronautów, kosmonautów, taikonautów i spationautów do długotrwałych lotów kosmicznych".
+
+Niniejsza praca jest próbą podumowania procesu szkolenia astronautów, kosmonautów, taikonautów i spationautów do długotrwałych lotów kosmicznych w tym docelowo do permanentnej obecności człowieka na Księżycu i Marsie.

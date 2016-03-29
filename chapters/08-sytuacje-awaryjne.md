@@ -4,7 +4,23 @@ categories: chapter
 
 # Proces przygotowania do sytuacji awaryjnych i niebezpiecznych
 
-## Pożar
+Tzw. Off-nominal situations.
+
+## Pożar w statku kosmicznym Sojuz
+
+Podczas treningu w statku kosmicznym Sojuz gdy astronauta zauważy dym lub ogień powinien natychmiast zamknąć szybę w skafandrze by uniknąć inhalacji potencjalnie szkodliwym dla zdrowia dymem {% bibliography "Fire in the Soyuz!" %}. Po wykonaniu tej czynności przystępuje do gaszenia ognia. Ze względu na brak gaśnic oraz urządzeń do walki z ogniem na pokładzie statku kosmicznego astronauci mają następujące możliwości powstrzymania rozprzestrzeniania się ognia:
+
+- wyłączenie wentylatorów i urządzeń cyrkulacji powietrza,
+- wyłączenie wszystkich elektrycznych urządzeń łącznie z komputerem pokładowym,
+- depresuryzacja statku powietrznego.
+
+W środowisku mikrograwitacji nie występuje wymuszona konwekcja ciepła i ruchu powietrza. Wyłączenie wentylatorów i urządzeń cyrkulacji ma na celu zdławienie ognia poprzez wykorzystanie powietrza w procesie spalania w pobliżu miejsca, w którym doszło do zapłonu.
+
+Wyłączenie urządzeń elektrycznych ma na celu wyeliminowanie źródeł powstania ognia. W przerwy w zasilaniu ogień powinien sam zgasnąć. Po odczekaniu określonego czasu następuje ponowne włączenie urządzeń pokładowych.
+
+Najbardziej drastycznym sposobem na wyeliminowanie pożaru jest depresuryzacja statku powietrznego. Wraz z pozbawieniem atmosfery tlenu ogień zgaśnie. Jest to najbardziej niebezpieczny sposób gaszenia i to rozwiązanie pozostaje do użycia tylko w ostateczności. Przed procesem rozszczelniania kapsuły astronauci muszą sprawdzić szczelność swoich skafandrów aby upenić się czy sami nie będą narażeni na niebezpieczeństwo wystawienia na działanie próżni. Przy wykorzystaniu tego sposobu misja jest przerywana i kapsuła musi skierować się do awaryjnego wejścia w atmosferę w ciągu 125 minut. Czas ten odpowiada 1.5 okrążeniu Ziemi i powinien być wystarczający aby powrócić do jednego z wyznaczonych uprzednio miejsc awaryjnego lądowania. Podczas tego czasu temperatura ciała astronautów powoli zacznie wzrastać ze względu na tempo pompowania powietrza do skafandra - 22 litry na minutę. Tempo to jest wystarczające aby pozwolić astronautom bezpiecznie oddychać, ale nie pozwala na chłodzenie ciała. Z tego względu czas 125 minut jest krytyczny aby zapobiec śmierci astronautów ze względu na przegrzanie organizmu.
+
+## Pożar na ISS (Międzynarodowej Stacji Kosmicznej)
 
 ## Problemy medyczne członków załogi
 
