@@ -52,3 +52,43 @@
   title: Fire in the Soyuz!
   publisher: https://www.youtube.com/watch?v=oE5Z3Uxbezc
   date: 2015-05-18
+
+- author: NASA
+  title: Active NASA Astronauts
+  publisher: http://www.jsc.nasa.gov/Bios/astrobio.html
+  date: 2015-10-29
+
+- author: NASA
+  title: Inactive NASA Astronauts
+  publisher: http://www.jsc.nasa.gov/Bios/astrobio_former.html
+  date: 2016-03-02
+
+- author: NASA
+  title: International Astronauts
+  publisher: http://www.jsc.nasa.gov/Bios/astrobio_international.html
+  date: 2015-04-23
+
+- author: ESA
+  title: European Astronaut Corps
+  publisher: http://www.esa.int/Our_Activities/Human_Spaceflight/Astronauts/The_European_astronaut_corps
+  date: 2012-11-15
+
+
+
+
+- author: NASA
+  title: Cosmonauts Biographical Data
+  publisher: http://www.jsc.nasa.gov/Bios/cosmo.html
+  date: 2015-02-9
+
+- author: Chris Hadfield
+  title: An Astronaut's Guide to Life on Earth
+  publisher: Macmillan
+  isbn: 978-1-4472-5710-3
+  date: 2013
+
+- author: Mirosław Hermaszewski
+  title: Ciężar Nieważkości - opowieść pilota-kosmonauty
+  publisher: Universitas, Kraków
+  isbn: 97883-242-2296-4
+  date: 2013

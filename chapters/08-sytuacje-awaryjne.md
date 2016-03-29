@@ -12,7 +12,7 @@ Podczas treningu w statku kosmicznym Sojuz gdy astronauta zauważy dym lub ogie�
 
 - wyłączenie wentylatorów i urządzeń cyrkulacji powietrza,
 - wyłączenie wszystkich elektrycznych urządzeń łącznie z komputerem pokładowym,
-- depresuryzacja statku powietrznego.
+- rozszczelnienie statku powietrznego.
 
 W środowisku mikrograwitacji nie występuje wymuszona konwekcja ciepła i ruchu powietrza. Wyłączenie wentylatorów i urządzeń cyrkulacji ma na celu zdławienie ognia poprzez wykorzystanie powietrza w procesie spalania w pobliżu miejsca, w którym doszło do zapłonu.
 
