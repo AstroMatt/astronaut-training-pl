@@ -19,8 +19,8 @@
 - line 20: Quote Needed
 - line 52: Quote Needed
 - line 58: Quote Needed
-- line 62: Quote Needed
-- line 99: Sprawdzić poprawność nazwy firmy
+- line 140: Quote Needed
+- line 188: Sprawdzić poprawność nazwy firmy
 
 ## Przeszkolenie Podstawowe
 
