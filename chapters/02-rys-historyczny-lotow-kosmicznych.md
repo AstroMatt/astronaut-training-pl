@@ -47,9 +47,9 @@ Amerykańską odpowiedzią był program *Mercury*. W trakcie programu wybrano si
 | Gordon Cooper   | Faith 7          | 1963-05-15        | 1 d 10 h 19 m 49 s |
 | Deke Slayton    | Apollo-Soyuz     | 1974-07-15        | 5 d 22 h 30 m      |
 
-**Tab. 1. - Astronauci programu Mercury**
+**Tabela 2. - Astronauci programu Mercury**
 
-Z przyczyn zdrowotnych Deke Slayton został zdyskwalifikowany z udziału w programie i uziemiony. Przez trzynaście lat po locie Sheparda Slayton był szefem Astronauts Office i wziął udział w ostatnim locie programu Apollo - Apollo-Souyz.
+Z przyczyn zdrowotnych Deke Slayton został zdyskwalifikowany z udziału w programie i uziemiony. Przez trzynaście lat po locie Sheparda Slayton był szefem *Astronauts Office* i wziął udział w ostatnim locie programu *Apollo - Apollo-Souyz*.
 
 ## Program kosminczy NASA
 

@@ -40,7 +40,7 @@ Każda agencja kosmiczna ma prawo nazwania ludzi, którzy lecą w kosmos wedle u
 | космонавт                        | cosmonaut                 | kosmonauta             | Roscosmos       |
 | 趙裡昱 (trad.) / 赵里昱 (simpl.) | taikonaut                 | taikonauta             | CNSA            |
 
-*Tabela 1. - Konwencje nazewnicze stanowiska osoby lecącej w kosmos w różnych agencjach kosmicznych*
+**Tabela 1. - Konwencje nazewnicze stanowiska osoby lecącej w kosmos w różnych agencjach kosmicznych**
 
 W celu uposzczenia w poniższej pracy przyjmuję konwencję stosowania nazewnictwa w języku polskim dla wszystkich profesji. Ponadto słowo astronauta będzie wykorzystane jako zamiennik pozostałych. Znaczenie tytułu pracy: "proces szkolenia astronautów do długotrwałych lotów kosmicznych" należy więc rozpatrywać jako "proces szkolenia astronautów, kosmonautów, taikonautów i spationautów do długotrwałych lotów kosmicznych".
 
