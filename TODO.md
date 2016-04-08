@@ -30,6 +30,8 @@
 
 ## Operacje Techniczne
 
+## Operacje Nietechniczne
+
 ## Sytuacje Awaryjne
 
 ## Szkolenie Turystow Kosmicznych

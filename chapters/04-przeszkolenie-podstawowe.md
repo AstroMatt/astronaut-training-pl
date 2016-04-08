@@ -23,3 +23,5 @@ categories: chapter
 ## Przygotowanie do manewrów orbitalnych
 
 ## Przygotowanie do operacji Rendezvous i dokowania
+
+## Przygotowanie do nawigacji za pomocą gwiazd
