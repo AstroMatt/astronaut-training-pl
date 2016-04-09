@@ -4,6 +4,7 @@
 - line 06: quote needed
 - line 24: Quote Needed
 - line 24: Quote Needed
+- line 35: Problem z tabelkami w index-pl jest split po trzech myślnikach
 
 ## Rys Historyczny Lotow Kosmicznych
 - line 06: czy radziecki dużą literą

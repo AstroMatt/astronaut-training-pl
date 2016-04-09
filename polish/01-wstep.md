@@ -33,6 +33,8 @@ Jednym z najważniejszych ogniw całego programu pobytu człowieka poza Ziemią 
 
 Każda agencja kosmiczna ma prawo nazwania ludzi, którzy lecą w kosmos wedle uznania. Tak przyjęły się trzy najbardziej rozpowszechnione nazwy. Poniższa tabela prezentuje konwencje przyjęte przez poszczególne agencje.
 
+<!-- TODO: Problem z tabelkami w index-pl jest split po trzech myślnikach -->
+
 | Nazwa w oryginale                | Nazwa w języku angielskim | Nazwa w języku polskim | Agencja         |
 |:---------------------------------|:--------------------------|:-----------------------|:----------------|
 | astronaut                        | astronaut                 | astronauta             | NASA, ESA, JAXA |
