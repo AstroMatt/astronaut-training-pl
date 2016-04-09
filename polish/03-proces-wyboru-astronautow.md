@@ -52,9 +52,9 @@ Jednym z najbardziej kluczowych elementów selekcji kandydatów na astronautów 
 
 Każda z tych profesji ma swoje zalety przy prowadzeniu badań w środowisku kosmicznym. Obecnie agencje odchodzą od specjalizacji astronautów<!-- TODO: Quote Needed --> i każdy z członków załogi musi poznać wszystkie aspekty pracy na orbicie, tj. pilotowanie statków kosmicznych, prowadzenie badań naukowych, udzielanie pomocy medycznej i przeprowadzanie operacji, kwestie związane z manipulowaniem ramion robotycznych i dokonywanie spacerów kosmicznych, czyli tzw. EVA (ang. Extra Vechicular Activity). Astronauta czy kosmonauta staje się operatorem czyli wysoce wykawlifikowanym specjalistą w wykonywaniu starannie zaplanowanych czynności. To wymaga dużej wszechstronności od kandydata i umiejętności adaptowania się do zmieniających się warunków.
 
-## Selekcja w różnych agencjach i organizacjach kosmicznych Agencje rządowe
+## Selekcja astronautów w agencjach i organizacjach rządowych
 
-### NASA
+### NASA - Narodowa Agencja Aeronautyki i Astronautyki (USA)
 
 Amerykańska agencja kosmiczna NASA organizuje rekrutację na kandydata na astronautę (ang. Astronaut Candidate) regularnie co dwa lata. Ostania tego typu rekrutacja miała miejsce na przełomie 2015/2016 roku i zakończyła się 15 lutego 2016<!-- TODO: Quote Needed -->. Dzięki zaangażowaniu mediów społecznościowych oraz innych środków masowego przekazu swoje aplikacje złożyło rekrodowo dużo osób. Komisja rekrutacyjna będzie musiała rozpatrzyć 18000 podań i z tego grona wybrać 8-10 najlepszych kandydatów, którzy rozpoczną przygotowanie wstępne.
 
@@ -136,11 +136,11 @@ Amerykańska agencja kosmiczna NASA organizuje rekrutację na kandydata na astro
 
 **Tabela 4. - Lista aktywnych astronautów NASA {% bibliography "Active NASA Astronauts" %}**
 
-### Roscosmos
+### Roscosmos (Federacja Rosyjska)
 
 Do końca roku 2015 agencja kosmiczna Roscosmos podlegała strukturom wojskowym Federacji Rosyjskiej i wcześniej Związkowi Radzieckiemu. Z tego powodu kandydaci na kosmonautów byli wybierani wśród oficerów sił powietrznych. Wraz ze zmianami organizacyjnymi z 31 grudnia 2015 Roscosmos przekształcił się w cywilną agencję zarządzaną na wzór amerykańskiej NASA<!-- TODO: Quote Needed -->. Z tego powodu proces rekrutacj kosmonautów może ulec zmianie i w najbliższych latach wśród rosyjskich kosmonautów znajdzie się więcej cywili, naukowców i inżynierów.
 
-### ESA
+### ESA - Europejska Agencja Kosmiczna
 
 Jednym z warunków bycia astronautą ESA jest aby państwo narodowości kandydata było oficjalnym członkiem tej agencji. Ostatni proces rekrutacji Europejskiej Agencji Kosmicznej odbył się w maju 2008 oraz maju 2009 roku. Przedsięwzięcie prowadziła jednostka EAC (ang. European Astronaut Centre) w Kolonii w Niemczech. Wzięło w nim udział 8413 kandydatów . 20 maja 2009 sześciu nowych kandydatów na astronautów zostało przedstawionych na konferencji prasowej w siedzibie ESA w Paryżu. Kandydaci rozpoczęli swoje wstępne przeszkolenie 1 września 2009 roku. W tej selekcji wybrano następujących kandydatów {% bibliography "How to Become an Astronaut" %}:
 
@@ -162,15 +162,18 @@ Jednym z warunków bycia astronautą ESA jest aby państwo narodowości kandydat
 
 **Tabela 5 - Lista aktywnych astronautów ESA {% bibliography "European Astronaut Corps" %}**
 
-### Jaxa
+### JAXA - Japońska Agencja Ekploracji i Astronautyki (Japonia)
+<!-- TODO: Sprawdzić poprawność tłumaczenia nazwy -->
 
-### Chiny
 
-### Canada
+### CNSA - Agencja Kosmiczna Chińskiej Republiki Ludowej (Chiny)
 
-### Indie
+### CSA - Kanadyjska Agencja Kosmiczna
 
-## Organizacje prywatne
+### Indie - Indyjska Agencja Kosmiczna
+<!-- TODO: Sprawdzić poprawność tłumaczenia nazwy -->
+
+## Selekcja w organizacjach i programach prywatnych
 
 ### Program Commercial Crew Transport
 

@@ -34,6 +34,10 @@ Najbardziej drastycznym sposobem na wyeliminowanie pożaru jest depresuryzacja s
 
 ## Awaria systemu uzdatniania wody
 
-## Awaria systemu generowania tlenu
+## Awaria toalety
+
+## Awaria systemu generowania i cyrkulacji powietrza
+
+## Awaria zasilania i systemów elektrycznych
 
 ## Śmieci kosmiczne

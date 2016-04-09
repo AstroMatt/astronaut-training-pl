@@ -1,0 +1,17 @@
+---
+permalink: /
+layout: thesis-polish
+---
+
+
+{% for page in site.pages %}
+
+    {% if page.categories == "chapter" or page.categories == "appendix" %}
+        <article class="{{ page.categories }}" id="{{ page.name }}">
+            {% capture content %}{% include_relative polish/{{ page.name }} %}{% endcapture %}
+            {% assign content = content |split: '---' %}
+            {{ content[2] |markdownify }}
+        </article>
+    {% endif %}
+
+{% endfor %}

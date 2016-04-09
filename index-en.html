@@ -1,0 +1,9 @@
+---
+permalink: /en
+layout: thesis-english
+---
+
+
+{% capture content %}{% include_relative README.md %}{% endcapture %}
+{% assign content = content |split: '---' %}
+{{ content[2] |markdownify }}

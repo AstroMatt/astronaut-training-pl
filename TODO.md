@@ -20,7 +20,9 @@
 - line 52: Quote Needed
 - line 58: Quote Needed
 - line 140: Quote Needed
-- line 188: Sprawdzić poprawność nazwy firmy
+- line 165: Sprawdzić poprawność tłumaczenia nazwy
+- line 165: Sprawdzić poprawność tłumaczenia nazwy
+- line 191: Sprawdzić poprawność nazwy firmy
 
 ## Przeszkolenie Podstawowe
 
@@ -39,3 +41,9 @@
 ## Reentry
 
 ## Zakonczenie
+
+## Astronaut Stats
+
+## Dictionary
+
+## Bibliography

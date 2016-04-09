@@ -4,11 +4,13 @@ categories: chapter
 
 # Proces przygotowania do prowadzenia badań naukowych w środowisku mikrograwitacji
 
-## Badania kognitywistyczne## Badania biologiczne
+## Badania kognitywistyczne
+
+## Badania biologiczne
 
 ## Badania chemiczne
 
-## Badania techniczne
+## Badania techniczne i inżynieryjne
 
 ## Badania fizyczne
 

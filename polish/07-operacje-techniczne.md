@@ -2,7 +2,7 @@
 categories: chapter
 ---
 
-# Proces przygotowania do operacji technicznych
+# Proces przygotowania do operacji technicznych i inżynieryjnych
 
 ## Przygotowanie techniczne
 

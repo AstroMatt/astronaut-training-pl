@@ -51,7 +51,7 @@ Amerykańską odpowiedzią był program *Mercury*. W trakcie programu wybrano si
 
 Z przyczyn zdrowotnych Deke Slayton został zdyskwalifikowany z udziału w programie i uziemiony. Przez trzynaście lat po locie Sheparda Slayton był szefem *Astronauts Office* i wziął udział w ostatnim locie programu *Apollo - Apollo-Souyz*.
 
-## Program kosminczy NASA
+## Krótki rys historyczny programów kosmicznych NASA
 
 ### Program Mercury
 
@@ -63,10 +63,10 @@ Z przyczyn zdrowotnych Deke Slayton został zdyskwalifikowany z udziału w progr
 
 ### Program Space Shuttle
 
-## Lot pierwszego Polaka
+## Lot generała Mirosława Hermaszewskiego - pierwszego Polaka w kosmosie
 
-## Program kosmiczny Rosji
+## Program kosmiczny ZSSR i Federacji Rosyjskiej
 
-### Program księżycowy
+### Program Księżycowy
 
-### Stacja Kosmiczna Mir
+### Stacja kosmiczna Mir
