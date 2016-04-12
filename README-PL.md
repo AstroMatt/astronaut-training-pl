@@ -31,10 +31,9 @@ layout: thesis-polish
     - NASA - Narodowa Agencja Aeronautyki i Astronautyki (USA)
     - Roscosmos (Federacja Rosyjska)
     - ESA - Europejska Agencja Kosmiczna
-    - JAXA - Japońska Agencja Ekploracji i Astronautyki (Japonia)
-    - CNSA - Agencja Kosmiczna Chińskiej Republiki Ludowej (Chiny)
+    - JAXA - Japońska Agencja Eksploracji Kosmicznej
+    - CNSA - Agencja Kosmiczna Chińskiej Republiki Ludowej
     - CSA - Kanadyjska Agencja Kosmiczna
-    - Indie - Indyjska Agencja Kosmiczna
   - Selekcja w organizacjach i programach prywatnych
     - Program Commercial Crew Transport
     - Space Adventures

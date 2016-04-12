@@ -162,16 +162,11 @@ Jednym z warunków bycia astronautą ESA jest aby państwo narodowości kandydat
 
 **Tabela 5 - Lista aktywnych astronautów ESA {% bibliography "European Astronaut Corps" %}**
 
-### JAXA - Japońska Agencja Ekploracji i Astronautyki (Japonia)
-<!-- TODO: Sprawdzić poprawność tłumaczenia nazwy -->
+### JAXA - Japońska Agencja Eksploracji Kosmicznej
 
-
-### CNSA - Agencja Kosmiczna Chińskiej Republiki Ludowej (Chiny)
+### CNSA - Agencja Kosmiczna Chińskiej Republiki Ludowej
 
 ### CSA - Kanadyjska Agencja Kosmiczna
-
-### Indie - Indyjska Agencja Kosmiczna
-<!-- TODO: Sprawdzić poprawność tłumaczenia nazwy -->
 
 ## Selekcja w organizacjach i programach prywatnych
 
