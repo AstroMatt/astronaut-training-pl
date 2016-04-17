@@ -2,26 +2,60 @@
 categories: chapter
 ---
 
-# Proces przygotowania do wylotu
+# Przeszkolenie podstawowe
 
-## Przygotowanie kondycyjne
+## Proces przygotowania do wylotu
 
-## Test w wirówce na odporność organizmu na przeciążenia
+### Przygotowanie kondycyjne
 
-## Przygotowanie medyczne
+### Test w wirówce na odporność organizmu na przeciążenia
 
-## Przygotowanie psychologiczne
+### Przygotowanie medyczne
 
-## Przygotowanie kulturowe i językowe
+### Przygotowanie psychologiczne do pracy w odosobnieniu
 
-## Przygotowanie do pilotażu statku kosmicznego Soyuz
+### Przygotowanie kulturowe i językowe
 
-## Przygotowanie do pilotażu promu kosmicznego Space Shuttle
+## Przygotowanie pilotażowe
 
-## Korzystanie z systemu Launch Escape System
+### Przygotowanie do pilotażu statku kosmicznego Soyuz
 
-## Przygotowanie do manewrów orbitalnych
+### Przygotowanie do pilotażu promu kosmicznego Space Shuttle
 
-## Przygotowanie do operacji Rendezvous i dokowania
+### Korzystanie z systemu Launch Escape System
 
-## Przygotowanie do nawigacji za pomocą gwiazd
+### Szkolenie z mechaniki orbitalnej
+
+### Przygotowanie do manewrów orbitalnych
+
+### Przygotowanie do operacji Rendezvous i dokowania
+
+### Przygotowanie do nawigacji za pomocą gwiazd
+
+### Loty paraboliczne symulujące stan nieważkości
+
+## Misje specjalistyczne
+
+### Misje NEEMO
+
+### Misje CAVES
+
+## Przygotowanie techniczne
+
+### Przygotowanie do wykorzystania systemów pokładowych ISS
+
+### Przygotowanie do korzystania z Canada Arm 2
+
+### Przygotowanie do spacerów kosmicznych (EVA)
+
+### Operacje manewrów na orbicie w tym podniesienia orbity
+
+## Proces przygotowania do operacji nietechnicznych i komunikacji
+
+### Wykorzystanie mediów społecznościowych do popularyzacji nauki i misji
+
+### Przemówienia publiczne i "Space Advocacy"
+
+### Fotografia
+
+### Amatorskie radio krótkofalowe

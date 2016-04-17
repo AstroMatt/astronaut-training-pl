@@ -2,7 +2,7 @@
 categories: chapter
 ---
 
-# Proces przygotowania do sytuacji awaryjnych i niebezpiecznych
+# Przygotowanie do sytuacji awaryjnych i niebezpiecznych
 
 Tzw. Off-nominal situations.
 

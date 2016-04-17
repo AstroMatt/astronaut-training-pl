@@ -2,7 +2,7 @@
 categories: chapter
 ---
 
-# Proces przygotowania do prowadzenia badań naukowych w środowisku mikrograwitacji
+# Przygotowanie astronautów pod kątem przydzielonej misji
 
 ## Badania kognitywistyczne
 

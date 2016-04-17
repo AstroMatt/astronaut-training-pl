@@ -3,5 +3,3 @@ categories: chapter
 ---
 
 # Zakończenie
-
-a

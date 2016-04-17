@@ -2,7 +2,7 @@
 categories: chapter
 ---
 
-# Proces przygotowania ze względu charakter pełnienia misji
+# Specjalizacje astronautów
 
 ## Commander
 
@@ -18,6 +18,6 @@ categories: chapter
 
 ## Spaceflight Participants
 
-### Flight Surgeon
+## Flight Surgeon
 
-### Educator Mission Specialist
+## Educator Mission Specialist
