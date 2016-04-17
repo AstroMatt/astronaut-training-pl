@@ -43,20 +43,48 @@ layout: thesis-polish
     - Boeing
     - He Space
 
-## Proces przygotowania do wylotu
-  - Przygotowanie kondycyjne
-  - Test w wirówce na odporność organizmu na przeciążenia
-  - Przygotowanie medyczne
-  - Przygotowanie psychologiczne
-  - Przygotowanie kulturowe i językowe
-  - Przygotowanie do pilotażu statku kosmicznego Soyuz
-  - Przygotowanie do pilotażu promu kosmicznego Space Shuttle
-  - Korzystanie z systemu Launch Escape System
-  - Przygotowanie do manewrów orbitalnych
-  - Przygotowanie do operacji Rendezvous i dokowania
-  - Przygotowanie do nawigacji za pomocą gwiazd
+## Przeszkolenie podstawowe
+  - Proces przygotowania do wylotu
+    - Przygotowanie kondycyjne
+    - Test w wirówce na odporność organizmu na przeciążenia
+    - Przygotowanie medyczne
+    - Przygotowanie psychologiczne do pracy w odosobnieniu
+    - Przygotowanie kulturowe i językowe
+  - Przygotowanie pilotażowe
+    - Przygotowanie do pilotażu statku kosmicznego Soyuz
+    - Przygotowanie do pilotażu promu kosmicznego Space Shuttle
+    - Korzystanie z systemu Launch Escape System
+    - Szkolenie z mechaniki orbitalnej
+    - Przygotowanie do manewrów orbitalnych
+    - Przygotowanie do operacji Rendezvous i dokowania
+    - Przygotowanie do nawigacji za pomocą gwiazd
+    - Loty paraboliczne symulujące stan nieważkości
+  - Misje specjalistyczne
+    - Misje NEEMO
+    - Misje CAVES
+  - Przygotowanie techniczne
+    - Przygotowanie do wykorzystania systemów pokładowych ISS
+    - Przygotowanie do korzystania z Canada Arm 2
+    - Przygotowanie do spacerów kosmicznych (EVA)
+    - Operacje manewrów na orbicie w tym podniesienia orbity
+  - Proces przygotowania do operacji nietechnicznych i komunikacji
+    - Wykorzystanie mediów społecznościowych do popularyzacji nauki i misji
+    - Przemówienia publiczne i "Space Advocacy"
+    - Fotografia
+    - Amatorskie radio krótkofalowe
 
-## Proces przygotowania do prowadzenia badań naukowych w środowisku mikrograwitacji
+## Specjalizacje astronautów
+  - Commander
+  - Pilot
+  - Payload Specialist
+  - Mission Specialist
+  - Flight Engineer
+  - Science Officer
+  - Spaceflight Participants
+  - Flight Surgeon
+  - Educator Mission Specialist
+
+## Przygotowanie astronautów pod kątem przydzielonej misji
   - Badania kognitywistyczne
   - Badania biologiczne
   - Badania chemiczne
@@ -67,31 +95,7 @@ layout: thesis-polish
   - Badania dotyczące eksploracji Niskiej Orbity Okołoziemskiej (LEO)
   - Przykładowy rozkład dnia astronautów na Międzynarodowej Stacji Kosmicznej (ISS)
 
-## Proces przygotowania ze względu charakter pełnienia misji
-  - Commander
-  - Pilot
-  - Payload Specialist
-  - Mission Specialist
-  - Flight Engineer
-  - Science Officer
-  - Spaceflight Participants
-    - Flight Surgeon
-    - Educator Mission Specialist
-
-## Proces przygotowania do operacji technicznych i inżynieryjnych
-  - Przygotowanie techniczne
-  - Przygotowanie do wykorzystania systemów pokładowych
-  - Przygotowanie do korzystania z Canada Arm 2
-  - Przygotowanie do spacerów kosmicznych (EVA)
-  - Operacje manewrów na orbicie w tym podniesienia orbity
-
-## Proces przygotowania do operacji nietechnicznych i komunikacji
-  - Wykorzystanie mediów społecznościowych do popularyzacji nauki i misji
-  - Przemówienia publiczne i "Space Advocacy"
-  - Fotografia
-  - Amatorskie radio krótkofalowe
-
-## Proces przygotowania do sytuacji awaryjnych i niebezpiecznych
+## Przygotowanie do sytuacji awaryjnych i niebezpiecznych
   - Pożar w statku kosmicznym Sojuz
   - Pożar na ISS (Międzynarodowej Stacji Kosmicznej)
   - Problemy medyczne członków załogi
@@ -112,14 +116,29 @@ layout: thesis-polish
   - Zajęcia turystów na orbicie
   - Dotychczasowi turyści
 
-## Proces przygotowania do powrotu na Ziemię
-  - Undocking
-  - Obniżanie orbity
-  - De-orbit burn
-  - Normalne wejście w atmosferę
-  - Wejście w atmosferę po krzywej balistycznej
-  - Pilotaż statku kosmicznego Soyuz
-  - Pilotaż promu kosmicznego Space Shuttle
+## Powrót i praca na Ziemii
+  - Przygotowanie do powrotu na Ziemię
+    - Undocking
+    - Obniżanie orbity
+    - De-orbit burn
+  - Wejście w atmosferę i lądowanie statkiem Soyuz
+    - Normalne wejście w atmosferę
+    - Wejście w atmosferę po krzywej balistycznej
+    - Lądowanie
+  - Wejście w atmosferę i lądowanie promu kosmicznego Space Shuttle
+    - Procedura wejścia w atmosferę
+    - Lądowanie
+  - Czynności astronautów bezpośrednio po wylądowaniu
+    - Badania medyczne
+    - Stabilność układu ruchu
+    - Konstrukcja elementów bazy
+
+## Praca astronautów na Ziemii
+  - Testowanie sprzętu
+  - Pomoc w przygotowaniu innych astronautów
+  - Praca w symulatorach w przypadku problemów na orbicie
+  - Praca jako Capcom
+  - Popularyzacja nauki, działalność ewangelizacyjna obszaru S.T.E.M.
 
 ## Zakończenie
 

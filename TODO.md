@@ -25,19 +25,17 @@
 
 ## Przeszkolenie Podstawowe
 
-## Badania Naukowe
-
 ## Specjalizacje Astronautow
 
-## Operacje Techniczne
-
-## Operacje Nietechniczne
+## Szkolenie Do Przydzielonej Misji
 
 ## Sytuacje Awaryjne
 
 ## Szkolenie Turystow Kosmicznych
 
-## Reentry
+## Powrot I Praca Na Ziemi
+
+## Praca Na Ziemi
 
 ## Zakonczenie
 
