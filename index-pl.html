@@ -11,6 +11,7 @@ layout: thesis-polish
             {% capture content %}{% include_relative polish/{{ page.name }} %}{% endcapture %}
             {% assign content = content |split: '---' %}
             {{ content[2] |markdownify }}
+
         </article>
     {% endif %}
 

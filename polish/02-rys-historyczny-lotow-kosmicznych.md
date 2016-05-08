@@ -70,3 +70,12 @@ Z przyczyn zdrowotnych Deke Slayton został zdyskwalifikowany z udziału w progr
 ### Program Księżycowy
 
 ### Stacja kosmiczna Mir
+
+## Misje równoległe
+<!-- TODO: Dodać Misje Równoległe
+- Apollo Soyuz
+- Vostok 3 i 4
+- Vostok 5 i 6
+- Soyuz 4 i 5
+- Gemini
+ -->

@@ -2,7 +2,7 @@
 permalink: /spis-tresci
 layout: thesis-polish
 ---
-
+ 
 
 ## Wstęp
 

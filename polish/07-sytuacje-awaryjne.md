@@ -3,8 +3,36 @@ categories: chapter
 ---
 
 # Przygotowanie do sytuacji awaryjnych i niebezpiecznych
+<!-- TODO: Tzw. Off-nominal situations.
 
-Tzw. Off-nominal situations.
+Off nominal situations
+- electronic sysyems failure
+- Vhf radio system failure
+- Smart switch router Brie ASU system failure (cieżko tłumaczki się słuchało)
+- Pożar w soyuz oraz na stacji
+
+Russian segment training
+- Fire
+- Depressurization
+
+używanie kolejnego modułu jako backup airlock
+thermal stress (kiedy jest gorąco, np niedzialająca klima w skafandrze
+plucie na zamgloną szybkę hełmu EMU
+
+astronauta asystant dla małżonka astronauty podczas startu, który pomaga w pierwszych momentach bycia wdową gdyby cooś poszło nie tak
+
+wykorystywanie canadaarm do oglladania statku
+symulacja manewru w symulatorze
+
+brak zasilania prądu na iss i na statkach, brak thermal protection, radiation  
+space shuttle reentry angle 31 deg (nietypowy kąt wejścia)
+pressure in the space shuttle pressurized compartnent 14,7 psi
+dzień prze EVA STS-117 crew spent night in the aiir lock with 10.2 psi (plus maski z tlenem) by przygotować się
+
+sytuacje awaryjne, np jak szycie powłoki testują w rękawicach wewnątrz statku, by wiedzieć że dadzą radę podczas EVA
+EVA training gdy czlonek straci przytomność
+trening EVA z obniżania ciśnienia w skafandrze (2.7 psi dla Leovova), depressure valve w skafandrach
+-->
 
 ## Pożar w statku kosmicznym Sojuz
 
