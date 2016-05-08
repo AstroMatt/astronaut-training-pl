@@ -2,7 +2,7 @@
 permalink: /spis-tresci
 layout: thesis-polish
 ---
- 
+
 
 ## Wstęp
 
@@ -21,6 +21,7 @@ layout: thesis-polish
   - Program kosmiczny ZSSR i Federacji Rosyjskiej
     - Program Księżycowy
     - Stacja kosmiczna Mir
+  - Misje równoległe
 
 ## Proces wyboru astronautów i kosmonautów
   - Selekcja psychologiczna
@@ -50,7 +51,9 @@ layout: thesis-polish
     - Przygotowanie medyczne
     - Przygotowanie psychologiczne do pracy w odosobnieniu
     - Przygotowanie kulturowe i językowe
+    - Przygotowanie do wyławiania z oceanu
   - Przygotowanie pilotażowe
+    - Pilotaż samolotów odrzutowych
     - Przygotowanie do pilotażu statku kosmicznego Soyuz
     - Przygotowanie do pilotażu promu kosmicznego Space Shuttle
     - Korzystanie z systemu Launch Escape System
@@ -59,14 +62,18 @@ layout: thesis-polish
     - Przygotowanie do operacji Rendezvous i dokowania
     - Przygotowanie do nawigacji za pomocą gwiazd
     - Loty paraboliczne symulujące stan nieważkości
-  - Misje specjalistyczne
+    - Urządzenia symulujące obiżoną grawitację
+  - Przygotowanie do pracy w ekstremalnych warunkach
     - Misje NEEMO
     - Misje CAVES
+    - Przetrwanie w ekstremalnych warunkach
   - Przygotowanie techniczne
     - Przygotowanie do wykorzystania systemów pokładowych ISS
     - Przygotowanie do korzystania z Canada Arm 2
+    - Przygotowanie do korzysania ze skafandra EMU
     - Przygotowanie do spacerów kosmicznych (EVA)
     - Operacje manewrów na orbicie w tym podniesienia orbity
+    - Codzienne życie na Międzynarodowej Stacji Kosmicznej
   - Proces przygotowania do operacji nietechnicznych i komunikacji
     - Wykorzystanie mediów społecznościowych do popularyzacji nauki i misji
     - Przemówienia publiczne i "Space Advocacy"
@@ -94,6 +101,7 @@ layout: thesis-polish
   - Ćwiczenia kondycyjne
   - Badania dotyczące eksploracji Niskiej Orbity Okołoziemskiej (LEO)
   - Przykładowy rozkład dnia astronautów na Międzynarodowej Stacji Kosmicznej (ISS)
+  - Tradycje przed wylotem
 
 ## Przygotowanie do sytuacji awaryjnych i niebezpiecznych
   - Pożar w statku kosmicznym Sojuz
@@ -116,7 +124,7 @@ layout: thesis-polish
   - Zajęcia turystów na orbicie
   - Dotychczasowi turyści
 
-## Powrót i praca na Ziemii
+## Powrót na Ziemię
   - Przygotowanie do powrotu na Ziemię
     - Undocking
     - Obniżanie orbity
@@ -139,6 +147,7 @@ layout: thesis-polish
   - Praca w symulatorach w przypadku problemów na orbicie
   - Praca jako Capcom
   - Popularyzacja nauki, działalność ewangelizacyjna obszaru S.T.E.M.
+  - Za czasów Apollo
 
 ## Zakończenie
 

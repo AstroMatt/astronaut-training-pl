@@ -33,7 +33,8 @@
 
 ## Szkolenie Turystow Kosmicznych
 
-## Powrot I Praca Na Ziemi
+## Powrot Na Ziemie
+- line 07: Astronauci wydłużają sie o 5-7 cm i maja problemy z mieszczeniem sie w swoje Custom made siedzenia w soyuzie
 
 ## Praca Na Ziemi
 
