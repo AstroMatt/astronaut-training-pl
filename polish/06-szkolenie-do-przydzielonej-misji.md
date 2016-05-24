@@ -1,5 +1,6 @@
 ---
 categories: chapter
+language: polish
 ---
 
 # Przygotowanie astronautów pod kątem przydzielonej misji

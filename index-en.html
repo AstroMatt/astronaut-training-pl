@@ -4,6 +4,15 @@ layout: thesis-english
 ---
 
 
-{% capture content %}{% include_relative README.md %}{% endcapture %}
-{% assign content = content |split: '---' %}
-{{ content[2] |markdownify }}
+{% for page in site.pages %}
+
+    {% if page.language == "english" %}
+        <article class="{{ page.categories }}" id="{{ page.name }}">
+            {% capture content %}{% include_relative english/{{ page.name }} %}{% endcapture %}
+            {% assign content = content |split: '---' %}
+            {{ content[2] |markdownify }}
+
+        </article>
+    {% endif %}
+
+{% endfor %}

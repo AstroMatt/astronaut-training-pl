@@ -1,5 +1,6 @@
 ---
 categories: chapter
+language: polish
 ---
 
 # Przygotowanie do sytuacji awaryjnych i niebezpiecznych

@@ -6,7 +6,7 @@ layout: thesis-polish
 
 {% for page in site.pages %}
 
-    {% if page.categories == "chapter" or page.categories == "appendix" %}
+    {% if page.language == "polish" %}
         <article class="{{ page.categories }}" id="{{ page.name }}">
             {% capture content %}{% include_relative polish/{{ page.name }} %}{% endcapture %}
             {% assign content = content |split: '---' %}

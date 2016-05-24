@@ -1,5 +1,6 @@
 ---
 categories: chapter
+language: polish
 ---
 
 # Specjalizacje astronautów
