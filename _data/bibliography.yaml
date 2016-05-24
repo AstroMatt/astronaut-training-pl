@@ -1,94 +1,133 @@
-- author: NASA
+- source: http://www.nasa.gov/centers/goddard/about/history/dr_goddard.html
+  author: NASA
   title: Dr. Robert H. Goddard, American Rocketry Pioneer
   publisher: http://www.nasa.gov/centers/goddard/about/history/dr_goddard.html
   date: 2016
 
-- author: James J. Harford
+- source: http://history.nasa.gov/sputnik/harford.html
+  author: James J. Harford
   title: Korolev - How One Man Masterminded the Soviet Drive to Beat America to the Moon
   publisher: http://history.nasa.gov/sputnik/harford.html
   date: 1997
 
-- author: John F. Kennedy
+- source: http://er.jsc.nasa.gov/seh/ricetalk.htm
+  author: John F. Kennedy
   title: John F. Kennedy Moon Speech - Rice Stadium
   publisher: http://er.jsc.nasa.gov/seh/ricetalk.htm
   date: 1962-09-12
 
-- author: Smithsonian Institution
+- source: http://humanorigins.si.edu/evidence/genetics
+  author: Smithsonian Institution
   title: Human Origins Genetic Evidence
   publisher: http://humanorigins.si.edu/evidence/genetics
   date: 2016-03-05
 
-- author: Smithsonian National Air and Space Museum
+- source: http://blog.nasm.si.edu/space/why-yuri-gagarin-remains-the-first-man-in-space-even-though-he-did-not-land-inside-his-spacecraft/
+  author: Smithsonian National Air and Space Museum
   title: Why Yuri Gagarin Remains the First Man in Space, Even Though He Did Not Land Inside His Spacecraft
   publisher: http://blog.nasm.si.edu/space/why-yuri-gagarin-remains-the-first-man-in-space-even-though-he-did-not-land-inside-his-spacecraft/
   date: 2010-04-12
 
-- author: Swenson Jr., Loyd S., James M. Grimwood, Charles C. Alexander
+- source: http://history.nasa.gov/SP-4201/toc.htm
+  author: Swenson Jr., Loyd S., James M. Grimwood, Charles C. Alexander
   title: NASA History Series. This New Ocean - A History of Project Mercury
   publisher: http://history.nasa.gov/SP-4201/toc.htm
   date: 2008-05-11
 
-- author: ESA
+- source: http://www.esa.int/Our_Activities/Human_Spaceflight/Astronauts/How_to_become_an_astronaut
+  author: ESA
   title: How to Become an Astronaut
   publisher: http://www.esa.int/Our_Activities/Human_Spaceflight/Astronauts/How_to_become_an_astronaut
   date: 2012-11-15
 
-- author: NASA
+- source: http://astronauts.nasa.gov/content/broch00.htm
+  author: NASA
   title: Astronaut Candidate Program
   publisher: http://astronauts.nasa.gov/content/broch00.htm
   date: 2015
 
-- author: NASA
+- source: http://astronauts.nasa.gov/default.htm
+  author: NASA
   title: Astronaut Selection
   publisher: http://astronauts.nasa.gov/default.htm
   date: 2015
 
-- author: NASA
+- source: http://nasa.gov/astronauts
+  author: NASA
   title: NASA Astronaut Selection
   publisher: http://nasa.gov/astronauts
   date: 2015
 
-- author: European Space Agency, Andreas Mogensen
+- source: https://www.youtube.com/watch?v=oE5Z3Uxbezc
+  author: European Space Agency, Andreas Mogensen
   title: Fire in the Soyuz!
   publisher: https://www.youtube.com/watch?v=oE5Z3Uxbezc
   date: 2015-05-18
 
-- author: NASA
+- source: http://www.jsc.nasa.gov/Bios/astrobio.html
+  author: NASA
   title: Active NASA Astronauts
   publisher: http://www.jsc.nasa.gov/Bios/astrobio.html
   date: 2015-10-29
 
-- author: NASA
+- source: http://www.jsc.nasa.gov/Bios/astrobio_former.html
+  author: NASA
   title: Inactive NASA Astronauts
   publisher: http://www.jsc.nasa.gov/Bios/astrobio_former.html
   date: 2016-03-02
 
-- author: NASA
+- source: http://www.jsc.nasa.gov/Bios/astrobio_international.html
+  author: NASA
   title: International Astronauts
   publisher: http://www.jsc.nasa.gov/Bios/astrobio_international.html
   date: 2015-04-23
 
-- author: ESA
+- source: http://www.esa.int/Our_Activities/Human_Spaceflight/Astronauts/The_European_astronaut_corps
+  author: ESA
   title: European Astronaut Corps
   publisher: http://www.esa.int/Our_Activities/Human_Spaceflight/Astronauts/The_European_astronaut_corps
   date: 2012-11-15
 
+- source: http://www.nasa.gov/audience/forstudents/postsecondary/features/F_Astronaut_Requirements.html
+  author: NASA
+  title: Astronaut Requirements
+  publisher: http://www.nasa.gov/audience/forstudents/postsecondary/features/F_Astronaut_Requirements.html
+  date: 2004-01-29
 
-
-
-- author: NASA
+- source: http://www.jsc.nasa.gov/Bios/cosmo.html
+  author: NASA
   title: Cosmonauts Biographical Data
   publisher: http://www.jsc.nasa.gov/Bios/cosmo.html
-  date: 2015-02-9
+  date: 2015-02-09
 
-- author: Chris Hadfield
+- source: Chris Hadfield - "An Astronaut's Guide to Life on Earth"
+  author: Chris Hadfield
   title: An Astronaut's Guide to Life on Earth
   publisher: Macmillan
   isbn: 978-1-4472-5710-3
   date: 2013
 
-- author: Mirosław Hermaszewski
+- source: Mirosław Hermaszewski - "Ciężar Nieważkości - opowieść pilota-kosmonauty"
+  author: Mirosław Hermaszewski
   title: Ciężar Nieważkości - opowieść pilota-kosmonauty
   publisher: Universitas, Kraków
   isbn: 97883-242-2296-4
   date: 2013
+
+- source: http://www.esa.int/Our_Activities/Human_Spaceflight/Astronauts/Astronaut_training_requirements
+  author: ESA
+  title: Astronaut Training Requirements
+  publisher: http://www.esa.int/Our_Activities/Human_Spaceflight/Astronauts/Astronaut_training_requirements
+  date: 2016-05-24
+
+- source: http://www.spaceref.com/iss/spacecraft/soyuz.tm.html
+  author: Spaceref.com
+  title: ISS Spacecraft: Soyuz TM
+  publisher: http://www.spaceref.com/iss/spacecraft/soyuz.tm.html
+  date: 2016-05-24
+
+- source: Soyuz: A Universal Spacecraft
+  author: Rex D. Hall, David J. Shayler
+  title: Soyuz: A Universal Spacecraft
+  publisher: Springer Praxis
+  date: 2003-07-15

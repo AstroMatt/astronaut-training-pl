@@ -160,6 +160,10 @@ Tzw. survival training
 
 ### Przygotowanie do wykorzystania systemów pokładowych ISS
 
+<!-- TODO:
+- mieszkanie w mockupie ISS, spanie, praca, symulacje
+-->
+
 ### Przygotowanie do korzystania z Canada Arm 2
 <!-- Canada Arm 2
 - ATV

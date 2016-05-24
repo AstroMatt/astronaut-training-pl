@@ -4,7 +4,14 @@ categories: chapter
 
 # Proces wyboru astronautów i kosmonautów
 
-Przygotowanie astronautów i kosmonautów do długotrwałych misji kosminczych zaczyna się od wyboru najlepszych kandydatów. Osoby biorące udział w rekrutacji poddawane są skrupulatnym badaniom mającym na celu wyłonienie najlepszych z najlepszych. Podczas badań brane są pod uwagę takie czynniki jak:
+Przygotowanie astronautów i kosmonautów do długotrwałych misji kosminczych zaczyna się od wyboru najlepszych kandydatów. Na chwilę obecną rekturuje się osoby wśród najbardziej porządanych specjalizacji tj.:
+
+- pilot, a w szczególności pilot testowy,
+- lekarz,
+- inżynier,
+- naukowiec (nauki przyrodnicze).
+
+ Osoby biorące udział w rekrutacji poddawane są skrupulatnym badaniom mającym na celu wyłonienia najlepszych z najlepszych. Podczas badań brane są pod uwagę takie czynniki jak:
 
 - kondycja fizyczna i wydolność organizmu,
 - zdolność adaptacji do zmiennych warunków,
@@ -16,9 +23,9 @@ Przygotowanie astronautów i kosmonautów do długotrwałych misji kosminczych z
 - wytrzymałość na przeciążenia,
 - umiejętność kojarzenia i przewidywania.
 
-Na wybór kandydata ma ogromny wpływ również doświadczenie, wykształcenie nalot lotniczy oraz przebyte kursy i wyprawy przetrwania. Astronauci to także osoby publiczne często występujące przed dużymi audiencjami dlatego ceniona jest umiejętność posługiwania się mediami społecznościowymi, pisania tekstów oraz przemawiania {% bibliography "How to Become an Astronaut" %}. Język angielski i rosyjski są obecnie oficjalnymi używanymi na ISS - międzynarodowej stacji kosmicznej dlatego od kandydatów wymaga się znajomości tych dwóch powyższych. Dodatkowo ze względu na międzynarodowy charakter misji kosmicznych mile widziane jest zainteresowanie kulturą Stanów Zjednoczonych, Japonii i Rosji.
+Na wybór kandydata ma ogromny wpływ również doświadczenie, wykształcenie nalot lotniczy oraz przebyte kursy i wyprawy przetrwania. Astronauci to także osoby publiczne często występujące przed dużymi audiencjami dlatego ceniona jest umiejętność posługiwania się mediami społecznościowymi, pisania tekstów oraz przemawiania {% bibliography "How to Become an Astronaut" %}. Język angielski i rosyjski są obecnie oficjalnymi używanymi na ISS - międzynarodowej stacji kosmicznej dlatego od kandydatów wymaga się również znajomości tych dwóch powyższych. Dodatkowo ze względu na międzynarodowy charakter misji kosmicznych mile widziane jest zainteresowanie kulturą Stanów Zjednoczonych, Japonii i Rosji.
 
- Sam proces podstawowego szkolenia astronautów trwa dwa lata i jego ukończenie pozwala na zmianę tytułu z "kandydat na astronautę" na astronauta<!-- TODO: Quote Needed -->. Jest to długi proces i wymagający wielu poświęceń z życia prywatnego. Ponadto jest bardzo kosztowny i długotrwały. A wsparcie jakiego wymaga przygotowanie do i po misji jest orgomne. Z tego powodu agencje kosmiczne wybierają najbardziej odpowiednie osoby na to stanowisko.
+ Sam proces podstawowego szkolenia astronautów trwa dwa lata i jego ukończenie pozwala na zmianę tytułu z "kandydat na astronautę" na "astronauta"<!-- TODO: Quote Needed -->. Jest to długi proces i wymagający wielu poświęceń z życia prywatnego. Ze względu na dużą ilość osób i zasobów zaangażowanych w przygotowanie proces ten jest bardzo kosztowny. Wsparcie jakiego wymaga przygotowanie do i po misji jest orgomne. Z tego powodu agencje kosmiczne wybierają najbardziej odpowiednie osoby na to stanowisko.
 
  Aby przygotować misję kosmiczną wymagane są lata pracy wielu zespołów profesjonalistów. I choć pozycja astronauty jest jedną z najbardziej prestiżowych na świecie to ich sukces zbudowany jest przez tych co pozostali na Ziemii {% bibliography "How to Become an Astronaut" %}. Ograniczone możliwości w zakresie wysyłania ludzi w przestrzeń kosmiczną i koszt tego przedsięwzięcia wymaga starannego doboru kandydatów. Z tego powodu proces selekcji astronatów i kosmonautów jest zadaniem trudnym. Wymaga umiejętności multidyscyplinarnych. W poniższym rozdziale przedstawione zostną kryteria oraz proces wyboru najlepszych kandydatów.
 
@@ -26,20 +33,78 @@ Na wybór kandydata ma ogromny wpływ również doświadczenie, wykształcenie n
 
 Jednym z kluczowych elementów branych pod uwage jest odporność na stres i umiejętność działania pod presją. Astronauta jako operator musi umieć realizować zadane czynności bez względu na okoliczności. Podążanie za procedurami w przypadku różnego rodzaju awarii i zdarzeń wyjątkowych jest absolutnie niezbędne. Prodcedury te zostały przygotowane przez lata praktyki i wszelkie odstępstwa mogą narazić członków załogi na niebezpieczeństwo lub śmierć.
 
-Ponadto cechą pracy w warunkach kosmicznych jest przebywanie w małych pomieszczeniach pozbawionych okien (z wyjątkiem miejsc widokowych) w rzadko zmieniającym się towarzystwie. Kandydacji muszą umieć współistnieć w międzynarodowym środowisku, prowadzić badania i interakcje oraz komunikować się. Od kandydatów wymaga się stabilności psychicznej i dojrzałości emocjonalnej.
+Ponadto cechą pracy w warunkach kosmicznych jest przebywanie w małych pomieszczeniach pozbawionych okien (z wyjątkiem miejsc widokowych) w rzadko zmieniającym się towarzystwie. Kandydacji muszą umieć współistnieć w międzynarodowym środowisku, prowadzić badania i interakcje oraz komunikować się. Od kandydatów wymaga się stabilności psychicznej, braku uprzedzeń i dojrzałości emocjonalnej.
 
-Jednym z kluczowych elementów szkolenia astronautów jest pobyt w różnych centrach szkolenia na świecie. Jest to związane z długimi pobytami poza miejscem zamieszkania i zdala od rodziny. Sam pobyt na międzynarodowej stacji kosmicznej na chwilę obecną trwa zwykle do sześciu miesięcy, ale te czasy zdecydowanie się wydłużą ze względu na konieczność przygotowania do długotwałych misji kosmicznych na Księżyc i Marsa.
+Jednym z kluczowych elementów szkolenia astronautów jest pobyt w różnych centrach szkolenia na świecie. Jest to związane z długim przebywaniem poza miejscem zamieszkania i zdala od rodziny. Sam pobyt na międzynarodowej stacji kosmicznej na chwilę obecną trwa zwykle do sześciu miesięcy, ale te czasy zdecydowanie się wydłużą ze względu na konieczność przygotowania do długotwałych misji kosmicznych na Księżyc i Marsa.
+
+Ponadto dużą uwagę zwraca się na {% bibliography "http://www.esa.int/Our_Activities/Human_Spaceflight/Astronauts/Astronaut_training_requirements" %}:
+
+- zdolność rozumowania,
+- dobra pamięć,
+- koncentracja,
+- zreczność manualna,
+- umiejętność przystosowania się do zmiennych warunków przestrzennych.
+
+Idealny kandydat posiada {% bibliography "http://www.esa.int/Our_Activities/Human_Spaceflight/Astronauts/Astronaut_training_requirements" %}:
+
+- wysoką motywację,
+- elastyczność,
+- towarzyskość,
+- empatia,
+- niski poziom agresji,
+- stabilność emocjonalna,
+- umiejętność długotrwałej współpracy w międzykulturowym środowisku.
 
 Proces badań wstępnych jest prowadzony przez zespół wykwalifikowanych specjalistów z zakresu psychologii.
 
 ## Selekcja kondycyjna
 
-Charakter pracy jako astronauta wymaga wysokiej aktywności kondycyjnej i dużej sprawności fizycznej. Podczas wielomiesięcznych a docelowo wieloletnich misji kosmicznych astronauci aby przeciwdziałać niebezpiecznemu wpływowi braku grawitacji na układ szkieletowy, mięśniowy i zapobiec atrofi mięśni muszą ćwiczyć przynajmniej dwie do trzech godzin dziennie. Sam proces przygotowania do spacerów kosmicznych trwa sześć godzin, w trakcie którego astronauta wykonuje zadania pod wodą będąc umieszczonym w skafandrze. Każdy jednorazowy EVA (ang. Extra Cechicular Activity - spacer kosmiczny) jest poprzedzony przynajmniej dwudziestokrotnym treningiem w środowisku symulującym stan nieważkości w basenie przy użyciu ciężarów i wyporników nadających skafandrowi kosmicznemu cechę neutralnego unoszenia się.
+Charakter pracy jako astronauta wymaga wysokiej aktywności kondycyjnej i dużej sprawności fizycznej. Podczas wielomiesięcznych a docelowo wieloletnich misji kosmicznych astronauci aby przeciwdziałać niebezpiecznemu wpływowi braku grawitacji na układ szkieletowy i mięśniowy. Aby zapobiec atrofi mięśni astronauci muszą ćwiczyć przynajmniej dwie do trzech godzin dziennie.
+
+Sam proces treningu do spacerów kosmicznych (w basenie z doskonałą pływalnością) trwa sześć godzin, w trakcie którego astronauta wykonuje zadania pod wodą będąc umieszczonym w skafandrze. Każdy jednorazowy EVA (ang. Extra Cechicular Activity - spacer kosmiczny) w przestrzeni kosmicznej jest poprzedzony przynajmniej dwudziestokrotnym treningiem w środowisku symulującym stan nieważkości w basenie przy użyciu ciężarów i wyporników nadających skafandrowi kosmicznemu cechę neutralnego unoszenia się.
 
 Kandydacji którzy biorą udział w rekrutacji muszą być zdolni do wytrzymywania zadanych obciążeń i dużego wysiłku fizycznego. Umiejętności te wymagają wieloletniego przygotowania kondycyjno-wytrzymałościowego i są oceniane przez komisję rekrutacyjną.
 
 ## Selekcja medyczna
 
+Zdrowie kandydata jest jednym z najważniejszych kryteriów doboru. Osoby rekrutowane muszą się wykazać niezwykłą adaptacją do warunków panujących w stanie nieważkości. Jest to podyktowane głównie ogromnym kosztem wyszkolenia astronautów i chęcią zmniejszenia możliwości zaistnienia problemów podczas misji ze względu na stan zdrowia pracującego operatora. Sprawność układu ruchu, krążenia oraz równowagi ma ogromne znaczenie dla późniejszej pracy kandydata.
+
+Ponadto jednym z kluczowych wskaźników jest także wzrost. Osoby niższe są bardziej predystynowane do wytrzymywania większych przeciążeń ze względu na niższą odległość pomiędzy sercem a mózgiem. Poza samą predyspozycją ze względów medycznych wzrost ma znaczenie ze względów konstrukcyjnych statków kosmicznych. Na chwilę obecną (maj 2016) jedynym sposobem dostarczania astronautów na Międzynarodową Stację Kosmiczną jest rosyjski statek Soyuz, który jest przewidziany dla osób ze wzrostem z zakresu 150 do 190 cm {% bibliography "http://www.spaceref.com/iss/spacecraft/soyuz.tm.html" %} (wersje TM przed czerwcem 1999 miały ograniczenie od 164 do 182 cm). Z tego samego powodu do amerykańskiego korpusu astronautów przyjmowani są kandydaci o wzroście pomiędzy 62 i 75 cali {% bibliography "Astronaut Requirements" %} co odpowiada 157,5 i 190,5 cm. Wymaganiem Europejskiej Agencji Kosmicznej w tej dziedzinie jest wzrost pomiędzy 153 a 190 cm {% bibliography "Astronaut Training Requirements" %}.
+
+| Parametr                             | Zakres       | Jednostka |
+|:-------------------------------------|:-------------|:----------|
+| Wzrost w pozycji stojącej            | 150 - 190    | cm        |
+| Wzrost w pozycji siedzącej           | 80 - 99      | cm        |
+| Masa ciała                           | 50 - 95      | kg        |
+| Długość stopy                        | 29,5         | cm        |
+| Szerokość ramion                     | do 52        | cm        |
+| Głębokość ramion                     | do 45        | cm        |
+| Głębokość bioder w pozycji siedzącej | do 41        | cm        |
+| Szerokość ud                         | do 41        | cm        |
+| Obwód klatki piersiowej              | brak wymagań | cm        |
+
+**Tabela wybranych parametrów członków załogi statku kosmicznego Soyuz TM (zmodyfikowany po czerwcu 1999){% bibliography "Soyuz: A Universal Spacecraft" %}**
+
+
+| Parametr      | NASA                                       | Roscosmos | ESA                                                                              |
+|:--------------|:-------------------------------------------|:----------|:---------------------------------------------------------------------------------|
+| Wzrost [cm]   | 157,5 - 190,5                              | 150 - 190 | 153 - 190                                                                        |
+| Ciśnienie     | 140/90                                     |           |                                                                                  |
+| Wiek          |                                            |           | 27 - 37                                                                          |
+| Doświadczenie |                                            |           | min. 3 lata                                                                      |
+| Wykształcenie |                                            |           | min. poziom licencjat lub inżynier (nauki przyrodnicze, inżynieria lub medycyna) |
+| Wzrok         | 20/20 w każdym oku (dopuszczalna korekcja) |           |                                                                                  |
+
+**Tabela parametrów medycznych kandydatów na astronautów {% bibliography "http://www.nasa.gov/audience/forstudents/postsecondary/features/F_Astronaut_Requirements.html" %}{% bibliography "http://www.esa.int/Our_Activities/Human_Spaceflight/Astronauts/Astronaut_training_requirements" %}**
+
+
+Powyższe parametry są weryfikowane podczas badań medycznych w procesie selekcji astronautów wykorzystując {% bibliography "http://www.esa.int/Our_Activities/Human_Spaceflight/Astronauts/Astronaut_training_requirements" %}:
+
+- koło reńskie - MAT (Multi-Axis Tool),
+- krzesła obrotowe,
+- komory ciśnień,
+- wirówka (centrifuge),
+- lot samolotem.
 
 ## Selekcja umiejętności technicznych i naukowych
 
@@ -52,7 +117,28 @@ Jednym z najbardziej kluczowych elementów selekcji kandydatów na astronautów 
 
 Każda z tych profesji ma swoje zalety przy prowadzeniu badań w środowisku kosmicznym. Obecnie agencje odchodzą od specjalizacji astronautów<!-- TODO: Quote Needed --> i każdy z członków załogi musi poznać wszystkie aspekty pracy na orbicie, tj. pilotowanie statków kosmicznych, prowadzenie badań naukowych, udzielanie pomocy medycznej i przeprowadzanie operacji, kwestie związane z manipulowaniem ramion robotycznych i dokonywanie spacerów kosmicznych, czyli tzw. EVA (ang. Extra Vechicular Activity). Astronauta czy kosmonauta staje się operatorem czyli wysoce wykawlifikowanym specjalistą w wykonywaniu starannie zaplanowanych czynności. To wymaga dużej wszechstronności od kandydata i umiejętności adaptowania się do zmieniających się warunków.
 
+## Selekacja ze względu na doświadczenie lotnicze
+
+Pilot-astronauta podczas misji specjalizuje się w prowadzeniu statków kosmicznych. W zakres jego obowiązków wchodzi pilotaż, odpowiedzialność za załogę i powodzenie misji, oraz dbanie o bezpieczeństwo na pokładzie. Pilot wspiera dowódcę w kontrolowaniu statku. Ponadto rola pilota może rozszerzyć się o zakres obowiązków związanych z przechwytywaniem i rozstawianiem stelit, korzystaniem z robotycznego ramienia - manipulatora, EVA oraz operacje związane z ładunkiem {% bibliography "http://www.nasa.gov/audience/forstudents/postsecondary/features/F_Astronaut_Requirements.html" %}.
+
+Doświadczenie lotniczne nie jest wymagane, ale wysoko porządane {% bibliography "http://www.esa.int/Our_Activities/Human_Spaceflight/Astronauts/Astronaut_training_requirements" %}.
+
+Przy specjalizacji jako pilot-astronauta amerykańska agencja NASA wymaga 1000 godzin nalotu jako dowódca statku powietrznego (PIC - Pilot-in-Command) na samolotach odrzutowych {% bibliography "http://www.nasa.gov/audience/forstudents/postsecondary/features/F_Astronaut_Requirements.html" %}. W tym przypadku preferowane są osoby z doświadczeniem pilota testowego. Wymagania dotyczące wzoku dla pilotów są zwiększone:
+
+- 20/100 w widzeniu dalekim preferowa bez korekcji (okulary, soczewki),
+- 20/20 w widzeniu z korekcją.
+
 ## Selekcja astronautów w agencjach i organizacjach rządowych
+
+Program poszukiwania kandydatów jest prowadzony przez rządy państw najbardziej zaawansowanych technicznie. Obecnie wiodącą rolę w tej dziedzinie pełnią następujące państwa:
+
+- Stany Zjednoczone,
+- Rosja,
+- państwa zjednoczone w Europejskiej Agencji Kosmicznej,
+- Chiny,
+- Kanada.
+
+Poniżej zaprezenrowano proces rekrutacji
 
 ### NASA - Narodowa Agencja Aeronautyki i Astronautyki (USA)
 
@@ -182,7 +268,6 @@ Jednym z warunków bycia astronautą ESA jest aby państwo narodowości kandydat
 
 ### Boeing
 
-### He Space
+### HE Space Operations
 
-<!-- TODO: Sprawdzić poprawność nazwy firmy -->
-Frima He Space na początku roku 2016 rozpoczęła proces poszukiwania kandydatki na astronautę.
+Frima HE Space na początku roku 2016 rozpoczęła proces poszukiwania kandydatki na astronautę.
