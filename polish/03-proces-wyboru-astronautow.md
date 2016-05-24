@@ -86,17 +86,16 @@ Ponadto jednym z kluczowych wskaźników jest także wzrost. Osoby niższe są b
 **Tabela wybranych parametrów członków załogi statku kosmicznego Soyuz TM (zmodyfikowany po czerwcu 1999){% bibliography "Soyuz: A Universal Spacecraft" %}**
 
 
-| Parametr      | NASA                                       | Roscosmos | ESA                                                                              |
-|:--------------|:-------------------------------------------|:----------|:---------------------------------------------------------------------------------|
-| Wzrost [cm]   | 157,5 - 190,5                              | 150 - 190 | 153 - 190                                                                        |
-| Ciśnienie     | 140/90                                     |           |                                                                                  |
-| Wiek          |                                            |           | 27 - 37                                                                          |
-| Doświadczenie |                                            |           | min. 3 lata                                                                      |
-| Wykształcenie |                                            |           | min. poziom licencjat lub inżynier (nauki przyrodnicze, inżynieria lub medycyna) |
-| Wzrok         | 20/20 w każdym oku (dopuszczalna korekcja) |           |                                                                                  |
+| Parametr      | NASA                                                                                        | Roscosmos | ESA                                                                              |
+|:--------------|:--------------------------------------------------------------------------------------------|:----------|:---------------------------------------------------------------------------------|
+| Wzrost [cm]   | 157,48 - 190,5 (62 - 75 cali)                                                               | 150 - 190 | 153 - 190                                                                        |
+| Ciśnienie     | 140/90                                                                                      |           |                                                                                  |
+| Wiek          |                                                                                             |           | 27 - 37                                                                          |
+| Doświadczenie |                                                                                             |           | min. 3 lata pracy zawodowej                                                      |
+| Wykształcenie |                                                                                             |           | min. poziom licencjat lub inżynier (nauki przyrodnicze, inżynieria lub medycyna) |
+| Wzrok         | 20/20 w każdym oku (dopuszczalna korekcja), 20/200 widzenie dalekie (dopuszczalna korekcja) |           |                                                                                  |
 
 **Tabela parametrów medycznych kandydatów na astronautów {% bibliography "http://www.nasa.gov/audience/forstudents/postsecondary/features/F_Astronaut_Requirements.html" %}{% bibliography "http://www.esa.int/Our_Activities/Human_Spaceflight/Astronauts/Astronaut_training_requirements" %}**
-
 
 Powyższe parametry są weryfikowane podczas badań medycznych w procesie selekcji astronautów wykorzystując {% bibliography "http://www.esa.int/Our_Activities/Human_Spaceflight/Astronauts/Astronaut_training_requirements" %}:
 
@@ -123,10 +122,17 @@ Pilot-astronauta podczas misji specjalizuje się w prowadzeniu statków kosmiczn
 
 Doświadczenie lotniczne nie jest wymagane, ale wysoko porządane {% bibliography "http://www.esa.int/Our_Activities/Human_Spaceflight/Astronauts/Astronaut_training_requirements" %}.
 
-Przy specjalizacji jako pilot-astronauta amerykańska agencja NASA wymaga 1000 godzin nalotu jako dowódca statku powietrznego (PIC - Pilot-in-Command) na samolotach odrzutowych {% bibliography "http://www.nasa.gov/audience/forstudents/postsecondary/features/F_Astronaut_Requirements.html" %}. W tym przypadku preferowane są osoby z doświadczeniem pilota testowego. Wymagania dotyczące wzoku dla pilotów są zwiększone:
+Przy specjalizacji jako pilot-astronauta amerykańska agencja NASA wymaga 1000 godzin nalotu jako dowódca statku powietrznego (PIC - Pilot-in-Command) na samolotach odrzutowych {% bibliography "http://www.nasa.gov/audience/forstudents/postsecondary/features/F_Astronaut_Requirements.html" %}. W tym przypadku preferowane są osoby z doświadczeniem pilota testowego.
+
+Wymagania dotyczące wzoku dla pilotów są zwiększone:
 
 - 20/100 w widzeniu dalekim preferowa bez korekcji (okulary, soczewki),
 - 20/20 w widzeniu z korekcją.
+
+Zwiększone kryteria wzrostu:
+
+- Minimalnie 58,5 cala (148,59 cm)
+- Maksymalnie 76 cali (193,04 cm)
 
 ## Selekcja astronautów w agencjach i organizacjach rządowych
 

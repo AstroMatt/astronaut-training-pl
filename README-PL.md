@@ -28,6 +28,7 @@ layout: thesis-polish
   - Selekcja kondycyjna
   - Selekcja medyczna
   - Selekcja umiejętności technicznych i naukowych
+  - Selekacja ze względu na doświadczenie lotnicze
   - Selekcja astronautów w agencjach i organizacjach rządowych
     - NASA - Narodowa Agencja Aeronautyki i Astronautyki (USA)
     - Roscosmos (Federacja Rosyjska)
@@ -42,7 +43,7 @@ layout: thesis-polish
     - Orbital Sciences
     - Blue Origin
     - Boeing
-    - He Space
+    - HE Space Operations
 
 ## Przeszkolenie podstawowe
   - Proces przygotowania do wylotu

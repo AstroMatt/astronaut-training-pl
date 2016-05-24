@@ -17,11 +17,10 @@
 - line 34: źródło cytatu 2
 
 ## Proces Wyboru Astronautow
-- line 20: Quote Needed
-- line 52: Quote Needed
-- line 58: Quote Needed
-- line 140: Quote Needed
-- line 186: Sprawdzić poprawność nazwy firmy
+- line 27: Quote Needed
+- line 117: Quote Needed
+- line 144: Quote Needed
+- line 226: Quote Needed
 
 ## Przeszkolenie Podstawowe
 
