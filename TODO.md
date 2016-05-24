@@ -18,9 +18,9 @@
 
 ## Proces Wyboru Astronautow
 - line 27: Quote Needed
-- line 117: Quote Needed
-- line 144: Quote Needed
-- line 226: Quote Needed
+- line 116: Quote Needed
+- line 150: Quote Needed
+- line 232: Quote Needed
 
 ## Przeszkolenie Podstawowe
 
