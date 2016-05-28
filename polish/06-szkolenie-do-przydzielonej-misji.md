@@ -21,19 +21,21 @@ language: polish
 > -- Astronaut Victor Glover
 -->
 
-## Badania kognitywistyczne
+## Nauka, Badania i Eksperymenty
 
-## Badania biologiczne
+### Nauki kognitywistyczne i poznawcze
 
-## Badania chemiczne
+### Badania biologiczne
 
-## Badania techniczne i inżynieryjne
+### Badania chemiczne
 
-## Badania fizyczne
+### Badania techniczne i inżynieryjne
 
-## Badania medyczne
+### Eksperymenty fizyczne
 
-## Ćwiczenia kondycyjne
+### Eksperymenty medyczne
+
+### Ćwiczenia kondycyjne i badania wydolności organizmu
 
 ## Badania dotyczące eksploracji Niskiej Orbity Okołoziemskiej (LEO)
 

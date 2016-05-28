@@ -62,14 +62,18 @@ layout: thesis-polish
     - Przygotowanie do manewrów orbitalnych
     - Przygotowanie do operacji Rendezvous i dokowania
     - Przygotowanie do nawigacji za pomocą gwiazd
-    - Loty paraboliczne symulujące stan nieważkości
-    - Urządzenia symulujące obiżoną grawitację
   - Przygotowanie do pracy w ekstremalnych warunkach
     - Misje NEEMO
     - Misje CAVES
+    - Przetrwanie w warunkach zimowych
+    - Przetrwanie w warunkach wodnych
+    - Przetrwanie w warunkach pustynnych
+    - Przetrwanie w warunkach dżungli
+    - Loty paraboliczne symulujące stan nieważkości
+    - Urządzenia symulujące obiżoną grawitację
     - Przetrwanie w ekstremalnych warunkach
   - Przygotowanie techniczne
-    - Przygotowanie do wykorzystania systemów pokładowych ISS
+    - Przygotowanie do wykorzystania, utrzymania i naprawy systemów pokładowych ISS
     - Przygotowanie do korzystania z Canada Arm 2
     - Przygotowanie do korzysania ze skafandra EMU
     - Przygotowanie do spacerów kosmicznych (EVA)
@@ -93,13 +97,14 @@ layout: thesis-polish
   - Educator Mission Specialist
 
 ## Przygotowanie astronautów pod kątem przydzielonej misji
-  - Badania kognitywistyczne
-  - Badania biologiczne
-  - Badania chemiczne
-  - Badania techniczne i inżynieryjne
-  - Badania fizyczne
-  - Badania medyczne
-  - Ćwiczenia kondycyjne
+  - Nauka, Badania i Eksperymenty
+    - Nauki kognitywistyczne i poznawcze
+    - Badania biologiczne
+    - Badania chemiczne
+    - Badania techniczne i inżynieryjne
+    - Eksperymenty fizyczne
+    - Eksperymenty medyczne
+    - Ćwiczenia kondycyjne i badania wydolności organizmu
   - Badania dotyczące eksploracji Niskiej Orbity Okołoziemskiej (LEO)
   - Przykładowy rozkład dnia astronautów na Międzynarodowej Stacji Kosmicznej (ISS)
   - Tradycje przed wylotem
@@ -149,6 +154,7 @@ layout: thesis-polish
   - Praca jako Capcom
   - Popularyzacja nauki, działalność ewangelizacyjna obszaru S.T.E.M.
   - Za czasów Apollo
+  - Apollo Applications
 
 ## Zakończenie
 

@@ -6,11 +6,8 @@ language: english
 # History of the Manned Space Flight Programs
 
 ## Pioneers of Rocket Science and Space Exploration
-
 ## First Unmanned Space Flight
-
 ## First Animal Space Flight
-
 ## First Human Space Flight
 
 ## Brief history of NASA Space Programs

@@ -6,13 +6,9 @@ language: english
 # Astronaut Selection Process
 
 ## Psychological Criteria
-
 ## Physical Condition Criteria
-
 ## Medical Condition Criteria
-
 ## Technical and Science Skills Criteria
-
 ## Pilot Experiance Criteria
 
 ## Astronaut Selection in the Government Agencies

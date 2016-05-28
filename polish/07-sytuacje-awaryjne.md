@@ -11,6 +11,10 @@ Off nominal situations
 - Vhf radio system failure
 - Smart switch router Brie ASU system failure (cieżko tłumaczki się słuchało)
 - Pożar w soyuz oraz na stacji
+- lithium hydroxide leaking
+- leak seals
+- tank leaking
+- Soyus leaking
 
 Russian segment training
 - Fire
@@ -64,6 +68,9 @@ Najbardziej drastycznym sposobem na wyeliminowanie pożaru jest depresuryzacja s
 ## Awaria systemu uzdatniania wody
 
 ## Awaria toalety
+<!-- TODO:
+- Tekst z aircrafts systems Engineering o umieszczeniu toalety na suficie
+-->
 
 ## Awaria systemu generowania i cyrkulacji powietrza
 

@@ -27,7 +27,8 @@ language: polish
 - Jak zrobisz to wszystko dają Ci Astronaut Pin
 - Teraz już nie ma specjalizacji, każdy kto leci na space station musi robić wszystko
 - Jak skończysz jesteś "eligible to assign to space flight"
-
+- water survival
+- winter survival
 
 > I'm not a techie, I am an operator
 > -- Astronaut Victor Glover
@@ -111,14 +112,6 @@ language: polish
 
 ### Przygotowanie do nawigacji za pomocą gwiazd
 
-### Loty paraboliczne symulujące stan nieważkości
-
-### Urządzenia symulujące obiżoną grawitację
-<!-- TODO: Sim
-- liny (z programu apollo)
-- urządzenie na którym trenował Ed White poruszanie się w kosmosie
--->
-
 ## Przygotowanie do pracy w ekstremalnych warunkach
 <!-- TODO: Ekstremalne warunki
 - hiking
@@ -146,6 +139,22 @@ Day 2
 
 ### Misje CAVES
 
+### Przetrwanie w warunkach zimowych
+
+### Przetrwanie w warunkach wodnych
+
+### Przetrwanie w warunkach pustynnych
+
+### Przetrwanie w warunkach dżungli
+
+### Loty paraboliczne symulujące stan nieważkości
+
+### Urządzenia symulujące obiżoną grawitację
+<!-- TODO: Sim
+- liny (z programu apollo)
+- urządzenie na którym trenował Ed White poruszanie się w kosmosie
+-->
+
 ### Przetrwanie w ekstremalnych warunkach
 <!-- TODO:
 Tzw. survival training
@@ -159,7 +168,7 @@ Tzw. survival training
 
 ## Przygotowanie techniczne
 
-### Przygotowanie do wykorzystania systemów pokładowych ISS
+### Przygotowanie do wykorzystania, utrzymania i naprawy systemów pokładowych ISS
 
 <!-- TODO:
 - mieszkanie w mockupie ISS, spanie, praca, symulacje
