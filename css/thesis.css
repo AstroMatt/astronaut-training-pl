@@ -153,10 +153,14 @@ h3 {
 }
 
 #first-page footer {
-    margin-top: 6em;
+    margin-top: 8em;
 }
 
 #markdown-toc a {
     text-decoration: none;
     text-align: left;
+}
+
+#bibliography td {
+    vertical-align: top;
 }

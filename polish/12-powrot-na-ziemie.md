@@ -9,6 +9,7 @@ language: polish
 <!-- TODO: Astronauci wydłużają sie o 5-7 cm i maja problemy z mieszczeniem sie w swoje Custom made siedzenia w soyuzie
 - Space Shuttle Wystawiała kółka by się rozgrzały
 -->
+
 ### Undocking
 
 ### Obniżanie orbity
