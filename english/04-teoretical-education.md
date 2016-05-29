@@ -3,7 +3,7 @@ categories: chapter
 language: english
 ---
 
-# Astronaut Candidate Basic Training Course
+# Astronaut Candidate Teoretical Education
 
 ## Basic Training Course
 
@@ -20,10 +20,6 @@ language: english
 ### Randevouz and Docking
 ### De-orbit Burn
 ### Astro-navigation and Star Tracker
-### Off-nominal Orbital Situations
-#### Space Debris Avoidance
-#### On-orbit Collisions
-#### Off-nominal Docking Situations
 
 ## Non-technical Operations and Communication
 ### Social Media Usage S.T.E.M. Field Advocacy

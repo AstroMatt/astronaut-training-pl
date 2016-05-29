@@ -55,3 +55,9 @@ Najbardziej drastycznym sposobem na wyeliminowanie pożaru jest depresuryzacja s
 ### Wejście w atmosferę po krzywej balistycznej
 
 ### Pilotaż samolotów odrzutowych
+
+### Unikanie śmieci kosmicznych
+
+### Kolizje na orbicie
+
+### Sytuacje awaryjne przy dokowaniu

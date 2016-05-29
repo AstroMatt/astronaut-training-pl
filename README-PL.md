@@ -3,23 +3,21 @@ permalink: /spis-tresci
 layout: thesis-polish
 ---
 
+
 ## Wstęp
 
 ## Rys historyczny lotów kosmicznych
 - Pionierzy kosmonautyki
-
 - Pierwsze loty kosmiczne
   - Pierwsze bezzałogowe loty kosmiczne
   - Pierwsze zwierzęta w kosmosie
   - Pierwszy lot człowieka
-
 - Rys historyczny programów kosmicznych NASA
   - Program Mercury
   - Program Gemini
   - Program Apollo
   - Program Skylab
   - Program Space Shuttle
-
 - Rys historyczny programów kosmicznych ZSSR i Federacji Rosyjskiej
   - Program Wostok
   - Program Soyuz
@@ -29,14 +27,12 @@ layout: thesis-polish
   - Stacja kosmiczna Mir
 
 ## Selekcja kandydatów do przeszkolenia podstawowego
-
 - Kryteria doboru kandydatów
   - Selekcja psychologiczna
   - Selekcja kondycyjna
   - Selekcja medyczna
   - Selekcja umiejętności technicznych i naukowych
   - Selekacja ze względu na doświadczenie lotnicze
-
 - Selekcja astronautów w agencjach i organizacjach rządowych
   - NASA - Narodowa Agencja Aeronautyki i Astronautyki (USA)
   - Roscosmos (Federacja Rosyjska)
@@ -46,15 +42,11 @@ layout: thesis-polish
   - CSA - Kanadyjska Agencja Kosmiczna
 
 ## Przygotowanie teoretyczne
-
-- Przeszkolenie podstawowe
-
+- Przygotowanie podstawowe
 - Nauka języków obcych i przygotowanie kulturowe
   - Nauka języka rosyjskiego
   - Przygotowanie do pracy w wielokulturowym środowisku
-
 - Przygotowanie teoretyczne z nauk przyrodniczych i technicznych
-
 - Kurs nawigacji kosmicznej i mechaniki orbitalnej
   - Wynoszenie na orbitę
   - Manewry na orbicie
@@ -62,11 +54,6 @@ layout: thesis-polish
   - Operacje Rendezvous i dokowania
   - Operacja opuszczania orbity i wejścia w atmosferę
   - Nawigacja kosmiczna za pomocą gwiazd
-  - Niebezpieczeństwa na orbicie
-    - Unikanie śmieci kosmiczne
-    - Kolizje na orbicie
-    - Sytuacje awaryjne przy dokowaniu
-
 - Proces przygotowania do operacji nietechnicznych i komunikacji
   - Wykorzystanie mediów społecznościowych do popularyzacji nauki i misji
   - Przemówienia publiczne i "Space Advocacy"
@@ -74,31 +61,31 @@ layout: thesis-polish
   - Amatorskie radio krótkofalowe
 
 ## Treningi i symulacje
-
 - Przygotowanie psychologiczne, kondycyjne i medyczne
   - Przygotowanie medyczne
-  - Ćwiczenia kondycyjne i badania wydolności organizmu
+  - Ćwiczenia kondycyjne i badania wydolności organizmu
   - Przygotowanie psychologiczne do pracy w odosobnieniu
   - Obozy przywództwa i pracy zespołowej
-
-- Przygotowanie do przetrwania w ekstremalnych warunkach
+- Przygotowanie do pracy w ekstremalnych warunkach
   - Przetrwanie w warunkach zimowych
   - Przetrwanie w warunkach pustynnych
   - Przetrwanie w warunkach dżungli
   - Przetrwanie w warunkach wodnych
   - Misje CAVES
   - Misje NEEMO
-  - Przygotowanie do wyławiania z oceanu
-
 - Symulacja pracy w środowisku mikrograwitacji
-  - Urządzenia symulujące obiżoną grawitację
+  - Urządzenia symulujące obiżoną lub brak grawitacji
   - Test w wirówce na odporność organizmu na przeciążenia
   - Loty paraboliczne symulujące stan nieważkości
+- Sytuacje awaryjne
+  - Przygotowanie do wyławiania z oceanu
+  - Awaryjne opuszczanie plaformy startowej
+  - Systemy przerywania startu
 
 ## Życie na Międzynarodowej Stacji Kosmicznej
 - Rozmieszczenie modułów i poruszanie się po stacji
 - Wykorzystywanie, utrzymanie i naprawa systemów pokładowych
-- Przechowywanie i katalogowanie obiektów i narzędzi
+- System katalogowania i przechowywania obiektów i narzędzi
 - Elementy radiokomunikacyjne
 - Podnoszenie orbity stacji kosmicznej
 - Urządzenia do utrzymania kondycji i sprawnośi fizycznej
@@ -120,18 +107,20 @@ layout: thesis-polish
   - Awaria zasilania i systemów elektrycznych
 
 ## Systemy robotyki kosmicznej
-  - Korzystanie z manipulatora Canada Arm 2
-  - Wykorzystanie Canada Arm 2 przy spacerach kosmicznych
-  - Symulacja przechwytywania pojazdów kosmicznych na orbicie
-  - Sterowanie robotami na Ziemii z orbity
+- Korzystanie z manipulatora Canada Arm 2
+  - Dokowanie statków kosmicznych
+  - Asystowanie przy spacerach kosmicznych
+- Symulacja przechwytywania pojazdów kosmicznych na orbicie
+- Sterowanie robotami na Ziemii z orbity
+- Urządzenia wirtualnej rzeczywistości
 
 ## Spacery Kosmiczne
-  - Elementy skafandra EMU
-  - Utrzymywanie sprawnośni skafandra EMU
-  - Przygotowanie do przeprowadzenia wyjścia w przestrzeń
-  - Wykorzystywanie specjalistycznych narzędzi
-  - Symulacja prac w basenie doskonałej pływalności
-  - Instalacja i naprawa systemów ISS
+- Elementy skafandra EMU
+- Utrzymywanie sprawnośni skafandra EMU
+- Przygotowanie do przeprowadzenia wyjścia w przestrzeń
+- Wykorzystywanie specjalistycznych narzędzi
+- Symulacja prac w basenie doskonałej pływalności
+- Instalacja i naprawa systemów ISS
 
 ## Pilotaż
 - Samolotów odrzutowych
@@ -142,6 +131,10 @@ layout: thesis-polish
   - System przerwania startu (Launch Escape System)
   - Awaryjne opuszczanie orbity
   - Wejście w atmosferę po krzywej balistycznej
+  - Pilotaż samolotów odrzutowych
+  - Unikanie śmieci kosmicznych
+  - Kolizje na orbicie
+  - Sytuacje awaryjne przy dokowaniu
 
 ## Przygotowanie astronautów pod kątem przydzielonej misji
 - Nauka, badania i eksperymenty w środowisku mikrograwitacji
@@ -152,7 +145,6 @@ layout: thesis-polish
   - Eksperymenty fizyczne
   - Eksperymenty medyczne
   - Badania dotyczące eksploracji Niskiej Orbity Okołoziemskiej (LEO)
-
 - Specjalizacje astronautów
   - Commander
   - Pilot
@@ -163,7 +155,6 @@ layout: thesis-polish
   - Spaceflight Participants
   - Flight Surgeon
   - Educator Mission Specialist
-
 - Tradycje przed wylotem
 
 ## Szkolenie turystów kosmicznych
@@ -171,22 +162,18 @@ layout: thesis-polish
   - Loty stratosferyczne
   - Loty suborbitalne
   - Loty orbitalne
-
-- Firmy oferujące turystykę kosmiczną i ich oferty
+- Firmy oferujące turystykę kosmiczną
   - Space Adventures
   - Virgin Gallactic
   - Blue Origin
   - Bigelow Aerospace
-
 - Dotychczasowi turyści kosmiczni
   - Lista dotychczasowych turytstów kosmicznych
   - Proces zgłoszenia i kryteria doboru astronautów
   - Proces przygotowania turystów kosmicznych
   - Zajęcia turystów na orbicie
-
 - Selekcja w organizacjach i programach prywatnych
   - HE Space Operations
-
 - Program Commercial Crew Transport
   - Boeing
   - SpaceX
@@ -198,12 +185,10 @@ layout: thesis-polish
   - Undocking
   - Obniżanie orbity
   - De-orbit burn
-
 - Wejście w atmosferę i lądowanie statkiem Soyuz
   - Normalne wejście w atmosferę
   - Wejście w atmosferę po krzywej balistycznej
   - "Miękkie" Lądowanie
-
 - Czynności astronautów bezpośrednio po wylądowaniu
   - Badania medyczne - wzrok, układ ruchu i krążenia
   - Badanie sprawności fizycznej
@@ -214,7 +199,7 @@ layout: thesis-polish
 - Pomoc w przygotowaniu innych astronautów
 - Praca w symulatorach w przypadku problemów na orbicie
 - Praca jako CapCom
-- Popularyzacja nauki, działalność ewangelizacyjna w ramach obszaru S.T.E.M.
+- Popularyzacja nauki, działalność ewangelizacyjna obszaru S.T.E.M.
 - Czynności astronautów programu Mercury, Gemini, Apollo i Apollo Applications
 
 ## Zakończenie

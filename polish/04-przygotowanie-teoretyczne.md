@@ -69,14 +69,6 @@ language: polish
 
 ### Nawigacja kosmiczna za pomocą gwiazd
 
-## Niebezpieczeństwa na orbicie
-
-### Unikanie śmieci kosmicznych
-
-### Kolizje na orbicie
-
-### Sytuacje awaryjne przy dokowaniu
-
 ## Proces przygotowania do operacji nietechnicznych i komunikacji
 <!-- TODO: Operators, Ambasadors of Nasa, Flyiers, Educators, Scientis, Physycist, Leaders, Technicans
 

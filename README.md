@@ -4,87 +4,144 @@ layout: thesis-english
 ---
 
 
-## Preface
+## Introduction
 
 ## History of the Manned Space Flight Programs
-  - Pioneers of Rocket Science and Space Exploration
+- Pioneers of Rocket Science and Space Exploration
+- First Space Flights
   - First Unmanned Space Flight
   - First Animal Space Flight
   - First Human Space Flight
-  - Brief history of NASA Space Programs
-    - Mercury Program
-    - Gemini Program
-    - Apollo Program
-    - Skylab Program
-    - Space Shuttle Program
-  - General Miroslaw Hermaszewski's Space Flight - First Pole in the Space
-  - USSR and Russian Federation Space Program
-    - Lunar Program
-    - MIR Space Station
-  - Parallel missions
+- Brief history of NASA Space Programs
+  - Mercury Program
+  - Gemini Program
+  - Apollo Program
+  - Skylab Program
+  - Space Shuttle Program
+- USSR and Russian Federation Space Program
+  - Vostok Program
+  - Soyuz Program
+  - Lunar Program
+  - Salyut Program
+  - Intercosmos Program and General Hermaszewski's Space Flight
+  - MIR Space Station
 
 ## Astronaut Selection Process
-  - Psychological Criteria
-  - Physical Condition Criteria
-  - Medical Condition Criteria
+- Astronaut Selection Criteria
+  - Psychological Condition
+  - Physical Condition
+  - Medical Condition
   - Technical and Science Skills Criteria
   - Pilot Experiance Criteria
-  - Astronaut Selection in the Government Agencies
-    - NASA - National Aeronautics and Space Administration (USA)
-    - Roscosmos (Russian Federation)
-    - ESA - European Space Agency
-    - JAXA - Japanese Astronautics and Space Exploration Agency
-    - CNSA - China People Republic Space Agency
-    - CSA - Canadian Space Agency
-  - Private Organizations and Commercial Programs
-    - Commercial Crew Transport Program
-    - Space Adventures
-    - SpaceX
-    - Orbital Sciences
-    - Blue Origin
-    - Boeing
-    - HE Space Operations
+- Astronaut Selection in the Government Agencies
+  - NASA - National Aeronautics and Space Administration (USA)
+  - Roscosmos (Russian Federation)
+  - ESA - European Space Agency
+  - JAXA - Japanese Astronautics and Space Exploration Agency
+  - CNSA - China People Republic Space Agency
+  - CSA - Canadian Space Agency
 
-## Astronaut Candidate Basic Training Course
-  - Space Flight Preparation
-    - Physical Condition and Stamina
-    - Centrifuge Training for Increased Gravitational Acceleration Endurance - High G-Forces
-    - Medical Training
-    - Psychological training for long duration society isolation
-    - Cultural and Language
-  - Piloting Skills
-    - Piloting High-Performance Jets
-    - Flying Soyuz - Avionics, Guidance and Navigation Controls
-    - Flying Space Shuttle - Avionics, Guidance and Navigation Controls
-    - Launch Escape System Usage
-  - Orbital Mechanics and Maneuvering
-    - Randevouz and Docking
-    - Astro-navigation and Star Tracker
-  - Extreme Conditions Training
-    - Winter Survival
-    - Water Survival
-    - Water Recovery Training
-    - Desert Survival
-    - Jungle Survival
-    - Parabolic Zero-G Flights
-    - Microgravity Simulating Devices
-    - Extreme Conditions Survival
-      - NEEMO Missions
-      - CAVES Missions
-  - Technical Preparation
-    - ISS Systems Usage, Repair and Mainenance
-    - Canada Arm 2 Operations
-    - EMU Usage
-    - EVA Training
-    - ISS Orbital Maneuvering Including Rising ISS Orbit
-    - Everyday Life Onboard ISS
-  - Non-technical Operations and Communication
-    - Social Media Usage S.T.E.M. Field Advocacy
-    - Public Speaking and Space Advocacy
-    - Photography
-    - Amateur Ham Radio
+## Astronaut Candidate Teoretical Education
+- Basic Training Course
+- Foreign Language and Culture Learning
+  - Russian Language Learning
+  - Preparation for Work in Multicultural Environment
+- Teoretical Education in Technology and Natural Sciences
+- Orbital Mechanics Education
+  - Lifting to Orbit
+  - Orbital Maneuvering
+  - Orbital plane and inclination changes
+  - Randevouz and Docking
+  - De-orbit Burn
+  - Astro-navigation and Star Tracker
+- Non-technical Operations and Communication
+  - Social Media Usage S.T.E.M. Field Advocacy
+  - Public Speaking and Space Advocacy
+  - Photography
+  - Amateur Ham Radio
 
-## Astronaut Specializations
+## Trainings and Simulations
+- Medical, Phisical and Psychological Preparation
+  - Medical Training
+  - Phisical Preparation and Endurance Training
+  - Psychological training for long duration society isolation
+  - leadership and Team Work Trainig Courses
+- Extreme Environment Survival Training
+  - Winter Survival
+  - Desert Survival
+  - Jungle Survival
+  - Water Survival
+  - CAVES Missions
+  - NEEMO Missions
+  - Water Recovery Training
+- Microgravity Environment Work Simulation
+  - Microgravity Simulating Devices  
+  - Centrifuge Training for Increased Gravitational Acceleration Endurance - High G-Forces
+  - Zero-G Parabolic Flights
+
+## ISS Systems Training
+- Modules Architecture and Traversing ISS
+- ISS Systems Usage, Mainenance and Repair
+- ISS Storage and Catalogue System for Objects and Tools
+- Radiocommunication Systems
+- ISS Orbit Chnages
+- Astronaut Exercise Devices
+- Toilet Usage
+- Personal Hygiene
+- Food Preparation
+- Trash Disposal
+- ISS Astronaut Sample Time Schedule
+- Off-nominal ISS Situations
+  - ISS Fire
+  - Crew Medical Problems
+  - Crew Member Death
+  - ISS Depressurization
+  - ISS Emergency Evacuation
+  - Amonia Leak
+  - Water Treatment Problems
+  - Toilet Problems
+  - Problems with Air Purification and Circulation System
+  - Problems with Power Generation and Electrical Systems
+
+## Robotics Systems Trainig
+- Canada Arm 2 Manipulator Operations
+  - Spacecraft Docking
+  - EVA Assist
+- Spacecraft On-orbit Capture
+- Driving Robotic Rovers on Earth from Orbit
+- Virtual Reality Devices
+
+## Extravehicular Activity Trainig
+- Extravehicular Mobility Unit
+- EMU Mainenance
+- EVA Preparation
+- EVA Tools Training
+- Neutral Buoyancy Trainig
+- ISS Systems Instalation and Mainenance
+
+## Flight Training
+- High-Performance Jets
+- Soyuz - Avionics, Guidance and Navigation Controls
+- Off-nominal Situations
+  - Decompression
+  - Fire
+  - Launch Escape System
+  - Ballistic Reentry
+  - Space Debris Avoidance
+  - On-orbit Collisions
+  - Off-nominal Docking Situations
+
+## Mission Specific Training
+- Science, Research and Experiments in Microgravity Environment
+  - Cognitive Scinece
+  - Biological Science
+  - Chemistry Research
+  - Engineering and Technological Research
+  - Phisics Experiments
+  - Medical Experiments
+  - Physiological Research
+- Low Earth Orbit Exploration
+- Astronaut Specializations
   - Commander
   - Pilot
   - Payload Specialist
@@ -94,68 +151,54 @@ layout: thesis-english
   - Spaceflight Participants
   - Flight Surgeon
   - Educator Mission Specialist
+- Pre-flight Traditions
 
-## Mission Specific Training
-  - Science, Research and Experiments
-    - Cognitive Scinece
-    - Biological Science
-    - Chemistry Research
-    - Engineering and Technological Research
-    - Phisics Experiments
-    - Medical Experiments
-    - Physiological Research
-  - Low Earth Orbit Exploration
-  - ISS Astronaut Sample Time Schedule
-  - Pre-flight Traditions
-
-## Off-nominal Situations
-  - Soyuz Spaceship Fire
-  - ISS Fire
-  - Crew Medical Problems
-  - Crew Member Death
-  - ISS Depressurization
-  - ISS Emergency Escape
-  - Amonia Leak
-  - Water Treatment Problems
-  - Toilet Problems
-  - Problems with Air Purification and Circulation System
-  - Problems with Power Generation and Electrical Systems
-  - Space Debris
-
-## Space Tourist Training Process
-  - Commercial Companies Offering Space Travel and Cost
-  - How to Apply and Selection Criteria
+## Space Tourist Training
+- Space Tourism Definition
+  - Stratospheric Flights
+  - Sub-Orbital Flights
+  - Orbital Flights
+- Commercial Companies Offering Space Travel
+  - Space Adventures
+  - Virgin Gallactic
+  - Blue Origin
+  - Bigelow Aerospace
+- To-date Space Tourists
+  - Space Tourists List
+  - Application Process and Selection Criteria
   - Training Process for the Space Tourist Candidates
   - Space Tourist Tasks on ISS
-  - Space Tourist List
+- Private Organizations and Commercial Programs
+  - HE Space Operations
+- Commercial Crew Transport Program
+  - Boeing
+  - SpaceX
+  - Orbital ATK
+  - Sierra Nevada Corporation
 
 ## Return to Earth
-  - Return to Earth Preparation
-    - Undocking
-    - Orbit Lowering
-    - De-orbit Burn
-  - Reentry and Soyuz Spacecraft Landing
-    - Nominal Atmospheric Reentry
-    - Ballistic Curve Atmospheric Reentry
-    - Landing
-  - Reentry and Landing of the Space Shuttle
-    - Nominal Atmospheric Reentry Procedure
-    - Landing
-  - Things that Astronauts Do After Landing
-    - Medical Examinations
-    - Bones and Spine Stability
-    - Engineering Tasks
+- Return to Earth Preparation
+  - Undocking
+  - Orbit Lowering
+  - De-orbit Burn
+- Reentry and Soyuz Spacecraft Landing
+  - Nominal Atmospheric Reentry
+  - Ballistic Curve Atmospheric Reentry
+  - "Soft" Landing
+- Things that Astronauts Do After Landing
+  - Medical Examinations - Sight, Cardiovascular, Musculoskeletal
+  - Phisical Examinations
+  - Dextirity Requiring Tasks - Outpost Construction
 
 ## Astronaut Ground Operations
-  - New Equipment Testing
-  - Help with Training New Astronauts
-  - Working in the Simulators to Fix Problems on Orbit
-  - CapCom
-  - S.T.E.M. and Space Advocacy
-  - Apollo Era Tasks
-  - Apollo Applications
+- New Equipment Testing
+- Help with Training New Astronauts
+- Working in the Simulators to Fix Problems on Orbit
+- CapCom
+- S.T.E.M. and Space Advocacy
+- Mercury, Gemini, Apollo and Apollo Application Era Astronauts Tasks
 
-## Recap
+## Summary
 
 ## Statistics and Charts
 
