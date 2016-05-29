@@ -164,3 +164,8 @@ h3 {
 #bibliography td {
     vertical-align: top;
 }
+
+/* Fix for Jekyll Markdownify document metadata */
+hr, hr + p {
+    display: none;
+}

@@ -9,8 +9,7 @@ layout: thesis-polish
     {% if page.language == "polish" %}
         <article class="{{ page.categories }}" id="{{ page.name }}">
             {% capture content %}{% include_relative {{ page.name }} %}{% endcapture %}
-            {% assign content = content |split: '---' %}
-            {{ content[2] |markdownify }}
+            {{ content |markdownify }}
 
         </article>
     {% endif %}
