@@ -5,7 +5,7 @@ language: english
 
 # Mission Specific Training
 
-## Science, Research and Experiments
+## Science, Research and Experiments in Microgravity Environment
 ### Cognitive Scinece
 ### Biological Science
 ### Chemistry Research
@@ -15,5 +15,16 @@ language: english
 ### Physiological Research
 
 ## Low Earth Orbit Exploration
-## ISS Astronaut Sample Time Schedule
+
+## Astronaut Specializations
+### Commander
+### Pilot
+### Payload Specialist
+### Mission Specialist
+### Flight Engineer
+### Science Officer
+### Spaceflight Participants
+### Flight Surgeon
+### Educator Mission Specialist
+
 ## Pre-flight Traditions

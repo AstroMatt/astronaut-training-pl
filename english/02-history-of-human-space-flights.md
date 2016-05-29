@@ -6,9 +6,11 @@ language: english
 # History of the Manned Space Flight Programs
 
 ## Pioneers of Rocket Science and Space Exploration
-## First Unmanned Space Flight
-## First Animal Space Flight
-## First Human Space Flight
+
+## First Space Flights
+### First Unmanned Space Flight
+### First Animal Space Flight
+### First Human Space Flight
 
 ## Brief history of NASA Space Programs
 ### Mercury Program
@@ -17,10 +19,10 @@ language: english
 ### Skylab Program
 ### Space Shuttle Program
 
-## General Miroslaw Hermaszewski's Space Flight - First Pole in the Space
-
 ## USSR and Russian Federation Space Program
+### Vostok Program
+### Soyuz Program
 ### Lunar Program
+### Salyut Program
+### Intercosmos Program and General Hermaszewski's Space Flight
 ### MIR Space Station
-
-## Parallel missions

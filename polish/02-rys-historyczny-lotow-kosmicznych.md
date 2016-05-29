@@ -20,15 +20,17 @@ Aby zażegnać widmo porażki prezydent Stanów Zjednoczonych Ameryki J. F. Kenn
 W Związku Radzieckim
 Po stronie Stanów Zjednoczonych największym wpływ na program rakietowy tego kraju miał Gottard.
 
-## Pierwsze bezzałogowe loty kosmiczne
+## Pierwsze loty kosmiczne
 
-## Pierwsze loty zwierząt
+### Pierwsze bezzałogowe loty kosmiczne
+
+### Pierwsze zwierzęta w kosmosie
 
 Pierwszym zwierzęciem, które przekroczyło linię graniczną kosmosu był pies Łajka wystrzelony za pomocą rakiety *Sputnik 8K71PS* w kapsule *Sputnik 2*. Niestety zwierze po killku godzinach zdechło ze względu na wysoką temperaturę spowodowaną uszkodzeniem i niepełnym rozczepieniem członu rakiety od satelity. Zwierze planowo miało żyć na orbicie 10 dni. Po około 2000 orbit w ciągu 162 dni kapsuła weszła w atmosferę i spłonęła {% bibliography "Korolev - How One Man Masterminded the Soviet Drive to Beat America to the Moon" %}.
 
 Program Mercury w stanach zjednoczonych również zakładał wysłanie zwierzęcia przed pierwszym lotem człowieka. Ze względu na bardzo wiele wspólnych cech z człowiekiem wybrano szympansa (DNA szympansa jest w 98,4% identyczne z człowiekiem co czyni go najbliższym odpowiednikiem z królestwa zwierząt - przyp. autora {% bibliography "Human Origins Genetic Evidence" %}). Szympans nazywał się HAM co jest skrótem od Holloman Aerospace Medical Center, zlokalizowanego w Holloman Air Force Base w New Mexico w USA {% bibliography "NASA History Series. This New Ocean - A History of Project Mercury" %}.
 
-## Pierwszy lot człowieka
+### Pierwszy lot człowieka
 
 <!-- TODO: długość lotu -->
 <!-- TODO: ilość osób z naboru Gagarina -->
@@ -52,7 +54,7 @@ Amerykańską odpowiedzią był program *Mercury*. W trakcie programu wybrano si
 
 Z przyczyn zdrowotnych Deke Slayton został zdyskwalifikowany z udziału w programie i uziemiony. Przez trzynaście lat po locie Sheparda Slayton był szefem *Astronauts Office* i wziął udział w ostatnim locie programu *Apollo - Apollo-Souyz*.
 
-## Krótki rys historyczny programów kosmicznych NASA
+## Rys historyczny programów kosmicznych NASA
 
 ### Program Mercury
 
@@ -64,19 +66,16 @@ Z przyczyn zdrowotnych Deke Slayton został zdyskwalifikowany z udziału w progr
 
 ### Program Space Shuttle
 
-## Lot generała Mirosława Hermaszewskiego - pierwszego Polaka w kosmosie
+## Rys historyczny programów kosmicznych ZSSR i Federacji Rosyjskiej
 
-## Program kosmiczny ZSSR i Federacji Rosyjskiej
+### Program Wostok
+
+### Program Soyuz
 
 ### Program Księżycowy
 
-### Stacja kosmiczna Mir
+### Program Salyut
 
-## Misje równoległe
-<!-- TODO: Dodać Misje Równoległe
-- Apollo Soyuz
-- Vostok 3 i 4
-- Vostok 5 i 6
-- Soyuz 4 i 5
-- Gemini
- -->
+### Program Intercosmos i lot generała Hermaszewskiego
+
+### Stacja kosmiczna Mir

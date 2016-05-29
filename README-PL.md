@@ -3,89 +3,157 @@ permalink: /spis-tresci
 layout: thesis-polish
 ---
 
-
 ## Wstęp
 
 ## Rys historyczny lotów kosmicznych
-  - Pionierzy kosmonautyki
-  - Pierwsze bezzałogowe loty kosmiczne
-  - Pierwsze loty zwierząt
-  - Pierwszy lot człowieka
-  - Krótki rys historyczny programów kosmicznych NASA
-    - Program Mercury
-    - Program Gemini
-    - Program Apollo
-    - Program Skylab
-    - Program Space Shuttle
-  - Lot generała Mirosława Hermaszewskiego - pierwszego Polaka w kosmosie
-  - Program kosmiczny ZSSR i Federacji Rosyjskiej
-    - Program Księżycowy
-    - Stacja kosmiczna Mir
-  - Misje równoległe
+- Pionierzy kosmonautyki
 
-## Proces wyboru astronautów i kosmonautów
+- Pierwsze loty kosmiczne
+  - Pierwsze bezzałogowe loty kosmiczne
+  - Pierwsze zwierzęta w kosmosie
+  - Pierwszy lot człowieka
+
+- Rys historyczny programów kosmicznych NASA
+  - Program Mercury
+  - Program Gemini
+  - Program Apollo
+  - Program Skylab
+  - Program Space Shuttle
+
+- Rys historyczny programów kosmicznych ZSSR i Federacji Rosyjskiej
+  - Program Wostok
+  - Program Soyuz
+  - Program Księżycowy
+  - Program Salyut
+  - Program Intercosmos i lot generała Hermaszewskiego
+  - Stacja kosmiczna Mir
+
+## Selekcja kandydatów do przeszkolenia podstawowego
+
+- Kryteria doboru kandydatów
   - Selekcja psychologiczna
   - Selekcja kondycyjna
   - Selekcja medyczna
   - Selekcja umiejętności technicznych i naukowych
   - Selekacja ze względu na doświadczenie lotnicze
-  - Selekcja astronautów w agencjach i organizacjach rządowych
-    - NASA - Narodowa Agencja Aeronautyki i Astronautyki (USA)
-    - Roscosmos (Federacja Rosyjska)
-    - ESA - Europejska Agencja Kosmiczna
-    - JAXA - Japońska Agencja Eksploracji Kosmicznej
-    - CNSA - Agencja Kosmiczna Chińskiej Republiki Ludowej
-    - CSA - Kanadyjska Agencja Kosmiczna
-  - Selekcja w organizacjach i programach prywatnych
-    - Program Commercial Crew Transport
-    - Space Adventures
-    - SpaceX
-    - Orbital Sciences
-    - Blue Origin
-    - Boeing
-    - HE Space Operations
 
-## Przeszkolenie podstawowe
-  - Proces przygotowania do wylotu
-    - Przygotowanie kondycyjne
-    - Test w wirówce na odporność organizmu na przeciążenia
-    - Przygotowanie medyczne
-    - Przygotowanie psychologiczne do pracy w odosobnieniu
-    - Przygotowanie kulturowe i językowe
-    - Przygotowanie do wyławiania z oceanu
-  - Przygotowanie pilotażowe
-    - Pilotaż samolotów odrzutowych
-    - Przygotowanie do pilotażu statku kosmicznego Soyuz
-    - Przygotowanie do pilotażu promu kosmicznego Space Shuttle
-    - Korzystanie z systemu Launch Escape System
-    - Szkolenie z mechaniki orbitalnej
-    - Przygotowanie do manewrów orbitalnych
-    - Przygotowanie do operacji Rendezvous i dokowania
-    - Przygotowanie do nawigacji za pomocą gwiazd
-  - Przygotowanie do pracy w ekstremalnych warunkach
-    - Misje NEEMO
-    - Misje CAVES
-    - Przetrwanie w warunkach zimowych
-    - Przetrwanie w warunkach wodnych
-    - Przetrwanie w warunkach pustynnych
-    - Przetrwanie w warunkach dżungli
-    - Loty paraboliczne symulujące stan nieważkości
-    - Urządzenia symulujące obiżoną grawitację
-    - Przetrwanie w ekstremalnych warunkach
-  - Przygotowanie techniczne
-    - Przygotowanie do wykorzystania, utrzymania i naprawy systemów pokładowych ISS
-    - Przygotowanie do korzystania z Canada Arm 2
-    - Przygotowanie do korzysania ze skafandra EMU
-    - Przygotowanie do spacerów kosmicznych (EVA)
-    - Operacje manewrów na orbicie w tym podniesienia orbity
-    - Codzienne życie na Międzynarodowej Stacji Kosmicznej
-  - Proces przygotowania do operacji nietechnicznych i komunikacji
-    - Wykorzystanie mediów społecznościowych do popularyzacji nauki i misji
-    - Przemówienia publiczne i "Space Advocacy"
-    - Fotografia
-    - Amatorskie radio krótkofalowe
+- Selekcja astronautów w agencjach i organizacjach rządowych
+  - NASA - Narodowa Agencja Aeronautyki i Astronautyki (USA)
+  - Roscosmos (Federacja Rosyjska)
+  - ESA - Europejska Agencja Kosmiczna
+  - JAXA - Japońska Agencja Eksploracji Kosmicznej
+  - CNSA - Agencja Kosmiczna Chińskiej Republiki Ludowej
+  - CSA - Kanadyjska Agencja Kosmiczna
 
-## Specjalizacje astronautów
+## Przygotowanie teoretyczne
+
+- Przeszkolenie podstawowe
+
+- Nauka języków obcych i przygotowanie kulturowe
+  - Nauka języka rosyjskiego
+  - Przygotowanie do pracy w wielokulturowym środowisku
+
+- Przygotowanie teoretyczne z nauk przyrodniczych i technicznych
+
+- Kurs nawigacji kosmicznej i mechaniki orbitalnej
+  - Wynoszenie na orbitę
+  - Manewry na orbicie
+  - Transfer pomiędzy orbitami i zmiany inklinacji
+  - Operacje Rendezvous i dokowania
+  - Operacja opuszczania orbity i wejścia w atmosferę
+  - Nawigacja kosmiczna za pomocą gwiazd
+  - Niebezpieczeństwa na orbicie
+    - Unikanie śmieci kosmiczne
+    - Kolizje na orbicie
+    - Sytuacje awaryjne przy dokowaniu
+
+- Proces przygotowania do operacji nietechnicznych i komunikacji
+  - Wykorzystanie mediów społecznościowych do popularyzacji nauki i misji
+  - Przemówienia publiczne i "Space Advocacy"
+  - Fotografia
+  - Amatorskie radio krótkofalowe
+
+## Treningi i symulacje
+
+- Przygotowanie psychologiczne, kondycyjne i medyczne
+  - Przygotowanie medyczne
+  - Ćwiczenia kondycyjne i badania wydolności organizmu
+  - Przygotowanie psychologiczne do pracy w odosobnieniu
+  - Obozy przywództwa i pracy zespołowej
+
+- Przygotowanie do przetrwania w ekstremalnych warunkach
+  - Przetrwanie w warunkach zimowych
+  - Przetrwanie w warunkach pustynnych
+  - Przetrwanie w warunkach dżungli
+  - Przetrwanie w warunkach wodnych
+  - Misje CAVES
+  - Misje NEEMO
+  - Przygotowanie do wyławiania z oceanu
+
+- Symulacja pracy w środowisku mikrograwitacji
+  - Urządzenia symulujące obiżoną grawitację
+  - Test w wirówce na odporność organizmu na przeciążenia
+  - Loty paraboliczne symulujące stan nieważkości
+
+## Życie na Międzynarodowej Stacji Kosmicznej
+- Rozmieszczenie modułów i poruszanie się po stacji
+- Wykorzystywanie, utrzymanie i naprawa systemów pokładowych
+- Przechowywanie i katalogowanie obiektów i narzędzi
+- Elementy radiokomunikacyjne
+- Podnoszenie orbity stacji kosmicznej
+- Urządzenia do utrzymania kondycji i sprawnośi fizycznej
+- Korzystanie z toalety
+- Utrzymywanie higieny osobistej
+- Przygotowywanie i spożywanie posiłków
+- Odpadki i śmieci
+- Przykładowy rozkład dnia astronautów na Międzynarodowej Stacji Kosmicznej
+- Sytuacje awaryjne na międzynarodowej stacji kosmicznej
+  - Pożar
+  - Problemy medyczne członków załogi
+  - Śmierć członka załogi
+  - Rozszczelnienie stacji
+  - Awaryjne opuszczanie stacji
+  - Wycieki amoniaku
+  - Awaria systemu uzdatniania wody
+  - Awaria toalety
+  - Awaria systemu generowania i cyrkulacji powietrza
+  - Awaria zasilania i systemów elektrycznych
+
+## Systemy robotyki kosmicznej
+  - Korzystanie z manipulatora Canada Arm 2
+  - Wykorzystanie Canada Arm 2 przy spacerach kosmicznych
+  - Symulacja przechwytywania pojazdów kosmicznych na orbicie
+  - Sterowanie robotami na Ziemii z orbity
+
+## Spacery Kosmiczne
+  - Elementy skafandra EMU
+  - Utrzymywanie sprawnośni skafandra EMU
+  - Przygotowanie do przeprowadzenia wyjścia w przestrzeń
+  - Wykorzystywanie specjalistycznych narzędzi
+  - Symulacja prac w basenie doskonałej pływalności
+  - Instalacja i naprawa systemów ISS
+
+## Pilotaż
+- Samolotów odrzutowych
+- Statku kosmicznego Soyuz
+- Sytuacje awaryjne statku kosmicznego
+  - Rozszczelnienie
+  - Pożar
+  - System przerwania startu (Launch Escape System)
+  - Awaryjne opuszczanie orbity
+  - Wejście w atmosferę po krzywej balistycznej
+
+## Przygotowanie astronautów pod kątem przydzielonej misji
+- Nauka, badania i eksperymenty w środowisku mikrograwitacji
+  - Nauki kognitywistyczne i poznawcze
+  - Badania biologiczne
+  - Badania chemiczne
+  - Badania techniczne i inżynieryjne
+  - Eksperymenty fizyczne
+  - Eksperymenty medyczne
+  - Badania dotyczące eksploracji Niskiej Orbity Okołoziemskiej (LEO)
+
+- Specjalizacje astronautów
   - Commander
   - Pilot
   - Payload Specialist
@@ -96,65 +164,58 @@ layout: thesis-polish
   - Flight Surgeon
   - Educator Mission Specialist
 
-## Przygotowanie astronautów pod kątem przydzielonej misji
-  - Nauka, Badania i Eksperymenty
-    - Nauki kognitywistyczne i poznawcze
-    - Badania biologiczne
-    - Badania chemiczne
-    - Badania techniczne i inżynieryjne
-    - Eksperymenty fizyczne
-    - Eksperymenty medyczne
-    - Ćwiczenia kondycyjne i badania wydolności organizmu
-  - Badania dotyczące eksploracji Niskiej Orbity Okołoziemskiej (LEO)
-  - Przykładowy rozkład dnia astronautów na Międzynarodowej Stacji Kosmicznej (ISS)
-  - Tradycje przed wylotem
+- Tradycje przed wylotem
 
-## Przygotowanie do sytuacji awaryjnych i niebezpiecznych
-  - Pożar w statku kosmicznym Sojuz
-  - Pożar na ISS (Międzynarodowej Stacji Kosmicznej)
-  - Problemy medyczne członków załogi
-  - Śmierć członka załogi
-  - Rozszczelnienie stacji
-  - Proces przygotowania do awaryjnego opuszczania stacji
-  - Wycieki amoniaku
-  - Awaria systemu uzdatniania wody
-  - Awaria toalety
-  - Awaria systemu generowania i cyrkulacji powietrza
-  - Awaria zasilania i systemów elektrycznych
-  - Śmieci kosmiczne
+## Szkolenie turystów kosmicznych
+- Definicja turystyki kosmicznej
+  - Loty stratosferyczne
+  - Loty suborbitalne
+  - Loty orbitalne
 
-## Proces szkolenia turystów kosmicznych
-  - Firmy oferujące turystykę kosmiczną i koszty podróży
+- Firmy oferujące turystykę kosmiczną i ich oferty
+  - Space Adventures
+  - Virgin Gallactic
+  - Blue Origin
+  - Bigelow Aerospace
+
+- Dotychczasowi turyści kosmiczni
+  - Lista dotychczasowych turytstów kosmicznych
   - Proces zgłoszenia i kryteria doboru astronautów
   - Proces przygotowania turystów kosmicznych
   - Zajęcia turystów na orbicie
-  - Dotychczasowi turyści
+
+- Selekcja w organizacjach i programach prywatnych
+  - HE Space Operations
+
+- Program Commercial Crew Transport
+  - Boeing
+  - SpaceX
+  - Orbital ATK
+  - Sierra Nevada Corporation
 
 ## Powrót na Ziemię
-  - Przygotowanie do powrotu na Ziemię
-    - Undocking
-    - Obniżanie orbity
-    - De-orbit burn
-  - Wejście w atmosferę i lądowanie statkiem Soyuz
-    - Normalne wejście w atmosferę
-    - Wejście w atmosferę po krzywej balistycznej
-    - Lądowanie
-  - Wejście w atmosferę i lądowanie promu kosmicznego Space Shuttle
-    - Procedura wejścia w atmosferę
-    - Lądowanie
-  - Czynności astronautów bezpośrednio po wylądowaniu
-    - Badania medyczne
-    - Stabilność układu ruchu
-    - Konstrukcja elementów bazy
+- Przygotowanie do powrotu na Ziemię
+  - Undocking
+  - Obniżanie orbity
+  - De-orbit burn
+
+- Wejście w atmosferę i lądowanie statkiem Soyuz
+  - Normalne wejście w atmosferę
+  - Wejście w atmosferę po krzywej balistycznej
+  - "Miękkie" Lądowanie
+
+- Czynności astronautów bezpośrednio po wylądowaniu
+  - Badania medyczne - wzrok, układ ruchu i krążenia
+  - Badanie sprawności fizycznej
+  - Badanie zręczności - konstrukcja elementów bazy
 
 ## Praca astronautów na Ziemii
-  - Testowanie sprzętu
-  - Pomoc w przygotowaniu innych astronautów
-  - Praca w symulatorach w przypadku problemów na orbicie
-  - Praca jako Capcom
-  - Popularyzacja nauki, działalność ewangelizacyjna obszaru S.T.E.M.
-  - Za czasów Apollo
-  - Apollo Applications
+- Testowanie sprzętu
+- Pomoc w przygotowaniu innych astronautów
+- Praca w symulatorach w przypadku problemów na orbicie
+- Praca jako CapCom
+- Popularyzacja nauki, działalność ewangelizacyjna w ramach obszaru S.T.E.M.
+- Czynności astronautów programu Mercury, Gemini, Apollo i Apollo Applications
 
 ## Zakończenie
 

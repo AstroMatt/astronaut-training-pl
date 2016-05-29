@@ -13,13 +13,9 @@ language: english
 ## Reentry and Soyuz Spacecraft Landing
 ### Nominal Atmospheric Reentry
 ### Ballistic Curve Atmospheric Reentry
-### Landing
-
-## Reentry and Landing of the Space Shuttle
-### Nominal Atmospheric Reentry Procedure
-### Landing
+### "Soft" Landing
 
 ## Things that Astronauts Do After Landing
-### Medical Examinations
-### Bones and Spine Stability
-### Engineering Tasks
+### Medical Examinations - Sight, Cardiovascular, Musculoskeletal
+### Phisical Examinations
+### Dextirity Requiring Tasks - Outpost Construction

@@ -21,7 +21,7 @@ language: polish
 > -- Astronaut Victor Glover
 -->
 
-## Nauka, Badania i Eksperymenty
+## Nauka, badania i eksperymenty w środowisku mikrograwitacji
 
 ### Nauki kognitywistyczne i poznawcze
 
@@ -35,27 +35,39 @@ language: polish
 
 ### Eksperymenty medyczne
 
-### Ćwiczenia kondycyjne i badania wydolności organizmu
+### Badania dotyczące eksploracji Niskiej Orbity Okołoziemskiej (LEO)
 
-## Badania dotyczące eksploracji Niskiej Orbity Okołoziemskiej (LEO)
-
-## Przykładowy rozkład dnia astronautów na Międzynarodowej Stacji Kosmicznej (ISS)
+## Specjalizacje astronautów
 <!-- TODO:
-- Science and Technology
-- Praca
-    - rozpoczęcie pracy 7:30
-    - zakończenie pracy 20:30
-    - w trakcie:
-        - 1h przerwy na lunch
-        - 2h na fitness i ćwiczenia
-- 140 różnych eksperymentów przez 6 miesięcy
-- problemy ze wzrokiem ze względu na nacisk na gałkę oczną
-- body fluid shift
-- astronauci tracą Wapń (Calcium) 10x szybciej niż osoby mające Osteoporozę
-- sen
-    - zaśnięcie 22:00
-    - pobudka 6:00
+Odznaka skrzydeł na piersi:
+- żółta obwódka, niebieskie tło - Navy
+- niebieska obwódka, białe tło - Army or Air Force
+- żółta obwódka, czerwone tło - Marines
+- blue and white - civilian
+
+- Każdy astronauta ma jakiś background, medyczny, lotniczy itp, i to prawdopodobnie wpływa na assignments do misji, np. ze względu na badania naukowe jakie chcą przeprowadzić na stacji.
+- Astronauci nie znają systemu dlaczego są przypisywani do misji
+- Wcześniej byli Piloci i po drugiej stronie Mission Specialiści, czasami pojawiali się po środku Payload Specjaliści, ale już tego nie ma każdy na stacji jest Flight Engineerem
+- Long Duration space flight, you have to be a jack of all traits
 -->
+
+### Commander
+
+### Pilot
+
+### Payload Specialist
+
+### Mission Specialist
+
+### Flight Engineer
+
+### Science Officer
+
+### Spaceflight Participants
+
+### Flight Surgeon
+
+### Educator Mission Specialist
 
 ## Tradycje przed wylotem
 <!-- TODO:

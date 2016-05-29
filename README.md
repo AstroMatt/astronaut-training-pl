@@ -52,25 +52,25 @@ layout: thesis-english
     - Medical Training
     - Psychological training for long duration society isolation
     - Cultural and Language
-    - Water Recovery Training
   - Piloting Skills
     - Piloting High-Performance Jets
-    - Soyuz Piloting, Avionics, Guidance and Navigation Controls
-    - Space Shuttle Piloting, Avionics, Guidance and Navigation Controls
+    - Flying Soyuz - Avionics, Guidance and Navigation Controls
+    - Flying Space Shuttle - Avionics, Guidance and Navigation Controls
     - Launch Escape System Usage
-    - Orbital Mechanics and Maneuvering
+  - Orbital Mechanics and Maneuvering
     - Randevouz and Docking
     - Astro-navigation and Star Tracker
   - Extreme Conditions Training
-    - NEEMO Missions
-    - CAVES Missions
     - Winter Survival
     - Water Survival
+    - Water Recovery Training
     - Desert Survival
     - Jungle Survival
     - Parabolic Zero-G Flights
     - Microgravity Simulating Devices
     - Extreme Conditions Survival
+      - NEEMO Missions
+      - CAVES Missions
   - Technical Preparation
     - ISS Systems Usage, Repair and Mainenance
     - Canada Arm 2 Operations

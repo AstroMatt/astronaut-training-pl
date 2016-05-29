@@ -3,7 +3,7 @@ categories: chapter
 language: polish
 ---
 
-# Proces wyboru astronautów i kosmonautów
+# Selekcja kandydatów do przeszkolenia podstawowego
 
 Przygotowanie astronautów i kosmonautów do długotrwałych misji kosminczych zaczyna się od wyboru najlepszych kandydatów. Na chwilę obecną rekturuje się osoby wśród najbardziej porządanych specjalizacji tj.:
 
@@ -30,7 +30,9 @@ Na wybór kandydata ma ogromny wpływ również doświadczenie, wykształcenie n
 
  Aby przygotować misję kosmiczną wymagane są lata pracy wielu zespołów profesjonalistów. I choć pozycja astronauty jest jedną z najbardziej prestiżowych na świecie to ich sukces zbudowany jest przez tych co pozostali na Ziemii {% bibliography "How to Become an Astronaut" %}. Ograniczone możliwości w zakresie wysyłania ludzi w przestrzeń kosmiczną i koszt tego przedsięwzięcia wymaga starannego doboru kandydatów. Z tego powodu proces selekcji astronatów i kosmonautów jest zadaniem trudnym. Wymaga umiejętności multidyscyplinarnych. W poniższym rozdziale przedstawione zostną kryteria oraz proces wyboru najlepszych kandydatów.
 
-## Selekcja psychologiczna
+## Kryteria doboru kandydatów
+
+### Selekcja psychologiczna
 
 Jednym z kluczowych elementów branych pod uwage jest odporność na stres i umiejętność działania pod presją. Astronauta jako operator musi umieć realizować zadane czynności bez względu na okoliczności. Podążanie za procedurami w przypadku różnego rodzaju awarii i zdarzeń wyjątkowych jest absolutnie niezbędne. Prodcedury te zostały przygotowane przez lata praktyki i wszelkie odstępstwa mogą narazić członków załogi na niebezpieczeństwo lub śmierć.
 
@@ -58,7 +60,7 @@ Idealny kandydat posiada {% bibliography "http://www.esa.int/Our_Activities/Huma
 
 Proces badań wstępnych jest prowadzony przez zespół wykwalifikowanych specjalistów z zakresu psychologii.
 
-## Selekcja kondycyjna
+### Selekcja kondycyjna
 
 Charakter pracy jako astronauta wymaga wysokiej aktywności kondycyjnej i dużej sprawności fizycznej. Podczas wielomiesięcznych a docelowo wieloletnich misji kosmicznych astronauci aby przeciwdziałać niebezpiecznemu wpływowi braku grawitacji na układ szkieletowy i mięśniowy. Aby zapobiec atrofi mięśni astronauci muszą ćwiczyć przynajmniej dwie do trzech godzin dziennie.
 
@@ -66,7 +68,7 @@ Sam proces treningu do spacerów kosmicznych (w basenie z doskonałą pływalno�
 
 Kandydacji którzy biorą udział w rekrutacji muszą być zdolni do wytrzymywania zadanych obciążeń i dużego wysiłku fizycznego. Umiejętności te wymagają wieloletniego przygotowania kondycyjno-wytrzymałościowego i są oceniane przez komisję rekrutacyjną.
 
-## Selekcja medyczna
+### Selekcja medyczna
 
 Zdrowie kandydata jest jednym z najważniejszych kryteriów doboru. Osoby rekrutowane muszą się wykazać niezwykłą adaptacją do warunków panujących w stanie nieważkości. Jest to podyktowane głównie ogromnym kosztem wyszkolenia astronautów i chęcią zmniejszenia możliwości zaistnienia problemów podczas misji ze względu na stan zdrowia pracującego operatora. Sprawność układu ruchu, krążenia oraz równowagi ma ogromne znaczenie dla późniejszej pracy kandydata.
 
@@ -106,7 +108,7 @@ Powyższe parametry są weryfikowane podczas badań medycznych w procesie selekc
 - wirówka (centrifuge),
 - lot samolotem.
 
-## Selekcja umiejętności technicznych i naukowych
+### Selekcja umiejętności technicznych i naukowych
 
 Jednym z najbardziej kluczowych elementów selekcji kandydatów na astronautów i kosmonautów jest dobór ze względu na umiejętności i doświadczenie. Obecnie Europejska Agencja Kosmiczna (podobny profil poszukiwany jest również w innych agencjach kosmicznych) poszukuje kandydatów wśród specjalizacji:
 
@@ -117,7 +119,7 @@ Jednym z najbardziej kluczowych elementów selekcji kandydatów na astronautów 
 
 Każda z tych profesji ma swoje zalety przy prowadzeniu badań w środowisku kosmicznym. Obecnie agencje odchodzą od specjalizacji astronautów<!-- TODO: Quote Needed --> i każdy z członków załogi musi poznać wszystkie aspekty pracy na orbicie, tj. pilotowanie statków kosmicznych, prowadzenie badań naukowych, udzielanie pomocy medycznej i przeprowadzanie operacji, kwestie związane z manipulowaniem ramion robotycznych i dokonywanie spacerów kosmicznych, czyli tzw. EVA (ang. Extra Vechicular Activity). Astronauta czy kosmonauta staje się operatorem czyli wysoce wykawlifikowanym specjalistą w wykonywaniu starannie zaplanowanych czynności. To wymaga dużej wszechstronności od kandydata i umiejętności adaptowania się do zmieniających się warunków.
 
-## Selekacja ze względu na doświadczenie lotnicze
+### Selekacja ze względu na doświadczenie lotnicze
 
 Pilot-astronauta podczas misji specjalizuje się w prowadzeniu statków kosmicznych. W zakres jego obowiązków wchodzi pilotaż, odpowiedzialność za załogę i powodzenie misji, oraz dbanie o bezpieczeństwo na pokładzie. Pilot wspiera dowódcę w kontrolowaniu statku. Ponadto rola pilota może rozszerzyć się o zakres obowiązków związanych z przechwytywaniem i rozstawianiem stelit, korzystaniem z robotycznego ramienia - manipulatora, EVA oraz operacje związane z ładunkiem {% bibliography "http://www.nasa.gov/audience/forstudents/postsecondary/features/F_Astronaut_Requirements.html" %}.
 
@@ -260,21 +262,3 @@ Jednym z warunków bycia astronautą ESA jest aby państwo narodowości kandydat
 ### CNSA - Agencja Kosmiczna Chińskiej Republiki Ludowej
 
 ### CSA - Kanadyjska Agencja Kosmiczna
-
-## Selekcja w organizacjach i programach prywatnych
-
-### Program Commercial Crew Transport
-
-### Space Adventures
-
-### SpaceX
-
-### Orbital Sciences
-
-### Blue Origin
-
-### Boeing
-
-### HE Space Operations
-
-Frima HE Space na początku roku 2016 rozpoczęła proces poszukiwania kandydatki na astronautę.

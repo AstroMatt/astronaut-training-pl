@@ -6,7 +6,9 @@ language: polish
 # Powrót na Ziemię
 
 ## Przygotowanie do powrotu na Ziemię
-<!-- TODO: Astronauci wydłużają sie o 5-7 cm i maja problemy z mieszczeniem sie w swoje Custom made siedzenia w soyuzie -->
+<!-- TODO: Astronauci wydłużają sie o 5-7 cm i maja problemy z mieszczeniem sie w swoje Custom made siedzenia w soyuzie
+- Space Shuttle Wystawiała kółka by się rozgrzały
+-->
 ### Undocking
 
 ### Obniżanie orbity
@@ -19,17 +21,11 @@ language: polish
 
 ### Wejście w atmosferę po krzywej balistycznej
 
-### Lądowanie
-
-## Wejście w atmosferę i lądowanie promu kosmicznego Space Shuttle
-
-### Procedura wejścia w atmosferę
-
-### Lądowanie
+### "Miękkie" Lądowanie
 
 ## Czynności astronautów bezpośrednio po wylądowaniu
 
-### Badania medyczne
+### Badania medyczne - wzrok, układ ruchu i krążenia
 <!-- TODO:
 W kosmosie układ odpornościowy jest znacznie osłabiony i dużo bardziej podatny na infekcje
 
@@ -42,6 +38,6 @@ Układ kostny osłabiony przez środowisko mikrograwitacji musi przetrzymać du�
 - Mięśnie stają się krótsze, szczególnie te od chodzenia i zaczynają ciagnąć stawy, których normalnie nie ciągną
 -->
 
-### Stabilność układu ruchu
+### Badanie sprawności fizycznej
 
-### Konstrukcja elementów bazy
+### Badanie zręczności - konstrukcja elementów bazy

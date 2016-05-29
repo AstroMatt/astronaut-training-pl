@@ -10,5 +10,4 @@ language: english
 ## Working in the Simulators to Fix Problems on Orbit
 ## CapCom
 ## S.T.E.M. and Space Advocacy
-## Apollo Era Tasks
-## Apollo Applications
+## Mercury, Gemini, Apollo and Apollo Application Era Astronauts Tasks

@@ -19,11 +19,11 @@ language: polish
 
 ## Praca w symulatorach w przypadku problemów na orbicie
 
-## Praca jako Capcom
+## Praca jako CapCom
 
 ## Popularyzacja nauki, działalność ewangelizacyjna obszaru S.T.E.M.
 
-## Za czasów Apollo
+## Czynności astronautów programu Mercury, Gemini, Apollo i Apollo Applications
 
 <!-- TODO:
 - 5 przypisanych do Lunar Module
@@ -41,5 +41,3 @@ Astronaut: Jim Carr
 - flight physiology
 - orbital trajectories (orbital management)
 -->
-
-## Apollo Applications
