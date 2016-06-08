@@ -25,7 +25,7 @@ language: polish
 
 ## Dotychczasowi turyści kosmiczni
 
-### Lista dotychczasowych turytstów kosmicznych
+### Lista dotychczasowych turystów kosmicznych
 
 ### Proces zgłoszenia i kryteria doboru astronautów
 

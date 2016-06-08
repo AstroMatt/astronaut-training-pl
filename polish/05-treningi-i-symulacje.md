@@ -67,7 +67,7 @@ Day 2
 
 ## Symulacja pracy w środowisku mikrograwitacji
 
-### Urządzenia symulujące obiżoną lub brak grawitacji
+### Urządzenia symulujące obiżoną grawitację
 <!-- TODO: Sim
 - liny (z programu apollo)
 - urządzenie na którym trenował Ed White poruszanie się w kosmosie
@@ -82,7 +82,7 @@ Day 2
 
 ### Przygotowanie do wyławiania z oceanu
 
-### Awaryjne opuszczanie plaformy startowej
+### Awaryjne opuszczanie platformy startowej
 <!-- TODO:
 - MRAP - Mine resistant ambush protected vehicles  - opancerzony samochód do ewakuacji astronautów z launch pad
 - Wagoniki ze space shuttle
