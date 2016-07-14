@@ -8,6 +8,7 @@ language: polish
 ## Samolotów odrzutowych
 <!-- TODO:
 - T-38
+- Space Flight Readiness Training - WB-57 at Beale AFB, North Carolina
 - Trening śmigłowcowy (za czasów apollo)
 - Szkolenie T-38 (ostatnie szkolenie aby ukończyć astronaut training)
     - formation flying

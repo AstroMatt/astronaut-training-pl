@@ -74,12 +74,12 @@ layout: thesis-polish
     - Misje CAVES
     - Misje NEEMO
 - Symulacja pracy w środowisku mikrograwitacji
-    - Urządzenia symulujące obiżoną lub brak grawitacji
+    - Urządzenia symulujące obiżoną grawitację
     - Test w wirówce na odporność organizmu na przeciążenia
     - Loty paraboliczne symulujące stan nieważkości
 - Sytuacje awaryjne
     - Przygotowanie do wyławiania z oceanu
-    - Awaryjne opuszczanie plaformy startowej
+    - Awaryjne opuszczanie platformy startowej
     - Systemy przerywania startu
 
 ## Życie na Międzynarodowej Stacji Kosmicznej
@@ -168,7 +168,7 @@ layout: thesis-polish
     - Blue Origin
     - Bigelow Aerospace
 - Dotychczasowi turyści kosmiczni
-    - Lista dotychczasowych turytstów kosmicznych
+    - Lista dotychczasowych turystów kosmicznych
     - Proces zgłoszenia i kryteria doboru astronautów
     - Proces przygotowania turystów kosmicznych
     - Zajęcia turystów na orbicie
