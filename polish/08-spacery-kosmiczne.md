@@ -3,19 +3,53 @@ categories: chapter
 language: polish
 ---
 
-# Spacery Kosmiczne
+# Wyjścia astronautów w przestrzeń kosmiczną
+
+Jednym z najcięższych elementów pracy astronauty jest wyjście w przestrzeń kosmiczną na tzw. EVA (ang. Extravehicular Activity) - czyli spacer kosmiczny. Do przeprowadzenia takiego wyjścia astronauci przytotowują się przez dwa lata przed misją przeprowadzając około 20 ćwiczeń w pełnym skafandrze pod wodą w basenie neutralnej pływalności (ang. Neurtal Buoyancy Facility). Wyjścia w przestrzeń kosmiczną dzielimy na:
+- zaplanowane,
+- awaryjne,
+- na obcych ciałach niebieskich.
+
+
+
 
 ## Elementy skafandra EMU
+<!-- TODO: EMU
+Downing - zakładanie stroju EMU
+Doffing - ściąganie stroju EMU
+-->
+### Strój wewnątrz skafandra
+
+### Hełm
+
+### Tors
+
+### Ramiona i Rękawice
+
+### Nogi i Buty
+
+### Plecak i SAFER
+<!-- TODO: EVA Suit
+- rękawice i obniżona zręczność
+- szczelność
+- cyrkulacja powietrza w masce
+- oświetlenie nocne
+- Augument Reality i możliwość zdalnego aktualizowania procedur
+- checklista naramienna
+- kamery na hełmie
+- oświtlenie nocne
+
+Every suit leaks
+
+What is the pressure inside the suit during EVA.
+- EMU 4.3 PSI
+- Orlan 5.7 PSI
+- atmospheric 14.7 psi
+- w strojach tylko i wyłącznie oddychają czystym tlenem
+-->
+
+
 <!-- TODO: EMU - Extravehicular Mobility Unit
-
-Wymiana elementów w skafandrze
-- nie są przystosowane do naprawy w nieważkości
-- Suit "Surgery", fan, pump, water-gas separator failure
-- Day and a half procedure
-- Knots and bolts
-- Twizzers, vacuum cleaner with mash Net do zasysania śrubek i ręcznik z drugiej strony aby upewnić się czy śrubki nie wpadają do środka
-- Wszystkie rzeczy w rękawiczkach, wszystko nagrywane na kamerach i monitorowane z ziemi przez inżynierów, mają specjalne narzędzia do space suitów które nie są nigdzie wykorzystywane, space suity działają w środowisku 100% oxygen
-
 - design z ery Apollo
 - pielucha dla dorosłych
 - Cotton Long Jons (zwykła off-the shelf bielizna bawełniana)
@@ -73,16 +107,101 @@ Wymiana elementów w skafandrze
 - ważne są rękawiczki i przeguby
 - rękawice definiują to co możesz zrobić
 - każdy ma swoje rękawiczki
+
+W przypadku Emergency case ludzie rzucają eksperymenty i skupiają się na pomocy EV na powrocie do bazy.
+
+
+
+Astronauci podczas EVA na ISS nie korzystają z radiation decimeter bo boją się, że zostanie nagrane i następnym razem ich nie puszczą.
+Astronauci nie zawsze chcą wszystko raportować, na wszelki wypadek, bo nie są pewni czy wszystko zrobili perfekt.
+
+
+
+
+OBSPV - OnBoard Station Procedure Viewing Software
+
+
+
+
+60% astronautów jest super, reszta zdarza się że osiadają na laurach i przestają się uczyć kiedy mają już jakieś
+
+
+Najlepiej skontaktować się z Bernardem aby zapytał się kogoś z EAC: Harvy i Frank de Winne o procedury szkolenia.
+
+Skontaktować się z MPUSC - Multi Purpose User Suppoer Center
+
+Flight note system - późniejsze informacje dla zespołu (delta information) lub updated procedures, które zmieniają się od założeń
+
 -->
 
 ## Utrzymywanie sprawnośni skafandra EMU
+<!-- TODO: Wymiana elementów w skafandrze
+- nie są przystosowane do naprawy w nieważkości
+- Suit "Surgery", fan, pump, water-gas separator failure
+- Day and a half procedure
+- Knots and bolts
+- Twizzers, vacuum cleaner with mash Net do zasysania śrubek i ręcznik z drugiej strony aby upewnić się czy śrubki nie wpadają do środka
+- Wszystkie rzeczy w rękawiczkach, wszystko nagrywane na kamerach i monitorowane z ziemi przez inżynierów, mają specjalne narzędzia do space suitów które nie są nigdzie wykorzystywane, space suity działają w środowisku 100% oxygen
+
+Trening EVA
+- skafander Orlan MK i Orlan MKS
+- Certyfikacja w obsłudze skafandra
+
+Amerykanskie skafandry
+- EMU
+- Pomarańczowy
+-->
+
 
 ## Przygotowanie do przeprowadzenia wyjścia w przestrzeń
+<!-- What medical examination you perform before and after EVA
+- Ruskie MO - medical assessment (5 or 6)
+- threadmill, hand ergomenter,
+- ECG, cardiovascular, blood pressure, QRS complex
+- zdarzyło się raz aby ktoś był wykluczony
+- badają zdolność do EVA już nawet na kilka dni przed
+
+What is the procedure for EVA preparation (oxygen intake) - pre-breath protocol
+- O2 environment makes pre-breath easier
+- Rosyjski strój pozwala szybciej wyjść, ale nie tak długo siedzieć
+- kiedyś, oddychają czystym O2 jadąc na rowerze z maską, a później wchodzą do stroju i obniżają ciśnienie
+- camp-out, śpią w śluzie z 10.2 PSI i to się zmienia z 21% do 28% tlenu
+- exercise protocol in the suit, połączenie starszych
+- możesz zrobić cały pre-breath przez 4 godziny w stroju (zrobili to dwukrotnie, awaryjnie)
+- Rosjanie mają 30-40 minut
+- jeżeli miałbyś strój z 8 PSI to nie musisz mieć żadnych pre-breath, ale nie dałoby się niczego robić
+
+-->
+
+## Procedury po powrocie z EVA
+<!-- TODO: Procedure after EVA
+- Ruskie walą wódkę, jeszcze w śluzie zanim się zdepresuryzuje. nigdy się nic nie stało
+- amerykanom dwukrotnie zdarzyło się przytrzasnąć narzędzie
+- wyrównują do 5 PSI i robią leak check, jeżeli nie działa, to upuszają powietrze i jeszcze raz sprawdzają właz
+- nominal procedures
+- repress takes 15 minutes
+- depress takes 30 minutes
+- cooling, oxygen supplies
+-->
+
 
 ## Wykorzystywanie specjalistycznych narzędzi
 
 ## Symulacja prac w basenie doskonałej pływalności
 <!-- TODO:
+
+Jak trenują EVA, o których nie wiedzą, że będą potrzebowali w przyszłości:
+- generic training - szkolenie generyczne z umiejętności, które się zawsze przydają
+- cross-training szkolą ludzi tak by każdy miał przynajmniej pojęcie jak to się robi
+
+Generic Training
+a później Flight Assignment
+Repetition mode już bezpośrednio przed samym wylotem.
+
+Czasami zadarzają się astronauci którzy nie mogą robić EVA, bo trzeba być on-top-of-everything
+trzeba mieć kondycję, znać strój, być przetrenowanym
+
+
 - Ciśnienie w skafandrze 4.3 PSI
 - 3-4 trenują w NBF pod wodą
 - W basenie trenują również kontakt z CAPCOM
@@ -91,6 +210,12 @@ Wymiana elementów w skafandrze
 - Korzystanie z narzędzi
 - Wyrównywanie ciśnienia w środku skafandra
 - Dolly Burton (ustnik do przedmuchiwania ciśnienia)
+
+Przy szkoleniu wodnym, opuszczanie kapsuły w wodzie są dwie opcje
+- w skafandrze wodnym suchym (zdążyli się przebrać)
+- Awaryjne w skafandrze Sokol
+Odpalanie racy i dmuchanie jacketów jak nurkowie
+
 
 - Szkolenie VR dla EVA (hololense, oculus)
 
@@ -125,7 +250,135 @@ Wymiana elementów w skafandrze
 - puszczają muzyczkę (Bastille - Pompeii)
 - mają misję do ukończenia
 - Na dwie osoby trenujące EVA jest około 40 osób, które upewniają się, że wszystko jest bezpiecznie
+
+
+Why are space suits still bulky?
+
+While it's technically possible to create a tight suit that protects you from the vacuum of space and probably the extreme temperatures as well, one of the functions of the suit is to protect you from meteoroids -- grains of sand moving at tens of thousands of miles per hour. For this reason, the suit is made up of many layers of different fabrics that will stop a meteoroid from puncturing the suit -- and the astronaut. As you can see in this diagram, layers 6 through 14, 9 layers in total, are devoted to stopping meteoroids.
+
+
+EVA
+- utrzymywanie skafandrów w gotowości
+- procedury wyjść
+- planowanie wyjść i zadań podczas EVA
+- Augmented Reality (mobiPV, Google Glass)
+- Pozycjonowanie astronautów i obserwacja realtime gdzie są
+- GPS na Księżycu i Marsie
+- Nawigowanie alternatywne
+- Geografia terenu
+
 -->
 
 
 ## Instalacja i naprawa systemów ISS
+
+## Komunikacja podczas spacerów kosmicznych
+<!-- TODO: Komunikacja EVA
+Podczas EVA masz big loop i każdy może słuchać i włączać się do rozmów.
+Zwykle podczas EVA CapCom komunikuje się z zespołem.
+
+Ground Loop
+Space to Ground Loop
+EV Loop (for EVA)
+Russian CapCom rozmawia z ruskim CapComem
+Amerykański CapCom rozmawia z Amerykańskim
+
+CapCom jest astronautą i przechodzi przez ten sam trening. Ci ludzie dobrze się znają.
+
+Przynajmniej dwie osoby wychodzą na EVA i minimalnie jedna zostaje w bazie jako IVA.
+
+EV1 jest bardziej prestiżowy. Astronauci o to konkurują.
+EV1 jest przyznawany ze względu na ranking lub wyszkolenie.
+-->
+
+## Systemy medyczne stosowane podczas EVA
+<!--
+- dosimeter
+-
+- ECG, 3 electrode
+- Suit sensor
+- Respiratory Coefficient
+- Respiratory trace
+- Oxygen Consumption
+- Oxygen Uptake
+- Leak Check (every suit leaks)
+- CO2 sensor
+- O2 sensor
+- O2 consumption (per astronaut)
+- Anarobic
+- QRS complex
+- measuring chest
+- temperature sensor on your ear (wcześniej w rectal) [Russian Suit]
+- Radiation dosimeter
+- LCVG (Liquid Cooling and Ventilation Groumet)
+- anarobic (na podstawie O2 i CO2)
+- metabolism
+-->
+
+## Wsparcie kontroli misji
+
+## EVA na powierzchni innych ciał niebieskich
+
+### EVA na powierzchni Księżyca
+<!-- Lunar habitat
+- 3 ways of scrubbing CO2
+- Lithium-hydroxide
+- EMU ma wymienialne kardridże
+- EMU ma metal-oxide w wymienialnych kardridżach
+- swing-bads - molecular sivs (mass number of the element from the) sito działa na zasadzie wysysania w przestrzeń kosmiczną gazu ze specyficzną masą atomową
+- Wszystkie systemy muszą być przynajmniej potrójne
+-->
+
+
+### EVA na powierzchni planet
+
+### EVA na powierzchni asteroid
+
+## Wykorzystywanie pojazdów
+<!-- Pojazdy
+- Poduszkowce
+- Drony
+- Łaziki eksploracji robotycznej
+- Łaziki transportowe dla astronautów
+- Balony
+- Łodzie podwodne
+- Krety
+-->
+
+## Augumentacja
+
+## Sytuacje awaryjne
+
+### Systemy awaryjne skafandra
+<!-- TODO: EMU Emergency
+- SAFER
+-
+-->
+
+
+### procedury bezpieczeństwa
+<!--
+Przećwiczenie ściągania osoby, która ma problemy podczas EVA.
+Kiedy nie mogą widzieć przez visor.
+Kiedy jakiś członek zespołu jest unieruchomiony.
+Kiedy straci przytomność.
+Kiedy są lekkie problemy ze strojem.
+Kiedy są ciężkie problemy ze strojem.
+Procedurą jest zapewnienie członkowi Ambilical.
+
+Na każdym suicie mają dwa radia. Kiedy jedno przestanie działać, muszą zmienić częstotliwość.
+Używają języka znaków i gestów w przypadku braku możliwości komunikacji.
+Mają nasłuch na dwóch częstotliwościach.
+Ćwiczenie relay-com czyli przekazywanie wiadomości przez pośrednika gdy nie ma łączności bezpośredniej z członkiem EVA
+TDRA - Space to Space communication system, predefined 8 miliseconds slots
+
+Trenują abnormal situations w NBL
+
+- Emergency: Jednemu astronaucie podczas EVA kończy się powietrze
+- Emergency: Pojawienie się wody w skafandrze
+- Emergency: Chłodzenie
+- Emergency: Ewakuacja habitatu
+- Emergency: Holowanie nieprzytomnego astronauty
+- Emergency: Komunikacja na wypadek braku łączności podczas EVA
+- Abort case
+-->

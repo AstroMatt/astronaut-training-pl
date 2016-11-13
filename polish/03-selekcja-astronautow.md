@@ -5,6 +5,18 @@ language: polish
 
 # Selekcja kandydatów do przeszkolenia podstawowego
 
+<!--
+Pytania na selekcji na Astronautę
+
+- dlaczego chcesz zostać asteonautą
+    - Explore unknown
+    - Scientific experiments
+- Czy myślałeś kiedyś aby zabić swoją matkę
+- Swoje mocne strony i jak je wykorzystujesz
+- Swoje słabe strony i jak nad nimi pracujesz
+
+-->
+
 Przygotowanie astronautów i kosmonautów do długotrwałych misji kosminczych zaczyna się od wyboru najlepszych kandydatów. Na chwilę obecną rekturuje się osoby wśród najbardziej porządanych specjalizacji tj.:
 
 - pilot, a w szczególności pilot testowy,
