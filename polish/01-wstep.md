@@ -35,6 +35,9 @@ Jednym z najważniejszych ogniw całego programu pobytu człowieka poza Ziemią 
 Każda agencja kosmiczna ma prawo nazwania ludzi, którzy lecą w kosmos wedle uznania. Tak przyjęły się trzy najbardziej rozpowszechnione nazwy. Poniższa tabela prezentuje konwencje przyjęte przez poszczególne agencje.
 
 <!-- TODO: Problem z tabelkami w index-pl jest split po trzech myślnikach -->
+<!-- TODO: Definicja nazwy
+As for other countries, the Chinese use (in their language) the phrase “space navigating personnel”. Outsiders, not being able to speak Chinese often use “taikonaut” which merges the Chinese word for outer space and the common suffix naut. Similarly, the term “vyomanaut” is often used for prospective Indian personnel.
+-->
 
 | Nazwa w oryginale                | Nazwa w języku angielskim | Nazwa w języku polskim | Agencja         |
 |:---------------------------------|:--------------------------|:-----------------------|:----------------|

@@ -17,7 +17,13 @@ Jednym z najcięższych elementów pracy astronauty jest wyjście w przestrzeń 
 <!-- TODO: EMU
 Downing - zakładanie stroju EMU
 Doffing - ściąganie stroju EMU
+-  total suit weighs about 275 lbs
 -->
+### Naszywka
+<!-- 
+That is the EVA insignia patch.  It is the symbol used by the team responsible for the suits.  It is a space age representation of Leonardo daVinci's Vitruvian man.  The five stars represent the five NASA programs that have utilized EVA (Extravehicular Activity).
+-->
+
 ### Strój wewnątrz skafandra
 
 ### Hełm
@@ -318,6 +324,12 @@ EV1 jest przyznawany ze względu na ranking lub wyszkolenie.
 ## Wsparcie kontroli misji
 
 ## EVA na powierzchni innych ciał niebieskich
+<!-- TODO: EVA na powierzchni innych ciał niebieskich
+- temperatura
+- upadki i wstawanie
+- radzenie sobie z pyłem
+- fotografia
+- 
 
 ### EVA na powierzchni Księżyca
 <!-- Lunar habitat
@@ -352,7 +364,7 @@ EV1 jest przyznawany ze względu na ranking lub wyszkolenie.
 ### Systemy awaryjne skafandra
 <!-- TODO: EMU Emergency
 - SAFER
--
+- trzymanie ciśnienia przez 22 min
 -->
 
 

@@ -114,13 +114,32 @@ layout: thesis-polish
 - Sterowanie robotami na Ziemii z orbity
 - Urządzenia wirtualnej rzeczywistości
 
-## Spacery Kosmiczne
+## Wyjścia astronautów w przestrzeń kosmiczną
 - Elementy skafandra EMU
+    - Strój wewnątrz skafandra
+    - Hełm
+    - Tors
+    - Ramiona i Rękawice
+    - Nogi i Buty
+    - Plecak i SAFER
 - Utrzymywanie sprawnośni skafandra EMU
 - Przygotowanie do przeprowadzenia wyjścia w przestrzeń
+- Procedury po powrocie z EVA
 - Wykorzystywanie specjalistycznych narzędzi
 - Symulacja prac w basenie doskonałej pływalności
 - Instalacja i naprawa systemów ISS
+- Komunikacja podczas spacerów kosmicznych
+- Systemy medyczne stosowane podczas EVA
+- Wsparcie kontroli misji
+- EVA na powierzchni innych ciał niebieskich
+    - EVA na powierzchni Księżyca
+    - EVA na powierzchni planet
+    - EVA na powierzchni asteroid
+- Wykorzystywanie pojazdów
+- Augumentacja
+- Sytuacje awaryjne
+    - Systemy awaryjne skafandra
+    - procedury bezpieczeństwa
 
 ## Pilotaż
 - Samolotów odrzutowych

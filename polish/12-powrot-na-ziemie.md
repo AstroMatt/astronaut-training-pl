@@ -4,6 +4,13 @@ language: polish
 ---
 
 # Powrót na Ziemię
+<!-- TODO: Miejsca lądowania
+
+- “Agreement on the Rescue of Astronauts, the Return of Astronauts and the Return of Objects Launched into Outer Space”
+- http://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/introrescueagreement.html
+
+
+-->
 
 ## Przygotowanie do powrotu na Ziemię
 <!-- TODO: Astronauci wydłużają sie o 5-7 cm i maja problemy z mieszczeniem sie w swoje Custom made siedzenia w soyuzie
