@@ -116,6 +116,7 @@ layout: thesis-polish
 
 ## Wyjścia astronautów w przestrzeń kosmiczną
 - Elementy skafandra EMU
+    - Naszywka
     - Strój wewnątrz skafandra
     - Hełm
     - Tors

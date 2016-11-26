@@ -84,6 +84,21 @@ Odznaka skrzydeł na piersi:
 - Zasadzenie drzewa w alei w Bajkonurze
 - Wizyta na placu czerwonym
 
+- Podniesienie flag w Bajkonurze
+- Kwarantanna i ochrona przed mikrobami
+- Białe słońce pustyni
+- Ostatnie strzyżenie fryzjera
+- Ostatni posiłek
+- Poświecenie rakiety przez popa
+- Astronauci nie mogą zobaczyć rakiety ani po drugim ani po trzecim przeglądzie przedstartowym (tradycja)
+- Podpis na drzwiach pokoju w którym się mieszkało
+- Pożegnanie z rodziną
+- Przejazd autobusem do budynku 254 aby ubrać sokol Suit
+- Przejazd autobusem i ostatni salut stojąc na wyznaczonych miejscach
+- Wejście na schody do rakiety i machanie
+- Oczekiwanie na start, sprawdzanie systemów
+- Każdy astronauta może wybrać trzy piosenki
+
 Space sickness
 - obracanie przed startem góra dół kilka razy
 -->
