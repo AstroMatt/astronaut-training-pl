@@ -20,7 +20,7 @@ Doffing - ściąganie stroju EMU
 -  total suit weighs about 275 lbs
 -->
 ### Naszywka
-<!-- 
+<!--
 That is the EVA insignia patch.  It is the symbol used by the team responsible for the suits.  It is a space age representation of Leonardo daVinci's Vitruvian man.  The five stars represent the five NASA programs that have utilized EVA (Extravehicular Activity).
 -->
 
@@ -200,6 +200,20 @@ Jak trenują EVA, o których nie wiedzą, że będą potrzebowali w przyszłoś
 - generic training - szkolenie generyczne z umiejętności, które się zawsze przydają
 - cross-training szkolą ludzi tak by każdy miał przynajmniej pojęcie jak to się robi
 
+- EVA pre-familiarisation training (w NBF w EAC, ESA)
+- EVA training (w NBL w Huston, TX) jest prowadzony po ukończeniu pre-familiarisation w Kolonii
+
+In this situation, EAC created a so-called EVA pre-familiarisation training course, which is conducted at EAC's Neutral Buoyancy Facility (NBF). This programme teaches ESA astronauts basic EVA concepts and EVA skills such as tethering to the Station, use of special EVA tools, communication with an EVA crewmate as well as with the control room and how to keep full situational awareness in a complex and challenging environment.
+
+The full spacewalk, or Extra Vehicular Activity (EVA), training for the ISS is traditionally done at NASA’s Neutral Buoyancy Laboratory (NBL) at the Johnson Space Center, Houston, Texas, and at the Gagarin Cosmonaut Training Center, in Russia.
+
+For each specific spacewalk, there are several training units to be completed. One EVA run lasts around 5 hours, and the standard right now is that you spend five to seven times as long in the NBL at Houston for each EVA, depending on the difficulty. In addition to that you train a lot of contingency scenarios.
+
+With the assembly of the ISS in full swing, the EVA training schedule in the NBL is tight, the facility itself overbooked with operational and mission-related EVA training so the training schedule is compressed into three shifts a day. In addition, it will in future also be used for exploration related testing, which leaves little time for providing EVA skills training to ESA astronauts.
+
+An assignment to take part in a spacewalk during a space mission depends on an EVA skills evaluation, which takes place at a very early stage of the EVA training programme in Houston. Those astronauts who handle their very first neutral buoyancy experiences in Houston well will be chosen to perform EVAs and receive the full-blown EVA training.
+
+
 Generic Training
 a później Flight Assignment
 Repetition mode już bezpośrednio przed samym wylotem.
@@ -329,7 +343,7 @@ EV1 jest przyznawany ze względu na ranking lub wyszkolenie.
 - upadki i wstawanie
 - radzenie sobie z pyłem
 - fotografia
-- 
+-
 
 ### EVA na powierzchni Księżyca
 <!-- Lunar habitat
