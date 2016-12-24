@@ -19,10 +19,10 @@
 - line 37: źródło cytatu 2
 
 ## Selekcja Astronautow
-- line 40: Quote Needed
-- line 131: Quote Needed
-- line 165: Quote Needed
-- line 247: Quote Needed
+- line 48: Quote Needed
+- line 156: Quote Needed
+- line 190: Quote Needed
+- line 272: Quote Needed
 
 ## Przygotowanie Teoretyczne
 
