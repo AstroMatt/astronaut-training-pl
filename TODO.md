@@ -48,6 +48,6 @@
 
 ## Astronaut Stats
 
-## Bibliography
-
 ## Dictionary
+
+## Bibliography

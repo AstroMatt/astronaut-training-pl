@@ -25,6 +25,7 @@ layout: thesis-polish
     - Program Salyut
     - Program Intercosmos i lot generała Hermaszewskiego
     - Stacja kosmiczna Mir
+- Najdłuższy pobyt w przestrzeni kosmicznej
 
 ## Selekcja kandydatów do przeszkolenia podstawowego
 - Kryteria doboru kandydatów
@@ -63,6 +64,7 @@ layout: thesis-polish
 ## Treningi i symulacje
 - Przygotowanie psychologiczne, kondycyjne i medyczne
     - Przygotowanie medyczne
+    - Przygotowanie dentystyczne
     - Ćwiczenia kondycyjne i badania wydolności organizmu
     - Przygotowanie psychologiczne do pracy w odosobnieniu
     - Obozy przywództwa i pracy zespołowej
@@ -91,9 +93,11 @@ layout: thesis-polish
 - Urządzenia do utrzymania kondycji i sprawnośi fizycznej
 - Korzystanie z toalety
 - Utrzymywanie higieny osobistej
+- Ubrania
 - Przygotowywanie i spożywanie posiłków
 - Odpadki i śmieci
 - Przykładowy rozkład dnia astronautów na Międzynarodowej Stacji Kosmicznej
+- Spędzanie wolnego czasu
 - Sytuacje awaryjne na międzynarodowej stacji kosmicznej
     - Pożar
     - Problemy medyczne członków załogi
@@ -226,6 +230,6 @@ layout: thesis-polish
 
 ## Statystyki i wykresy
 
-## Bibliografia
-
 ## Słownik Pojęć
+
+## Bibliografia
