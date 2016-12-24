@@ -26,6 +26,9 @@ language: polish
 
 ## Urządzenia do utrzymania kondycji i sprawnośi fizycznej
 
+<!-- TODO: http://www.asc-csa.gc.ca/eng/astronauts/living-in-space/physical-activity-in-space.asp
+-->
+
 ## Korzystanie z toalety
 
 ## Utrzymywanie higieny osobistej
@@ -79,7 +82,7 @@ astronauta asystant dla małżonka astronauty podczas startu, który pomaga w pi
 wykorystywanie canadaarm do oglladania statku
 symulacja manewru w symulatorze
 
-brak zasilania prądu na iss i na statkach, brak thermal protection, radiation  
+brak zasilania prądu na iss i na statkach, brak thermal protection, radiation
 space shuttle reentry angle 31 deg (nietypowy kąt wejścia)
 pressure in the space shuttle pressurized compartnent 14,7 psi
 dzień prze EVA STS-117 crew spent night in the aiir lock with 10.2 psi (plus maski z tlenem) by przygotować się
@@ -87,6 +90,12 @@ dzień prze EVA STS-117 crew spent night in the aiir lock with 10.2 psi (plus ma
 sytuacje awaryjne, np jak szycie powłoki testują w rękawicach wewnątrz statku, by wiedzieć że dadzą radę podczas EVA
 EVA training gdy czlonek straci przytomność
 trening EVA z obniżania ciśnienia w skafandrze (2.7 psi dla Leovova), depressure valve w skafandrach
+
+
+Mission Control has had to deliver very bad news to astronauts while they are in space and yes there are protocols for how to do such things. While in orbit, astronauts have had family members die, friends and colleagues die, and drastic other events occur. In each case, the crew has a dedicated support team including a flight surgeon that can properly convey the information and work with the crew to handle the news. Nowadays, the crew can also have direct telephone and videocon access to their families.
+
+https://www.quora.com/Has-Mission-Control-ever-had-to-deliver-very-bad-news-to-an-astronaut-while-they-were-in-space
+
 -->
 
 ### Pożar

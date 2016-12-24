@@ -8,12 +8,20 @@ language: polish
 <!--
 Pytania na selekcji na Astronautę
 
-- dlaczego chcesz zostać asteonautą
+- dlaczego chcesz zostać astronautą
     - Explore unknown
     - Scientific experiments
 - Czy myślałeś kiedyś aby zabić swoją matkę
 - Swoje mocne strony i jak je wykorzystujesz
 - Swoje słabe strony i jak nad nimi pracujesz
+
+http://www.asc-csa.gc.ca/eng/astronauts/how-to-become-an-astronaut/2009-recruitment-campaign.asp
+http://www.asc-csa.gc.ca/eng/astronauts/how-to-become-an-astronaut/requirements-and-conditions.asp
+http://www.asc-csa.gc.ca/eng/astronauts/how-to-become-an-astronaut/process-2016.asp
+http://www.asc-csa.gc.ca/eng/astronauts/faq.asp
+
+http://www.asc-csa.gc.ca/eng/astronauts/how-to-become-an-astronaut/default.asp
+http://www.asc-csa.gc.ca/eng/astronauts/faq.asp#recruitment
 
 -->
 
@@ -79,6 +87,23 @@ Charakter pracy jako astronauta wymaga wysokiej aktywności kondycyjnej i dużej
 Sam proces treningu do spacerów kosmicznych (w basenie z doskonałą pływalnością) trwa sześć godzin, w trakcie którego astronauta wykonuje zadania pod wodą będąc umieszczonym w skafandrze. Każdy jednorazowy EVA (ang. Extra Cechicular Activity - spacer kosmiczny) w przestrzeni kosmicznej jest poprzedzony przynajmniej dwudziestokrotnym treningiem w środowisku symulującym stan nieważkości w basenie przy użyciu ciężarów i wyporników nadających skafandrowi kosmicznemu cechę neutralnego unoszenia się.
 
 Kandydacji którzy biorą udział w rekrutacji muszą być zdolni do wytrzymywania zadanych obciążeń i dużego wysiłku fizycznego. Umiejętności te wymagają wieloletniego przygotowania kondycyjno-wytrzymałościowego i są oceniane przez komisję rekrutacyjną.
+
+<!-- TODO:
+http://www.asc-csa.gc.ca/eng/astronauts/faq.asp
+
+It is essential for astronauts to be able to swim, tread water and swim underwater.
+
+During their basic training, astronauts participate in training to prepare them for spacewalks and space missions. As this training often takes place underwater, scuba diving certification is necessary.
+
+In addition, astronauts in training are required to fly jets. To do so, they must successfully complete a military aquatic survival course.
+
+During the recruitment campaign evaluations, applicants will be required to take a swimming test and demonstrate the following abilities:
+
+Swim at least 250 metres in 10 minutes;
+Tread water for at least 10 minutes;
+Swim at least 15 metres underwater.
+
+-->
 
 ### Selekcja medyczna
 

@@ -15,7 +15,7 @@ Jednym z najcięższych elementów pracy astronauty jest wyjście w przestrzeń 
 
 ## Elementy skafandra EMU
 <!-- TODO: EMU
-Downing - zakładanie stroju EMU
+Donning - zakładanie stroju EMU
 Doffing - ściąganie stroju EMU
 -  total suit weighs about 275 lbs
 -->

@@ -7,6 +7,32 @@ language: polish
 
 <!--
 Astronaut Pilots and Commanders are a breed apart, as are Test Pilots.  These are people with total control over their emotions and reactions, rarely if ever flustered.  If you've watched test pilots flying aircraft in Air Shows, and seen planes literally come apart and the pilot stays seemingly forever in the cockpit, before a last ditch ejection, then you know the kind of people I'm talking about.  I have flown simulations with Astronauts and they really do have ice water running through their veins.  Nothing rattles them.  They do not have a death wish, but they face every situation, including the toughest ones, with a calm that's nearly impossible to believe.
+
+http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/basic-training.asp
+Canadian Astronaut Basic training covers many subjects, including:
+CSA orientation
+History of space flight
+Fundamentals of space flight
+Space operations and procedures
+International Space Station systems
+Life science
+Materials and fluid science
+Earth observation
+Space science
+Robotics
+Human behaviour and performance
+Flight training
+Parachute jumps
+Physical training
+First aid and CPR
+Language training (e.g. learning Russian)
+Operation of photographic equipment
+Media relations
+Survival training
+
+http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/flight-training.asp
+http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/ongoing-training.asp
+
 -->
 
 ## Przygotowanie psychologiczne, kondycyjne i medyczne

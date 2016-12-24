@@ -78,4 +78,6 @@ Z przyczyn zdrowotnych Deke Slayton został zdyskwalifikowany z udziału w progr
 
 ### Program Intercosmos i lot generała Hermaszewskiego
 
+http://www.spacepatches.nl/salyut_frame.html
+
 ### Stacja kosmiczna Mir

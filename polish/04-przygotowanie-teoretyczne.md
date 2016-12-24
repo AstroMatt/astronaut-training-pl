@@ -36,6 +36,8 @@ language: polish
 - nauka lotu w nieważkości (Zero-G Flight) - Vomit Commet
 - NBL: trenowanie napraw ISS
 
+http://www.crewpatches.com/crewpatches_betacloth.shtml
+
 > If your not pushing, you’ll roll backwards.
 > Same with fitness and same goes with education.
 > -- Astronaut Victor Glover

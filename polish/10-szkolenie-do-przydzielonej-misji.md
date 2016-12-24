@@ -49,6 +49,8 @@ Odznaka skrzydeł na piersi:
 - Astronauci nie znają systemu dlaczego są przypisywani do misji
 - Wcześniej byli Piloci i po drugiej stronie Mission Specialiści, czasami pojawiali się po środku Payload Specjaliści, ale już tego nie ma każdy na stacji jest Flight Engineerem
 - Long Duration space flight, you have to be a jack of all traits
+
+https://en.wikipedia.org/wiki/Astronaut_badge
 -->
 
 ### Commander
