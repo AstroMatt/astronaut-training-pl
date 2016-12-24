@@ -117,7 +117,7 @@ Ponadto jednym z kluczowych wskaźników jest także wzrost. Osoby niższe są b
 | Szerokość ud                         | do 41        | cm        |
 | Obwód klatki piersiowej              | brak wymagań | cm        |
 
-**Tabela wybranych parametrów członków załogi statku kosmicznego Soyuz TM (zmodyfikowany po czerwcu 1999){% bibliography "Soyuz - A Universal Spacecraft" %}**
+**Tabela 3.1. - wybrane parametry członków załogi statku kosmicznego Soyuz TM (zmodyfikowany po czerwcu 1999){% bibliography "Soyuz - A Universal Spacecraft" %}**
 
 
 | Parametr      | NASA                                                                                        | Roscosmos | ESA                                                                              |
@@ -129,7 +129,7 @@ Ponadto jednym z kluczowych wskaźników jest także wzrost. Osoby niższe są b
 | Wykształcenie |                                                                                             |           | min. poziom licencjat lub inżynier (nauki przyrodnicze, inżynieria lub medycyna) |
 | Wzrok         | 20/20 w każdym oku (dopuszczalna korekcja), 20/200 widzenie dalekie (dopuszczalna korekcja) |           |                                                                                  |
 
-**Tabela parametrów medycznych kandydatów na astronautów {% bibliography "NASA Astronaut Requirements" %}{% bibliography "ESA Astronaut Training Requirements" %}**
+**Tabela 3.2. - parametry medycznye kandydatów na astronautów {% bibliography "NASA Astronaut Requirements" %}{% bibliography "ESA Astronaut Training Requirements" %}**
 
 Powyższe parametry są weryfikowane podczas badań medycznych w procesie selekcji astronautów wykorzystując {% bibliography "ESA Astronaut Training Requirements" %}:
 
@@ -208,7 +208,7 @@ Amerykańska agencja kosmiczna NASA organizuje rekrutację na kandydata na astro
 | 2009 | 20    | "The Chumps"                                                                                 |
 | 2013 | 21    | "The 8-Balls"                                                                                |
 
-**Tabela 3. - Dotychczasowe selekcje astronautów NASA {% bibliography "Active NASA Astronauts" %}{% bibliography "Inactive NASA Astronauts" %}**
+**Tabela 3.3. - Dotychczasowe selekcje astronautów NASA {% bibliography "Active NASA Astronauts" %}{% bibliography "Inactive NASA Astronauts" %}**
 
 | Astronauta              | Rok naboru | Grupa |
 |:------------------------|:-----------|:------|
@@ -260,7 +260,7 @@ Amerykańska agencja kosmiczna NASA organizuje rekrutację na kandydata na astro
 | Wilmore, Barry E.       | 2000       | 18    |
 | Wiseman, G. Reid        | 2009       | 20    |
 
-**Tabela 4. - Lista aktywnych astronautów NASA {% bibliography "Active NASA Astronauts" %}**
+**Tabela 3.4. - Lista aktywnych astronautów NASA {% bibliography "Active NASA Astronauts" %}**
 
 ### Roscosmos (Federacja Rosyjska)
 
@@ -286,7 +286,7 @@ Jednym z warunków bycia astronautą ESA jest aby państwo narodowości kandydat
 | Hans Schlegel          | Niemcy          | 1998       | 22d 18h 02m     | STS-55, STS-122                                                       |
 | Roberto Vittori        | Włochy          | 1998       | 35d 12h 26m     | Soyuz TM-34, Soyuz TM-33, Soyuz TMA-6, Soyuz TMA-5, STS-134           |
 
-**Tabela 5 - Lista aktywnych astronautów ESA {% bibliography "European Astronaut Corps" %}**
+**Tabela 3.5. - Lista aktywnych astronautów ESA {% bibliography "European Astronaut Corps" %}**
 
 ### JAXA - Japońska Agencja Eksploracji Kosmicznej
 

@@ -5,15 +5,13 @@ language: polish
 
 # Powrót na Ziemię
 <!-- TODO: Miejsca lądowania
-
-- “Agreement on the Rescue of Astronauts, the Return of Astronauts and the Return of Objects Launched into Outer Space”
+- "Agreement on the Rescue of Astronauts, the Return of Astronauts and the Return of Objects Launched into Outer Space"
 - http://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/introrescueagreement.html
-
-
 -->
 
 ## Przygotowanie do powrotu na Ziemię
-<!-- TODO: Astronauci wydłużają sie o 5-7 cm i maja problemy z mieszczeniem sie w swoje Custom made siedzenia w soyuzie
+<!-- TODO: Przygotowanie do powrotu na Ziemię
+- Astronauci wydłużają sie o 5-7 cm i maja problemy z mieszczeniem sie w swoje Custom made siedzenia w soyuzie
 - Space Shuttle Wystawiała kółka by się rozgrzały
 -->
 
@@ -34,11 +32,9 @@ language: polish
 ## Czynności astronautów bezpośrednio po wylądowaniu
 
 ### Badania medyczne - wzrok, układ ruchu i krążenia
-<!-- TODO:
-W kosmosie układ odpornościowy jest znacznie osłabiony i dużo bardziej podatny na infekcje
-
-Układ kostny osłabiony przez środowisko mikrograwitacji musi przetrzymać duże przeciążenie przy reentry a pózniej przez najbliższe dni na ziemi
-
+<!-- TODO: Badania medyczne
+- W kosmosie układ odpornościowy jest znacznie osłabiony i dużo bardziej podatny na infekcje
+- Układ kostny osłabiony przez środowisko mikrograwitacji musi przetrzymać duże przeciążenie przy reentry a pózniej przez najbliższe dni na ziemi
 - serce musi się przystosować do pompowania krwi w grawitacji
 - Podwyższone tętno
 - Uczucie słabości w nogach jak po przebiegnięciu maratonu

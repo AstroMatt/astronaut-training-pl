@@ -9,7 +9,7 @@ Do podstawowych zadań skafandra należą:
 - ochrona przed ektremalnym środowiskiem kosmosu,
 - ochrona przed brakiem ciśnienia (próżnią),
 - ochrona przed mikrometeorytami,
-- ochrona termiczna przed fluktuacją temperatury od -233C do +121C,
+- ochrona termiczna przed fluktuacją temperatury od -156C do +121C,
 - ochrona przed radiacją,
 - ochrona przed promieniowaniem ultrafioletowym,
 
@@ -111,7 +111,7 @@ Astronauci nie zawsze chcą wszystko raportować, na wszelki wypadek, bo nie s�
 
 ### Insygnia oraz naszywki
 <!-- TODO: EVA Mission patch
-That is the EVA insignia patch.  It is the symbol used by the team responsible for the suits.  It is a space age representation of Leonardo daVinci's Vitruvian man.  The five stars represent the five NASA programs that have utilized EVA (Extravehicular Activity).
+- That is the EVA insignia patch.  It is the symbol used by the team responsible for the suits.  It is a space age representation of Leonardo daVinci's Vitruvian man.  The five stars represent the five NASA programs that have utilized EVA (Extravehicular Activity).
 -->
 ## Lista skafandrów kosmicznych
 
@@ -119,20 +119,20 @@ That is the EVA insignia patch.  It is the symbol used by the team responsible f
 <!-- TODO: sprawdzić datę Shenzhou 5 i 7 i dopisać do Haiying oraz Haiying IVA -->
 <!-- TODO: sprawdzić MACES -->
 
-| Nazwa                     | Przeznaczenie | Produkcja | Lata użycia    | Program       | Uwagi                                  |
-|:--------------------------|:--------------|:----------|:---------------|:--------------|:---------------------------------------|
-| SK                        | IVA           | ZSSR      | 1961 - 1963    | Wostok        | Yuri Gagarin, pierwszy skafander       |
-| Mark IV                   | IVA           | USA       | 1961 - 1963    | Mercury       |                                        |
-| Gemini G3C                | IVA           | USA       | 1965 - 1966    | Gemini        |                                        |
-| Gemini G4C                | IVA i EVA     | USA       | 1965 - 1966    | Gemini        | użyty zarówno do IVA i EVA             |
-| Gemini G5C                | IVA           | USA       | 1965 - 1966    | Gemini        | używany przez 14 dni podczas Gemini 7, |
-| Sokol                     | IVA           | ZSSR      | 1973 - obecnie | Soyuz         |                                        |
-| Ejection Escape Suit      | IVA           | USA       | 1981 - 1982    | Space Shuttle | używany przy pierwszych lotach         |
-| Launch Entry Suit         | IVA           | USA       | 1988 - 1998    | Space Shuttle |                                        |
-| Strizh                    | IVA           | ZSSR      | 1988           | Buran         |                                        |
-| Advanced Crew Escape Suit | IVA           | USA       | 1994 - 2014    | Space Shuttle |                                        |
-| Shenzhou IVA              | IVA           | Chiny     |                | Shenzhou      |                                        |
-| MACES                     | USA           |           |                | Orion         | użyty zarówno do IVA i EVA             |
+| Nazwa                     | Przeznaczenie | Produkcja | Lata użycia    | Program       | Uwagi                                 |
+|:--------------------------|:--------------|:----------|:---------------|:--------------|:--------------------------------------|
+| SK                        | IVA           | ZSSR      | 1961 - 1963    | Wostok        | Yuri Gagarin, pierwszy skafander      |
+| Mark IV                   | IVA           | USA       | 1961 - 1963    | Mercury       |                                       |
+| Gemini G3C                | IVA           | USA       | 1965 - 1966    | Gemini        |                                       |
+| Gemini G4C                | IVA i EVA     | USA       | 1965 - 1966    | Gemini        | użyty zarówno do IVA i EVA            |
+| Gemini G5C                | IVA           | USA       | 1965 - 1966    | Gemini        | używany przez 14 dni podczas Gemini 7 |
+| Sokol                     | IVA           | ZSSR      | 1973 - obecnie | Soyuz         |                                       |
+| Ejection Escape Suit      | IVA           | USA       | 1981 - 1982    | Space Shuttle | używany przy pierwszych lotach        |
+| Launch Entry Suit         | IVA           | USA       | 1988 - 1998    | Space Shuttle |                                       |
+| Strizh                    | IVA           | ZSSR      | 1988           | Buran         |                                       |
+| Advanced Crew Escape Suit | IVA           | USA       | 1994 - 2014    | Space Shuttle |                                       |
+| Shenzhou IVA              | IVA           | Chiny     | 2005           | Shenzhou      | użyty podczas Shenzhou 5              |
+| MACES                     | USA           |           |                | Orion         | użyty zarówno do IVA i EVA            |
 
 **Tabela 8.1 - zestawienie skafandrów do czynności podczas startu i lądowania IVA (ang. Intravehicular Activity)**
 
@@ -146,13 +146,13 @@ That is the EVA insignia patch.  It is the symbol used by the team responsible f
 | Apollo Block 1 A1C           | USA       | 1966 - 1967    | Apollo                    | zaprzestano użycia po pożarze Apollo 1 |
 | MH-7                         | USA       | -              | Manned Orbital Laboratory | nigdy nie użyty                        |
 | Shuguang                     | Chiny     | 1967           | Project 714               | nigdy nie użyty                        |
-| Project 863                  | Chiny     | -              |                           | nigdy nie użyty                        |
+| Project 863                  | Chiny     | -              | -                         | nigdy nie użyty                        |
 | Apollo / Skylab A7L          | USA       | 1968 - 1975    | Apollo, Skylab            |                                        |
 | Yasterb                      | ZSSR      | 1969           | Soyuz 4 i 5               |                                        |
 | Orlan                        | ZSSR      | 1977 - obecnie | Soyuz, Mir, ISS           |                                        |
 | Extravehicular Mobility Unit | USA       | 1982 - obecnie | Space Shuttle, ISS        |                                        |
-| Haiying                      | Chiny     | 2007           | Shenzhou                  | użyty podczas Shenzhou 7               |
-| Feitian                      | Chiny     | 2007 - obecnie | Shenzhou                  | używany od Shenzhou 7                  |
+| Haiying                      | Chiny     | 2008           | Shenzhou                  | Orlan M, użyty podczas Shenzhou 7      |
+| Feitian                      | Chiny     | 2008 - obecnie | Shenzhou                  | używany od Shenzhou 7                  |
 | MACES                        | USA       |                | Orion                     | użyty zarówno do IVA i EVA             |
 
 **Tabela 8.2 - zestawienie skafandrów do spacerów kosmicznych EVA (ang. Extravehicular Activity)**
@@ -168,10 +168,8 @@ That is the EVA insignia patch.  It is the symbol used by the team responsible f
 
 ### Charakterystyka skafandra ACES i MACES
 <!-- TODO: Charakterystyka skafandra MACES
-
-MACES (Modified Advanced Crew Escape Suit) is a work in progress. It is a suit intended for use in Orion. Because of mass and volume constraints, NASA wanted to be able to use ACES (the suit intended for ascent and entry during Space Shuttle missions) both for ascent/entry periods of Orion missions and also for EVA (space walks). MACES, therefore, is a hybrid of the orange Space Shuttle escape suit and the white ISS EVA suit.
-
-The suit has a new cooling garment and new bearings in the joints. It also uses the gloves and boots from the ISS EVA suit (EMU). It looks like it will be suitable for EVAs up to about four hours. And, since that is a much longer period that the crew have to keep the visor closed while in the vehicle, a drink bag has also been added.
+- MACES (Modified Advanced Crew Escape Suit) is a work in progress. It is a suit intended for use in Orion. Because of mass and volume constraints, NASA wanted to be able to use ACES (the suit intended for ascent and entry during Space Shuttle missions) both for ascent/entry periods of Orion missions and also for EVA (space walks). MACES, therefore, is a hybrid of the orange Space Shuttle escape suit and the white ISS EVA suit.
+- The suit has a new cooling garment and new bearings in the joints. It also uses the gloves and boots from the ISS EVA suit (EMU). It looks like it will be suitable for EVAs up to about four hours. And, since that is a much longer period that the crew have to keep the visor closed while in the vehicle, a drink bag has also been added.
 -->
 
 ### Charakterystyka skafandra EMU

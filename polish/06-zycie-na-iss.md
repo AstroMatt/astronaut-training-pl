@@ -37,36 +37,28 @@ They live on Greenwich time (GMT), the Coordinated Universal Time (UTC). It's a 
 ## Korzystanie z toalety
 
 ## Utrzymywanie higieny osobistej
-
-<!-- TODO:
-http://www.asc-csa.gc.ca/eng/astronauts/living-in-space/personal-hygiene-in-space.asp
-
-http://www.asc-csa.gc.ca/eng/astronauts/faq.asp#details_39
-Do female astronauts get their period in space?
-Yes, female astronauts get their period in space just like they do on Earth. No menstrual problems have been associated with living in microgravity.
-
-In the early years of human space flight, some worried that women would not have their periods safely in microgravity. They thought that microgravity might cause menstrual fluid to travel upwards into the body instead of out of it – also called retrograde menstrual flow. This would mean that blood would flow from the uterine cavity into the fallopian tubes and then into the pelvis and abdomen, causing pain and increasing the risk for endometriosis. While this has not been observed in past space missions, more studies are needed to better understand how the body works and reacts to microgravity.
-
-For a variety of reasons, however, many female astronauts prefer to take low-dose oral contraceptives in a continuous fashion to reduce or stop menses during a long-duration mission; therefore, accumulating information on natural menstrual cycles in space is expected to take several years.
+<!-- TODO: Utrzymywanie higieny osobistej
+- http://www.asc-csa.gc.ca/eng/astronauts/living-in-space/personal-hygiene-in-space.asp
+- http://www.asc-csa.gc.ca/eng/astronauts/faq.asp#details_39
+- Do female astronauts get their period in space? Yes, female astronauts get their period in space just like they do on Earth. No menstrual problems have been associated with living in microgravity.
+- In the early years of human space flight, some worried that women would not have their periods safely in microgravity. They thought that microgravity might cause menstrual fluid to travel upwards into the body instead of out of it – also called retrograde menstrual flow. This would mean that blood would flow from the uterine cavity into the fallopian tubes and then into the pelvis and abdomen, causing pain and increasing the risk for endometriosis. While this has not been observed in past space missions, more studies are needed to better understand how the body works and reacts to microgravity.
+- For a variety of reasons, however, many female astronauts prefer to take low-dose oral contraceptives in a continuous fashion to reduce or stop menses during a long-duration mission; therefore, accumulating information on natural menstrual cycles in space is expected to take several years.
 -->
 
 ## Ubrania
-
-<!-- TODO:
-http://www.asc-csa.gc.ca/eng/astronauts/faq.asp#details_36
-How do astronauts wash their clothes in space?
-They don't! It would take too much water on board the International Space Station.
-
-Astronauts wear their clothes until they are too dirty and then throw them out in a re-supply ship, which burns in the atmosphere on re-entry.
+<!-- TODO: Ubrania
+- http://www.asc-csa.gc.ca/eng/astronauts/faq.asp#details_36
+- How do astronauts wash their clothes in space?
+- They don't! It would take too much water on board the International Space Station.
+- Astronauts wear their clothes until they are too dirty and then throw them out in a re-supply ship, which burns in the atmosphere on re-entry.
 -->
-
 
 ## Przygotowywanie i spożywanie posiłków
 
 ## Odpadki i śmieci
 
 ## Przykładowy rozkład dnia astronautów na Międzynarodowej Stacji Kosmicznej
-<!-- TODO:
+<!-- TODO: Przykładowy rozkład dnia
 - Science and Technology
 - Praca
     - rozpoczęcie pracy 7:30
@@ -84,23 +76,17 @@ Astronauts wear their clothes until they are too dirty and then throw them out i
 -->
 
 ## Spędzanie wolnego czasu
-
 <!-- TODO: Spędzanie wolnego czasu
-
 - gra na instrumentach
 - telekonferencja z rodziną
 - obserwowanie Ziemii z Cupoli
 - fotografowanie
 - udzielanie się na social media
-
-
 -->
 
 ## Sytuacje awaryjne na międzynarodowej stacji kosmicznej
-
 <!-- TODO: Tzw. Off-nominal situations.
-
-Off nominal situations
+- Off nominal situations
 - electronic sysyems failure
 - Vhf radio system failure
 - Smart switch router Brie ASU system failure (cieżko tłumaczki się słuchało)
@@ -109,34 +95,24 @@ Off nominal situations
 - leak seals
 - tank leaking
 - Soyus leaking
-
-Russian segment training
-- Fire
-- Depressurization
-
-używanie kolejnego modułu jako backup airlock
-thermal stress (kiedy jest gorąco, np niedzialająca klima w skafandrze
-plucie na zamgloną szybkę hełmu EMU
-
-astronauta asystant dla małżonka astronauty podczas startu, który pomaga w pierwszych momentach bycia wdową gdyby cooś poszło nie tak
-
-wykorystywanie canadaarm do oglladania statku
-symulacja manewru w symulatorze
-
-brak zasilania prądu na iss i na statkach, brak thermal protection, radiation
-space shuttle reentry angle 31 deg (nietypowy kąt wejścia)
-pressure in the space shuttle pressurized compartnent 14,7 psi
-dzień prze EVA STS-117 crew spent night in the aiir lock with 10.2 psi (plus maski z tlenem) by przygotować się
-
-sytuacje awaryjne, np jak szycie powłoki testują w rękawicach wewnątrz statku, by wiedzieć że dadzą radę podczas EVA
-EVA training gdy czlonek straci przytomność
-trening EVA z obniżania ciśnienia w skafandrze (2.7 psi dla Leovova), depressure valve w skafandrach
-
-
-Mission Control has had to deliver very bad news to astronauts while they are in space and yes there are protocols for how to do such things. While in orbit, astronauts have had family members die, friends and colleagues die, and drastic other events occur. In each case, the crew has a dedicated support team including a flight surgeon that can properly convey the information and work with the crew to handle the news. Nowadays, the crew can also have direct telephone and videocon access to their families.
-
-https://www.quora.com/Has-Mission-Control-ever-had-to-deliver-very-bad-news-to-an-astronaut-while-they-were-in-space
-
+- Russian segment training
+    - Fire
+    - Depressurization
+- używanie kolejnego modułu jako backup airlock
+- thermal stress (kiedy jest gorąco, np niedzialająca klima w skafandrze
+- plucie na zamgloną szybkę hełmu EMU
+- astronauta asystant dla małżonka astronauty podczas startu, który pomaga w pierwszych momentach bycia wdową gdyby cooś poszło nie tak
+- wykorystywanie canadaarm do oglladania statku
+- symulacja manewru w symulatorze
+- brak zasilania prądu na iss i na statkach, brak thermal protection, radiation
+- space shuttle reentry angle 31 deg (nietypowy kąt wejścia)
+- pressure in the space shuttle pressurized compartnent 14,7 psi
+- dzień prze EVA STS-117 crew spent night in the aiir lock with 10.2 psi (plus maski z tlenem) by przygotować się
+- sytuacje awaryjne, np jak szycie powłoki testują w rękawicach wewnątrz statku, by wiedzieć że dadzą radę podczas EVA
+- EVA training gdy czlonek straci przytomność
+- trening EVA z obniżania ciśnienia w skafandrze (2.7 psi dla Leovova), depressure valve w skafandrach
+- Mission Control has had to deliver very bad news to astronauts while they are in space and yes there are protocols for how to do such things. While in orbit, astronauts have had family members die, friends and colleagues die, and drastic other events occur. In each case, the crew has a dedicated support team including a flight surgeon that can properly convey the information and work with the crew to handle the news. Nowadays, the crew can also have direct telephone and videocon access to their families.
+- https://www.quora.com/Has-Mission-Control-ever-had-to-deliver-very-bad-news-to-an-astronaut-while-they-were-in-space
 -->
 
 ### Pożar
@@ -154,8 +130,7 @@ https://www.quora.com/Has-Mission-Control-ever-had-to-deliver-very-bad-news-to-a
 ### Awaria systemu uzdatniania wody
 
 ### Awaria toalety
-
-<!-- TODO:
+<!-- TODO: Awaria toalety
 - Tekst z aircrafts systems Engineering o umieszczeniu toalety na suficie
 -->
 

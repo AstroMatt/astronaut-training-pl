@@ -8,7 +8,8 @@ language: polish
 ## Korzystanie z manipulatora Canada Arm 2
 
 ### Dokowanie statków kosmicznych
-<!-- Canada Arm 2
+<!-- TODO: Dokowanie statków kosmicznych
+- Za pomocą Canada Arm 2
 - ATV
 - Dragon
 - Progress

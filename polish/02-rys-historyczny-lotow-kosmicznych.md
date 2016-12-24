@@ -50,7 +50,7 @@ Amerykańską odpowiedzią był program *Mercury*. W trakcie programu wybrano si
 | Gordon Cooper   | Faith 7          | 1963-05-15        | 1 d 10 h 19 m 49 s |
 | Deke Slayton    | Apollo-Soyuz     | 1974-07-15        | 5 d 22 h 30 m      |
 
-**Tabela 2. - Astronauci programu Mercury**
+**Tabela 2.1. - Astronauci programu Mercury**
 
 Z przyczyn zdrowotnych Deke Slayton został zdyskwalifikowany z udziału w programie i uziemiony. Przez trzynaście lat po locie Sheparda Slayton był szefem *Astronauts Office* i wziął udział w ostatnim locie programu *Apollo - Apollo-Souyz*.
 
@@ -78,7 +78,7 @@ Z przyczyn zdrowotnych Deke Slayton został zdyskwalifikowany z udziału w progr
 
 ### Program Intercosmos i lot generała Hermaszewskiego
 <!-- TODO: Program Intercosmos i lot generała Hermaszewskiego
-http://www.spacepatches.nl/salyut_frame.html
+- http://www.spacepatches.nl/salyut_frame.html
 -->
 
 ### Stacja kosmiczna Mir

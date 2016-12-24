@@ -37,7 +37,7 @@
 - line 119: sprawdzić MACES
 
 ## Spacery Kosmiczne
-- line 141: nazwa rosyjskiego basenu
+- line 137: nazwa rosyjskiego basenu
 
 ## Pilotaz
 

@@ -4,57 +4,50 @@ language: polish
 ---
 
 # Treningi i symulacje
-
-<!--
-Astronaut Pilots and Commanders are a breed apart, as are Test Pilots.  These are people with total control over their emotions and reactions, rarely if ever flustered.  If you've watched test pilots flying aircraft in Air Shows, and seen planes literally come apart and the pilot stays seemingly forever in the cockpit, before a last ditch ejection, then you know the kind of people I'm talking about.  I have flown simulations with Astronauts and they really do have ice water running through their veins.  Nothing rattles them.  They do not have a death wish, but they face every situation, including the toughest ones, with a calm that's nearly impossible to believe.
-
-http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/basic-training.asp
-Canadian Astronaut Basic training covers many subjects, including:
-CSA orientation
-History of space flight
-Fundamentals of space flight
-Space operations and procedures
-International Space Station systems
-Life science
-Materials and fluid science
-Earth observation
-Space science
-Robotics
-Human behaviour and performance
-Flight training
-Parachute jumps
-Physical training
-First aid and CPR
-Language training (e.g. learning Russian)
-Operation of photographic equipment
-Media relations
-Survival training
-
-http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/flight-training.asp
-http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/ongoing-training.asp
-
+<!-- TODO: Treningi i symulacje
+- Astronaut Pilots and Commanders are a breed apart, as are Test Pilots.  These are people with total control over their emotions and reactions, rarely if ever flustered.  If you've watched test pilots flying aircraft in Air Shows, and seen planes literally come apart and the pilot stays seemingly forever in the cockpit, before a last ditch ejection, then you know the kind of people I'm talking about.  I have flown simulations with Astronauts and they really do have ice water running through their veins.  Nothing rattles them.  They do not have a death wish, but they face every situation, including the toughest ones, with a calm that's nearly impossible to believe.
+- http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/basic-training.asp
+- Canadian Astronaut Basic training covers many subjects, including:
+    - CSA orientation
+    - History of space flight
+    - Fundamentals of space flight
+    - Space operations and procedures
+    - International Space Station systems
+    - Life science
+    - Materials and fluid science
+    - Earth observation
+    - Space science
+    - Robotics
+    - Human behaviour and performance
+    - Flight training
+    - Parachute jumps
+    - Physical training
+    - First aid and CPR
+    - Language training (e.g. learning Russian)
+    - Operation of photographic equipment
+    - Media relations
+    - Survival training
+- http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/flight-training.asp
+- http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/ongoing-training.asp
 -->
 
 ## Przygotowanie psychologiczne, kondycyjne i medyczne
 
 ### Przygotowanie medyczne
-
-<!-- TODO:
-http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/ongoing-training.asp
-Given all of the risks involved in space missions and the requirements of certain scientific experiments, the astronauts must be able to perform medical interventions if necessary, such as:
-
-drawing blood
-ultrasounds
-cardio-pulmonary resuscitation
-sutures
+<!-- TODO: Przygotowanie medyczne
+- http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/ongoing-training.asp
+- Given all of the risks involved in space missions and the requirements of certain scientific experiments, the astronauts must be able to perform medical interventions if necessary, such as:
+    - drawing blood
+    - ultrasounds
+    - cardio-pulmonary resuscitation
+    - sutures
 -->
 
 ### Przygotowanie dentystyczne
 <!-- TODO:
-http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/ongoing-training.asp
-In 1973, cosmonaut Yuri Romanenko experienced tooth pain during the Salyut 6 mission. He suffered for two weeks until the crew returned to Earth! Since then, astronauts have received training in dentistry.
+- http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/ongoing-training.asp
+- In 1973, cosmonaut Yuri Romanenko experienced tooth pain during the Salyut 6 mission. He suffered for two weeks until the crew returned to Earth! Since then, astronauts have received training in dentistry.
 -->
-
 
 ### Ćwiczenia kondycyjne i badania wydolności organizmu
 
@@ -79,8 +72,7 @@ In 1973, cosmonaut Yuri Romanenko experienced tooth pain during the Salyut 6 mis
     - graduation of national outdoor leadership school, Orlando, Wyoming (hike 8 days and 8 nights)
         - east temple peak
         - walking up to the peak holding hands z innymi
-
-Tzw. survival training
+- Tzw. survival training
 - kiedy takie sytuacje mogą wystąpić?
 - desert training
 - water training
@@ -101,21 +93,19 @@ Tzw. survival training
 
 ### Misje NEEMO
 <!-- TODO: NEEMO
-Key West, Florida
-
-Day 1
-- zapoznanie z wodą
-- nurkowanie w rafie koralowej
-- nauka nurkowania
-
-Day 2
-- zapoznanie ze sprzętem, hełm
+- Key West, Florida
+- Day 1
+    - zapoznanie z wodą
+    - nurkowanie w rafie koralowej
+    - nauka nurkowania
+- Day 2
+    - zapoznanie ze sprzętem, hełm
 -->
 
 ## Symulacja pracy w środowisku mikrograwitacji
 
 ### Urządzenia symulujące obiżoną grawitację
-<!-- TODO: Sim
+<!-- TODO: Urządzenia symulujące obiżoną grawitację
 - liny (z programu apollo)
 - urządzenie na którym trenował Ed White poruszanie się w kosmosie
 -  MAT Multi Axial Trainer
@@ -127,6 +117,10 @@ Day 2
 ### Loty paraboliczne symulujące stan nieważkości
 <!-- TODO: Loty paraboliczne symulujące stan nieważkości
 - (Zero-G Flight) - Vomit Commet
+- Poprzenie samoloty wykorzystywane przez NASA
+- Zero-G corp Boeing 727
+- Samoloty wykorzystywane przez Ruskich
+- ESA samolot
 -->
 
 ## Sytuacje awaryjne
@@ -136,10 +130,10 @@ Day 2
 
 ### Przygotowanie do wyławiania z oceanu
 <!-- TODO: Przygotowanie do wyławiania z oceanu
-Przy szkoleniu wodnym, opuszczanie kapsuły w wodzie są dwie opcje
-- w skafandrze wodnym suchym (zdążyli się przebrać)
-- Awaryjne w skafandrze Sokol
-Odpalanie racy i dmuchanie jacketów jak nurkowie
+- Przy szkoleniu wodnym, opuszczanie kapsuły w wodzie są dwie opcje
+    - w skafandrze wodnym suchym (zdążyli się przebrać)
+    - Awaryjne w skafandrze Sokol
+- Odpalanie racy i dmuchanie jacketów jak nurkowie
 -->
 
 ### Awaryjne opuszczanie platformy startowej

@@ -145,6 +145,7 @@ layout: thesis-polish
 ## Wyjścia astronautów w przestrzeń kosmiczną
 - Zaznajomienie się ze skafandrem
 - Przygotowanie do przeprowadzenia wyjścia w przestrzeń
+- Role podczas EVA
 - Procedury po powrocie z EVA
 - Wykorzystywanie specjalistycznych narzędzi
 - Symulacja prac w basenie doskonałej pływalności
@@ -153,7 +154,7 @@ layout: thesis-polish
     - Rosyjski basen trenowania
 - Instalacja i naprawa systemów ISS
 - Komunikacja podczas spacerów kosmicznych
-- Systemy medyczne stosowane podczas EVA
+- Systemy biomedyczne stosowane podczas EVA
 - Wsparcie kontroli misji
 - EVA na powierzchni innych ciał niebieskich
     - EVA na powierzchni Księżyca
@@ -162,7 +163,7 @@ layout: thesis-polish
 - Wykorzystywanie pojazdów
 - Sytuacje awaryjne
     - Systemy awaryjne skafandra
-    - procedury bezpieczeństwa
+    - Procedury bezpieczeństwa
 
 ## Pilotaż
 - Samolotów odrzutowych
