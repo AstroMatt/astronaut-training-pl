@@ -118,20 +118,32 @@ layout: thesis-polish
 - Sterowanie robotami na Ziemii z orbity
 - Urządzenia wirtualnej rzeczywistości
 
-## Wyjścia astronautów w przestrzeń kosmiczną
-- Rodzaje skafandrów
-    - Launch and entry suits
-    - EVA suits
-- Zaznajomienie się ze skafandrem
-- Elementy skafandra EMU
-    - Naszywka
+## Charakterystyka skafandrów kosmicznych
+- Generalna charakterystyka skafandrów kosmicznych
     - Strój wewnątrz skafandra
+    - Systemy medyczne skafandra
     - Hełm
     - Tors
     - Ramiona i Rękawice
     - Nogi i Buty
-    - Plecak i SAFER
-- Utrzymywanie sprawnośni skafandra EMU
+    - Plecak z systemem podtrzymywania życia
+    - Zaczepy na narzędzia
+    - Naszywka
+- Lista skafandrów kosmicznych
+    - Skafandry kosmiczne wykorzystywane podczas startu i lądowania
+    - Skafandry kosmiczne wykorzystywane podczas wyjść w przestrzeń
+- Charakterystyka wybranych skafandrów kosminczych
+    - Charakterystyka skafandra Sokol
+    - Charakterystyka skafandra ACES i MACES
+    - Charakterystyka skafandra Orlan M, MK i MKS
+    - Charakterystyka skafandra EMU
+- Utrzymywanie sprawnośni skafandra
+- Systemy awaryjne skafandrów EVA
+    - SAFER
+- Augumentacja
+
+## Wyjścia astronautów w przestrzeń kosmiczną
+- Zaznajomienie się ze skafandrem
 - Przygotowanie do przeprowadzenia wyjścia w przestrzeń
 - Procedury po powrocie z EVA
 - Wykorzystywanie specjalistycznych narzędzi
@@ -148,7 +160,6 @@ layout: thesis-polish
     - EVA na powierzchni planet
     - EVA na powierzchni asteroid
 - Wykorzystywanie pojazdów
-- Augumentacja
 - Sytuacje awaryjne
     - Systemy awaryjne skafandra
     - procedury bezpieczeństwa

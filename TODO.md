@@ -19,10 +19,10 @@
 - line 37: źródło cytatu 2
 
 ## Selekcja Astronautow
-- line 48: Quote Needed
-- line 156: Quote Needed
-- line 190: Quote Needed
-- line 272: Quote Needed
+- line 57: Quote Needed
+- line 165: Quote Needed
+- line 199: Quote Needed
+- line 281: Quote Needed
 
 ## Przygotowanie Teoretyczne
 
@@ -32,8 +32,12 @@
 
 ## Systemy Robotyczne
 
+## Skafandry Kosmiczne
+- line 110: sprawdzić datę Shenzhou 5 i 7 i dopisać do Haiying oraz Haiying IVA
+- line 111: sprawdzić MACES
+
 ## Spacery Kosmiczne
-- line 315: nazwa basenu
+- line 152: nazwa basenu
 
 ## Pilotaz
 
