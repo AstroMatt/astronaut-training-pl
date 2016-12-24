@@ -71,6 +71,9 @@ http://www.crewpatches.com/crewpatches_betacloth.shtml
 ## Nauka języków obcych i przygotowanie kulturowe
 
 ### Nauka języka rosyjskiego
+<!-- TODO:
+- 1000h ćwiczeń zanim pojadą na szkolenie do Gwiezdnego Miasteczka w Rosji.
+-->
 
 ### Przygotowanie do pracy w wielokulturowym środowisku
 

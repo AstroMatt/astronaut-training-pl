@@ -17,6 +17,7 @@ language: polish
 
 ## Statku kosmicznego Soyuz
 <!-- TODO:
+- 790 godzin
 - dwa systemy odpalania bolców wybuchowych
     - automatyczny
     - zapasowy, gdy rozgrzeją się do dużej temperatury

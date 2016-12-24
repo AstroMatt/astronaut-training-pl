@@ -119,6 +119,7 @@ Day 2
 - liny (z programu apollo)
 - urządzenie na którym trenował Ed White poruszanie się w kosmosie
 -  MAT Multi Axial Trainer
+- vertical threadmill
 -->
 
 ### Test w wirówce na odporność organizmu na przeciążenia

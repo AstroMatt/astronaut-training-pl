@@ -10,8 +10,27 @@ Jednym z najcięższych elementów pracy astronauty jest wyjście w przestrzeń 
 - awaryjne,
 - na obcych ciałach niebieskich.
 
+## Rodzaje skafandrów
+
+### Launch and entry suits
+
+- Sokol
+- ACES (Advanced Crew Escape Suit)
+- MACES (Modified Advanced Crew Escape Suit)
+
+<!-- TODO:
+MACES (Modified Advanced Crew Escape Suit) is a work in progress. It is a suit intended for use in Orion. Because of mass and volume constraints, NASA wanted to be able to use ACES (the suit intended for ascent and entry during Space Shuttle missions) both for ascent/entry periods of Orion missions and also for EVA (space walks). MACES, therefore, is a hybrid of the orange Space Shuttle escape suit and the white ISS EVA suit.
+
+The suit has a new cooling garment and new bearings in the joints. It also uses the gloves and boots from the ISS EVA suit (EMU). It looks like it will be suitable for EVAs up to about four hours. And, since that is a much longer period that the crew have to keep the visor closed while in the vehicle, a drink bag has also been added.
+-->
 
 
+### EVA suits
+
+- Orlan
+- EMU
+
+## Zaznajomienie się ze skafandrem
 
 ## Elementy skafandra EMU
 <!-- TODO: EMU
@@ -288,6 +307,13 @@ EVA
 - Geografia terenu
 
 -->
+
+### Neutral Buoyancy Laboratory - NASA
+
+### Neutral Buoyancy Facility - ESA
+
+### Rosyjski basen trenowania
+<!-- TODO: nazwa basenu -->
 
 
 ## Instalacja i naprawa systemów ISS
