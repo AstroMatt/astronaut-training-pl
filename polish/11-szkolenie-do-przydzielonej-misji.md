@@ -19,10 +19,10 @@ language: polish
     - EVA
     - Robotics
     - Exploration branch, (GSDO) Ground Systems Development and Operations
-
-> Nasa didn't hire us to be Program Managers or Engineers… we are operators
-> -- Astronaut Victor Glover
 -->
+
+> Nasa didn't hire us to be Program Managers or Engineers - we are operators
+> -- Astronaut Victor Glover
 
 ## Nauka, badania i eksperymenty w środowisku mikrograwitacji
 
