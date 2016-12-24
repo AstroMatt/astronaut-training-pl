@@ -33,6 +33,7 @@
 ## Systemy Robotyczne
 
 ## Spacery Kosmiczne
+- line 315: nazwa basenu
 
 ## Pilotaz
 

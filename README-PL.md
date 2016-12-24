@@ -119,6 +119,10 @@ layout: thesis-polish
 - Urządzenia wirtualnej rzeczywistości
 
 ## Wyjścia astronautów w przestrzeń kosmiczną
+- Rodzaje skafandrów
+    - Launch and entry suits
+    - EVA suits
+- Zaznajomienie się ze skafandrem
 - Elementy skafandra EMU
     - Naszywka
     - Strój wewnątrz skafandra
@@ -132,6 +136,9 @@ layout: thesis-polish
 - Procedury po powrocie z EVA
 - Wykorzystywanie specjalistycznych narzędzi
 - Symulacja prac w basenie doskonałej pływalności
+    - Neutral Buoyancy Laboratory - NASA
+    - Neutral Buoyancy Facility - ESA
+    - Rosyjski basen trenowania
 - Instalacja i naprawa systemów ISS
 - Komunikacja podczas spacerów kosmicznych
 - Systemy medyczne stosowane podczas EVA
