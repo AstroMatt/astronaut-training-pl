@@ -5,6 +5,7 @@ language: polish
 
 # Życie na Międzynarodowej Stacji Kosmicznej
 <!-- TODO:
+- OBSPV - OnBoard Station Procedure Viewing Software
 - mieszkanie w mockupie ISS, spanie, praca, symulacje
 - Znajdywanie rzeczy na międzynarodowej stacji (inventory system) i kodowanie schowków i rzeczy
 - Jesteś przyzwyczajony do tego, że jak coś zostawiasz, to to tam zostaje, ale w mikrograwitacji wszystko gdzieś odlatuje i trzeba szukać

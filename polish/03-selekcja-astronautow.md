@@ -23,6 +23,15 @@ http://www.asc-csa.gc.ca/eng/astronauts/faq.asp
 http://www.asc-csa.gc.ca/eng/astronauts/how-to-become-an-astronaut/default.asp
 http://www.asc-csa.gc.ca/eng/astronauts/faq.asp#recruitment
 
+
+
+60% astronautów jest super, reszta zdarza się że osiadają na laurach i przestają się uczyć kiedy mają już jakieś
+
+Skontaktować się z MPUSC - Multi Purpose User Suppoer Center
+
+Flight note system - późniejsze informacje dla zespołu (delta information) lub updated procedures, które zmieniają się od założeń
+
+Poprosić Bernarda aby skontaktował mnie z Frankiem de Winne oraz Harve Stevenin
 -->
 
 Przygotowanie astronautów i kosmonautów do długotrwałych misji kosminczych zaczyna się od wyboru najlepszych kandydatów. Na chwilę obecną rekturuje się osoby wśród najbardziej porządanych specjalizacji tj.:

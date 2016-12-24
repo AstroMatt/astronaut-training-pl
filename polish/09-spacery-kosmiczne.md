@@ -5,178 +5,15 @@ language: polish
 
 # Wyjścia astronautów w przestrzeń kosmiczną
 
-Jednym z najcięższych elementów pracy astronauty jest wyjście w przestrzeń kosmiczną na tzw. EVA (ang. Extravehicular Activity) - czyli spacer kosmiczny. Do przeprowadzenia takiego wyjścia astronauci przytotowują się przez dwa lata przed misją przeprowadzając około 20 ćwiczeń w pełnym skafandrze pod wodą w basenie neutralnej pływalności (ang. Neurtal Buoyancy Facility). Wyjścia w przestrzeń kosmiczną dzielimy na:
+Jednym z najtrudniejszych elementów pracy astronauty jest wyjście w przestrzeń kosmiczną na tzw. EVA (ang. Extravehicular Activity, pol. spacer kosmiczny). Do przeprowadzenia takiego wyjścia astronauci przytotowują się przez dwa lata przed misją przeprowadzając około 20 ćwiczeń w pełnym skafandrze pod wodą w basenie neutralnej pływalności (ang. Neurtal Buoyancy Facility). Wyjścia w przestrzeń kosmiczną dzielimy na:
 - zaplanowane,
 - awaryjne,
 - na obcych ciałach niebieskich.
 
-## Rodzaje skafandrów
-
-### Launch and entry suits
-
-- Sokol
-- ACES (Advanced Crew Escape Suit)
-- MACES (Modified Advanced Crew Escape Suit)
-
-<!-- TODO:
-MACES (Modified Advanced Crew Escape Suit) is a work in progress. It is a suit intended for use in Orion. Because of mass and volume constraints, NASA wanted to be able to use ACES (the suit intended for ascent and entry during Space Shuttle missions) both for ascent/entry periods of Orion missions and also for EVA (space walks). MACES, therefore, is a hybrid of the orange Space Shuttle escape suit and the white ISS EVA suit.
-
-The suit has a new cooling garment and new bearings in the joints. It also uses the gloves and boots from the ISS EVA suit (EMU). It looks like it will be suitable for EVAs up to about four hours. And, since that is a much longer period that the crew have to keep the visor closed while in the vehicle, a drink bag has also been added.
--->
-
-
-### EVA suits
-
-- Orlan
-- EMU
-
 ## Zaznajomienie się ze skafandrem
-
-## Elementy skafandra EMU
-<!-- TODO: EMU
-Donning - zakładanie stroju EMU
-Doffing - ściąganie stroju EMU
--  total suit weighs about 275 lbs
--->
-### Naszywka
-<!--
-That is the EVA insignia patch.  It is the symbol used by the team responsible for the suits.  It is a space age representation of Leonardo daVinci's Vitruvian man.  The five stars represent the five NASA programs that have utilized EVA (Extravehicular Activity).
--->
-
-### Strój wewnątrz skafandra
-
-### Hełm
-
-### Tors
-
-### Ramiona i Rękawice
-
-### Nogi i Buty
-
-### Plecak i SAFER
-<!-- TODO: EVA Suit
-- rękawice i obniżona zręczność
-- szczelność
-- cyrkulacja powietrza w masce
-- oświetlenie nocne
-- Augument Reality i możliwość zdalnego aktualizowania procedur
-- checklista naramienna
-- kamery na hełmie
-- oświtlenie nocne
-
-Every suit leaks
-
-What is the pressure inside the suit during EVA.
-- EMU 4.3 PSI
-- Orlan 5.7 PSI
-- atmospheric 14.7 psi
-- w strojach tylko i wyłącznie oddychają czystym tlenem
--->
-
-
-<!-- TODO: EMU - Extravehicular Mobility Unit
-- design z ery Apollo
-- pielucha dla dorosłych
-- Cotton Long Jons (zwykła off-the shelf bielizna bawełniana)
-    - ma wsiąknąć w nią pot
-    - aby ciało nie było śliskie
-    - aby pot nie zbierał się i nie latał w kombinezonie
-- Liquid Cold Ventilation Gourmet
-    - bielizna z długimi rękawami i naramiennikami poprzetykana rurkami z płynącą wodą
-    - płynie w nim zimna woda
-    - zmieniając prędkość płynięcia wody, można regulować temperaturę
-    - rozmieszczenie rurek powoduje, że nie czujesz miejscowego chłodu, tylko rozprasza się po całym ciele
-    - bielizna jest w drobną siateczkę przez którą przelatuje powietrze
-- Communication Cap (Snoopy Cap)
-    - wpina się do portu w skafandrze
-    - pozwala na komunikację ze stacją i z ziemią
-- Cotton gloves (które idą pod zwykłe rękawice) mają wsiąkać pot
-- Różne pads and shields aby chronić przed urażeniem ciała i odciskami skafandra plus guzami
-- Ubieranie stroju
-    - Lower Torso Assembly - spodnie
-    - Upper Torso Assembly - góra
-    - hard upper torso - sztywna skorupa, ze względu na konieczność podtrzymywania narzędzi, Life Support Systems
-    - ubierają spodnie a później nakładają górę
-    - mają metalową obręcz z haczykami która spina obie części
-    - później nakładają rękawice
-    - hełm
-- Hełm
-    - strój i materiały wewnątrz tłumią echo
-    - hełm się nie rusza
-    - Field of View jest limited
-    - Situational Awareness również jest limited
-    - hełm ma wbudowany Visor ze złota (gałka po prawej)
-    - oraz daszek (shield) chroniący przed direct sun (gałka po lewej)
-    - szyba jest zrobiona ze zwykłego polycarbonate lexan plastic
-- Rękawice
-    - są customizowane do pewnego stopnia, mają dużo różnych rozmiarów
-    - tradeoff pomiędzy dextirity a comfort
-    - muszą lekko uwierać aby dextirity było największe
-- Upper Torso i Lower Torso jest w trzech rozmiarach
-    - Small
-    - Medium
-    - Large
-- Life Support System z tyłu
-- Tools z przodu
-    - Mini workstation dołączany bezpośrednio do Hard Upper Torso
-    - narzędzia są dobierane w zależności od zadań które trzeba wykonać przy EVA
-    - narzędzia
-        - ratchet wrench 3H drive, z pokrętłem z tyłu aby móc operować w małej przestrzeni, możliwość doczepienia cheater arm, aby przedłużyć uchwyt i podwoić moment torque (trzeba uważać aby nie ukręcić śruby)
-        - kręcąc kluczem, klucz odpycha Ciebie więc zwykle korzysta się z niego jedną ręką a druga trzyma się stacji aby zyskać stabilność, chyba że używają foot restraint aby nie odlatywać
-        - narzędzia nigdy nie mogą być bez przywiązania, są połączone ze skafandrem Equipment Theather (z karabińczykiem)
-        - ze względu na różną wielkość gniazd i śrub są także przejściówki, które nakłada się na klucz, przejściówki również są podpięte do mniejszego Equipment Theater (socket catty) z zatyczką aby przy zakładaniu nie odleciały
-    -
-- Rosjanie mają jednoczęściowe stroje do których wchodzi się przez plecak
-- Strój składa się z różnych materiałów i warstw kompozytów, tajemnica NASA
--
-- ważne są rękawiczki i przeguby
-- rękawice definiują to co możesz zrobić
-- każdy ma swoje rękawiczki
-
-W przypadku Emergency case ludzie rzucają eksperymenty i skupiają się na pomocy EV na powrocie do bazy.
-
-
-
-Astronauci podczas EVA na ISS nie korzystają z radiation decimeter bo boją się, że zostanie nagrane i następnym razem ich nie puszczą.
-Astronauci nie zawsze chcą wszystko raportować, na wszelki wypadek, bo nie są pewni czy wszystko zrobili perfekt.
-
-
-
-
-OBSPV - OnBoard Station Procedure Viewing Software
-
-
-
-
-60% astronautów jest super, reszta zdarza się że osiadają na laurach i przestają się uczyć kiedy mają już jakieś
-
-
-Najlepiej skontaktować się z Bernardem aby zapytał się kogoś z EAC: Harvy i Frank de Winne o procedury szkolenia.
-
-Skontaktować się z MPUSC - Multi Purpose User Suppoer Center
-
-Flight note system - późniejsze informacje dla zespołu (delta information) lub updated procedures, które zmieniają się od założeń
-
--->
-
-## Utrzymywanie sprawnośni skafandra EMU
-<!-- TODO: Wymiana elementów w skafandrze
-- nie są przystosowane do naprawy w nieważkości
-- Suit "Surgery", fan, pump, water-gas separator failure
-- Day and a half procedure
-- Knots and bolts
-- Twizzers, vacuum cleaner with mash Net do zasysania śrubek i ręcznik z drugiej strony aby upewnić się czy śrubki nie wpadają do środka
-- Wszystkie rzeczy w rękawiczkach, wszystko nagrywane na kamerach i monitorowane z ziemi przez inżynierów, mają specjalne narzędzia do space suitów które nie są nigdzie wykorzystywane, space suity działają w środowisku 100% oxygen
-
-Trening EVA
-- skafander Orlan MK i Orlan MKS
+<!-- TODO:
 - Certyfikacja w obsłudze skafandra
-
-Amerykanskie skafandry
-- EMU
-- Pomarańczowy
 -->
-
 
 ## Przygotowanie do przeprowadzenia wyjścia w przestrzeń
 <!-- What medical examination you perform before and after EVA
@@ -338,7 +175,7 @@ EV1 jest przyznawany ze względu na ranking lub wyszkolenie.
 -->
 
 ## Systemy medyczne stosowane podczas EVA
-<!--
+<!-- TODO: Systemy medyczne stosowane podczas EVA
 - dosimeter
 -
 - ECG, 3 electrode
@@ -369,10 +206,10 @@ EV1 jest przyznawany ze względu na ranking lub wyszkolenie.
 - upadki i wstawanie
 - radzenie sobie z pyłem
 - fotografia
--
+-->
 
 ### EVA na powierzchni Księżyca
-<!-- Lunar habitat
+<!-- TODO: EVA na powierzchni Księżyca
 - 3 ways of scrubbing CO2
 - Lithium-hydroxide
 - EMU ma wymienialne kardridże
@@ -387,7 +224,7 @@ EV1 jest przyznawany ze względu na ranking lub wyszkolenie.
 ### EVA na powierzchni asteroid
 
 ## Wykorzystywanie pojazdów
-<!-- Pojazdy
+<!-- TODO: EVA - Wykorzystywanie pojazdów
 - Poduszkowce
 - Drony
 - Łaziki eksploracji robotycznej
@@ -396,8 +233,6 @@ EV1 jest przyznawany ze względu na ranking lub wyszkolenie.
 - Łodzie podwodne
 - Krety
 -->
-
-## Augumentacja
 
 ## Sytuacje awaryjne
 
