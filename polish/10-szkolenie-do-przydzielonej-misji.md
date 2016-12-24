@@ -5,6 +5,8 @@ language: polish
 
 # Przygotowanie astronautów pod kątem przydzielonej misji
 <!-- TODO:
+http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/mission-specific-training.asp
+
 - backup team
 - trenowanie poruszania robotami
 - hololense

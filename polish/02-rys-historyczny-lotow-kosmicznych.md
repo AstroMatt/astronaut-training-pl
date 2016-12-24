@@ -81,3 +81,15 @@ Z przyczyn zdrowotnych Deke Slayton został zdyskwalifikowany z udziału w progr
 http://www.spacepatches.nl/salyut_frame.html
 
 ### Stacja kosmiczna Mir
+
+## Najdłuższy pobyt w przestrzeni kosmicznej
+
+<!-- TODO:
+http://www.asc-csa.gc.ca/eng/astronauts/faq.asp#details_48
+
+What is the longest time anyone has ever spent in space?
+Russian cosmonaut Gennady Padalka holds the record for the longest accumulated stay in space, clocking 879 days in orbit, during five different missions.
+
+Another Russian cosmonaut, Dr. Valeri Polyakov, holds the record for the longest continuous stay in space: 437 days, 17 hours and 38 minutes (14 months) on Mir, from January 1994 to March 1995.
+-->
+

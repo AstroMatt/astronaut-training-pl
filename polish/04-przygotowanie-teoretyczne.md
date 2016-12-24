@@ -5,6 +5,25 @@ language: polish
 
 # Przygotowanie teoretyczne
 <!-- TODO:
+
+http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/ongoing-training.asp
+As soon as they are recruited, Canadian astronauts begin learning Russian, and they continue to do so right up to their departure on a space mission.
+
+Onboard the ISS, the two official languages are:
+English
+Russian
+However, onboard the Soyuz capsule, the astronauts must be able to communicate solely in Russian with the Mission Control Centre in Moscow.
+
+They must master the language well enough for communication to be effortless even under the stress of a launch or in an emergency situation!
+
+
+
+http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/ongoing-training.asp
+Once their basic training is successfully completed, candidates officially receive the title of astronaut. This is only the beginning of their work. While awaiting assignment to a space mission, astronauts must:
+
+support space activities in collaboration with ground crews
+maintain their skills while awaiting assignment to a mission
+
 - dla kobiet i mężczyzn jest taki sam
 - Kobiety są zwykle słabsze
 - EVA jest wymagające siłowo

@@ -39,6 +39,23 @@ http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/ongoing-training.asp
 
 ### Przygotowanie medyczne
 
+<!-- TODO:
+http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/ongoing-training.asp
+Given all of the risks involved in space missions and the requirements of certain scientific experiments, the astronauts must be able to perform medical interventions if necessary, such as:
+
+drawing blood
+ultrasounds
+cardio-pulmonary resuscitation
+sutures
+-->
+
+### Przygotowanie dentystyczne
+<!-- TODO:
+http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/ongoing-training.asp
+In 1973, cosmonaut Yuri Romanenko experienced tooth pain during the Salyut 6 mission. He suffered for two weeks until the crew returned to Earth! Since then, astronauts have received training in dentistry.
+-->
+
+
 ### Ćwiczenia kondycyjne i badania wydolności organizmu
 
 ### Przygotowanie psychologiczne do pracy w odosobnieniu

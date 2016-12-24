@@ -12,6 +12,10 @@ language: polish
 - Plastik bag Ziplock bag z zagubionymi rzeczami, śrubki, rzeczy itp
 - Korzystają z rzepow i gumek bungie
 - Śpiąc albo przypinają śpiwór do ściany, albo korzystają z bungie aby nie odlatywać lub free-floater w zależności od preferencji astronauty
+
+http://www.asc-csa.gc.ca/eng/astronauts/faq.asp#details_45
+What time zone do astronauts live by?
+They live on Greenwich time (GMT), the Coordinated Universal Time (UTC). It's a compromise between the Mission Control Centers in Houston and Moscow.
 -->
 
 ## Rozmieszczenie modułów i poruszanie się po stacji
@@ -33,6 +37,29 @@ language: polish
 
 ## Utrzymywanie higieny osobistej
 
+<!-- TODO:
+http://www.asc-csa.gc.ca/eng/astronauts/living-in-space/personal-hygiene-in-space.asp
+
+http://www.asc-csa.gc.ca/eng/astronauts/faq.asp#details_39
+Do female astronauts get their period in space?
+Yes, female astronauts get their period in space just like they do on Earth. No menstrual problems have been associated with living in microgravity.
+
+In the early years of human space flight, some worried that women would not have their periods safely in microgravity. They thought that microgravity might cause menstrual fluid to travel upwards into the body instead of out of it – also called retrograde menstrual flow. This would mean that blood would flow from the uterine cavity into the fallopian tubes and then into the pelvis and abdomen, causing pain and increasing the risk for endometriosis. While this has not been observed in past space missions, more studies are needed to better understand how the body works and reacts to microgravity.
+
+For a variety of reasons, however, many female astronauts prefer to take low-dose oral contraceptives in a continuous fashion to reduce or stop menses during a long-duration mission; therefore, accumulating information on natural menstrual cycles in space is expected to take several years.
+-->
+
+## Ubrania
+
+<!-- TODO:
+http://www.asc-csa.gc.ca/eng/astronauts/faq.asp#details_36
+How do astronauts wash their clothes in space?
+They don't! It would take too much water on board the International Space Station.
+
+Astronauts wear their clothes until they are too dirty and then throw them out in a re-supply ship, which burns in the atmosphere on re-entry.
+-->
+
+
 ## Przygotowywanie i spożywanie posiłków
 
 ## Odpadki i śmieci
@@ -53,6 +80,19 @@ language: polish
 - sen
     - zaśnięcie 22:00
     - pobudka 6:00
+-->
+
+## Spędzanie wolnego czasu
+
+<!-- TODO: Spędzanie wolnego czasu
+
+- gra na instrumentach
+- telekonferencja z rodziną
+- obserwowanie Ziemii z Cupoli
+- fotografowanie
+- udzielanie się na social media
+
+
 -->
 
 ## Sytuacje awaryjne na międzynarodowej stacji kosmicznej
