@@ -20,6 +20,14 @@ Do podstawowych zadań skafandra należą:
 - w strojach tylko i wyłącznie oddychają czystym tlenem
 - szczelność
 - Rosjanie mają jednoczęściowe stroje do których wchodzi się przez plecak
+- dla kobiet i mężczyzn skafander jest taki sam
+- Kobiety są zwykle słabsze
+- EVA jest wymagające siłowo
+- Manewrowanie suitami
+- Suity były projektowane dla wielkich gości
+- Jeżeli jesteś mała osobą, to musisz mocno nawet do 120 stopni się skręcić aby Suit się skręcił
+- Kiedyś (ostatni lot STS) był prototyp małego stroju ale już nie ma
+
 -->
 
 ### Strój wewnątrz skafandra
@@ -101,7 +109,7 @@ Astronauci nie zawsze chcą wszystko raportować, na wszelki wypadek, bo nie s�
     - ze względu na różną wielkość gniazd i śrub są także przejściówki, które nakłada się na klucz, przejściówki również są podpięte do mniejszego Equipment Theater (socket catty) z zatyczką aby przy zakładaniu nie odleciały
 -->
 
-### Naszywka
+### Insygnia oraz naszywki
 <!-- TODO: EVA Mission patch
 That is the EVA insignia patch.  It is the symbol used by the team responsible for the suits.  It is a space age representation of Leonardo daVinci's Vitruvian man.  The five stars represent the five NASA programs that have utilized EVA (Extravehicular Activity).
 -->
@@ -128,7 +136,7 @@ That is the EVA insignia patch.  It is the symbol used by the team responsible f
 
 **Tabela 8.1 - zestawienie skafandrów do czynności podczas startu i lądowania IVA (ang. Intravehicular Activity)**
 
-### Skafandry kosmiczne wykorzystywane podczas wyjść w przestrzeń
+### Skafandry kosmiczne wykorzystywane podczas wyjść w przestrzeń kosmiczną
 
 | Nazwa                        | Produkcja | Lata użycia    | Program                   | Uwagi                                  |
 |:-----------------------------|:----------|:---------------|:--------------------------|:---------------------------------------|
@@ -153,17 +161,17 @@ That is the EVA insignia patch.  It is the symbol used by the team responsible f
 
 ### Charakterystyka skafandra Sokol
 
+### Charakterystyka skafandra Orlan MKS
+<!-- TODO: Charakterystyka skafandra Orlan MKS
+- 5.7 PSI
+-->
+
 ### Charakterystyka skafandra ACES i MACES
 <!-- TODO: Charakterystyka skafandra MACES
 
 MACES (Modified Advanced Crew Escape Suit) is a work in progress. It is a suit intended for use in Orion. Because of mass and volume constraints, NASA wanted to be able to use ACES (the suit intended for ascent and entry during Space Shuttle missions) both for ascent/entry periods of Orion missions and also for EVA (space walks). MACES, therefore, is a hybrid of the orange Space Shuttle escape suit and the white ISS EVA suit.
 
 The suit has a new cooling garment and new bearings in the joints. It also uses the gloves and boots from the ISS EVA suit (EMU). It looks like it will be suitable for EVAs up to about four hours. And, since that is a much longer period that the crew have to keep the visor closed while in the vehicle, a drink bag has also been added.
--->
-
-### Charakterystyka skafandra Orlan M, MK i MKS
-<!-- TODO: Charakterystyka skafandra Orlan MKS
-- 5.7 PSI
 -->
 
 ### Charakterystyka skafandra EMU

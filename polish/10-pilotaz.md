@@ -6,7 +6,7 @@ language: polish
 # Pilotaż
 
 ## Samolotów odrzutowych
-<!-- TODO:
+<!-- TODO: Samolotów odrzutowych
 - T-38
 - Space Flight Readiness Training - WB-57 at Beale AFB, North Carolina
 - Trening śmigłowcowy (za czasów apollo)
@@ -16,7 +16,7 @@ language: polish
 -->
 
 ## Statku kosmicznego Soyuz
-<!-- TODO:
+<!-- TODO: Statku kosmicznego Soyuz
 - 790 godzin
 - dwa systemy odpalania bolców wybuchowych
     - automatyczny

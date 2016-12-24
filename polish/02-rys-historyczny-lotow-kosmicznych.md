@@ -4,10 +4,10 @@ language: polish
 ---
 
 # Rys historyczny lotów kosmicznych
-
 <!-- TODO: czy radziecki dużą literą -->
 <!-- TODO: data rozpoczęcia wyścigu kosmicznego -->
 <!-- TODO: kolejność wydarzeń -->
+
 Wyścig o wystrzelenie pierwszego sztuncznego satelity Ziemii trwał pomiędzy Związkiem Radzieckim i Stanami Zjednoczonymi od 1930. Jednym z pierwszych pionierów w dziedzinie budowy rakiet był amerykański naukowiec Dr Robert H. Goddard. W roku 1957 Związkowi Radzieckiemu udało się dokonać.
 
 Pierwszym sztucznym satelitą Ziemii był Sputnik, który został wystrzelony 4 października 1957 roku. Dopiero to wydarzenie spodowodało zintensyfikowanie działań. Gdy Amerykanie starali się unieść swoje rakiety z ponad wurzutni, Rosjanie powoli zaczynali dominować na niskiej orbicie dookołaziemskiej. Następnymi krokami Radzieckiego programu kosmicznego było wystrzelenie zwierząt i na samym końcu człowieka. Dokonali tego w 1961 roku, na trzy miesiące przed Amerykanami. Następnie pierwszy spacer kosmiczny, pierwsza kobieta w kosmosie oraz pierwsze dłużesz pozostanie na orbicie również do nich należało.
@@ -15,8 +15,8 @@ Pierwszym sztucznym satelitą Ziemii był Sputnik, który został wystrzelony 4 
 Aby zażegnać widmo porażki prezydent Stanów Zjednoczonych Ameryki J. F. Kennedy 12 września 1962 roku wygłosił mowę na Rice Uniwersytecie {% bibliography "John F. Kennedy Moon Speech - Rice Stadium" %}, w której zmobilizował nród i postawił cel, aby w do końca dekady "człowiek postawił noge na księzycu i bezpiecznie wrócił na Ziemię". Cel ten udało się zrealizować, ale nie podczas życia prezydenta. Amerykanie w 1969 roku zdobyli Księżyc.
 
 ## Pionierzy kosmonautyki
-
 <!-- TODO: cytat -->
+
 W Związku Radzieckim
 Po stronie Stanów Zjednoczonych największym wpływ na program rakietowy tego kraju miał Gottard.
 
@@ -31,11 +31,11 @@ Pierwszym zwierzęciem, które przekroczyło linię graniczną kosmosu był pies
 Program Mercury w stanach zjednoczonych również zakładał wysłanie zwierzęcia przed pierwszym lotem człowieka. Ze względu na bardzo wiele wspólnych cech z człowiekiem wybrano szympansa (DNA szympansa jest w 98,4% identyczne z człowiekiem co czyni go najbliższym odpowiednikiem z królestwa zwierząt - przyp. autora {% bibliography "Human Origins Genetic Evidence" %}). Szympans nazywał się HAM co jest skrótem od Holloman Aerospace Medical Center, zlokalizowanego w Holloman Air Force Base w New Mexico w USA {% bibliography "NASA History Series. This New Ocean - A History of Project Mercury" %}.
 
 ### Pierwszy lot człowieka
-
 <!-- TODO: długość lotu -->
 <!-- TODO: ilość osób z naboru Gagarina -->
 <!-- TODO: źródło cytatu 1 -->
 <!-- TODO: źródło cytatu 2 -->
+
 Pierwszym człowiekiem w kosmosie był pułkownik Yuri Gagarin. Został wystrzelony przez Związek Radziecki 12 kwietnia 1961 w 90 minutowy orbitalny do okoła Ziemii na pokładzie *Vostok 1*. Gagarin był jednym z 20 osób, które zostały zrekrutowane z pilotów wojskowych Związku Radzieckiego w tym celu. Wg. podań świadków pułkownik wyróżniał się wytrzymałością, duchem oraz doświadczeniem. Wśród wszyskich rekrutowanych kosmonautów przeprowadzono ankietę "kogo wytypowałbyś na pierwszy lot". Osiemnaście na dwadzieścia osób z załogi wybrało Gagarina. Pułkownik po okrążeniu Ziemi wszedł ponownie w atmosferę w tzw. krzywej balistycznej cechującej się wysokim poziomem przeciążeń działających na ciało kosmonauty. Ze względu na fakt, iż Radzieccy konstruktorzy nie dysponowali jeszcze techniką aby bezpiecznie posadzić statek kosmiczny na ziemi zdecydowano się na użycie katapulty i spadochronu. Na poziomie 20000 stup Gagarin katapultował się i bezpiecznie wrócił na powierzchnię {% bibliography "Why Yuri Gagarin Remains the First Man in Space, Even Though He Did Not Land Inside His Spacecraft" %}.
 
 Amerykańską odpowiedzią był program *Mercury*. W trakcie programu wybrano siedmiu astronautów. Nazwiska astronautów, znak wywoławczy oraz datę wystrzelenia przedstawia tabela poniżej.
@@ -77,19 +77,15 @@ Z przyczyn zdrowotnych Deke Slayton został zdyskwalifikowany z udziału w progr
 ### Program Salyut
 
 ### Program Intercosmos i lot generała Hermaszewskiego
-
+<!-- TODO: Program Intercosmos i lot generała Hermaszewskiego
 http://www.spacepatches.nl/salyut_frame.html
+-->
 
 ### Stacja kosmiczna Mir
 
 ## Najdłuższy pobyt w przestrzeni kosmicznej
-
-<!-- TODO:
-http://www.asc-csa.gc.ca/eng/astronauts/faq.asp#details_48
-
-What is the longest time anyone has ever spent in space?
-Russian cosmonaut Gennady Padalka holds the record for the longest accumulated stay in space, clocking 879 days in orbit, during five different missions.
-
-Another Russian cosmonaut, Dr. Valeri Polyakov, holds the record for the longest continuous stay in space: 437 days, 17 hours and 38 minutes (14 months) on Mir, from January 1994 to March 1995.
+<!-- TODO: Najdłuższy pobyt w przestrzeni kosmicznej
+- http://www.asc-csa.gc.ca/eng/astronauts/faq.asp#details_48
+- What is the longest time anyone has ever spent in space? Russian cosmonaut Gennady Padalka holds the record for the longest accumulated stay in space, clocking 879 days in orbit, during five different missions.
+- Another Russian cosmonaut, Dr. Valeri Polyakov, holds the record for the longest continuous stay in space: 437 days, 17 hours and 38 minutes (14 months) on Mir, from January 1994 to March 1995.
 -->
-

@@ -4,13 +4,14 @@ language: polish
 ---
 
 # Przygotowanie astronautów pod kątem przydzielonej misji
-<!-- TODO:
-http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/mission-specific-training.asp
-
+<!-- TODO: Przygotowanie astronautów pod kątem przydzielonej misji
+- http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/mission-specific-training.asp
 - backup team
 - trenowanie poruszania robotami
-- hololense
-
+    - Haptic
+- Augumentacja
+    - hololense
+    - mobiPV
 - Assigmnets
     - ISS operations
     - ISS integrations
@@ -40,19 +41,17 @@ http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/mission-specific-training.
 ### Badania dotyczące eksploracji Niskiej Orbity Okołoziemskiej (LEO)
 
 ## Specjalizacje astronautów
-<!-- TODO:
-Odznaka skrzydeł na piersi:
-- żółta obwódka, niebieskie tło - Navy
-- niebieska obwódka, białe tło - Army or Air Force
-- żółta obwódka, czerwone tło - Marines
-- blue and white - civilian
-
+<!-- TODO: Specjalizacje astronautów
+- Odznaka skrzydeł na piersi:
+    - żółta obwódka, niebieskie tło - Navy
+    - niebieska obwódka, białe tło - Army or Air Force
+    - żółta obwódka, czerwone tło - Marines
+    - blue and white - civilian
 - Każdy astronauta ma jakiś background, medyczny, lotniczy itp, i to prawdopodobnie wpływa na assignments do misji, np. ze względu na badania naukowe jakie chcą przeprowadzić na stacji.
 - Astronauci nie znają systemu dlaczego są przypisywani do misji
 - Wcześniej byli Piloci i po drugiej stronie Mission Specialiści, czasami pojawiali się po środku Payload Specjaliści, ale już tego nie ma każdy na stacji jest Flight Engineerem
 - Long Duration space flight, you have to be a jack of all traits
-
-https://en.wikipedia.org/wiki/Astronaut_badge
+- https://en.wikipedia.org/wiki/Astronaut_badge
 -->
 
 ### Commander
@@ -74,35 +73,36 @@ https://en.wikipedia.org/wiki/Astronaut_badge
 ### Educator Mission Specialist
 
 ## Tradycje przed wylotem
-<!-- TODO:
-- Białe Słońce Pustyni
-- Wpis do Księgi w biurze Gagarina
-- Obsikanie koła autobusu
-- kwiaty pod murem na placu czerwonym na grobach poległych kosmonautów
-- puszczanie muzyki przed startem
-- zasadzenie drzewa
 
-- sikanie na koło autobusu
-- Podpis w pamiątkowej księdze w pokoju Gagarina
-- Kwiaty pod murem Kremla dla poległych astronautów
-- Zasadzenie drzewa w alei w Bajkonurze
-- Wizyta na placu czerwonym
+W celu upamiętnienia wydarzeń historycznych astronauci przed wylotem w kosmos uczestniczą w wielu tradycjach. Każde z wydarzeń jest monitorowane przez media z całego świata. Poniżej przedstawiono listę czynności wykonywanych przez przyszłych uczestników lotów kosmicznych.
 
-- Podniesienie flag w Bajkonurze
-- Kwarantanna i ochrona przed mikrobami
-- Białe słońce pustyni
-- Ostatnie strzyżenie fryzjera
-- Ostatni posiłek
-- Poświecenie rakiety przez popa
-- Astronauci nie mogą zobaczyć rakiety ani po drugim ani po trzecim przeglądzie przedstartowym (tradycja)
-- Podpis na drzwiach pokoju w którym się mieszkało
-- Pożegnanie z rodziną
-- Przejazd autobusem do budynku 254 aby ubrać sokol Suit
-- Przejazd autobusem i ostatni salut stojąc na wyznaczonych miejscach
-- Wejście na schody do rakiety i machanie
-- Oczekiwanie na start, sprawdzanie systemów
-- Każdy astronauta może wybrać trzy piosenki
+Przed udaniem się na kosmodrom w Bajkonurze:
+- wizyta na placu czerwonym,
+- złożenie kwiatów pod murem Kremla na grobach poległych kosmonautów.
 
-Space sickness
-- obracanie przed startem góra dół kilka razy
--->
+Bezpośrednio po przybyciu do Bajkonuru:
+- podniesienie flag narodowych astronautów,
+- zasadzenie drzewa w alei kosmonautów.
+
+Na kilka dni przed wylotem:
+- poświecenie rakiety przez popa,
+- astronauci nie mogą zobaczyć rakiety ani po drugim ani po trzecim przeglądzie przedstartowym (tradycja),
+- kwarantanna i ochrona przed mikrobami,
+- spanie na łóżku z głową w dół.
+
+Bezpośrednio przed wylotem:
+- ostatnie strzyżenie włosów przez fryzjera,
+- ostatni posiłek załogi,
+- podpis na drzwiach pokoju w którym się mieszkało,
+- wpis do pamiątkowej księgi w biurze Gagarina,
+- oglądanie filmu "Białe słońce pustyni",
+- astronauci są obracani przed startem góra dół kilka razy w celu przyzwyczajenia do kosmicznej choroby lokomocyjnej,
+- pożegnanie z rodzinami,
+- przejazd autobusem do budynku 254 w celu ubrania skafandra Sokol,
+- oddanie moczu na koło autobusu - upamiętnienie czynu Gagarina,
+- ostatni salut stojąc na wyznaczonych miejscach,
+- pozowanie do zdjęć i machanie do obserwatorów ze schodów do rakiety Soyuz,
+- sprawdzanie systemów,
+- każdy astronauta może wybrać trzy piosenki, które są odtwarzane podczas oczekiwania na start.
+
+## Badania medyczne przed wylotem

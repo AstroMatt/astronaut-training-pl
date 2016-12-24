@@ -4,6 +4,13 @@ language: polish
 ---
 
 # Wyjścia astronautów w przestrzeń kosmiczną
+<!-- TODO: Wyjścia astronautów w przestrzeń kosmiczną
+Jak trenują EVA, o których nie wiedzą, że będą potrzebowali w przyszłości:
+- generic training - szkolenie generyczne z umiejętności, które się zawsze przydają
+- cross-training szkolą ludzi tak by każdy miał przynajmniej pojęcie jak to się robi
+- Generic Training, a później Flight Assignment, Repetition mode już bezpośrednio przed samym wylotem.
+- Czasami zadarzają się astronauci którzy nie mogą robić EVA, bo trzeba być on-top-of-everything, trzeba mieć kondycję, znać strój, być przetrenowanym
+-->
 
 Jednym z najtrudniejszych elementów pracy astronauty jest wyjście w przestrzeń kosmiczną na tzw. EVA (ang. Extravehicular Activity, pol. spacer kosmiczny). Do przeprowadzenia takiego wyjścia astronauci przytotowują się przez dwa lata przed misją przeprowadzając około 20 ćwiczeń w pełnym skafandrze pod wodą w basenie neutralnej pływalności (ang. Neurtal Buoyancy Facility). Wyjścia w przestrzeń kosmiczną dzielimy na:
 - zaplanowane,
@@ -11,32 +18,34 @@ Jednym z najtrudniejszych elementów pracy astronauty jest wyjście w przestrze�
 - na obcych ciałach niebieskich.
 
 ## Zaznajomienie się ze skafandrem
-<!-- TODO:
+<!-- TODO: Zaznajomienie się ze skafandrem
 - Certyfikacja w obsłudze skafandra
+- Dwa szkolenia, EMU i Orlan
+- Ocena astronautów ze znajomości skafandra i umiejętności posługiwania się nim
 -->
 
 ## Przygotowanie do przeprowadzenia wyjścia w przestrzeń
-<!-- What medical examination you perform before and after EVA
+<!-- TODO: Przygotowanie do przeprowadzenia wyjścia w przestrzeń
+- Ingress i Regress
+- What medical examination you perform before and after EVA
 - Ruskie MO - medical assessment (5 or 6)
 - threadmill, hand ergomenter,
 - ECG, cardiovascular, blood pressure, QRS complex
 - zdarzyło się raz aby ktoś był wykluczony
 - badają zdolność do EVA już nawet na kilka dni przed
-
-What is the procedure for EVA preparation (oxygen intake) - pre-breath protocol
-- O2 environment makes pre-breath easier
-- Rosyjski strój pozwala szybciej wyjść, ale nie tak długo siedzieć
-- kiedyś, oddychają czystym O2 jadąc na rowerze z maską, a później wchodzą do stroju i obniżają ciśnienie
-- camp-out, śpią w śluzie z 10.2 PSI i to się zmienia z 21% do 28% tlenu
-- exercise protocol in the suit, połączenie starszych
-- możesz zrobić cały pre-breath przez 4 godziny w stroju (zrobili to dwukrotnie, awaryjnie)
-- Rosjanie mają 30-40 minut
-- jeżeli miałbyś strój z 8 PSI to nie musisz mieć żadnych pre-breath, ale nie dałoby się niczego robić
-
+- What is the procedure for EVA preparation (oxygen intake) - pre-breath protocol
+    - O2 environment makes pre-breath easier
+    - Rosyjski strój pozwala szybciej wyjść, ale nie tak długo siedzieć
+    - kiedyś, oddychają czystym O2 jadąc na rowerze z maską, a później wchodzą do stroju i obniżają ciśnienie
+    - camp-out, śpią w śluzie z 10.2 PSI i to się zmienia z 21% do 28% tlenu
+    - exercise protocol in the suit, połączenie starszych
+    - możesz zrobić cały pre-breath przez 4 godziny w stroju (zrobili to dwukrotnie, awaryjnie)
+    - Rosjanie mają 30-40 minut
+    - jeżeli miałbyś strój z 8 PSI to nie musisz mieć żadnych pre-breath, ale nie dałoby się niczego robić
 -->
 
 ## Procedury po powrocie z EVA
-<!-- TODO: Procedure after EVA
+<!-- TODO: Procedury po powrocie z EVA
 - Ruskie walą wódkę, jeszcze w śluzie zanim się zdepresuryzuje. nigdy się nic nie stało
 - amerykanom dwukrotnie zdarzyło się przytrzasnąć narzędzie
 - wyrównują do 5 PSI i robią leak check, jeżeli nie działa, to upuszają powietrze i jeszcze raz sprawdzają właz
@@ -46,37 +55,23 @@ What is the procedure for EVA preparation (oxygen intake) - pre-breath protocol
 - cooling, oxygen supplies
 -->
 
-
 ## Wykorzystywanie specjalistycznych narzędzi
+<!-- TODO: Wykorzystywanie specjalistycznych narzędzi
+- theather
+- śrubokręty
+- spawanie
+- foot restraints
+-->
 
 ## Symulacja prac w basenie doskonałej pływalności
-<!-- TODO:
-
-Jak trenują EVA, o których nie wiedzą, że będą potrzebowali w przyszłości:
-- generic training - szkolenie generyczne z umiejętności, które się zawsze przydają
-- cross-training szkolą ludzi tak by każdy miał przynajmniej pojęcie jak to się robi
-
+<!-- TODO: Symulacja prac w basenie doskonałej pływalności
 - EVA pre-familiarisation training (w NBF w EAC, ESA)
 - EVA training (w NBL w Huston, TX) jest prowadzony po ukończeniu pre-familiarisation w Kolonii
-
-In this situation, EAC created a so-called EVA pre-familiarisation training course, which is conducted at EAC's Neutral Buoyancy Facility (NBF). This programme teaches ESA astronauts basic EVA concepts and EVA skills such as tethering to the Station, use of special EVA tools, communication with an EVA crewmate as well as with the control room and how to keep full situational awareness in a complex and challenging environment.
-
-The full spacewalk, or Extra Vehicular Activity (EVA), training for the ISS is traditionally done at NASA’s Neutral Buoyancy Laboratory (NBL) at the Johnson Space Center, Houston, Texas, and at the Gagarin Cosmonaut Training Center, in Russia.
-
-For each specific spacewalk, there are several training units to be completed. One EVA run lasts around 5 hours, and the standard right now is that you spend five to seven times as long in the NBL at Houston for each EVA, depending on the difficulty. In addition to that you train a lot of contingency scenarios.
-
-With the assembly of the ISS in full swing, the EVA training schedule in the NBL is tight, the facility itself overbooked with operational and mission-related EVA training so the training schedule is compressed into three shifts a day. In addition, it will in future also be used for exploration related testing, which leaves little time for providing EVA skills training to ESA astronauts.
-
-An assignment to take part in a spacewalk during a space mission depends on an EVA skills evaluation, which takes place at a very early stage of the EVA training programme in Houston. Those astronauts who handle their very first neutral buoyancy experiences in Houston well will be chosen to perform EVAs and receive the full-blown EVA training.
-
-
-Generic Training
-a później Flight Assignment
-Repetition mode już bezpośrednio przed samym wylotem.
-
-Czasami zadarzają się astronauci którzy nie mogą robić EVA, bo trzeba być on-top-of-everything
-trzeba mieć kondycję, znać strój, być przetrenowanym
-
+- In this situation, EAC created a so-called EVA pre-familiarisation training course, which is conducted at EAC's Neutral Buoyancy Facility (NBF). This programme teaches ESA astronauts basic EVA concepts and EVA skills such as tethering to the Station, use of special EVA tools, communication with an EVA crewmate as well as with the control room and how to keep full situational awareness in a complex and challenging environment.
+- The full spacewalk, or Extra Vehicular Activity (EVA), training for the ISS is traditionally done at NASA’s Neutral Buoyancy Laboratory (NBL) at the Johnson Space Center, Houston, Texas, and at the Gagarin Cosmonaut Training Center, in Russia.
+- For each specific spacewalk, there are several training units to be completed. One EVA run lasts around 5 hours, and the standard right now is that you spend five to seven times as long in the NBL at Houston for each EVA, depending on the difficulty. In addition to that you train a lot of contingency scenarios.
+- With the assembly of the ISS in full swing, the EVA training schedule in the NBL is tight, the facility itself overbooked with operational and mission-related EVA training so the training schedule is compressed into three shifts a day. In addition, it will in future also be used for exploration related testing, which leaves little time for providing EVA skills training to ESA astronauts.
+- An assignment to take part in a spacewalk during a space mission depends on an EVA skills evaluation, which takes place at a very early stage of the EVA training programme in Houston. Those astronauts who handle their very first neutral buoyancy experiences in Houston well will be chosen to perform EVAs and receive the full-blown EVA training.
 
 - Ciśnienie w skafandrze 4.3 PSI
 - 3-4 trenują w NBF pod wodą
@@ -86,12 +81,6 @@ trzeba mieć kondycję, znać strój, być przetrenowanym
 - Korzystanie z narzędzi
 - Wyrównywanie ciśnienia w środku skafandra
 - Dolly Burton (ustnik do przedmuchiwania ciśnienia)
-
-Przy szkoleniu wodnym, opuszczanie kapsuły w wodzie są dwie opcje
-- w skafandrze wodnym suchym (zdążyli się przebrać)
-- Awaryjne w skafandrze Sokol
-Odpalanie racy i dmuchanie jacketów jak nurkowie
-
 
 - Szkolenie VR dla EVA (hololense, oculus)
 
@@ -150,7 +139,7 @@ EVA
 ### Neutral Buoyancy Facility - ESA
 
 ### Rosyjski basen trenowania
-<!-- TODO: nazwa basenu -->
+<!-- TODO: nazwa rosyjskiego basenu -->
 
 
 ## Instalacja i naprawa systemów ISS

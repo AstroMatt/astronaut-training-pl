@@ -125,21 +125,25 @@ Day 2
 ### Test w wirówce na odporność organizmu na przeciążenia
 
 ### Loty paraboliczne symulujące stan nieważkości
+<!-- TODO: Loty paraboliczne symulujące stan nieważkości
+- (Zero-G Flight) - Vomit Commet
+-->
 
 ## Sytuacje awaryjne
-
-<!--
-In his book, An Astronaut's Guide to Life on Earth, astronaut Chris Hadfield explains a chilling training exercise called a 'death sim'. It's designed to help prepare astronauts for what they should do in the event of the death of one of their colleagues.
-Death sims usually operate as a roundtable discussion in which one astronaut is announced as having died and whoever is leading the exercise will throw curveballs into the hypothetical scenario that plays out. In his book, Hadfield explains what it was like listening to his own death sim played out:
-"We've just received word from the Station: Chris is dead." Immediately, people start working the problem. Okay, what are we going to do with his corpse? There are no body bags on Station, so should we shove it in a spacesuit and stick it in a locker? But what about the smell? Should we send it back to Earth on a resupply ship and let it burn up with the rest of the garbage on re-entry? Jettison it during a spacewalk and let it float away into space?
-The death sims force the astronauts to really think through how they should respond, Hadfield writes: "Who should tell my parents their son is dead? By phone or in person? Where will they even be - at the farm or at the cottage? Do we need two plans, then, depending on where my mom and dad are?"
-I'm guessing a similar sim might have been done for the Apollo astronauts.
+<!-- TODO: Sytuacje awaryjne
+- In his book, An Astronaut's Guide to Life on Earth, astronaut Chris Hadfield explains a chilling training exercise called a 'death sim'. It's designed to help prepare astronauts for what they should do in the event of the death of one of their colleagues. Death sims usually operate as a roundtable discussion in which one astronaut is announced as having died and whoever is leading the exercise will throw curveballs into the hypothetical scenario that plays out. In his book, Hadfield explains what it was like listening to his own death sim played out: "We've just received word from the Station: Chris is dead." Immediately, people start working the problem. Okay, what are we going to do with his corpse? There are no body bags on Station, so should we shove it in a spacesuit and stick it in a locker? But what about the smell? Should we send it back to Earth on a resupply ship and let it burn up with the rest of the garbage on re-entry? Jettison it during a spacewalk and let it float away into space? The death sims force the astronauts to really think through how they should respond, Hadfield writes: "Who should tell my parents their son is dead? By phone or in person? Where will they even be - at the farm or at the cottage? Do we need two plans, then, depending on where my mom and dad are?" I'm guessing a similar sim might have been done for the Apollo astronauts.
 -->
 
 ### Przygotowanie do wyławiania z oceanu
+<!-- TODO: Przygotowanie do wyławiania z oceanu
+Przy szkoleniu wodnym, opuszczanie kapsuły w wodzie są dwie opcje
+- w skafandrze wodnym suchym (zdążyli się przebrać)
+- Awaryjne w skafandrze Sokol
+Odpalanie racy i dmuchanie jacketów jak nurkowie
+-->
 
 ### Awaryjne opuszczanie platformy startowej
-<!-- TODO:
+<!-- TODO: Awaryjne opuszczanie platformy startowej
 - MRAP - Mine resistant ambush protected vehicles  - opancerzony samochód do ewakuacji astronautów z launch pad
 - Wagoniki ze space shuttle
 -->

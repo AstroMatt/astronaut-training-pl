@@ -128,14 +128,14 @@ layout: thesis-polish
     - Nogi i Buty
     - Plecak z systemem podtrzymywania życia
     - Zaczepy na narzędzia
-    - Naszywka
+    - Insygnia oraz naszywki
 - Lista skafandrów kosmicznych
     - Skafandry kosmiczne wykorzystywane podczas startu i lądowania
-    - Skafandry kosmiczne wykorzystywane podczas wyjść w przestrzeń
+    - Skafandry kosmiczne wykorzystywane podczas wyjść w przestrzeń kosmiczną
 - Charakterystyka wybranych skafandrów kosminczych
     - Charakterystyka skafandra Sokol
+    - Charakterystyka skafandra Orlan MKS
     - Charakterystyka skafandra ACES i MACES
-    - Charakterystyka skafandra Orlan M, MK i MKS
     - Charakterystyka skafandra EMU
 - Utrzymywanie sprawnośni skafandra
 - Systemy awaryjne skafandrów EVA
@@ -198,6 +198,7 @@ layout: thesis-polish
     - Flight Surgeon
     - Educator Mission Specialist
 - Tradycje przed wylotem
+- Badania medyczne przed wylotem
 
 ## Szkolenie turystów kosmicznych
 - Definicja turystyki kosmicznej
