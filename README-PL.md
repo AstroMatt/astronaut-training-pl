@@ -243,7 +243,7 @@ layout: thesis-polish
 - Pomoc w przygotowaniu innych astronautów
 - Praca w symulatorach w przypadku problemów na orbicie
 - Praca jako CapCom
-- Popularyzacja nauki, działalność ewangelizacyjna obszaru S.T.E.M.
+- Popularyzacja nauki i obszaru S.T.E.M.
 - Czynności astronautów programu Mercury, Gemini, Apollo i Apollo Applications
 
 ## Zakończenie

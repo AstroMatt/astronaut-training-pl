@@ -39,7 +39,7 @@ language: polish
 
 ## Praca jako CapCom
 
-## Popularyzacja nauki, działalność ewangelizacyjna obszaru S.T.E.M.
+## Popularyzacja nauki i obszaru S.T.E.M.
 
 ## Czynności astronautów programu Mercury, Gemini, Apollo i Apollo Applications
 <!-- TODO: Czynności astronautów programu Mercury, Gemini, Apollo i Apollo Applications
