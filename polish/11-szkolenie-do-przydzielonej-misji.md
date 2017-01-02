@@ -19,6 +19,7 @@ language: polish
     - EVA
     - Robotics
     - Exploration branch, (GSDO) Ground Systems Development and Operations
+- przygotowanie kapsuły Soyuz oraz siedzenia pod konkretnego astronautę trwa dwa lata
 -->
 
 > Nasa didn't hire us to be Program Managers or Engineers - we are operators

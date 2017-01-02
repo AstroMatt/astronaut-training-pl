@@ -8,7 +8,7 @@
 - line 36: Problem z tabelkami w index-pl jest split po trzech myślnikach
 - line 37: Definicja nazwy
 
-## Rys Historyczny Lotow Kosmicznych
+## Rys Historyczny
 - line 06: czy radziecki dużą literą
 - line 07: data rozpoczęcia wyścigu kosmicznego
 - line 08: kolejność wydarzeń
@@ -24,9 +24,9 @@
 - line 07: Selekcja kandydatów do przeszkolenia podstawowego
 - line 48: Quote Needed
 - line 90: Selekcja kondycyjna
-- line 150: Quote Needed
-- line 184: Quote Needed
-- line 266: Quote Needed
+- line 151: Quote Needed
+- line 185: Quote Needed
+- line 267: Quote Needed
 
 ## Przygotowanie Teoretyczne
 - line 06: Przygotowanie teoretyczne
