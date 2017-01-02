@@ -120,14 +120,15 @@ Ponadto jednym z kluczowych wskaźników jest także wzrost. Osoby niższe są b
 **Tabela 3.1. - wybrane parametry członków załogi statku kosmicznego Soyuz TM (zmodyfikowany po czerwcu 1999){% bibliography "Soyuz - A Universal Spacecraft" %}**
 
 
-| Parametr      | NASA                                                                                        | Roscosmos | ESA                                                                              |
-|:--------------|:--------------------------------------------------------------------------------------------|:----------|:---------------------------------------------------------------------------------|
-| Wzrost [cm]   | 157,48 - 190,5 (62 - 75 cali)                                                               | 150 - 190 | 153 - 190                                                                        |
-| Ciśnienie     | 140/90                                                                                      |           |                                                                                  |
-| Wiek          |                                                                                             |           | 27 - 37                                                                          |
-| Doświadczenie |                                                                                             |           | min. 3 lata pracy zawodowej                                                      |
-| Wykształcenie |                                                                                             |           | min. poziom licencjat lub inżynier (nauki przyrodnicze, inżynieria lub medycyna) |
-| Wzrok         | 20/20 w każdym oku (dopuszczalna korekcja), 20/200 widzenie dalekie (dopuszczalna korekcja) |           |                                                                                  |
+| Parametr                 | NASA                                        | Roscosmos | ESA                                                                              |
+|:-------------------------|:--------------------------------------------|:----------|:---------------------------------------------------------------------------------|
+| Wzrost [cm]              | 157,48 - 190,5 (62 - 75 cali)               | 150 - 190 | 153 - 190                                                                        |
+| Ciśnienie                | 140/90                                      |           |                                                                                  |
+| Wiek                     |                                             |           | 27 - 37                                                                          |
+| Doświadczenie            |                                             |           | min. 3 lata pracy zawodowej                                                      |
+| Wykształcenie            |                                             |           | min. poziom licencjat lub inżynier (nauki przyrodnicze, inżynieria lub medycyna) |
+| Wzrok (widzenie bliskie) | 20/20 w każdym oku (dopuszczalna korekcja)  |           |                                                                                  |
+| Wzrok (widzenie dalekie) | 20/200 w każdym oku (dopuszczalna korekcja) |           |                                                                                  |
 
 **Tabela 3.2. - parametry medycznye kandydatów na astronautów {% bibliography "NASA Astronaut Requirements" %}{% bibliography "ESA Astronaut Training Requirements" %}**
 
