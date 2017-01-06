@@ -96,7 +96,7 @@
 
 ## Szkolenie Do Przydzielonej Misji
 - line 06: Przygotowanie astronautów pod kątem przydzielonej misji
-- line 43: Specjalizacje astronautów
+- line 44: Specjalizacje astronautów
 
 ## Szkolenie Turystow Kosmicznych
 - line 06: Szkolenie turystów kosmicznych
