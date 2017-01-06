@@ -71,8 +71,53 @@ Urządzenia wspierające pozwalają na zachowanie pozycji względem stacji kosmi
 
 Obecnie podstawowym elementem wyposażenia każdego stroju astronauty są tzw. uprzęże z bloczkami stalowych lin. Każdy strój do wyjść w przestrzeń kosmiczną posiada dwie takie uprzęże. Podczas spaceru kosmicznego astronauci muszą być przymocowani za pomocą przynajmniej jednej liny z klamrą do stacji kosmicznej aby nie odlecieć w przestrzeń. W celu przemieszczenia się astronauta zaczepia drugą klamrę do następnego punktu przymocowania i po upewnieniu się pewności zaczepu odczepia pierwszą przechodząc w dalsze miejsce.
 
+## Symulacje komputerowe
+<!-- TODO: Symulacje komputerowe
+- Szkolenie VR dla EVA (hololense, oculus)
+-->
+
 ## Symulacja prac w basenie doskonałej pływalności
 <!-- TODO: Symulacja prac w basenie doskonałej pływalności
+- Ćwiczą 20 zanim wykonają to w kosmosie
+    - Wejścia po 6 godzin
+    - Pózniej w kosmosie 8/9 godzin
+    - Hadfield spędził 240h przed EVA z Canada Arm 2
+    - mają misję do ukończenia
+    - Generic Training, a później Flight Assignment, Repetition mode już bezpośrednio przed samym wylotem.
+    - generic training - szkolenie generyczne z umiejętności, które się zawsze przydają
+    - cross-training szkolą ludzi tak by każdy miał przynajmniej pojęcie jak to się robi
+- Komunikacja
+    - W basenie trenują również kontakt z CAPCOM
+    - O wszystkim informują CAPCOM
+    - Comcheck pierwsza rzecz po wejściu pod wodę
+- Wykorzystywanie narędzi
+    - Korzystanie z narzędzi
+    - rozszerzalność cieplna metali i zmiana siły na pokrętłach i wajchach
+    - jeżeli jesteś w foot restraint to powinieneś przestać przykładać siłę w cokolwiek aby nie urwać
+- Zaznajomienie się ze skafandrem
+    - sprawdzenie czy Portable Life System jest włączony
+    - Wyrównywanie ciśnienia w środku skafandra
+    - EVA szkolenie z trzymania się, podwójnego bezpieczeństwa i przenoszenia ładunku
+    - Badanie ciśnieniowe skafandra
+    - schodzenie do basenu po linie w dół aby Astronauta mógł reagować na zmiany ciśnienia w swoim tempie i aby nic się nie stało
+    - urządzenie do przedmuchiwania ciśnienia w uszach (Valsalva maneuver - przedmuchiwanie uszu, gdy ciśnienie zapycha) Dolly Burton (ustnik do przedmuchiwania ciśnienia)
+    - Siedzą pod wodą po 6 godzin i strasznie to wykańcza ręce
+    - Why are space suits still bulky? While it's technically possible to create a tight suit that protects you from the vacuum of space and probably the extreme temperatures as well, one of the functions of the suit is to protect you from meteoroids -- grains of sand moving at tens of thousands of miles per hour. For this reason, the suit is made up of many layers of different fabrics that will stop a meteoroid from puncturing the suit -- and the astronaut. As you can see in this diagram, layers 6 through 14, 9 layers in total, are devoted to stopping meteoroids.
+- Procedury charakterystyczne dla basenu
+    - weight out - nurkowie wyważają astronautę - dodają pianki i ciężarków abyś był neutralny w każdej pozycji: pionowo, do góry nogami, bokiem
+    - puszczają muzyczkę (Bastille - Pompeii)
+- Obstawa
+    - 2 safety divers
+    - 1 floating diver (z kamerą)
+    - 2 utility diver z narzędziami, monitorują i pomagają się rozstawić
+    - NBL: dwóch nurków (EV1, EV2) na jednego astronautę Safety Diver + jeden (Float Diver) z kamerą i zmieniają się co dwie godziny, video jest do prezentacji i do analizowania szkoleń
+    - Na dwie osoby trenujące EVA jest około 40 osób, które upewniają się, że wszystko jest bezpiecznie
+-->
+
+### Neutral Buoyancy Laboratory - NASA
+
+### Neutral Buoyancy Facility - ESA
+<!-- TODO: Neutral Buoyancy Facility
 - EVA pre-familiarisation training (w NBF w EAC, ESA)
 - EVA training (w NBL w Huston, TX) jest prowadzony po ukończeniu pre-familiarisation w Kolonii
 - In this situation, EAC created a so-called EVA pre-familiarisation training course, which is conducted at EAC's Neutral Buoyancy Facility (NBF). This programme teaches ESA astronauts basic EVA concepts and EVA skills such as tethering to the Station, use of special EVA tools, communication with an EVA crewmate as well as with the control room and how to keep full situational awareness in a complex and challenging environment.
@@ -81,62 +126,7 @@ Obecnie podstawowym elementem wyposażenia każdego stroju astronauty są tzw. u
 - With the assembly of the ISS in full swing, the EVA training schedule in the NBL is tight, the facility itself overbooked with operational and mission-related EVA training so the training schedule is compressed into three shifts a day. In addition, it will in future also be used for exploration related testing, which leaves little time for providing EVA skills training to ESA astronauts.
 - An assignment to take part in a spacewalk during a space mission depends on an EVA skills evaluation, which takes place at a very early stage of the EVA training programme in Houston. Those astronauts who handle their very first neutral buoyancy experiences in Houston well will be chosen to perform EVAs and receive the full-blown EVA training.
 - 3-4 trenują w NBF pod wodą
-- W basenie trenują również kontakt z CAPCOM
-- O wszystkim informują CAPCOM
-- EVA szkolenie z trzymania się, podwójnego bezpieczeństwa i przenoszenia ładunku
-- Korzystanie z narzędzi
-- Wyrównywanie ciśnienia w środku skafandra
-- Dolly Burton (ustnik do przedmuchiwania ciśnienia)
-- Szkolenie VR dla EVA (hololense, oculus)
-- Amonia (NH3) Leak
-- rozszerzalność cieplna metali i zmiana siły na pokrętłach i wajchach
-- jeżeli jesteś w foot restraint to powinieneś przestać przykładać siłę w cokolwiek aby nie urwać
-- skażenie skafandra podczas EVA
-    - procedury dla airlock
-    - procedury powrotu aby nie ryzykować życia innych
-    - pędzel do strzepania amoniaku
-    - wyparowanie płatków śniegowych w słońcu
-    - wyrównanie ciśnienia w airlock aby móc otworzyć i wrzucić mokre ręczniki by się wytarli oraz ściany i odpowietrzniki
-- Ćwiczą 20 zanim wykonają to w kosmosie
-- Wejścia po 6 godzin
-- Pózniej w kosmosie 8/9 godzin
-- 2 safety divers
-- 1 floating diver (z kamerą)
-- 2 utility diver z narzędziami, monitorują i pomagają się rozstawić
-- Badanie ciśnieniowe skafandra
-- NBL: dwóch nurków (EV1, EV2) na jednego astronautę Safety Diver + jeden (Float Diver) z kamerą i zmieniają się co dwie godziny, video jest do prezentacji i do analizowania szkoleń
-- Comcheck
-- Portable Life System on
-- schodzenie do basenu po linie w dół aby Astronauta mógł reagować na zmiany ciśnienia w swoim tempie i aby nic się nie stało
-- urządzenie do przedmuchiwania ciśnienia w uszach (Valsalva maneuver - przedmuchiwanie uszu, gdy ciśnienie zapycha)
-- weight out - nurkowie wyważają astronautę - dodają pianki i ciężarków abyś był neutralny w każdej pozycji
-    - pionowo
-    - do góry nogami
-    - bokiem
-- Siedzą pod wodą po 6 godzin i strasznie to wykańcza ręce
-- puszczają muzyczkę (Bastille - Pompeii)
-- mają misję do ukończenia
-- Na dwie osoby trenujące EVA jest około 40 osób, które upewniają się, że wszystko jest bezpiecznie
-- Why are space suits still bulky?
-    - While it's technically possible to create a tight suit that protects you from the vacuum of space and probably the extreme temperatures as well, one of the functions of the suit is to protect you from meteoroids -- grains of sand moving at tens of thousands of miles per hour. For this reason, the suit is made up of many layers of different fabrics that will stop a meteoroid from puncturing the suit -- and the astronaut. As you can see in this diagram, layers 6 through 14, 9 layers in total, are devoted to stopping meteoroids.
-- EVA
-    - utrzymywanie skafandrów w gotowości
-    - procedury wyjść
-    - planowanie wyjść i zadań podczas EVA
-    - Augmented Reality (mobiPV, Google Glass)
-    - Pozycjonowanie astronautów i obserwacja realtime gdzie są
-    - GPS na Księżycu i Marsie
-    - Nawigowanie alternatywne
-    - Geografia terenu
-- generic training - szkolenie generyczne z umiejętności, które się zawsze przydają
-- cross-training szkolą ludzi tak by każdy miał przynajmniej pojęcie jak to się robi
-- Generic Training, a później Flight Assignment, Repetition mode już bezpośrednio przed samym wylotem.
-
 -->
-
-### Neutral Buoyancy Laboratory - NASA
-
-### Neutral Buoyancy Facility - ESA
 
 ### Rosyjski basen trenowania
 <!-- TODO: nazwa rosyjskiego basenu -->
@@ -210,6 +200,10 @@ Obecnie podstawowym elementem wyposażenia każdego stroju astronauty są tzw. u
 - upadki i wstawanie
 - radzenie sobie z pyłem
 - fotografia
+- Pozycjonowanie astronautów i obserwacja realtime gdzie są
+    - GPS na Księżycu i Marsie
+    - Nawigowanie alternatywne
+    - Geografia terenu
 - Tools
     - spectometers
     - portable X-ray fluorecscence analyzers
@@ -269,6 +263,13 @@ Obecnie podstawowym elementem wyposażenia każdego stroju astronauty są tzw. u
 
 ### Procedury bezpieczeństwa
 <!-- TODO: Procedury bezpieczeństwa
+- skażenie skafandra podczas EVA
+    - procedury dla airlock
+    - procedury powrotu aby nie ryzykować życia innych
+    - pędzel do strzepania amoniaku
+    - wyparowanie płatków śniegowych w słońcu
+    - wyrównanie ciśnienia w airlock aby móc otworzyć i wrzucić mokre ręczniki by się wytarli oraz ściany i odpowietrzniki
+- Amonia (NH3) Leak
 - Przećwiczenie ściągania osoby, która ma problemy podczas EVA.
 - Kiedy nie mogą widzieć przez visor.
 - Kiedy jakiś członek zespołu jest unieruchomiony.

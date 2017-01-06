@@ -254,3 +254,11 @@ Do podstawowych zadań skafandra należą:
 -->
 
 ## Augumentacja
+<!-- TODO: Augmented Reality
+    - mobiPV
+    - Google Glass
+- Pozycjonowanie astronautów i obserwacja realtime gdzie są
+    - GPS na Księżycu i Marsie
+    - Nawigowanie alternatywne
+    - Geografia terenu
+-->
