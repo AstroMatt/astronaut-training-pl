@@ -44,11 +44,11 @@ Przygotowanie astronautów i kosmonautów do długotrwałych misji kosminczych z
 - wytrzymałość na przeciążenia,
 - umiejętność kojarzenia i przewidywania.
 
-Na wybór kandydata ma ogromny wpływ również doświadczenie, wykształcenie nalot lotniczy oraz przebyte kursy i wyprawy przetrwania. Astronauci to także osoby publiczne często występujące przed dużymi audiencjami dlatego ceniona jest umiejętność posługiwania się mediami społecznościowymi, pisania tekstów oraz przemawiania {% bibliography "How to Become an ESA Astronaut" %}. Język angielski i rosyjski są obecnie oficjalnymi używanymi na ISS - międzynarodowej stacji kosmicznej dlatego od kandydatów wymaga się również znajomości tych dwóch powyższych. Dodatkowo ze względu na międzynarodowy charakter misji kosmicznych mile widziane jest zainteresowanie kulturą Stanów Zjednoczonych, Japonii i Rosji.
+Na wybór kandydata ma ogromny wpływ również doświadczenie, wykształcenie nalot lotniczy oraz przebyte kursy i wyprawy przetrwania. Astronauci to także osoby publiczne często występujące przed dużymi audiencjami dlatego ceniona jest umiejętność posługiwania się mediami społecznościowymi, pisania tekstów oraz przemawiania [How to Become an ESA Astronaut]. Język angielski i rosyjski są obecnie oficjalnymi używanymi na ISS - międzynarodowej stacji kosmicznej dlatego od kandydatów wymaga się również znajomości tych dwóch powyższych. Dodatkowo ze względu na międzynarodowy charakter misji kosmicznych mile widziane jest zainteresowanie kulturą Stanów Zjednoczonych, Japonii i Rosji.
 
  Sam proces podstawowego szkolenia astronautów trwa dwa lata i jego ukończenie pozwala na zmianę tytułu z "kandydat na astronautę" na "astronauta"<!-- TODO: Quote Needed -->. Jest to długi proces i wymagający wielu poświęceń z życia prywatnego. Ze względu na dużą ilość osób i zasobów zaangażowanych w przygotowanie proces ten jest bardzo kosztowny. Wsparcie jakiego wymaga przygotowanie do i po misji jest orgomne. Z tego powodu agencje kosmiczne wybierają najbardziej odpowiednie osoby na to stanowisko.
 
- Aby przygotować misję kosmiczną wymagane są lata pracy wielu zespołów profesjonalistów. I choć pozycja astronauty jest jedną z najbardziej prestiżowych na świecie to ich sukces zbudowany jest przez tych co pozostali na Ziemii {% bibliography "How to Become an ESA Astronaut" %}. Ograniczone możliwości w zakresie wysyłania ludzi w przestrzeń kosmiczną i koszt tego przedsięwzięcia wymaga starannego doboru kandydatów. Z tego powodu proces selekcji astronatów i kosmonautów jest zadaniem trudnym. Wymaga umiejętności multidyscyplinarnych. W poniższym rozdziale przedstawione zostną kryteria oraz proces wyboru najlepszych kandydatów.
+ Aby przygotować misję kosmiczną wymagane są lata pracy wielu zespołów profesjonalistów. I choć pozycja astronauty jest jedną z najbardziej prestiżowych na świecie to ich sukces zbudowany jest przez tych co pozostali na Ziemii [How to Become an ESA Astronaut]. Ograniczone możliwości w zakresie wysyłania ludzi w przestrzeń kosmiczną i koszt tego przedsięwzięcia wymaga starannego doboru kandydatów. Z tego powodu proces selekcji astronatów i kosmonautów jest zadaniem trudnym. Wymaga umiejętności multidyscyplinarnych. W poniższym rozdziale przedstawione zostną kryteria oraz proces wyboru najlepszych kandydatów.
 
 ## Kryteria doboru kandydatów
 
@@ -60,7 +60,7 @@ Ponadto cechą pracy w warunkach kosmicznych jest przebywanie w małych pomieszc
 
 Jednym z kluczowych elementów szkolenia astronautów jest pobyt w różnych centrach szkolenia na świecie. Jest to związane z długim przebywaniem poza miejscem zamieszkania i zdala od rodziny. Sam pobyt na międzynarodowej stacji kosmicznej na chwilę obecną trwa zwykle do sześciu miesięcy, ale te czasy zdecydowanie się wydłużą ze względu na konieczność przygotowania do długotwałych misji kosmicznych na Księżyc i Marsa.
 
-Ponadto dużą uwagę zwraca się na {% bibliography "ESA Astronaut Training Requirements" %}:
+Ponadto dużą uwagę zwraca się na [ESA Astronaut Training Requirements]:
 
 - zdolność rozumowania,
 - dobra pamięć,
@@ -68,7 +68,7 @@ Ponadto dużą uwagę zwraca się na {% bibliography "ESA Astronaut Training Req
 - zreczność manualna,
 - umiejętność przystosowania się do zmiennych warunków przestrzennych.
 
-Idealny kandydat posiada {% bibliography "ESA Astronaut Training Requirements" %}:
+Idealny kandydat posiada [ESA Astronaut Training Requirements]:
 
 - wysoką motywację,
 - elastyczność,
@@ -103,7 +103,7 @@ Kandydacji którzy biorą udział w rekrutacji muszą być zdolni do wytrzymywan
 
 Zdrowie kandydata jest jednym z najważniejszych kryteriów doboru. Osoby rekrutowane muszą się wykazać niezwykłą adaptacją do warunków panujących w stanie nieważkości. Jest to podyktowane głównie ogromnym kosztem wyszkolenia astronautów i chęcią zmniejszenia możliwości zaistnienia problemów podczas misji ze względu na stan zdrowia pracującego operatora. Sprawność układu ruchu, krążenia oraz równowagi ma ogromne znaczenie dla późniejszej pracy kandydata.
 
-Ponadto jednym z kluczowych wskaźników jest także wzrost. Osoby niższe są bardziej predystynowane do wytrzymywania większych przeciążeń ze względu na niższą odległość pomiędzy sercem a mózgiem. Poza samą predyspozycją ze względów medycznych wzrost ma znaczenie ze względów konstrukcyjnych statków kosmicznych. Na chwilę obecną (maj 2016) jedynym sposobem dostarczania astronautów na Międzynarodową Stację Kosmiczną jest rosyjski statek Soyuz, który jest przewidziany dla osób ze wzrostem z zakresu 150 do 190 cm {% bibliography "ISS Spacecraft - Soyuz TM" %} (wersje TM przed czerwcem 1999 miały ograniczenie od 164 do 182 cm). Z tego samego powodu do amerykańskiego korpusu astronautów przyjmowani są kandydaci o wzroście pomiędzy 62 i 75 cali {% bibliography "NASA Astronaut Requirements" %} co odpowiada 157,5 i 190,5 cm. Wymaganiem Europejskiej Agencji Kosmicznej w tej dziedzinie jest wzrost pomiędzy 153 a 190 cm {% bibliography "ESA Astronaut Training Requirements" %}.
+Ponadto jednym z kluczowych wskaźników jest także wzrost. Osoby niższe są bardziej predystynowane do wytrzymywania większych przeciążeń ze względu na niższą odległość pomiędzy sercem a mózgiem. Poza samą predyspozycją ze względów medycznych wzrost ma znaczenie ze względów konstrukcyjnych statków kosmicznych. Na chwilę obecną (maj 2016) jedynym sposobem dostarczania astronautów na Międzynarodową Stację Kosmiczną jest rosyjski statek Soyuz, który jest przewidziany dla osób ze wzrostem z zakresu 150 do 190 cm [ISS Spacecraft - Soyuz TM] (wersje TM przed czerwcem 1999 miały ograniczenie od 164 do 182 cm). Z tego samego powodu do amerykańskiego korpusu astronautów przyjmowani są kandydaci o wzroście pomiędzy 62 i 75 cali [NASA Astronaut Requirements] co odpowiada 157,5 i 190,5 cm. Wymaganiem Europejskiej Agencji Kosmicznej w tej dziedzinie jest wzrost pomiędzy 153 a 190 cm [ESA Astronaut Training Requirements].
 
 | Parametr                             | Zakres       | Jednostka |
 |:-------------------------------------|:-------------|:----------|
@@ -117,7 +117,7 @@ Ponadto jednym z kluczowych wskaźników jest także wzrost. Osoby niższe są b
 | Szerokość ud                         | do 41        | cm        |
 | Obwód klatki piersiowej              | brak wymagań | cm        |
 
-**Tabela 3.1. - wybrane parametry członków załogi statku kosmicznego Soyuz TM (zmodyfikowany po czerwcu 1999){% bibliography "Soyuz - A Universal Spacecraft" %}**
+**Tabela 3.1. - wybrane parametry członków załogi statku kosmicznego Soyuz TM (zmodyfikowany po czerwcu 1999)[Soyuz - A Universal Spacecraft]**
 
 
 | Parametr                 | NASA                                        | Roscosmos | ESA                                                                              |
@@ -130,9 +130,9 @@ Ponadto jednym z kluczowych wskaźników jest także wzrost. Osoby niższe są b
 | Wzrok (widzenie bliskie) | 20/20 w każdym oku (dopuszczalna korekcja)  |           |                                                                                  |
 | Wzrok (widzenie dalekie) | 20/200 w każdym oku (dopuszczalna korekcja) |           |                                                                                  |
 
-**Tabela 3.2. - parametry medycznye kandydatów na astronautów {% bibliography "NASA Astronaut Requirements" %}{% bibliography "ESA Astronaut Training Requirements" %}**
+**Tabela 3.2. - parametry medycznye kandydatów na astronautów [NASA Astronaut Requirements][ESA Astronaut Training Requirements]**
 
-Powyższe parametry są weryfikowane podczas badań medycznych w procesie selekcji astronautów wykorzystując {% bibliography "ESA Astronaut Training Requirements" %}:
+Powyższe parametry są weryfikowane podczas badań medycznych w procesie selekcji astronautów wykorzystując [ESA Astronaut Training Requirements]:
 
 - koło reńskie - MAT (Multi-Axis Tool),
 - krzesła obrotowe,
@@ -153,11 +153,11 @@ Każda z tych profesji ma swoje zalety przy prowadzeniu badań w środowisku kos
 
 ### Selekacja ze względu na doświadczenie lotnicze
 
-Pilot-astronauta podczas misji specjalizuje się w prowadzeniu statków kosmicznych. W zakres jego obowiązków wchodzi pilotaż, odpowiedzialność za załogę i powodzenie misji, oraz dbanie o bezpieczeństwo na pokładzie. Pilot wspiera dowódcę w kontrolowaniu statku. Ponadto rola pilota może rozszerzyć się o zakres obowiązków związanych z przechwytywaniem i rozstawianiem stelit, korzystaniem z robotycznego ramienia - manipulatora, EVA oraz operacje związane z ładunkiem {% bibliography "NASA Astronaut Requirements" %}.
+Pilot-astronauta podczas misji specjalizuje się w prowadzeniu statków kosmicznych. W zakres jego obowiązków wchodzi pilotaż, odpowiedzialność za załogę i powodzenie misji, oraz dbanie o bezpieczeństwo na pokładzie. Pilot wspiera dowódcę w kontrolowaniu statku. Ponadto rola pilota może rozszerzyć się o zakres obowiązków związanych z przechwytywaniem i rozstawianiem stelit, korzystaniem z robotycznego ramienia - manipulatora, EVA oraz operacje związane z ładunkiem [NASA Astronaut Requirements].
 
-Doświadczenie lotniczne nie jest wymagane, ale wysoko porządane {% bibliography "ESA Astronaut Training Requirements" %}.
+Doświadczenie lotniczne nie jest wymagane, ale wysoko porządane [ESA Astronaut Training Requirements].
 
-Przy specjalizacji jako pilot-astronauta amerykańska agencja NASA wymaga 1000 godzin nalotu jako dowódca statku powietrznego (PIC - Pilot-in-Command) na samolotach odrzutowych {% bibliography "NASA Astronaut Requirements" %}. W tym przypadku preferowane są osoby z doświadczeniem pilota testowego.
+Przy specjalizacji jako pilot-astronauta amerykańska agencja NASA wymaga 1000 godzin nalotu jako dowódca statku powietrznego (PIC - Pilot-in-Command) na samolotach odrzutowych [NASA Astronaut Requirements]. W tym przypadku preferowane są osoby z doświadczeniem pilota testowego.
 
 Wymagania dotyczące wzoku dla pilotów są zwiększone:
 
@@ -209,7 +209,7 @@ Amerykańska agencja kosmiczna NASA organizuje rekrutację na kandydata na astro
 | 2009 | 20    | "The Chumps"                                                                                 |
 | 2013 | 21    | "The 8-Balls"                                                                                |
 
-**Tabela 3.3. - Dotychczasowe selekcje astronautów NASA {% bibliography "Active NASA Astronauts" %}{% bibliography "Inactive NASA Astronauts" %}**
+**Tabela 3.3. - Dotychczasowe selekcje astronautów NASA [Active NASA Astronauts][Inactive NASA Astronauts]**
 
 | Astronauta              | Rok naboru | Grupa |
 |:------------------------|:-----------|:------|
@@ -261,7 +261,7 @@ Amerykańska agencja kosmiczna NASA organizuje rekrutację na kandydata na astro
 | Wilmore, Barry E.       | 2000       | 18    |
 | Wiseman, G. Reid        | 2009       | 20    |
 
-**Tabela 3.4. - Lista aktywnych astronautów NASA {% bibliography "Active NASA Astronauts" %}**
+**Tabela 3.4. - Lista aktywnych astronautów NASA [Active NASA Astronauts]**
 
 ### Roscosmos (Federacja Rosyjska)
 
@@ -269,7 +269,7 @@ Do końca roku 2015 agencja kosmiczna Roscosmos podlegała strukturom wojskowym 
 
 ### ESA - Europejska Agencja Kosmiczna
 
-Jednym z warunków bycia astronautą ESA jest aby państwo narodowości kandydata było oficjalnym członkiem tej agencji. Ostatni proces rekrutacji Europejskiej Agencji Kosmicznej odbył się w maju 2008 oraz maju 2009 roku. Przedsięwzięcie prowadziła jednostka EAC (ang. European Astronaut Centre) w Kolonii w Niemczech. Wzięło w nim udział 8413 kandydatów . 20 maja 2009 sześciu nowych kandydatów na astronautów zostało przedstawionych na konferencji prasowej w siedzibie ESA w Paryżu. Kandydaci rozpoczęli swoje wstępne przeszkolenie 1 września 2009 roku. W tej selekcji wybrano następujących kandydatów {% bibliography "How to Become an ESA Astronaut" %}:
+Jednym z warunków bycia astronautą ESA jest aby państwo narodowości kandydata było oficjalnym członkiem tej agencji. Ostatni proces rekrutacji Europejskiej Agencji Kosmicznej odbył się w maju 2008 oraz maju 2009 roku. Przedsięwzięcie prowadziła jednostka EAC (ang. European Astronaut Centre) w Kolonii w Niemczech. Wzięło w nim udział 8413 kandydatów . 20 maja 2009 sześciu nowych kandydatów na astronautów zostało przedstawionych na konferencji prasowej w siedzibie ESA w Paryżu. Kandydaci rozpoczęli swoje wstępne przeszkolenie 1 września 2009 roku. W tej selekcji wybrano następujących kandydatów [How to Become an ESA Astronaut]:
 
 | Astronauta             | Narodowość      | Rok naboru | Czas w kosmosie | Misje                                                                 |
 |:-----------------------|:----------------|:-----------|:----------------|:----------------------------------------------------------------------|
@@ -287,7 +287,7 @@ Jednym z warunków bycia astronautą ESA jest aby państwo narodowości kandydat
 | Hans Schlegel          | Niemcy          | 1998       | 22d 18h 02m     | STS-55, STS-122                                                       |
 | Roberto Vittori        | Włochy          | 1998       | 35d 12h 26m     | Soyuz TM-34, Soyuz TM-33, Soyuz TMA-6, Soyuz TMA-5, STS-134           |
 
-**Tabela 3.5. - Lista aktywnych astronautów ESA {% bibliography "European Astronaut Corps" %}**
+**Tabela 3.5. - Lista aktywnych astronautów ESA [European Astronaut Corps]**
 
 ### JAXA - Japońska Agencja Eksploracji Kosmicznej
 
