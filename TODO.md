@@ -58,14 +58,14 @@
 
 ## Skafandry Kosmiczne
 - line 17: Generalna charakterystyka skafandrów kosmicznych
-- line 34: Strój wewnątrz skafandra
-- line 51: Systemy biomedyczne skafandra
-- line 79: Hełm
-- line 96: EMU - Tors
-- line 104: EMU - Ramiona i Rękawice
-- line 118: EMU - Plecak z systemem podtrzymywania życia
-- line 123: Zaczepy na narzędzia
-- line 134: EVA Mission patch
+- line 33: Strój wewnątrz skafandra
+- line 50: Systemy biomedyczne skafandra
+- line 78: Hełm
+- line 95: EMU - Tors
+- line 103: EMU - Ramiona i Rękawice
+- line 117: EMU - Plecak z systemem podtrzymywania życia
+- line 122: Zaczepy na narzędzia
+- line 133: EVA Mission patch
 - line 184: Charakterystyka skafandra Orlan MKS
 - line 189: Charakterystyka skafandra MACES
 - line 216: Charakterystyka skafandra EMU

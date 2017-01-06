@@ -28,7 +28,6 @@ Do podstawowych zadań skafandra należą:
 - Suity były projektowane dla wielkich gości
 - Jeżeli jesteś mała osobą, to musisz mocno nawet do 120 stopni się skręcić aby Suit się skręcił
 - Kiedyś (ostatni lot STS) był prototyp małego stroju ale już nie ma
-
 -->
 
 ### Strój wewnątrz skafandra
@@ -135,6 +134,7 @@ Do podstawowych zadań skafandra należą:
 <!-- TODO: EVA Mission patch
 - That is the EVA insignia patch.  It is the symbol used by the team responsible for the suits.  It is a space age representation of Leonardo daVinci's Vitruvian man.  The five stars represent the five NASA programs that have utilized EVA (Extravehicular Activity).
 -->
+
 ## Lista skafandrów kosmicznych
 
 ### Skafandry kosmiczne wykorzystywane podczas startu i lądowania
