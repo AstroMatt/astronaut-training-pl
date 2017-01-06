@@ -6,6 +6,7 @@ language: polish
 # Charakterystyka skafandrów kosmicznych
 
 Do podstawowych zadań skafandra należą:
+
 - ochrona przed ektremalnym środowiskiem kosmosu,
 - ochrona przed brakiem ciśnienia (próżnią),
 - ochrona przed mikrometeorytami,

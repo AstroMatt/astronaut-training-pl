@@ -57,36 +57,36 @@
 - line 10: Dokowanie statków kosmicznych
 
 ## Skafandry Kosmiczne
-- line 16: Generalna charakterystyka skafandrów kosmicznych
-- line 33: Strój wewnątrz skafandra
-- line 50: Systemy biomedyczne skafandra
-- line 78: Hełm
-- line 95: EMU - Tors
-- line 103: EMU - Ramiona i Rękawice
-- line 117: EMU - Plecak z systemem podtrzymywania życia
-- line 122: Zaczepy na narzędzia
-- line 133: EVA Mission patch
-- line 183: Charakterystyka skafandra Orlan MKS
-- line 188: Charakterystyka skafandra MACES
-- line 215: Charakterystyka skafandra EMU
-- line 235: Utrzymywanie sprawnośni skafandra EMU
-- line 245: Systemy awaryjne skafandrów EVA
-- line 251: SAFER
-- line 256: Augmented Reality
+- line 17: Generalna charakterystyka skafandrów kosmicznych
+- line 34: Strój wewnątrz skafandra
+- line 51: Systemy biomedyczne skafandra
+- line 79: Hełm
+- line 96: EMU - Tors
+- line 104: EMU - Ramiona i Rękawice
+- line 118: EMU - Plecak z systemem podtrzymywania życia
+- line 123: Zaczepy na narzędzia
+- line 134: EVA Mission patch
+- line 184: Charakterystyka skafandra Orlan MKS
+- line 189: Charakterystyka skafandra MACES
+- line 216: Charakterystyka skafandra EMU
+- line 236: Utrzymywanie sprawnośni skafandra EMU
+- line 246: Systemy awaryjne skafandrów EVA
+- line 252: SAFER
+- line 257: Augmented Reality
 
 ## Spacery Kosmiczne
-- line 78: Symulacja prac w basenie doskonałej pływalności
-- line 118: Neutral Buoyancy Facility
-- line 130: nazwa rosyjskiego basenu
-- line 135: Role podczas EVA
-- line 148: Komunikacja EVA
-- line 163: Przygotowanie do przeprowadzenia wyjścia w przestrzeń
-- line 185: Procedury po powrocie z EVA
-- line 196: EVA na powierzchni innych ciał niebieskich
-- line 216: EVA na powierzchni Księżyca
-- line 230: EVA - Wykorzystywanie pojazdów
-- line 257: EMU Emergency
-- line 263: Procedury bezpieczeństwa
+- line 82: Symulacja prac w basenie doskonałej pływalności
+- line 122: Neutral Buoyancy Facility
+- line 134: nazwa rosyjskiego basenu
+- line 139: Role podczas EVA
+- line 152: Komunikacja EVA
+- line 167: Przygotowanie do przeprowadzenia wyjścia w przestrzeń
+- line 189: Procedury po powrocie z EVA
+- line 200: EVA na powierzchni innych ciał niebieskich
+- line 220: EVA na powierzchni Księżyca
+- line 234: EVA - Wykorzystywanie pojazdów
+- line 261: EMU Emergency
+- line 267: Procedury bezpieczeństwa
 
 ## Pilotaz
 - line 08: Samolotów odrzutowych

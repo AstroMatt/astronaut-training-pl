@@ -8,12 +8,14 @@ language: polish
 Jednym z najtrudniejszych elementów pracy astronauty jest wyjście w przestrzeń kosmiczną na tzw. EVA (ang. Extravehicular Activity, pol. spacer kosmiczny). Do przeprowadzenia takiego wyjścia astronauci przytotowują się przez dwa lata przed misją przeprowadzając około 20 ćwiczeń w pełnym skafandrze pod wodą w basenie neutralnej pływalności (ang. Neurtal Buoyancy Facility). Każdy trening jest oceniany przez zespół wykwalifikowanych i certyfikowanych instruktorów.
 
 Ze względu na bardzo szeroki zakres obowiązków podczas spacerów kosmiczych astronauci specjalizują sie w swojej dziedzinie i charakterze przeprowadzanej operacji. Każdy z nich także otrzymuje szkolenie umożliwiające mu zastąpienie dowolnego innego astronauty w jego obowiązkach gdyby zaszła taka potrzeba. Z tego względu szkolenie astronautów podzielone jest na dwa typy:
+
 - generic training (pol. szkolenie generalne),
 - cross training (pol. szkolenie przerojowe).
 
 Astronauci podczas szkolenia podstawowego, a później dla utrzymania sprawności w trakcie swojej kariery ćwiczą wyjścia EVA w basenie neutralnej pływalności. Podczas tych zajęć szkolą się z rozwiązywania sytuacji awaryjnych, m.in. ewakuacja astronauty, który ma niesprawny kombinezon lub nie może się poruszać.
 
 Na chwilę obecną wyjścia w przestrzeń kosmiczną skupiają się głównie na pracach na orbicie przy konstrukcji i naprawy międzynarodowej stacji kosmicznej. Przed erą ISS astronauci wychodzili aby naprawiać MIR czy Skylab, podczas programu Apollo w celu demontażu kamery oraz w programie STS, Gemini i Wostok. Dotychczas EVA na obcych planetach lub satelitach doświadczyło tylko i wyłącznie dwanaście osób. Jednym z najbardziej podstawowych podiałów spacerów kosmicznych są wyjścia:
+
 - zaplanowane,
 - awaryjne,
 - na obcych ciałach niebieskich.
@@ -33,6 +35,7 @@ Przed wykonywaniem zadań w basenie astronauci wykonują tzw. sprawdzenie szczel
 ### Systemy biomedyczne stosowane podczas EVA
 
 Każdy skafander kosmiczny posiada inny zestaw sensorów i urządzeń kontrolujących organizm i pracę astronautów. Szczegółowe informacje na temat systemów biomedycznych skafandrów zostały przedstawione w osobnym rozdziale. Podczas podstawowego zapoznania się ze skafandrem astronauta poznaje systemy wspierające i monitorujące:
+
 - promieniowanie,
 - działanie układu krwionośnego,
 - działanie układu oddechowego,
@@ -50,6 +53,7 @@ Ze względu na niedoskonałość materiału każdy strój posiada tzw. przeciek
 Prace w przestrzeni kosmicznej wymagają znajomości wysokowyspecjalizowanych narzędzi. Ich rolą jest nie tylko pomoc astronaucie w dokonaniu naprawy czy montażu sprzętu ale również zachowanie pozycji czy bezpiecznego poruszania się w obrębie stacji kosmicznej.
 
 Urządzenia wykorzystywane w pracy w przestrzeni kosmicznej możemy podzielić na:
+
 - śrubokręty,
 - klucze dynamometryczne,
 - wiertarki,
