@@ -50,20 +50,20 @@ Ze względu na niedoskonałość materiału każdy strój posiada tzw. przeciek
 Prace w przestrzeni kosmicznej wymagają znajomości wysokowyspecjalizowanych narzędzi. Ich rolą jest nie tylko pomoc astronaucie w dokonaniu naprawy czy montażu sprzętu ale również zachowanie pozycji czy bezpiecznego poruszania się w obrębie stacji kosmicznej.
 
 Urządzenia wykorzystywane w pracy w przestrzeni kosmicznej możemy podzielić na:
-    - śrubokręty,
-    - klucze dynamometryczne,
-    - wiertarki,
-    - wkrętarki,
-    - urządzenia do spawania.
+- śrubokręty,
+- klucze dynamometryczne,
+- wiertarki,
+- wkrętarki,
+- urządzenia do spawania.
 
 Prowadzenie prac w środowisku mikrograwitacji przy wykorzystaniu urządzeń tj. śrubokręty, wiertarki i wkrętarki nie jest tak proste jak na Ziemii. Brak oporu i bardzo zmniejszone przyciąganie ziemskie powoduje wytworzenie niezbilansowanego momentu skręcającego działającego na astronautę a to w konsekwencji prowadzi do zmiany jego pozycji względem stacji. Astronauta używając klucza czy wkrętarki musi być przymocowany aby móc przyłożyć odpowiednią siłę.
 
 ### Wykorzystanie urządzeń wspierających pracę w przestrzeni kosmicznej
 
 Urządzenia wspierające pozwalają na zachowanie pozycji względem stacji kosmicznej oraz na łatwiejsze posługiwanie się narzędziami. Do głównych urządzeń wspierających czynności podczas spacerów kosmicznych można zaliczyć:
-    - przedłużki zmieniające ramię narzędzi,
-    - liny stalowe (ang. theather),
-    - przymocowania stóp (ang. foot restraints).
+- przedłużki zmieniające ramię narzędzi,
+- liny stalowe (ang. theather),
+- przymocowania stóp (ang. foot restraints).
 
  Do zadania przedłużek należy zwiększenie długości ramienia klucza. Urządzenia te usadza się na końcu klucza przedłużając jego rączkę. Dzięki ich zastosowaniu astronauta może zwiększyć moment obrotowy działający na śrubę i dzięki temu przykręcić lub odkręcić śruby z większą siłą i precyzją.
 
