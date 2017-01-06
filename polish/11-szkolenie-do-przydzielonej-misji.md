@@ -78,20 +78,24 @@ language: polish
 W celu upamiętnienia wydarzeń historycznych astronauci przed wylotem w kosmos uczestniczą w wielu tradycjach. Każde z wydarzeń jest monitorowane przez media z całego świata. Poniżej przedstawiono listę czynności wykonywanych przez przyszłych uczestników lotów kosmicznych.
 
 Przed udaniem się na kosmodrom w Bajkonurze:
+
 - wizyta na placu czerwonym,
 - złożenie kwiatów pod murem Kremla na grobach poległych kosmonautów.
 
 Bezpośrednio po przybyciu do Bajkonuru:
+
 - podniesienie flag narodowych astronautów,
 - zasadzenie drzewa w alei kosmonautów.
 
 Na kilka dni przed wylotem:
+
 - poświecenie rakiety przez popa,
 - astronauci nie mogą zobaczyć rakiety ani po drugim ani po trzecim przeglądzie przedstartowym (tradycja),
 - kwarantanna i ochrona przed mikrobami,
 - spanie na łóżku z głową w dół.
 
-Bezpośrednio przed wylotem:
+Bezpośrednio przed wylotem
+
 - ostatnie strzyżenie włosów przez fryzjera,
 - ostatni posiłek załogi,
 - podpis na drzwiach pokoju w którym się mieszkało,

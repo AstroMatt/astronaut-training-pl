@@ -65,6 +65,7 @@ Prowadzenie prac w środowisku mikrograwitacji przy wykorzystaniu urządzeń tj.
 ### Wykorzystanie urządzeń wspierających pracę w przestrzeni kosmicznej
 
 Urządzenia wspierające pozwalają na zachowanie pozycji względem stacji kosmicznej oraz na łatwiejsze posługiwanie się narzędziami. Do głównych urządzeń wspierających czynności podczas spacerów kosmicznych można zaliczyć:
+
 - przedłużki zmieniające ramię narzędzi,
 - liny stalowe (ang. theather),
 - przymocowania stóp (ang. foot restraints).
