@@ -74,21 +74,19 @@
 - line 230: SAFER
 
 ## Spacery Kosmiczne
-- line 06: Wyjścia astronautów w przestrzeń kosmiczną
-- line 20: Zaznajomienie się ze skafandrem
-- line 27: Przygotowanie do przeprowadzenia wyjścia w przestrzeń
-- line 47: Role podczas EVA
-- line 54: Procedury po powrocie z EVA
-- line 65: Wykorzystywanie specjalistycznych narzędzi
-- line 73: Symulacja prac w basenie doskonałej pływalności
-- line 137: nazwa rosyjskiego basenu
-- line 142: Komunikacja EVA
-- line 154: Systemy medyczne stosowane podczas EVA
-- line 179: EVA na powierzchni innych ciał niebieskich
-- line 187: EVA na powierzchni Księżyca
-- line 201: EVA - Wykorzystywanie pojazdów
-- line 214: EMU Emergency
-- line 220: Procedury bezpieczeństwa
+- line 26: Systemy medyczne stosowane podczas EVA
+- line 49: Wykorzystywanie specjalistycznych narzędzi
+- line 57: Symulacja prac w basenie doskonałej pływalności
+- line 125: nazwa rosyjskiego basenu
+- line 130: Role podczas EVA
+- line 140: Komunikacja EVA
+- line 154: Przygotowanie do przeprowadzenia wyjścia w przestrzeń
+- line 176: Procedury po powrocie z EVA
+- line 187: EVA na powierzchni innych ciał niebieskich
+- line 195: EVA na powierzchni Księżyca
+- line 209: EVA - Wykorzystywanie pojazdów
+- line 222: EMU Emergency
+- line 228: Procedury bezpieczeństwa
 
 ## Pilotaz
 - line 08: Samolotów odrzutowych

@@ -4,65 +4,49 @@ language: polish
 ---
 
 # Wyjścia astronautów w przestrzeń kosmiczną
-<!-- TODO: Wyjścia astronautów w przestrzeń kosmiczną
-- Jak trenują EVA, o których nie wiedzą, że będą potrzebowali w przyszłości:
-    - generic training - szkolenie generyczne z umiejętności, które się zawsze przydają
-    - cross-training szkolą ludzi tak by każdy miał przynajmniej pojęcie jak to się robi
-    - Generic Training, a później Flight Assignment, Repetition mode już bezpośrednio przed samym wylotem.
-    - Czasami zadarzają się astronauci którzy nie mogą robić EVA, bo trzeba być on-top-of-everything, trzeba mieć kondycję, znać strój, być przetrenowanym
--->
 
-Jednym z najtrudniejszych elementów pracy astronauty jest wyjście w przestrzeń kosmiczną na tzw. EVA (ang. Extravehicular Activity, pol. spacer kosmiczny). Do przeprowadzenia takiego wyjścia astronauci przytotowują się przez dwa lata przed misją przeprowadzając około 20 ćwiczeń w pełnym skafandrze pod wodą w basenie neutralnej pływalności (ang. Neurtal Buoyancy Facility). Wyjścia w przestrzeń kosmiczną dzielimy na:
+Jednym z najtrudniejszych elementów pracy astronauty jest wyjście w przestrzeń kosmiczną na tzw. EVA (ang. Extravehicular Activity, pol. spacer kosmiczny). Do przeprowadzenia takiego wyjścia astronauci przytotowują się przez dwa lata przed misją przeprowadzając około 20 ćwiczeń w pełnym skafandrze pod wodą w basenie neutralnej pływalności (ang. Neurtal Buoyancy Facility). Każdy trening jest oceniany przez zespół wykwalifikowanych i certyfikowanych instruktorów.
+
+Ze względu na bardzo szeroki zakres obowiązków podczas spacerów kosmiczych astronauci specjalizują sie w swojej dziedzinie i charakterze przeprowadzanej operacji. Każdy z nich także otrzymuje szkolenie umożliwiające mu zastąpienie dowolnego innego astronauty w jego obowiązkach gdyby zaszła taka potrzeba. Z tego względu szkolenie astronautów podzielone jest na dwa typy:
+- generic training (pol. szkolenie generalne),
+- cross training (pol. szkolenie przerojowe).
+
+Astronauci podczas szkolenia podstawowego, a później dla utrzymania sprawności w trakcie swojej kariery ćwiczą wyjścia EVA w basenie neutralnej pływalności. Podczas tych zajęć szkolą się z rozwiązywania sytuacji awaryjnych, m.in. ewakuacja astronauty, który ma niesprawny kombinezon lub nie może się poruszać.
+
+Na chwilę obecną wyjścia w przestrzeń kosmiczną skupiają się głównie na pracach na orbicie przy konstrukcji i naprawy międzynarodowej stacji kosmicznej. Przed erą ISS astronauci wychodzili aby naprawiać MIR czy Skylab, podczas programu Apollo w celu demontażu kamery oraz w programie STS, Gemini i Wostok. Dotychczas EVA na obcych planetach lub satelitach doświadczyło tylko i wyłącznie dwanaście osób. Jednym z najbardziej podstawowych podiałów spacerów kosmicznych są wyjścia:
 - zaplanowane,
 - awaryjne,
 - na obcych ciałach niebieskich.
 
+Spacery kosmiczne wymagają wysokiej sprawności oraz dużej siły fizycznej. Z tego względu nie wszyscy astronauci mają możliwość wykorzystania w kosmosie wyuczonych uprzednio umiejętności. Ay astronauta mógł wyjść w przestrzeń kosmiczną musi udowodnić znajomość stroju przechodząc stosowny egzamin jak również musi mieć odpowiednią kondycję i formę.
+
 ## Zaznajomienie się ze skafandrem
-<!-- TODO: Zaznajomienie się ze skafandrem
-- Certyfikacja w obsłudze skafandra
-- Dwa szkolenia, EMU i Orlan
-- Ocena astronautów ze znajomości skafandra i umiejętności posługiwania się nim
+Szkolenie przygotowujące do spacerów kosmicznych zaczyna się od zapoznania ze skafandrem. Astronauci są następnie przygotowywani do egzaminów z wykorzystania strojów EMU oraz Orlan. Po takiej certyfikacji astronauta powinien wykazać się dużą wiedzą na temat nie tylko posługiwiania się wysoko wyspecjalizowanym ubiorem ale również w jego systemach awaryjnych. Każde ze szkoleń jest oceniane przez certyfikowanych instruktorów z centrum kontroli misji.
+
+### Systemy biomedyczne stosowane podczas EVA
+<!-- TODO: Systemy medyczne stosowane podczas EVA
+- dosimeter
+- ECG, 3 electrode
+- Suit sensor
+- Respiratory Coefficient
+- Respiratory trace
+- Oxygen Consumption
+- Oxygen Uptake
+- Leak Check (every suit leaks)
+- CO2 sensor
+- O2 sensor
+- O2 consumption (per astronaut)
+- Anarobic
+- QRS complex
+- measuring chest
+- temperature sensor on your ear (wcześniej w rectal) [Russian Suit]
+- Radiation dosimeter
+- LCVG (Liquid Cooling and Ventilation Groumet)
+- anarobic (na podstawie O2 i CO2)
+- metabolism
 -->
 
-## Przygotowanie do przeprowadzenia wyjścia w przestrzeń
-<!-- TODO: Przygotowanie do przeprowadzenia wyjścia w przestrzeń
-- Ingress i Regress
-- What medical examination you perform before and after EVA
-- Ruskie MO - medical assessment (5 or 6)
-- threadmill, hand ergomenter,
-- ECG, cardiovascular, blood pressure, QRS complex
-- zdarzyło się raz aby ktoś był wykluczony
-- badają zdolność do EVA już nawet na kilka dni przed
-- What is the procedure for EVA preparation (oxygen intake) - pre-breath protocol
-    - O2 environment makes pre-breath easier
-    - Rosyjski strój pozwala szybciej wyjść, ale nie tak długo siedzieć
-    - kiedyś, oddychają czystym O2 jadąc na rowerze z maską, a później wchodzą do stroju i obniżają ciśnienie
-    - camp-out, śpią w śluzie z 10.2 PSI i to się zmienia z 21% do 28% tlenu
-    - exercise protocol in the suit, połączenie starszych
-    - możesz zrobić cały pre-breath przez 4 godziny w stroju (zrobili to dwukrotnie, awaryjnie)
-    - Rosjanie mają 30-40 minut
-    - jeżeli miałbyś strój z 8 PSI to nie musisz mieć żadnych pre-breath, ale nie dałoby się niczego robić
--->
-
-## Role podczas EVA
-<!-- TODO: Role podczas EVA
-- Przynajmniej dwie osoby wychodzą na EVA i minimalnie jedna zostaje w bazie jako IVA.
-- EV1 jest bardziej prestiżowy. Astronauci o to konkurują.
-- EV1 jest przyznawany ze względu na ranking lub wyszkolenie.
--->
-
-## Procedury po powrocie z EVA
-<!-- TODO: Procedury po powrocie z EVA
-- Ruskie walą wódkę, jeszcze w śluzie zanim się zdepresuryzuje. nigdy się nic nie stało
-- amerykanom dwukrotnie zdarzyło się przytrzasnąć narzędzie
-- wyrównują do 5 PSI i robią leak check, jeżeli nie działa, to upuszają powietrze i jeszcze raz sprawdzają właz
-- nominal procedures
-- repress takes 15 minutes
-- depress takes 30 minutes
-- cooling, oxygen supplies
--->
-
-## Wykorzystywanie specjalistycznych narzędzi
+### Wykorzystywanie specjalistycznych narzędzi
 <!-- TODO: Wykorzystywanie specjalistycznych narzędzi
 - theather
 - śrubokręty
@@ -128,6 +112,10 @@ Jednym z najtrudniejszych elementów pracy astronauty jest wyjście w przestrze�
     - GPS na Księżycu i Marsie
     - Nawigowanie alternatywne
     - Geografia terenu
+- generic training - szkolenie generyczne z umiejętności, które się zawsze przydają
+- cross-training szkolą ludzi tak by każdy miał przynajmniej pojęcie jak to się robi
+- Generic Training, a później Flight Assignment, Repetition mode już bezpośrednio przed samym wylotem.
+
 -->
 
 ### Neutral Buoyancy Laboratory - NASA
@@ -137,44 +125,64 @@ Jednym z najtrudniejszych elementów pracy astronauty jest wyjście w przestrze�
 ### Rosyjski basen trenowania
 <!-- TODO: nazwa rosyjskiego basenu -->
 
-## Instalacja i naprawa systemów ISS
+## Komunikacja i podział ról podczas symulacji oraz wyjścia w przestrzeń kosmiczną
 
-## Komunikacja podczas spacerów kosmicznych
+### Role i obowiązki astrinautów
+<!-- TODO: Role podczas EVA
+- Przynajmniej dwie osoby wychodzą na EVA i minimalnie jedna zostaje w bazie jako IVA.
+- EV1 jest bardziej prestiżowy. Astronauci o to konkurują.
+- EV1 jest przyznawany ze względu na ranking lub wyszkolenie.
+-->
+
+### Role i obowiązki kontrolerów misji
+
+
+### Charakterystyka komunikacji
 <!-- TODO: Komunikacja EVA
 - Podczas EVA masz big loop i każdy może słuchać i włączać się do rozmów.
-- Zwykle podczas EVA CapCom komunikuje się z zespołem.
 - Ground Loop
 - Space to Ground Loop
 - EV Loop (for EVA)
 - Russian CapCom rozmawia z ruskim CapComem
 - Amerykański CapCom rozmawia z Amerykańskim
 - CapCom jest astronautą i przechodzi przez ten sam trening. Ci ludzie dobrze się znają.
+- Zwykle podczas EVA CapCom komunikuje się z zespołem.
 -->
 
-## Systemy biomedyczne stosowane podczas EVA
-<!-- TODO: Systemy medyczne stosowane podczas EVA
-- dosimeter
-- ECG, 3 electrode
-- Suit sensor
-- Respiratory Coefficient
-- Respiratory trace
-- Oxygen Consumption
-- Oxygen Uptake
-- Leak Check (every suit leaks)
-- CO2 sensor
-- O2 sensor
-- O2 consumption (per astronaut)
-- Anarobic
-- QRS complex
-- measuring chest
-- temperature sensor on your ear (wcześniej w rectal) [Russian Suit]
-- Radiation dosimeter
-- LCVG (Liquid Cooling and Ventilation Groumet)
-- anarobic (na podstawie O2 i CO2)
-- metabolism
+## Procedura przeprowadzenia spaceru kosmicznego
+
+### Przygotowanie do wyjścia w przestrzeń kosmiczną
+<!-- TODO: Przygotowanie do przeprowadzenia wyjścia w przestrzeń
+- Ingress i Regress
+- What medical examination you perform before and after EVA
+- Ruskie MO - medical assessment (5 or 6)
+- threadmill, hand ergomenter,
+- ECG, cardiovascular, blood pressure, QRS complex
+- zdarzyło się raz aby ktoś był wykluczony
+- badają zdolność do EVA już nawet na kilka dni przed
+- What is the procedure for EVA preparation (oxygen intake) - pre-breath protocol
+    - O2 environment makes pre-breath easier
+    - Rosyjski strój pozwala szybciej wyjść, ale nie tak długo siedzieć
+    - kiedyś, oddychają czystym O2 jadąc na rowerze z maską, a później wchodzą do stroju i obniżają ciśnienie
+    - camp-out, śpią w śluzie z 10.2 PSI i to się zmienia z 21% do 28% tlenu
+    - exercise protocol in the suit, połączenie starszych
+    - możesz zrobić cały pre-breath przez 4 godziny w stroju (zrobili to dwukrotnie, awaryjnie)
+    - Rosjanie mają 30-40 minut
+    - jeżeli miałbyś strój z 8 PSI to nie musisz mieć żadnych pre-breath, ale nie dałoby się niczego robić
 -->
 
-## Wsparcie kontroli misji
+### Wyjście i przykładowe zadania
+
+### Procedury po powrocie
+<!-- TODO: Procedury po powrocie z EVA
+- Ruskie walą wódkę, jeszcze w śluzie zanim się zdepresuryzuje. nigdy się nic nie stało
+- amerykanom dwukrotnie zdarzyło się przytrzasnąć narzędzie
+- wyrównują do 5 PSI i robią leak check, jeżeli nie działa, to upuszają powietrze i jeszcze raz sprawdzają właz
+- nominal procedures
+- repress takes 15 minutes
+- depress takes 30 minutes
+- cooling, oxygen supplies
+-->
 
 ## EVA na powierzchni innych ciał niebieskich
 <!-- TODO: EVA na powierzchni innych ciał niebieskich
@@ -200,14 +208,30 @@ Jednym z najtrudniejszych elementów pracy astronauty jest wyjście w przestrze�
 
 ## Wykorzystywanie pojazdów
 <!-- TODO: EVA - Wykorzystywanie pojazdów
-- Poduszkowce
-- Drony
-- Łaziki eksploracji robotycznej
-- Łaziki transportowe dla astronautów
-- Balony
-- Łodzie podwodne
-- Krety
+- rovers
+    - manned rovers
+    - autonomous rovers
+    - remote controlled rovers
+    - Astronaut Personal Carriers
+
+- heavy duty and drilling
+    - telescopic reconessance
+    - watchtower
+
+- Drones (jet / blades)
+    - jet drones
+    - Submarines
+    - Baloons
+    - Moles
+    - Hovercraft
+
+- Emergency
+    - In field battery fix
+    - Gripper or drill stuck
+    - in-blind rover control
+
 -->
+
 
 ## Sytuacje awaryjne
 
@@ -240,3 +264,5 @@ Jednym z najtrudniejszych elementów pracy astronauty jest wyjście w przestrze�
 - Emergency: Komunikacja na wypadek braku łączności podczas EVA
 - Abort case
 -->
+
+## Instalacja i naprawa systemów ISS

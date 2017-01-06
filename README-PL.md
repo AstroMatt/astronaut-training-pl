@@ -144,18 +144,20 @@ layout: thesis-polish
 
 ## Wyjścia astronautów w przestrzeń kosmiczną
 - Zaznajomienie się ze skafandrem
-- Przygotowanie do przeprowadzenia wyjścia w przestrzeń
-- Role podczas EVA
-- Procedury po powrocie z EVA
-- Wykorzystywanie specjalistycznych narzędzi
+    - Systemy biomedyczne stosowane podczas EVA
+    - Wykorzystywanie specjalistycznych narzędzi
 - Symulacja prac w basenie doskonałej pływalności
     - Neutral Buoyancy Laboratory - NASA
     - Neutral Buoyancy Facility - ESA
     - Rosyjski basen trenowania
-- Instalacja i naprawa systemów ISS
-- Komunikacja podczas spacerów kosmicznych
-- Systemy biomedyczne stosowane podczas EVA
-- Wsparcie kontroli misji
+- Komunikacja i podział ról podczas symulacji oraz wyjścia w przestrzeń kosmiczną
+    - Role i obowiązki astrinautów
+    - Role i obowiązki kontrolerów misji
+    - Charakterystyka komunikacji
+- Procedura przeprowadzenia spaceru kosmicznego
+    - Przygotowanie do przeprowadzenia wyjścia
+    - Wyjście i przykładowe zadania
+    - Procedury po powrocie z EVA
 - EVA na powierzchni innych ciał niebieskich
     - EVA na powierzchni Księżyca
     - EVA na powierzchni planet
@@ -164,6 +166,7 @@ layout: thesis-polish
 - Sytuacje awaryjne
     - Systemy awaryjne skafandra
     - Procedury bezpieczeństwa
+- Instalacja i naprawa systemów ISS
 
 ## Pilotaż
 - Samolotów odrzutowych
