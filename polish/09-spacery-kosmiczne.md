@@ -46,13 +46,30 @@ Szkolenie przygotowujące do spacerów kosmicznych zaczyna się od zapoznania z
 - metabolism
 -->
 
-### Wykorzystywanie specjalistycznych narzędzi
-<!-- TODO: Wykorzystywanie specjalistycznych narzędzi
-- theather
-- śrubokręty
-- spawanie
-- foot restraints
--->
+### Wykorzystywanie specjalistycznych narzędzi do pracy
+Prace w przestrzeni kosmicznej wymagają znajomości wysokowyspecjalizowanych narzędzi. Ich rolą jest nie tylko pomoc astronaucie w dokonaniu naprawy czy montażu sprzętu ale również zachowanie pozycji czy bezpiecznego poruszania się w obrębie stacji kosmicznej.
+
+Urządzenia wykorzystywane w pracy w przestrzeni kosmicznej możemy podzielić na:
+    - śrubokręty,
+    - klucze dynamometryczne,
+    - wiertarki,
+    - wkrętarki,
+    - urządzenia do spawania.
+
+Prowadzenie prac w środowisku mikrograwitacji przy wykorzystaniu urządzeń tj. śrubokręty, wiertarki i wkrętarki nie jest tak proste jak na Ziemii. Brak oporu i bardzo zmniejszone przyciąganie ziemskie powoduje wytworzenie niezbilansowanego momentu skręcającego działającego na astronautę a to w konsekwencji prowadzi do zmiany jego pozycji względem stacji. Astronauta używając klucza czy wkrętarki musi być przymocowany aby móc przyłożyć odpowiednią siłę.
+
+### Wykorzystanie urządzeń wspierających pracę w przestrzeni kosmicznej
+
+Urządzenia wspierające pozwalają na zachowanie pozycji względem stacji kosmicznej oraz na łatwiejsze posługiwanie się narzędziami. Do głównych urządzeń wspierających czynności podczas spacerów kosmicznych można zaliczyć:
+    - przedłużki zmieniające ramię narzędzi,
+    - liny stalowe (ang. theather),
+    - przymocowania stóp (ang. foot restraints).
+
+ Do zadania przedłużek należy zwiększenie długości ramienia klucza. Urządzenia te usadza się na końcu klucza przedłużając jego rączkę. Dzięki ich zastosowaniu astronauta może zwiększyć moment obrotowy działający na śrubę i dzięki temu przykręcić lub odkręcić śruby z większą siłą i precyzją.
+
+ Urządzenia przymocowywania stóp były głownie wykorzystywane podczas misji amerykańskich promów kosmicznych, gdzie astronauta przymocowany nogami do specjalnego panelu zamontowanego na ramieniu robotycznym mógł być bezpiecznie i stabilnie być wspierany przy wykonywaniu prac w stanie nieważkości.
+
+Obecnie podstawowym elementem wyposażenia każdego stroju astronauty są tzw. uprzęże z bloczkami stalowych lin. Każdy strój do wyjść w przestrzeń kosmiczną posiada dwie takie uprzęże. Podczas spaceru kosmicznego astronauci muszą być przymocowani za pomocą przynajmniej jednej liny z klamrą do stacji kosmicznej aby nie odlecieć w przestrzeń. W celu przemieszczenia się astronauta zaczepia drugą klamrę do następnego punktu przymocowania i po upewnieniu się pewności zaczepu odczepia pierwszą przechodząc w dalsze miejsce.
 
 ## Symulacja prac w basenie doskonałej pływalności
 <!-- TODO: Symulacja prac w basenie doskonałej pływalności

@@ -75,18 +75,17 @@
 
 ## Spacery Kosmiczne
 - line 26: Systemy medyczne stosowane podczas EVA
-- line 49: Wykorzystywanie specjalistycznych narzędzi
-- line 57: Symulacja prac w basenie doskonałej pływalności
-- line 125: nazwa rosyjskiego basenu
-- line 130: Role podczas EVA
-- line 140: Komunikacja EVA
-- line 154: Przygotowanie do przeprowadzenia wyjścia w przestrzeń
-- line 176: Procedury po powrocie z EVA
-- line 187: EVA na powierzchni innych ciał niebieskich
-- line 195: EVA na powierzchni Księżyca
-- line 209: EVA - Wykorzystywanie pojazdów
-- line 238: EMU Emergency
-- line 244: Procedury bezpieczeństwa
+- line 74: Symulacja prac w basenie doskonałej pływalności
+- line 142: nazwa rosyjskiego basenu
+- line 147: Role podczas EVA
+- line 160: Komunikacja EVA
+- line 174: Przygotowanie do przeprowadzenia wyjścia w przestrzeń
+- line 196: Procedury po powrocie z EVA
+- line 207: EVA na powierzchni innych ciał niebieskich
+- line 223: EVA na powierzchni Księżyca
+- line 237: EVA - Wykorzystywanie pojazdów
+- line 266: EMU Emergency
+- line 272: Procedury bezpieczeństwa
 
 ## Pilotaz
 - line 08: Samolotów odrzutowych

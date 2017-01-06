@@ -145,7 +145,8 @@ layout: thesis-polish
 ## Wyjścia astronautów w przestrzeń kosmiczną
 - Zaznajomienie się ze skafandrem
     - Systemy biomedyczne stosowane podczas EVA
-    - Wykorzystywanie specjalistycznych narzędzi
+    - Wykorzystywanie specjalistycznych narzędzi do pracy
+    - Wykorzystanie urządzeń wspierających pracę w przestrzeni kosmicznej
 - Symulacja prac w basenie doskonałej pływalności
     - Neutral Buoyancy Laboratory - NASA
     - Neutral Buoyancy Facility - ESA
