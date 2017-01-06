@@ -60,32 +60,31 @@
 - line 16: Generalna charakterystyka skafandrów kosmicznych
 - line 33: Strój wewnątrz skafandra
 - line 50: Systemy biomedyczne skafandra
-- line 57: Hełm
-- line 74: EMU - Tors
-- line 82: EMU - Ramiona i Rękawice
-- line 96: EMU - Plecak z systemem podtrzymywania życia
-- line 101: Zaczepy na narzędzia
-- line 112: EVA Mission patch
-- line 162: Charakterystyka skafandra Orlan MKS
-- line 167: Charakterystyka skafandra MACES
-- line 194: Charakterystyka skafandra EMU
-- line 214: Utrzymywanie sprawnośni skafandra EMU
-- line 224: Systemy awaryjne skafandrów EVA
-- line 230: SAFER
+- line 78: Hełm
+- line 95: EMU - Tors
+- line 103: EMU - Ramiona i Rękawice
+- line 117: EMU - Plecak z systemem podtrzymywania życia
+- line 122: Zaczepy na narzędzia
+- line 133: EVA Mission patch
+- line 183: Charakterystyka skafandra Orlan MKS
+- line 188: Charakterystyka skafandra MACES
+- line 215: Charakterystyka skafandra EMU
+- line 235: Utrzymywanie sprawnośni skafandra EMU
+- line 245: Systemy awaryjne skafandrów EVA
+- line 251: SAFER
 
 ## Spacery Kosmiczne
-- line 26: Systemy medyczne stosowane podczas EVA
 - line 74: Symulacja prac w basenie doskonałej pływalności
-- line 142: nazwa rosyjskiego basenu
-- line 147: Role podczas EVA
-- line 160: Komunikacja EVA
+- line 141: nazwa rosyjskiego basenu
+- line 146: Role podczas EVA
+- line 159: Komunikacja EVA
 - line 174: Przygotowanie do przeprowadzenia wyjścia w przestrzeń
 - line 196: Procedury po powrocie z EVA
 - line 207: EVA na powierzchni innych ciał niebieskich
 - line 223: EVA na powierzchni Księżyca
 - line 237: EVA - Wykorzystywanie pojazdów
-- line 266: EMU Emergency
-- line 272: Procedury bezpieczeństwa
+- line 264: EMU Emergency
+- line 270: Procedury bezpieczeństwa
 
 ## Pilotaz
 - line 08: Samolotów odrzutowych

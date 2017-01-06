@@ -21,32 +21,32 @@ Na chwilę obecną wyjścia w przestrzeń kosmiczną skupiają się głównie na
 Spacery kosmiczne wymagają wysokiej sprawności oraz dużej siły fizycznej. Z tego względu nie wszyscy astronauci mają możliwość wykorzystania w kosmosie wyuczonych uprzednio umiejętności. Ay astronauta mógł wyjść w przestrzeń kosmiczną musi udowodnić znajomość stroju przechodząc stosowny egzamin jak również musi mieć odpowiednią kondycję i formę.
 
 ## Zaznajomienie się ze skafandrem
-Szkolenie przygotowujące do spacerów kosmicznych zaczyna się od zapoznania ze skafandrem. Astronauci są następnie przygotowywani do egzaminów z wykorzystania strojów EMU oraz Orlan. Po takiej certyfikacji astronauta powinien wykazać się dużą wiedzą na temat nie tylko posługiwiania się wysoko wyspecjalizowanym ubiorem ale również w jego systemach awaryjnych. Każde ze szkoleń jest oceniane przez certyfikowanych instruktorów z centrum kontroli misji.
+
+Szkolenie przygotowujące do spacerów kosmicznych zaczyna się od zapoznania ze skafandrem. Astronauci są następnie przygotowywani do egzaminów z wykorzystania strojów EMU oraz Orlan. Ze względu na różnice w budowie, zakładaniu i zdejmowaniu skafandra, ciśnieniu operacyjnym oraz systemach awaryjnych astronauci muszą przejść ścieżkę certyfikacyjną z każdego stroju na międzynarodowej stacji kosmicznej. Po takiej certyfikacji astronauta powinien wykazać się dużą wiedzą na temat nie tylko posługiwiania się wysoko wyspecjalizowanym ubiorem ale również w jego systemach awaryjnych. Każde ze szkoleń jest oceniane przez instruktorów z centrum kontroli misji.
+
+Po pozytywnym zaliczeniu egzaminów teoretycznych astronauta jest dopuszczany do możliwości wykorzystania stroju w symulacjach w basenie neutralnej pływalności.
+
+### Sprawdzenie szczelności skafandra
+
+Przed wykonywaniem zadań w basenie astronauci wykonują tzw. sprawdzenie szczelności skafandra. Podczas tego testu astronauta ubrany w strój do wyjść EVA jest zamykany w pomieszczeniu, w którym odpompowywane jest powietrze do uzyskania ciśnienia zbliżonego do próźni. W trakcie trwania testu astronauci zapoznają się z zachowaniem skafandra i materiału, który sztywnieje i się napręża dając uczucie nadmuchania. Z tego względu praca w warunkach braku ciśnienia panujących poza statkiem kosmicznym jest znacznie trudniejsza od symulacji prowadzonych w basenie doskonałej pływalności.
 
 ### Systemy biomedyczne stosowane podczas EVA
-<!-- TODO: Systemy medyczne stosowane podczas EVA
-- dosimeter
-- ECG, 3 electrode
-- Suit sensor
-- Respiratory Coefficient
-- Respiratory trace
-- Oxygen Consumption
-- Oxygen Uptake
-- Leak Check (every suit leaks)
-- CO2 sensor
-- O2 sensor
-- O2 consumption (per astronaut)
-- Anarobic
-- QRS complex
-- measuring chest
-- temperature sensor on your ear (wcześniej w rectal) [Russian Suit]
-- Radiation dosimeter
-- LCVG (Liquid Cooling and Ventilation Groumet)
-- anarobic (na podstawie O2 i CO2)
-- metabolism
--->
+
+Każdy skafander kosmiczny posiada inny zestaw sensorów i urządzeń kontrolujących organizm i pracę astronautów. Szczegółowe informacje na temat systemów biomedycznych skafandrów zostały przedstawione w osobnym rozdziale. Podczas podstawowego zapoznania się ze skafandrem astronauta poznaje systemy wspierające i monitorujące:
+- promieniowanie,
+- działanie układu krwionośnego,
+- działanie układu oddechowego,
+- systemy biometryczne,
+- systemy podtrzymania życia.
+
+Układ krwionośny monitorowany jest za pomocą trzypunktowych elektrod EKG (Elektro Kardio-Gramu). Informacje na temat układu oddechowego stanowią dane odnośnie ilości wdychania tlenu i wydychania dwutlenku węgla, dzięki czemu lekarze i biomedycy mogą wyliczyć metabolizm oraz przemianę anarobową w trakcie wykonywania prac.
+
+Każdy z systemów pobiera informacje i przekazuje je do centrum kontroli misji gdzie inżynierowie skafandra, inżynierowie biomedyczni oraz lekarze lotu (ang. flight surgeons) asystują astronautom podczas wyjścia w przestrzeń kosmiczną.
+
+Ze względu na niedoskonałość materiału każdy strój posiada tzw. przecieki, które są również monitorowane. W przypadku zbyt dużego tempa wycieku powietrza uruchamiane są systemy awaryjne a astronauta natychmiast musi przerwać pracę na zewnątrz i udać się do śluzy pojazdu. Więcej na temat procedur oraz systemów awaryjnych w osobnym podrozdziale.
 
 ### Wykorzystywanie specjalistycznych narzędzi do pracy
+
 Prace w przestrzeni kosmicznej wymagają znajomości wysokowyspecjalizowanych narzędzi. Ich rolą jest nie tylko pomoc astronaucie w dokonaniu naprawy czy montażu sprzętu ale również zachowanie pozycji czy bezpiecznego poruszania się w obrębie stacji kosmicznej.
 
 Urządzenia wykorzystywane w pracy w przestrzeni kosmicznej możemy podzielić na:
@@ -80,7 +80,6 @@ Obecnie podstawowym elementem wyposażenia każdego stroju astronauty są tzw. u
 - For each specific spacewalk, there are several training units to be completed. One EVA run lasts around 5 hours, and the standard right now is that you spend five to seven times as long in the NBL at Houston for each EVA, depending on the difficulty. In addition to that you train a lot of contingency scenarios.
 - With the assembly of the ISS in full swing, the EVA training schedule in the NBL is tight, the facility itself overbooked with operational and mission-related EVA training so the training schedule is compressed into three shifts a day. In addition, it will in future also be used for exploration related testing, which leaves little time for providing EVA skills training to ESA astronauts.
 - An assignment to take part in a spacewalk during a space mission depends on an EVA skills evaluation, which takes place at a very early stage of the EVA training programme in Houston. Those astronauts who handle their very first neutral buoyancy experiences in Houston well will be chosen to perform EVAs and receive the full-blown EVA training.
-- Ciśnienie w skafandrze 4.3 PSI
 - 3-4 trenują w NBF pod wodą
 - W basenie trenują również kontakt z CAPCOM
 - O wszystkim informują CAPCOM
@@ -164,6 +163,7 @@ Obecnie podstawowym elementem wyposażenia każdego stroju astronauty są tzw. u
 - Space to Ground Loop
 - EV Loop (for EVA)
 - Russian CapCom rozmawia z ruskim CapComem
+- jaki język jest podczas rozmowy?
 - Amerykański CapCom rozmawia z Amerykańskim
 - CapCom jest astronautą i przechodzi przez ten sam trening. Ci ludzie dobrze się znają.
 - Zwykle podczas EVA CapCom komunikuje się z zespołem.
@@ -257,9 +257,7 @@ Obecnie podstawowym elementem wyposażenia każdego stroju astronauty są tzw. u
     - In field battery fix
     - Gripper or drill stuck
     - in-blind rover control
-
 -->
-
 
 ## Sytuacje awaryjne
 
@@ -293,4 +291,12 @@ Obecnie podstawowym elementem wyposażenia każdego stroju astronauty są tzw. u
 - Abort case
 -->
 
-## Instalacja i naprawa systemów ISS
+## Przykładowe zadania wykonywane podczas spacerów kosmicznych
+
+### Dekonstrukcja kamer i aparatu fotograficznego poczas misji Apollo
+
+### Demonstracja poruszania się w przestrzeni kosmicznej w programach Wostok, Gemini
+
+### Instalacja systemów ISS
+
+### Konserwacja i naprawa systemów na ISS

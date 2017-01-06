@@ -121,7 +121,7 @@ layout: thesis-polish
 ## Charakterystyka skafandrów kosmicznych
 - Generalna charakterystyka skafandrów kosmicznych
     - Strój wewnątrz skafandra
-    - Systemy medyczne skafandra
+    - Systemy biomedyczne skafandra
     - Hełm
     - Tors
     - Ramiona i Rękawice
@@ -144,6 +144,7 @@ layout: thesis-polish
 
 ## Wyjścia astronautów w przestrzeń kosmiczną
 - Zaznajomienie się ze skafandrem
+    - Sprawdzenie szczelności skafandra
     - Systemy biomedyczne stosowane podczas EVA
     - Wykorzystywanie specjalistycznych narzędzi do pracy
     - Wykorzystanie urządzeń wspierających pracę w przestrzeni kosmicznej
@@ -167,7 +168,11 @@ layout: thesis-polish
 - Sytuacje awaryjne
     - Systemy awaryjne skafandra
     - Procedury bezpieczeństwa
-- Instalacja i naprawa systemów ISS
+- Przykładowe zadania wykonywane podczas spacerów kosmicznych
+    - Dekonstrukcja kamer i aparatu fotograficznego poczas misji Apollo
+    - Demonstracja poruszania się w przestrzeni kosmicznej w programach Wostok, Gemini
+    - Instalacja systemów ISS
+    - Konserwacja i naprawa systemów na ISS
 
 ## Pilotaż
 - Samolotów odrzutowych
