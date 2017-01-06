@@ -106,10 +106,10 @@ language: polish
 
 ### Urządzenia symulujące obiżoną grawitację
 <!-- TODO: Urządzenia symulujące obiżoną grawitację
-- liny (z programu apollo)
+- liny i poruszanie się po ścianie w boki (z programu apollo)
 - urządzenie na którym trenował Ed White poruszanie się w kosmosie
--  MAT Multi Axial Trainer
-- vertical threadmill
+- MAT Multi Axial Trainer
+- vertical threadmill (poruszanie się w górę)
 -->
 
 ### Test w wirówce na odporność organizmu na przeciążenia

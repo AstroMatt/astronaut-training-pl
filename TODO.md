@@ -85,8 +85,8 @@
 - line 187: EVA na powierzchni innych ciał niebieskich
 - line 195: EVA na powierzchni Księżyca
 - line 209: EVA - Wykorzystywanie pojazdów
-- line 222: EMU Emergency
-- line 228: Procedury bezpieczeństwa
+- line 238: EMU Emergency
+- line 244: Procedury bezpieczeństwa
 
 ## Pilotaz
 - line 08: Samolotów odrzutowych

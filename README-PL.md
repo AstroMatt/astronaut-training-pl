@@ -155,9 +155,9 @@ layout: thesis-polish
     - Role i obowiązki kontrolerów misji
     - Charakterystyka komunikacji
 - Procedura przeprowadzenia spaceru kosmicznego
-    - Przygotowanie do przeprowadzenia wyjścia
+    - Przygotowanie do wyjścia w przestrzeń kosmiczną
     - Wyjście i przykładowe zadania
-    - Procedury po powrocie z EVA
+    - Procedury po powrocie
 - EVA na powierzchni innych ciał niebieskich
     - EVA na powierzchni Księżyca
     - EVA na powierzchni planet

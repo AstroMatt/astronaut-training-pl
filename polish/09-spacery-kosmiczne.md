@@ -132,6 +132,9 @@ Szkolenie przygotowujące do spacerów kosmicznych zaczyna się od zapoznania z
 - Przynajmniej dwie osoby wychodzą na EVA i minimalnie jedna zostaje w bazie jako IVA.
 - EV1 jest bardziej prestiżowy. Astronauci o to konkurują.
 - EV1 jest przyznawany ze względu na ranking lub wyszkolenie.
+- communication relay protocol
+- common language
+- common alphabet
 -->
 
 ### Role i obowiązki kontrolerów misji
@@ -190,6 +193,14 @@ Szkolenie przygotowujące do spacerów kosmicznych zaczyna się od zapoznania z
 - upadki i wstawanie
 - radzenie sobie z pyłem
 - fotografia
+- Tools
+    - spectometers
+    - portable X-ray fluorecscence analyzers
+    - SCIO
+    - Magnetotlluric analysis
+    - Terramenter LS
+    - Stratagem
+    - Seismic discovery
 -->
 
 ### EVA na powierzchni Księżyca
