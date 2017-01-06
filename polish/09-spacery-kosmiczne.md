@@ -71,10 +71,9 @@ Urządzenia wspierające pozwalają na zachowanie pozycji względem stacji kosmi
 
 Obecnie podstawowym elementem wyposażenia każdego stroju astronauty są tzw. uprzęże z bloczkami stalowych lin. Każdy strój do wyjść w przestrzeń kosmiczną posiada dwie takie uprzęże. Podczas spaceru kosmicznego astronauci muszą być przymocowani za pomocą przynajmniej jednej liny z klamrą do stacji kosmicznej aby nie odlecieć w przestrzeń. W celu przemieszczenia się astronauta zaczepia drugą klamrę do następnego punktu przymocowania i po upewnieniu się pewności zaczepu odczepia pierwszą przechodząc w dalsze miejsce.
 
-## Symulacje komputerowe
-<!-- TODO: Symulacje komputerowe
-- Szkolenie VR dla EVA (hololense, oculus)
--->
+## Symulacje wykorzystujące komputery i wirtualną rzeczywistość
+
+Z uwagi na koszt, stopień skomplikowania i czasochłonność operacji w basenie neutralnej pływalności astronauci najpierw przechodzą szkolenie zapoznawcze wykorzystując symulacje komputerowe oraz urządzenia wirtualnej rzeczywistości tj. Oculus Rift czy Hololense firmy Microsoft. W specjalnie napisanych w tym celu aplikacjach mają możliwość przećwiczenia manerwów, zapoznania się z segmentem stacji, której dotyczy praca czy praktykowaniem umiejętności poruszania sie i odnajdywania na zewnątrz międzynarodowej stacji kosmicznej.
 
 ## Symulacja prac w basenie doskonałej pływalności
 <!-- TODO: Symulacja prac w basenie doskonałej pływalności

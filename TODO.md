@@ -75,19 +75,18 @@
 - line 256: Augmented Reality
 
 ## Spacery Kosmiczne
-- line 74: Symulacje komputerowe
-- line 79: Symulacja prac w basenie doskonałej pływalności
-- line 119: Neutral Buoyancy Facility
-- line 131: nazwa rosyjskiego basenu
-- line 136: Role podczas EVA
-- line 149: Komunikacja EVA
-- line 164: Przygotowanie do przeprowadzenia wyjścia w przestrzeń
-- line 186: Procedury po powrocie z EVA
-- line 197: EVA na powierzchni innych ciał niebieskich
-- line 217: EVA na powierzchni Księżyca
-- line 231: EVA - Wykorzystywanie pojazdów
-- line 258: EMU Emergency
-- line 264: Procedury bezpieczeństwa
+- line 78: Symulacja prac w basenie doskonałej pływalności
+- line 118: Neutral Buoyancy Facility
+- line 130: nazwa rosyjskiego basenu
+- line 135: Role podczas EVA
+- line 148: Komunikacja EVA
+- line 163: Przygotowanie do przeprowadzenia wyjścia w przestrzeń
+- line 185: Procedury po powrocie z EVA
+- line 196: EVA na powierzchni innych ciał niebieskich
+- line 216: EVA na powierzchni Księżyca
+- line 230: EVA - Wykorzystywanie pojazdów
+- line 257: EMU Emergency
+- line 263: Procedury bezpieczeństwa
 
 ## Pilotaz
 - line 08: Samolotów odrzutowych

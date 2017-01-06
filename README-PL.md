@@ -148,7 +148,7 @@ layout: thesis-polish
     - Systemy biomedyczne stosowane podczas EVA
     - Wykorzystywanie specjalistycznych narzędzi do pracy
     - Wykorzystanie urządzeń wspierających pracę w przestrzeni kosmicznej
-- Symulacje komputerowe
+- Symulacje wykorzystujące komputery i wirtualną rzeczywistość
 - Symulacja prac w basenie doskonałej pływalności
     - Neutral Buoyancy Laboratory - NASA
     - Neutral Buoyancy Facility - ESA
