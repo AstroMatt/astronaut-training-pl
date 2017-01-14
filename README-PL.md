@@ -261,5 +261,3 @@ layout: thesis-polish
 ## Statystyki i wykresy
 
 ## Słownik Pojęć
-
-## Bibliografia

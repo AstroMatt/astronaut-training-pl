@@ -12,7 +12,6 @@
     <link rel="icon" type="image/png" href="img/astronaut-pin.png" />
 
     <script>Bibliography = {{ site.data.bibliography | jsonify }};</script>
-    <script src="/js/bibliography.js"></script>
 </head>
 <body>
     <section id="first-page">
@@ -36,7 +35,17 @@
 
     <section id="content">
         {{ content }}
+
+        <h1>Bibliography</h1>
+        <table id="bibliography">
+            {% for entry in site.data.bibliography %}
+                <tr>
+                    <th>[{{ entry.title }}]</th>
+                    <td>{{ entry.author }}, <i>{{ entry.title }}</i>, {{ entry.publisher }}, {{ entry.date }}</td>
+                </tr>
+            {% endfor %}
+        </table>
     </section>
-<body>
+</body>
 <script src="/js/bibliography.js"></script>
 <html>

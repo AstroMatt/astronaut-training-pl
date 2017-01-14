@@ -36,7 +36,17 @@
 
     <section id="content">
         {{ content }}
+
+        <h1>Bibliografia</h1>
+        <table id="bibliography">
+            {% for entry in site.data.bibliography %}
+                <tr>
+                    <th>[{{ entry.title }}]</th>
+                    <td>{{ entry.author }}, <i>{{ entry.title }}</i>, {{ entry.publisher }}, {{ entry.date }}</td>
+                </tr>
+            {% endfor %}
+        </table>
     </section>
-<body>
+</body>
 <script src="/js/bibliography.js"></script>
 <html>

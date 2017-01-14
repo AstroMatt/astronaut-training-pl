@@ -6,6 +6,3 @@ for (let entry of Bibliography) {
     let index = '['+id+']';
     body.innerHTML = body.innerHTML.replace(name, index);
 }
-
-//console.log(content);
-//body.innerHTML = content;

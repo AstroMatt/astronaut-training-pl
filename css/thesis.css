@@ -162,6 +162,7 @@ h3 {
     text-align: left;
 }
 
+#bibliography th,
 #bibliography td {
     vertical-align: top;
 }

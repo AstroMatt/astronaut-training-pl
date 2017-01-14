@@ -203,5 +203,3 @@ layout: thesis-english
 ## Statistics and Charts
 
 ## Dictionary
-
-## Bibliography

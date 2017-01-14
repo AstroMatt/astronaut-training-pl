@@ -115,5 +115,3 @@
 ## Astronaut Stats
 
 ## Dictionary
-
-## Bibliography
