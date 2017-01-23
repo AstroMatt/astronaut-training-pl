@@ -102,6 +102,8 @@ language: polish
     - zapoznanie ze sprzętem, hełm
 -->
 
+### Misje Pangea
+
 ## Symulacja pracy w środowisku mikrograwitacji
 
 ### Urządzenia symulujące obiżoną grawitację

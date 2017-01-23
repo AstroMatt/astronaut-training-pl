@@ -6,6 +6,10 @@ language: polish
 # Selekcja kandydatów do przeszkolenia podstawowego
 
 <!-- TODO: Selekcja kandydatów do przeszkolenia podstawowego
+- ESA:
+	- http://www.esa.int/Our_Activities/Human_Spaceflight/European_Astronaut_Selection/Concept_of_aeromedical_fitness_and_associated_medical_certificate_requirement
+	- http://www.esa.int/Our_Activities/Human_Spaceflight/European_Astronaut_Selection/FAQs_How_When_Where
+	- http://www.esa.int/Our_Activities/Human_Spaceflight/European_Astronaut_Selection/FAQs_Qualifications_and_skills_required
 - Pytania na selekcji na Astronautę
     - dlaczego chcesz zostać astronautą
         - Explore unknown
@@ -51,6 +55,12 @@ Na wybór kandydata ma ogromny wpływ również doświadczenie, wykształcenie n
  Aby przygotować misję kosmiczną wymagane są lata pracy wielu zespołów profesjonalistów. I choć pozycja astronauty jest jedną z najbardziej prestiżowych na świecie to ich sukces zbudowany jest przez tych co pozostali na Ziemii [How to Become an ESA Astronaut]. Ograniczone możliwości w zakresie wysyłania ludzi w przestrzeń kosmiczną i koszt tego przedsięwzięcia wymaga starannego doboru kandydatów. Z tego powodu proces selekcji astronatów i kosmonautów jest zadaniem trudnym. Wymaga umiejętności multidyscyplinarnych. W poniższym rozdziale przedstawione zostną kryteria oraz proces wyboru najlepszych kandydatów.
 
 ## Kryteria doboru kandydatów
+<!-- TODO: Kryteria doboru
+- http://www.esa.int/Our_Activities/Human_Spaceflight/European_Astronaut_Selection/FAQs_Qualifications_and_skills_required
+- http://www.esa.int/Our_Activities/Human_Spaceflight/European_Astronaut_Selection/FAQs_Health_and_physical_condition
+- http://www.esa.int/Our_Activities/Human_Spaceflight/European_Astronaut_Selection/Psychological_and_medical_selection_process
+-->
+
 
 ### Selekcja psychologiczna
 

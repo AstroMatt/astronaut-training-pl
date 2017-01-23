@@ -3,10 +3,10 @@
 ## Index
 
 ## Wstep
-- line 07: quote needed
-- line 25: Quote Needed
-- line 36: Problem z tabelkami w index-pl jest split po trzech myślnikach
-- line 37: Definicja nazwy
+- line 10: quote needed
+- line 28: Quote Needed
+- line 39: Problem z tabelkami w index-pl jest split po trzech myślnikach
+- line 40: Definicja nazwy
 
 ## Rys Historyczny
 - line 06: czy radziecki dużą literą
@@ -22,11 +22,12 @@
 
 ## Selekcja Astronautow
 - line 07: Selekcja kandydatów do przeszkolenia podstawowego
-- line 48: Quote Needed
-- line 90: Selekcja kondycyjna
-- line 151: Quote Needed
-- line 185: Quote Needed
-- line 267: Quote Needed
+- line 52: Quote Needed
+- line 57: Kryteria doboru
+- line 100: Selekcja kondycyjna
+- line 161: Quote Needed
+- line 195: Quote Needed
+- line 277: Quote Needed
 
 ## Przygotowanie Teoretyczne
 - line 06: Przygotowanie teoretyczne
@@ -38,11 +39,11 @@
 - line 36: Przygotowanie medyczne
 - line 65: Ekstremalne warunki
 - line 94: NEEMO
-- line 107: Urządzenia symulujące obiżoną grawitację
-- line 117: Loty paraboliczne symulujące stan nieważkości
-- line 126: Sytuacje awaryjne
-- line 131: Przygotowanie do wyławiania z oceanu
-- line 139: Awaryjne opuszczanie platformy startowej
+- line 109: Urządzenia symulujące obiżoną grawitację
+- line 119: Loty paraboliczne symulujące stan nieważkości
+- line 128: Sytuacje awaryjne
+- line 133: Przygotowanie do wyławiania z oceanu
+- line 141: Awaryjne opuszczanie platformy startowej
 
 ## Zycie Na Iss
 - line 33: http://www.asc-csa.gc.ca/eng/astronauts/living-in-space/physical-activity-in-space.asp
@@ -107,11 +108,16 @@
 
 ## Praca Na Ziemi
 - line 07: Praca astronautów na Ziemii
-- line 44: Czynności astronautów programu Mercury, Gemini, Apollo i Apollo Applications
+- line 40: Misje analogowe
+- line 58: Praca jako CapCom
+- line 64: Czynności astronautów programu Mercury, Gemini, Apollo i Apollo Applications
 
 ## Zakonczenie
 - line 06: Zakończenie
 
 ## Astronaut Stats
+
+## European Astronauts Charter
+- line 06: European Astronauts Charter
 
 ## Dictionary

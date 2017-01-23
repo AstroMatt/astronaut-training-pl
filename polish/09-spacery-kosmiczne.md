@@ -78,7 +78,7 @@ Obecnie podstawowym elementem wyposażenia każdego stroju astronauty są tzw. u
 
 ## Symulacje wykorzystujące komputery i wirtualną rzeczywistość
 
-Z uwagi na koszt, stopień skomplikowania i czasochłonność operacji w basenie neutralnej pływalności astronauci najpierw przechodzą szkolenie zapoznawcze wykorzystując symulacje komputerowe oraz urządzenia wirtualnej rzeczywistości tj. Oculus Rift czy Hololense firmy Microsoft. W specjalnie napisanych w tym celu aplikacjach mają możliwość przećwiczenia manerwów, zapoznania się z segmentem stacji, której dotyczy praca czy praktykowaniem umiejętności poruszania sie i odnajdywania na zewnątrz międzynarodowej stacji kosmicznej.
+Z uwagi na koszt, stopień skomplikowania i czasochłonność operacji w basenie neutralnej pływalności astronauci najpierw przechodzą szkolenie zapoznawcze w loboratorium wirtualnej rzeczywistości (ang. VR - Virtual Reality Lab) wykorzystując symulacje komputerowe tj. Oculus Rift czy Hololense firmy Microsoft. W specjalnie napisanych w tym celu aplikacjach mają możliwość przećwiczenia manerwów, zapoznania się z segmentem stacji, której dotyczy praca czy praktykowaniem umiejętności poruszania sie i odnajdywania na zewnątrz międzynarodowej stacji kosmicznej.
 
 ## Symulacja prac w basenie doskonałej pływalności
 <!-- TODO: Symulacja prac w basenie doskonałej pływalności

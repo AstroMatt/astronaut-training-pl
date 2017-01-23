@@ -75,6 +75,7 @@ layout: thesis-polish
     - Przetrwanie w warunkach wodnych
     - Misje CAVES
     - Misje NEEMO
+    - Misje Pangea
 - Symulacja pracy w środowisku mikrograwitacji
     - Urządzenia symulujące obiżoną grawitację
     - Test w wirówce na odporność organizmu na przeciążenia
@@ -251,6 +252,7 @@ layout: thesis-polish
 ## Praca astronautów na Ziemii
 - Testowanie sprzętu
 - Pomoc w przygotowaniu innych astronautów
+- Misje analogowe
 - Praca w symulatorach w przypadku problemów na orbicie
 - Praca jako CapCom
 - Popularyzacja nauki i obszaru S.T.E.M.
@@ -259,5 +261,7 @@ layout: thesis-polish
 ## Zakończenie
 
 ## Statystyki i wykresy
+
+## European Astronauts Charter
 
 ## Słownik Pojęć

@@ -29,16 +29,36 @@ language: polish
     - Scaled Composits
 - http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/ongoing-training.asp
 - http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/default.asp
+
+http://www.esa.int/Our_Activities/Human_Spaceflight/Astronauts/European_astronauts_in_new_functions
 -->
 
 ## Testowanie sprzętu
 
 ## Pomoc w przygotowaniu innych astronautów
 
+## Misje analogowe
+<!-- TODO: Misje analogowe
+- CAVES
+- NEEMO
+- Pangea
+- Sardynia (jaskinie) - misja CAVES
+- Lanzarote, Wyspy Kanaryjskie
+    - Geologia planetarna
+    - http://www.esa.int/Our_Activities/Human_Spaceflight/Caves/One_small_step_for_a_geologist
+- Bressanone, Italy
+    - project: Pangea
+    - http://www.esa.int/Our_Activities/Human_Spaceflight/Caves/Preparing_astronauts_for_exploring_celestial_bodies
+    - rock sampling
+    - traces of life
+-->
+
 ## Praca w symulatorach w przypadku problemów na orbicie
 
 ## Praca jako CapCom
-
+<!-- TODO: Praca jako CapCom
+- Luca Parmitano dla Thomasa Pasqueta podczas EVA w styczniu 2017
+-->
 ## Popularyzacja nauki i obszaru S.T.E.M.
 
 ## Czynności astronautów programu Mercury, Gemini, Apollo i Apollo Applications
