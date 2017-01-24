@@ -3,7 +3,7 @@ references:
 
 - id: Goddard-American-Rocketry-Pioneer
   title: Dr. Robert H. Goddard, American Rocketry Pioneer
-  publisher: National Aeronautics and Space Administration
+  publisher: NASA
   URL: http://www.nasa.gov/centers/goddard/about/history/dr_goddard.html
   type: article
   issued: 2016
@@ -50,35 +50,35 @@ references:
     given: James M.
   - family: Alexander
     given: Charles C.
-  publisher: National Aeronautics and Space Administration
+  publisher: NASA
   URL: http://history.nasa.gov/SP-4201/toc.htm
   type: book
   issued: 2008
 
 - id: How-to-Become-an-ESA-Astronaut
   title: How to Become an ESA Astronaut
-  publisher: European Space Agency
+  publisher: ESA
   URL: http://www.esa.int/Our_Activities/Human_Spaceflight/Astronauts/How_to_become_an_astronaut
   type: article
   issued: 2012
 
 - id: NASA-Astronaut-Candidate-Program
   title: NASA Astronaut Candidate Program
-  publisher: National Aeronautics and Space Administration
+  publisher: NASA
   URL: http://astronauts.nasa.gov/content/broch00.htm
   type: article
   issued: 2015
 
 - id: NASA-Astronaut-Selection-Process
   title: NASA Astronaut Selection Process
-  publisher: National Aeronautics and Space Administration
+  publisher: NASA
   URL: http://astronauts.nasa.gov/default.htm
   type: article
   issued: 2015
 
 - id: NASA-Astronaut-Selection
   title: NASA Astronaut Selection
-  publisher: National Aeronautics and Space Administration
+  publisher: NASA
   URL: http://nasa.gov/astronauts
   type: article
   issued: 2015
@@ -88,48 +88,48 @@ references:
   author:
   - family: Mogensen
     given: Andreas
-  publisher: European Space Agency
+  publisher: ESA
   URL: https://www.youtube.com/watch?v=oE5Z3Uxbezc
   issued: 2015
 
 - id: Active-NASA-Astronauts
   title: Active NASA Astronauts
-  publisher: National Aeronautics and Space Administration
+  publisher: NASA
   URL: http://www.jsc.nasa.gov/Bios/astrobio.html
   type: article
   issued: 2015
 
 - id: Inactive-NASA-Astronauts
   title: Inactive NASA Astronauts
-  publisher: National Aeronautics and Space Administration
+  publisher: NASA
   URL: http://www.jsc.nasa.gov/Bios/astrobio_former.html
   type: article
   issued: 2016
 
 - id: International-Astronauts
   title: International Astronauts
-  publisher: National Aeronautics and Space Administration
+  publisher: NASA
   URL: http://www.jsc.nasa.gov/Bios/astrobio_international.html
   type: article
   issued: 2015
 
 - id: European-Astronaut-Corps
   title: European Astronaut Corps
-  publisher: European Space Agency
+  publisher: ESA
   URL: http://www.esa.int/Our_Activities/Human_Spaceflight/Astronauts/The_European_astronaut_corps
   type: article
   issued: 2012
 
 - id: NASA-Astronaut-Requirements
   title: NASA Astronaut Requirements
-  publisher: National Aeronautics and Space Administration
+  publisher: NASA
   URL: http://www.nasa.gov/audience/forstudents/postsecondary/features/F_Astronaut_Requirements.html
   type: article
   issued: 2004
 
 - id: Cosmonauts-Biographical-Data
   title: Cosmonauts Biographical Data
-  publisher: National Aeronautics and Space Administration
+  publisher: NASA
   URL: http://www.jsc.nasa.gov/Bios/cosmo.html
   type: article
   issued: 2015
@@ -156,7 +156,7 @@ references:
 
 - id: ESA-Astronaut-Training-Requirements
   title: ESA Astronaut Training Requirements
-  publisher: European Space Agency
+  publisher: ESA
   URL: http://www.esa.int/Our_Activities/Human_Spaceflight/Astronauts/Astronaut_training_requirements
   type: article
   issued: 2016
@@ -165,7 +165,7 @@ references:
   title: ISS Spacecraft - Soyuz TM
   publisher: Spaceref.com
   URL: http://www.spaceref.com/iss/spacecraft/soyuz.tm.html
-  type: manual
+  type: article
   issued: 2016
 
 - id: Soyuz-A-Universal-Spacecraft

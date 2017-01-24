@@ -46,7 +46,12 @@
                         {% for name in entry.author %}
                             {{ name.family }} {{ name.given }},
                         {% endfor %}
-                        <i>{{ entry.title }}</i>, {{ entry.publisher }}, {{ entry.issued }}</td>
+                        <i>{{ entry.title }}</i> ({{ entry.issued }}), {{ entry.publisher }},
+
+                        {% if entry.URL %}
+                            <a href="{{ entry.URL }}">{{ entry.URL }}</a>
+                        {% endif %}
+                    </td>
                 </tr>
             {% endfor %}
         </table>
