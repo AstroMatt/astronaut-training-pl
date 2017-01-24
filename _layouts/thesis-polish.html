@@ -39,10 +39,14 @@
 
         <h1>Bibliografia</h1>
         <table id="bibliography">
-            {% for entry in site.data.bibliography %}
+            {% for entry in site.data.bibliography.references %}
                 <tr>
-                    <th>[{{ entry.title }}]</th>
-                    <td>{{ entry.author }}, <i>{{ entry.title }}</i>, {{ entry.publisher }}, {{ entry.date }}</td>
+                    <th>[@{{ entry.id }}]</th>
+                    <td>
+                        {% for name in entry.author %}
+                            {{ name.family }} {{ name.given }},
+                        {% endfor %}
+                        <i>{{ entry.title }}</i>, {{ entry.publisher }}, {{ entry.issued }}</td>
                 </tr>
             {% endfor %}
         </table>

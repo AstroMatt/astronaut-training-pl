@@ -12,7 +12,7 @@ Wyścig o wystrzelenie pierwszego sztuncznego satelity Ziemii trwał pomiędzy Z
 
 Pierwszym sztucznym satelitą Ziemii był Sputnik, który został wystrzelony 4 października 1957 roku. Dopiero to wydarzenie spodowodało zintensyfikowanie działań. Gdy Amerykanie starali się unieść swoje rakiety z ponad wurzutni, Rosjanie powoli zaczynali dominować na niskiej orbicie dookołaziemskiej. Następnymi krokami Radzieckiego programu kosmicznego było wystrzelenie zwierząt i na samym końcu człowieka. Dokonali tego w 1961 roku, na trzy miesiące przed Amerykanami. Następnie pierwszy spacer kosmiczny, pierwsza kobieta w kosmosie oraz pierwsze dłużesz pozostanie na orbicie również do nich należało.
 
-Aby zażegnać widmo porażki prezydent Stanów Zjednoczonych Ameryki J. F. Kennedy 12 września 1962 roku wygłosił mowę na Rice Uniwersytecie [@Moon-Speech-Rice-Stadium], w której zmobilizował nród i postawił cel, aby w do końca dekady "człowiek postawił noge na księzycu i bezpiecznie wrócił na Ziemię". Cel ten udało się zrealizować, ale nie podczas życia prezydenta. Amerykanie w 1969 roku zdobyli Księżyc.
+Aby zażegnać widmo porażki prezydent Stanów Zjednoczonych Ameryki J. F. Kennedy 12 września 1962 roku wygłosił mowę na Rice Uniwersytecie [@Moon-Speach-Rice-Stadium], w której zmobilizował nród i postawił cel, aby w do końca dekady "człowiek postawił noge na księzycu i bezpiecznie wrócił na Ziemię". Cel ten udało się zrealizować, ale nie podczas życia prezydenta. Amerykanie w 1969 roku zdobyli Księżyc.
 
 ## Pionierzy kosmonautyki
 <!-- TODO: cytat -->
