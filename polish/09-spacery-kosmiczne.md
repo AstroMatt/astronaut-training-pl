@@ -167,6 +167,28 @@ Z uwagi na koszt, stopień skomplikowania i czasochłonność operacji w baseni
 
 ### Przygotowanie do wyjścia w przestrzeń kosmiczną
 <!-- TODO: Przygotowanie do przeprowadzenia wyjścia w przestrzeń
+1. obniżenie ciśnienia w airlock do 5 psi
+	- check safety thether
+2. communication check and suit leak checks
+3. obniżenie ciśnienia do 0
+4. final suit leak check
+5. przełączenie skafandrów na zasilanie wewnętrzne (DCM power switch to internal)
+	- check DCM power monitor
+	- UAA (?) power to off
+	- LEDs check to be power off
+	- SC disconnect from DCM
+	- on the crew lock pressure control valve is locked
+	- DCM temperature control valve max heat
+	- switch water on
+	- DCM check blank and bite (byte) off
+	- temperature control valve as desired
+	- suit pressure guage (psi 4.3 for EV1 and EV2)
+	- check your visor as desired
+	- read the configuration for the safety thether (opnen, close, lock, unlocked)
+	- EV1 checks EV2, EV2 checks EV1
+6. wyjście w przestrzeń kosmiczną (egress)
+
+- Grouund IV - (flight choreographer) osoba w MCC, która czuwa nad tym czy eva przebiega zgodnie z planem i czy wszystko jest ok. (podczas EVA pierwszego w 2017 był nim Luca Parmitano)
 - Ingress i Regress
 - What medical examination you perform before and after EVA
 - Ruskie MO - medical assessment (5 or 6)
