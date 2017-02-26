@@ -187,8 +187,10 @@ Z uwagi na koszt, stopień skomplikowania i czasochłonność operacji w baseni
 	- read the configuration for the safety thether (opnen, close, lock, unlocked)
 	- EV1 checks EV2, EV2 checks EV1
 6. wyjście w przestrzeń kosmiczną (egress)
+	- buddy checks
+	- HAPs - helmet absorbsion pads checks (wchłaniają wodę w przypadku przecieku, wprowadzone po incydencie Luca Parmitano)
 
-- Grouund IV - (flight choreographer) osoba w MCC, która czuwa nad tym czy eva przebiega zgodnie z planem i czy wszystko jest ok. (podczas EVA pierwszego w 2017 był nim Luca Parmitano)
+- Spacewalker Communitacatior - Ground IV - (flight choreographer) osoba w MCC, która czuwa nad tym czy eva przebiega zgodnie z planem i czy wszystko jest ok. (podczas EVA pierwszego w 2017 był nim Luca Parmitano)
 - Ingress i Regress
 - What medical examination you perform before and after EVA
 - Ruskie MO - medical assessment (5 or 6)
