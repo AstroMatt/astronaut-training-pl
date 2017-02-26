@@ -193,11 +193,12 @@ Z uwagi na koszt, stopień skomplikowania i czasochłonność operacji w baseni
 6. wyjście w przestrzeń kosmiczną (egress)
 	- buddy checks
 	- HAPs - helmet absorbsion pads checks (wchłaniają wodę w przypadku przecieku, wprowadzone po incydencie Luca Parmitano)
-- podczas spaceru, Ground IV co jakiś czas przekazuje 'cautions and warnings' czyli informacje na temat niebezpieczeństw, które mogą być w pobliżu EV
+- podczas spaceru, Ground IV co jakiś czas przekazuje informacje o 'cautions' i 'warnings' czyli informacje na temat niebezpieczeństw, które mogą być w pobliżu EV
 	- ostre krawędzie
 	- urządzenia pod napięciem
 	- informacje czego nie dotykać
 	- informacje do czego sie ne podpinać
+- Ground IV informuje o następnych krokach dla EV1 oraz EV2
 
 - instalacja portable foot restraint, przed przystąpieniem do dalszych czynności takich jak odkręcanie
 - Spacewalker Communitacatior - Ground IV - (flight choreographer) osoba w MCC, która czuwa nad tym czy eva przebiega zgodnie z planem i czy wszystko jest ok. (podczas EVA pierwszego w 2017 był nim Luca Parmitano)
