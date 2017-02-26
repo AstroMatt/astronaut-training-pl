@@ -49,6 +49,10 @@ Każdy z systemów pobiera informacje i przekazuje je do centrum kontroli misji 
 Ze względu na niedoskonałość materiału każdy strój posiada tzw. przecieki, które są również monitorowane. W przypadku zbyt dużego tempa wycieku powietrza uruchamiane są systemy awaryjne a astronauta natychmiast musi przerwać pracę na zewnątrz i udać się do śluzy pojazdu. Więcej na temat procedur oraz systemów awaryjnych w osobnym podrozdziale.
 
 ### Wykorzystywanie specjalistycznych narzędzi do pracy
+<!-- TODO: narzędzia
+- wratched wrench
+- hex screwdriver
+-->
 
 Prace w przestrzeni kosmicznej wymagają znajomości wysokowyspecjalizowanych narzędzi. Ich rolą jest nie tylko pomoc astronaucie w dokonaniu naprawy czy montażu sprzętu ale również zachowanie pozycji czy bezpiecznego poruszania się w obrębie stacji kosmicznej.
 
@@ -189,7 +193,13 @@ Z uwagi na koszt, stopień skomplikowania i czasochłonność operacji w baseni
 6. wyjście w przestrzeń kosmiczną (egress)
 	- buddy checks
 	- HAPs - helmet absorbsion pads checks (wchłaniają wodę w przypadku przecieku, wprowadzone po incydencie Luca Parmitano)
+- podczas spaceru, Ground IV co jakiś czas przekazuje 'cautions and warnings' czyli informacje na temat niebezpieczeństw, które mogą być w pobliżu EV
+	- ostre krawędzie
+	- urządzenia pod napięciem
+	- informacje czego nie dotykać
+	- informacje do czego sie ne podpinać
 
+- instalacja portable foot restraint, przed przystąpieniem do dalszych czynności takich jak odkręcanie
 - Spacewalker Communitacatior - Ground IV - (flight choreographer) osoba w MCC, która czuwa nad tym czy eva przebiega zgodnie z planem i czy wszystko jest ok. (podczas EVA pierwszego w 2017 był nim Luca Parmitano)
 - Ingress i Regress
 - What medical examination you perform before and after EVA
