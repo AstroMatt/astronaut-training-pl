@@ -52,6 +52,7 @@ Ze względu na niedoskonałość materiału każdy strój posiada tzw. przeciek
 <!-- TODO: narzędzia
 - wratched wrench
 - hex screwdriver
+- pistol grip tool
 -->
 
 Prace w przestrzeni kosmicznej wymagają znajomości wysokowyspecjalizowanych narzędzi. Ich rolą jest nie tylko pomoc astronaucie w dokonaniu naprawy czy montażu sprzętu ale również zachowanie pozycji czy bezpiecznego poruszania się w obrębie stacji kosmicznej.
