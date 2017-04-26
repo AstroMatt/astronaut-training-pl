@@ -29,7 +29,7 @@ They live on Greenwich time (GMT), the Coordinated Universal Time (UTC). It's a 
 
 ## Podnoszenie orbity stacji kosmicznej
 
-## Urządzenia do utrzymania kondycji i sprawnośi fizycznej
+## Urządzenia do utrzymania kondycji i sprawności fizycznej
 
 <!-- TODO: http://www.asc-csa.gc.ca/eng/astronauts/living-in-space/physical-activity-in-space.asp
 -->

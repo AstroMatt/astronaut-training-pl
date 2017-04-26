@@ -4,8 +4,8 @@ language: polish
 ---
 
 
-# Praca astronautów na Ziemii
-<!-- TODO: Praca astronautów na Ziemii
+# Praca astronautów na Ziemi
+<!-- TODO: Praca astronautów na Ziemi
 - http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/ongoing-training.asp
 - The astronaut's responsibilities on Earth include:
     - acting as capcoms
@@ -55,9 +55,10 @@ http://www.esa.int/Our_Activities/Human_Spaceflight/Astronauts/European_astronau
 
 ## Praca w symulatorach w przypadku problemów na orbicie
 
-## Praca jako CapCom
-<!-- TODO: Praca jako CapCom
+## Praca jako Capsule Communicator (CAPCOM)
+<!-- TODO: Praca jako CAPCOM
 - Luca Parmitano dla Thomasa Pasqueta podczas EVA w styczniu 2017
+- https://en.wikipedia.org/wiki/Flight_controller#Capsule_Communicator_.28CAPCOM.29
 -->
 ## Popularyzacja nauki i obszaru S.T.E.M.
 

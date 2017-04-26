@@ -23,7 +23,7 @@ language: polish
 
 ### Space Adventures
 
-### Virgin Gallactic
+### Virgin Galactic
 
 ### Blue Origin
 

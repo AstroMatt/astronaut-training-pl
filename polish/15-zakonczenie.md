@@ -9,5 +9,5 @@ language: polish
 - polecieliśmy w kosmos, tylko po to by docenić to co mamy na ziemi
 -->
 
-> Communication, Teamwork, Commitment to excelence
+> Communication, teamwork, commitment to excellence
 > -- Victor Glover

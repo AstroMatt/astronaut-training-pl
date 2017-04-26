@@ -5,16 +5,16 @@ language: polish
 
 # Wyjścia astronautów w przestrzeń kosmiczną
 
-Jednym z najtrudniejszych elementów pracy astronauty jest wyjście w przestrzeń kosmiczną na tzw. EVA (ang. Extravehicular Activity, pol. spacer kosmiczny). Do przeprowadzenia takiego wyjścia astronauci przytotowują się przez dwa lata przed misją przeprowadzając około 20 ćwiczeń w pełnym skafandrze pod wodą w basenie neutralnej pływalności (ang. Neurtal Buoyancy Facility). Każdy trening jest oceniany przez zespół wykwalifikowanych i certyfikowanych instruktorów.
+Jednym z najtrudniejszych elementów pracy astronauty jest wyjście w przestrzeń kosmiczną na tzw. EVA (ang. Extravehicular Activity, pol. spacer kosmiczny). Do przeprowadzenia takiego wyjścia astronauci przygotowują się przez dwa lata przed misją przeprowadzając około 20 ćwiczeń w pełnym skafandrze pod wodą w basenach neutralnej pływalności. Każdy trening jest oceniany przez zespół wykwalifikowanych i certyfikowanych instruktorów.
 
-Ze względu na bardzo szeroki zakres obowiązków podczas spacerów kosmiczych astronauci specjalizują sie w swojej dziedzinie i charakterze przeprowadzanej operacji. Każdy z nich także otrzymuje szkolenie umożliwiające mu zastąpienie dowolnego innego astronauty w jego obowiązkach gdyby zaszła taka potrzeba. Z tego względu szkolenie astronautów podzielone jest na dwa typy:
+Ze względu na bardzo szeroki zakres obowiązków podczas spacerów kosmicznych astronauci specjalizują sie w swojej dziedzinie i charakterze przeprowadzanej operacji. Każdy z nich także otrzymuje szkolenie umożliwiające mu zastąpienie dowolnego innego astronauty w jego obowiązkach gdyby zaszła taka potrzeba. Z tego względu szkolenie astronautów podzielone jest na dwa typy:
 
 - generic training (pol. szkolenie generalne),
-- cross training (pol. szkolenie przerojowe).
+- cross training (pol. szkolenie przekrojowe).
 
 Astronauci podczas szkolenia podstawowego, a później dla utrzymania sprawności w trakcie swojej kariery ćwiczą wyjścia EVA w basenie neutralnej pływalności. Podczas tych zajęć szkolą się z rozwiązywania sytuacji awaryjnych, m.in. ewakuacja astronauty, który ma niesprawny kombinezon lub nie może się poruszać.
 
-Na chwilę obecną wyjścia w przestrzeń kosmiczną skupiają się głównie na pracach na orbicie przy konstrukcji i naprawy międzynarodowej stacji kosmicznej. Przed erą ISS astronauci wychodzili aby naprawiać MIR czy Skylab, podczas programu Apollo w celu demontażu kamery oraz w programie STS, Gemini i Wostok. Dotychczas EVA na obcych planetach lub satelitach doświadczyło tylko i wyłącznie dwanaście osób. Jednym z najbardziej podstawowych podiałów spacerów kosmicznych są wyjścia:
+Na chwilę obecną wyjścia w przestrzeń kosmiczną skupiają się głównie na pracach na orbicie przy konstrukcji i naprawy międzynarodowej stacji kosmicznej. Przed erą ISS astronauci wychodzili aby naprawiać MIR czy Skylab, podczas programu Apollo w celu demontażu kamery oraz w programie STS, Gemini i Wostok. Dotychczas EVA na obcych planetach lub satelitach doświadczyło tylko i wyłącznie dwanaście osób. Jednym z najbardziej podstawowych podziałów spacerów kosmicznych są wyjścia:
 
 - zaplanowane,
 - awaryjne,
@@ -24,13 +24,13 @@ Spacery kosmiczne wymagają wysokiej sprawności oraz dużej siły fizycznej. Z 
 
 ## Zaznajomienie się ze skafandrem
 
-Szkolenie przygotowujące do spacerów kosmicznych zaczyna się od zapoznania ze skafandrem. Astronauci są następnie przygotowywani do egzaminów z wykorzystania strojów EMU oraz Orlan. Ze względu na różnice w budowie, zakładaniu i zdejmowaniu skafandra, ciśnieniu operacyjnym oraz systemach awaryjnych astronauci muszą przejść ścieżkę certyfikacyjną z każdego stroju na międzynarodowej stacji kosmicznej. Po takiej certyfikacji astronauta powinien wykazać się dużą wiedzą na temat nie tylko posługiwiania się wysoko wyspecjalizowanym ubiorem ale również w jego systemach awaryjnych. Każde ze szkoleń jest oceniane przez instruktorów z centrum kontroli misji.
+Szkolenie przygotowujące do spacerów kosmicznych zaczyna się od zapoznania ze skafandrem. Astronauci są następnie przygotowywani do egzaminów z wykorzystania strojów EMU oraz Orlan. Ze względu na różnice w budowie, zakładaniu i zdejmowaniu skafandra, ciśnieniu operacyjnym oraz systemach awaryjnych astronauci muszą przejść ścieżkę certyfikacyjną z każdego stroju na międzynarodowej stacji kosmicznej. Po takiej certyfikacji astronauta powinien wykazać się dużą wiedzą na temat nie tylko posługiwania się wysoko wyspecjalizowanym ubiorem ale również w jego systemach awaryjnych. Każde ze szkoleń jest oceniane przez instruktorów z centrum kontroli misji.
 
 Po pozytywnym zaliczeniu egzaminów teoretycznych astronauta jest dopuszczany do możliwości wykorzystania stroju w symulacjach w basenie neutralnej pływalności.
 
 ### Sprawdzenie szczelności skafandra
 
-Przed wykonywaniem zadań w basenie astronauci wykonują tzw. sprawdzenie szczelności skafandra. Podczas tego testu astronauta ubrany w strój do wyjść EVA jest zamykany w pomieszczeniu, w którym odpompowywane jest powietrze do uzyskania ciśnienia zbliżonego do próźni. W trakcie trwania testu astronauci zapoznają się z zachowaniem skafandra i materiału, który sztywnieje i się napręża dając uczucie nadmuchania. Z tego względu praca w warunkach braku ciśnienia panujących poza statkiem kosmicznym jest znacznie trudniejsza od symulacji prowadzonych w basenie doskonałej pływalności.
+Przed wykonywaniem zadań w basenie astronauci wykonują tzw. sprawdzenie szczelności skafandra. Podczas tego testu astronauta ubrany w strój do wyjść EVA jest zamykany w pomieszczeniu, w którym odpompowywane jest powietrze do uzyskania ciśnienia zbliżonego do próżni. W trakcie trwania testu astronauci zapoznają się z zachowaniem skafandra i materiału, który sztywnieje i się napręża dając uczucie nadmuchania. Z tego względu praca w warunkach braku ciśnienia panujących poza statkiem kosmicznym jest znacznie trudniejsza od symulacji prowadzonych w basenie doskonałej pływalności.
 
 ### Systemy biomedyczne stosowane podczas EVA
 
@@ -42,9 +42,9 @@ Każdy skafander kosmiczny posiada inny zestaw sensorów i urządzeń kontroluj�
 - systemy biometryczne,
 - systemy podtrzymania życia.
 
-Układ krwionośny monitorowany jest za pomocą trzypunktowych elektrod EKG (Elektro Kardio-Gramu). Informacje na temat układu oddechowego stanowią dane odnośnie ilości wdychania tlenu i wydychania dwutlenku węgla, dzięki czemu lekarze i biomedycy mogą wyliczyć metabolizm oraz przemianę anarobową w trakcie wykonywania prac.
+Układ krwionośny monitorowany jest za pomocą trzypunktowych elektrod EKG (Elektrokardiografu). Informacje na temat układu oddechowego stanowią dane odnośnie ilości wdychania tlenu i wydychania dwutlenku węgla, dzięki czemu lekarze i biomedycy mogą wyliczyć metabolizm oraz przemianę anarobową w trakcie wykonywania prac.
 
-Każdy z systemów pobiera informacje i przekazuje je do centrum kontroli misji gdzie inżynierowie skafandra, inżynierowie biomedyczni oraz lekarze lotu (ang. flight surgeons) asystują astronautom podczas wyjścia w przestrzeń kosmiczną.
+Każdy z systemów pobiera informacje i przekazuje je do centrum kontroli misji gdzie inżynierowie skafandra, inżynierowie biomedyczni oraz lekarz lotu (ang. flight surgeon) asystują astronautom podczas wyjścia w przestrzeń kosmiczną.
 
 Ze względu na niedoskonałość materiału każdy strój posiada tzw. przecieki, które są również monitorowane. W przypadku zbyt dużego tempa wycieku powietrza uruchamiane są systemy awaryjne a astronauta natychmiast musi przerwać pracę na zewnątrz i udać się do śluzy pojazdu. Więcej na temat procedur oraz systemów awaryjnych w osobnym podrozdziale.
 
@@ -55,7 +55,7 @@ Ze względu na niedoskonałość materiału każdy strój posiada tzw. przeciek
 - pistol grip tool
 -->
 
-Prace w przestrzeni kosmicznej wymagają znajomości wysokowyspecjalizowanych narzędzi. Ich rolą jest nie tylko pomoc astronaucie w dokonaniu naprawy czy montażu sprzętu ale również zachowanie pozycji czy bezpiecznego poruszania się w obrębie stacji kosmicznej.
+Prace w przestrzeni kosmicznej wymagają znajomości wysokospecjalistycznych narzędzi. Ich rolą jest nie tylko pomoc astronaucie w dokonaniu naprawy czy montażu sprzętu ale również zachowanie pozycji czy bezpiecznego poruszania się w obrębie stacji kosmicznej.
 
 Urządzenia wykorzystywane w pracy w przestrzeni kosmicznej możemy podzielić na:
 
@@ -65,14 +65,14 @@ Urządzenia wykorzystywane w pracy w przestrzeni kosmicznej możemy podzielić n
 - wkrętarki,
 - urządzenia do spawania.
 
-Prowadzenie prac w środowisku mikrograwitacji przy wykorzystaniu urządzeń tj. śrubokręty, wiertarki i wkrętarki nie jest tak proste jak na Ziemii. Brak oporu i bardzo zmniejszone przyciąganie ziemskie powoduje wytworzenie niezbilansowanego momentu skręcającego działającego na astronautę a to w konsekwencji prowadzi do zmiany jego pozycji względem stacji. Astronauta używając klucza czy wkrętarki musi być przymocowany aby móc przyłożyć odpowiednią siłę.
+Prowadzenie prac w środowisku mikrograwitacji przy wykorzystaniu urządzeń tj. śrubokręty, wiertarki i wkrętarki nie jest tak proste jak na Ziemi. Brak oporu i bardzo zmniejszone przyciąganie ziemskie powoduje wytworzenie niezbilansowanego momentu skręcającego działającego na astronautę a to w konsekwencji prowadzi do zmiany jego pozycji względem stacji. Astronauta używając klucza czy wkrętarki musi być przymocowany aby móc przyłożyć odpowiednią siłę.
 
 ### Wykorzystanie urządzeń wspierających pracę w przestrzeni kosmicznej
 
 Urządzenia wspierające pozwalają na zachowanie pozycji względem stacji kosmicznej oraz na łatwiejsze posługiwanie się narzędziami. Do głównych urządzeń wspierających czynności podczas spacerów kosmicznych można zaliczyć:
 
 - przedłużki zmieniające ramię narzędzi,
-- liny stalowe (ang. theather),
+- liny stalowe (ang. tethering),
 - przymocowania stóp (ang. foot restraints).
 
 Do zadania przedłużek należy zwiększenie długości ramienia klucza. Urządzenia te usadza się na końcu klucza przedłużając jego rączkę. Dzięki ich zastosowaniu astronauta może zwiększyć moment obrotowy działający na śrubę i dzięki temu przykręcić lub odkręcić śruby z większą siłą i precyzją.
@@ -83,7 +83,7 @@ Obecnie podstawowym elementem wyposażenia każdego stroju astronauty są tzw. u
 
 ## Symulacje wykorzystujące komputery i wirtualną rzeczywistość
 
-Z uwagi na koszt, stopień skomplikowania i czasochłonność operacji w basenie neutralnej pływalności astronauci najpierw przechodzą szkolenie zapoznawcze w loboratorium wirtualnej rzeczywistości (ang. VR - Virtual Reality Lab) wykorzystując symulacje komputerowe tj. Oculus Rift czy Hololense firmy Microsoft. W specjalnie napisanych w tym celu aplikacjach mają możliwość przećwiczenia manerwów, zapoznania się z segmentem stacji, której dotyczy praca czy praktykowaniem umiejętności poruszania sie i odnajdywania na zewnątrz międzynarodowej stacji kosmicznej.
+Z uwagi na koszt, stopień skomplikowania i czasochłonność operacji w basenie neutralnej pływalności astronauci najpierw przechodzą szkolenie zapoznawcze w laboratorium wirtualnej rzeczywistości (ang. VR - Virtual Reality Lab) wykorzystując symulacje komputerowe tj. Oculus Rift czy HoloLens firmy Microsoft. W specjalnie napisanych w tym celu aplikacjach mają możliwość przećwiczenia manewrów, zapoznania się z segmentem stacji, której dotyczy praca czy praktykowaniem umiejętności poruszania się i odnajdywania na zewnątrz międzynarodowej stacji kosmicznej.
 
 ## Symulacja prac w basenie doskonałej pływalności
 <!-- TODO: Symulacja prac w basenie doskonałej pływalności
@@ -123,9 +123,20 @@ Z uwagi na koszt, stopień skomplikowania i czasochłonność operacji w baseni
     - Na dwie osoby trenujące EVA jest około 40 osób, które upewniają się, że wszystko jest bezpiecznie
 -->
 
-### Neutral Buoyancy Laboratory - NASA
+| Agencja                | Nazwa pełna                            | Skrót | Lokacja                                                                   |
+|:-----------------------|:---------------------------------------|:------|:--------------------------------------------------------------------------|
+| NASA                   | Neutral Buoyancy Laboratory            | NBL   | Sonny Carter Training Facility, Johnson Space Center, Houston, TX, USA    |
+| ESA                    | Neutral Buoyancy Facility              | NBF   | European Astronaut Center, Kolonia, Niemcy                                |
+| Roscosmos              | Hydro Lab                              |       | Gagarin Cosmonaut Training Center (GCTC), Zvyozdny gorodok, Moskwa, Rosja |
+| CNSA                   | Neutral Buoyancy Facility              | NBF   | China Astronaut Research and Training Center, Pekin, Chiny                |
+| JAXA                   | Weightlessness Environment Test System | WETS  | Tsukuba Space Center, Ibaraki, Japan                                      |
+| University of Maryland | Buoyancy Research Facility             | NBRF  | University of Maryland, USA                                               |
 
-### Neutral Buoyancy Facility - ESA
+**Tabela 9.1. - Lista basenów neutralnej pływalności**
+
+### NASA - Neutral Buoyancy Laboratory
+
+### ESA - Neutral Buoyancy Facility
 <!-- TODO: Neutral Buoyancy Facility
 - EVA pre-familiarisation training (w NBF w EAC, ESA)
 - EVA training (w NBL w Huston, TX) jest prowadzony po ukończeniu pre-familiarisation w Kolonii
@@ -137,12 +148,18 @@ Z uwagi na koszt, stopień skomplikowania i czasochłonność operacji w baseni
 - 3-4 trenują w NBF pod wodą
 -->
 
-### Rosyjski basen trenowania
+### Roscosmos - Hydro Lab
 <!-- TODO: nazwa rosyjskiego basenu -->
+
+### CNSA - Neutral Buoyancy Facility
+
+### JAXA - Weightlessness Environment Test System
+
+### University of Maryland - Buoyancy Research Facility
 
 ## Komunikacja i podział ról podczas symulacji oraz wyjścia w przestrzeń kosmiczną
 
-### Role i obowiązki astrinautów
+### Role i obowiązki astronautów
 <!-- TODO: Role podczas EVA
 - Przynajmniej dwie osoby wychodzą na EVA i minimalnie jedna zostaje w bazie jako IVA.
 - EV1 jest bardziej prestiżowy. Astronauci o to konkurują.
@@ -334,7 +351,7 @@ Z uwagi na koszt, stopień skomplikowania i czasochłonność operacji w baseni
 
 ## Przykładowe zadania wykonywane podczas spacerów kosmicznych
 
-### Dekonstrukcja kamer i aparatu fotograficznego poczas misji Apollo
+### Dekonstrukcja kamer i aparatu fotograficznego podczas misji Apollo
 
 ### Demonstracja poruszania się w przestrzeni kosmicznej w programach Wostok, Gemini
 

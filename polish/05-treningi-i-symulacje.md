@@ -106,7 +106,7 @@ language: polish
 
 ## Symulacja pracy w środowisku mikrograwitacji
 
-### Urządzenia symulujące obiżoną grawitację
+### Urządzenia symulujące obniżoną grawitację
 <!-- TODO: Urządzenia symulujące obiżoną grawitację
 - liny i poruszanie się po ścianie w boki (z programu apollo)
 - urządzenie na którym trenował Ed White poruszanie się w kosmosie
@@ -114,7 +114,7 @@ language: polish
 - vertical threadmill (poruszanie się w górę)
 -->
 
-### Test w wirówce na odporność organizmu na przeciążenia
+### Test w wirówce zwiększający odporność organizmu na przeciążenia
 
 ### Loty paraboliczne symulujące stan nieważkości
 <!-- TODO: Loty paraboliczne symulujące stan nieważkości

@@ -7,7 +7,7 @@ language: polish
 
 Do podstawowych zadań skafandra należą:
 
-- ochrona przed ektremalnym środowiskiem kosmosu,
+- ochrona przed ekstremalnym środowiskiem kosmosu,
 - ochrona przed brakiem ciśnienia (próżnią),
 - ochrona przed mikrometeorytami,
 - ochrona termiczna przed fluktuacją temperatury od -156C do +121C,
@@ -154,13 +154,13 @@ Do podstawowych zadań skafandra należą:
 | Shenzhou IVA              | IVA           | Chiny     | 2005           | Shenzhou      | użyty podczas Shenzhou 5              |
 | MACES                     | USA           |           |                | Orion         | użyty zarówno do IVA i EVA            |
 
-**Tabela 8.1 - zestawienie skafandrów do czynności podczas startu i lądowania IVA (ang. Intravehicular Activity)**
+**Tabela 8.1 - zestawienie skafandrów do czynności podczas startu i lądowania IVA (ang. IntraVehicular Activity - operacje wewnątrz statku kosmicznego)**
 
 ### Skafandry kosmiczne wykorzystywane podczas wyjść w przestrzeń kosmiczną
 
 | Nazwa                        | Produkcja | Lata użycia    | Program                   | Uwagi                                  |
 |:-----------------------------|:----------|:---------------|:--------------------------|:---------------------------------------|
-| Berkut                       | ZSSR      | 1965           | Wostok                    | Alexey Leovov, pierwszy EVA            |
+| Berkut                       | ZSSR      | 1965           | Wostok                    | Alexey Leonov, pierwszy EVA            |
 | Krechet-94                   | ZSSR      | 1965 - 1970    | N1/L3 (księżycowy)        |                                        |
 | Gemini G4C                   | USA       | 1965 - 1966    | Gemini                    | użyty zarówno do IVA i EVA             |
 | Apollo Block 1 A1C           | USA       | 1966 - 1967    | Apollo                    | zaprzestano użycia po pożarze Apollo 1 |
@@ -177,7 +177,7 @@ Do podstawowych zadań skafandra należą:
 
 **Tabela 8.2 - zestawienie skafandrów do spacerów kosmicznych EVA (ang. Extravehicular Activity)**
 
-## Charakterystyka wybranych skafandrów kosminczych
+## Charakterystyka wybranych skafandrów kosmicznych
 
 ### Charakterystyka skafandra Sokol
 
@@ -233,7 +233,7 @@ Do podstawowych zadań skafandra należą:
 - SAFER
 -->
 
-## Utrzymywanie sprawnośni skafandra
+## Utrzymywanie sprawności skafandra
 <!-- TODO: Utrzymywanie sprawnośni skafandra EMU
 - nie są przystosowane do naprawy w nieważkości
 - Suit "Surgery", fan, pump, water-gas separator failure
@@ -254,7 +254,7 @@ Do podstawowych zadań skafandra należą:
 - Augument Reality i możliwość zdalnego aktualizowania procedur
 -->
 
-## Augumentacja
+## Augmentacja
 <!-- TODO: Augmented Reality
     - mobiPV
     - Google Glass
