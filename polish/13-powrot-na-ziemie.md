@@ -11,7 +11,7 @@ language: polish
 
 ## Przygotowanie do powrotu na Ziemię
 <!-- TODO: Przygotowanie do powrotu na Ziemię
-- Astronauci wydłużają sie o 5-7 cm i maja problemy z mieszczeniem sie w swoje Custom made siedzenia w soyuzie
+- Astronauci wydłużają się o 5-7 cm i maja problemy z mieszczeniem się w swoje Custom made siedzenia w soyuzie
 - Space Shuttle Wystawiała kółka by się rozgrzały
 -->
 

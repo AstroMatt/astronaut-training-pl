@@ -27,7 +27,7 @@ Po stronie Stanów Zjednoczonych największym wpływ na program rakietowy tego k
 
 ### Pierwsze zwierzęta w kosmosie
 
-Pierwszym zwierzęciem, które przekroczyło linię graniczną kosmosu był pies Łajka wystrzelony za pomocą rakiety *Sputnik 8K71PS* w kapsule *Sputnik 2*. Ze względu na wysoką temperaturę spowodowaną uszkodzeniem i niepełnym rozczepieniem członu rakiety od satelity zwierze zdełochło po kilku godzinach od startu. Zwierze planowo miało żyć na orbicie 10 dni. Po około 2000 orbit w ciągu 162 dni kapsuła weszła w atmosferę i spłonęła [@Korolev-How-One-Man-Masterminded-the-Soviet-Drive-to-Beat-America-to-the-Moon].
+Pierwszym zwierzęciem, które przekroczyło linię graniczną kosmosu był pies Łajka wystrzelony za pomocą rakiety *Sputnik 8K71PS* w kapsule *Sputnik 2*. Ze względu na wysoką temperaturę spowodowaną uszkodzeniem i niepełnym rozczepieniem członu rakiety od satelity zwierze zdechło po kilku godzinach od startu. Zwierze planowo miało żyć na orbicie 10 dni. Po około 2000 orbit w ciągu 162 dni kapsuła weszła w atmosferę i spłonęła [@Korolev-How-One-Man-Masterminded-the-Soviet-Drive-to-Beat-America-to-the-Moon].
 
 Program Mercury w stanach zjednoczonych również zakładał wysłanie zwierzęcia przed pierwszym lotem człowieka. Ze względu na bardzo wiele wspólnych cech z człowiekiem wybrano szympansa (DNA szympansa jest w 98,4% identyczne z człowiekiem co czyni go najbliższym odpowiednikiem z królestwa zwierząt - przyp. autora [@Human-Origins-Genetic-Evidence]). Szympans nazywał się HAM co jest skrótem od Holloman Aerospace Medical Center, zlokalizowanego w Holloman Air Force Base w New Mexico w USA [@History-of-Project-Mercury].
 

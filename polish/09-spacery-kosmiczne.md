@@ -7,7 +7,7 @@ language: polish
 
 Jednym z najtrudniejszych elementów pracy astronauty jest wyjście w przestrzeń kosmiczną na tzw. EVA (ang. Extravehicular Activity, pol. spacer kosmiczny). Do przeprowadzenia takiego wyjścia astronauci przygotowują się przez dwa lata przed misją przeprowadzając około 20 ćwiczeń w pełnym skafandrze pod wodą w basenach neutralnej pływalności. Każdy trening jest oceniany przez zespół wykwalifikowanych i certyfikowanych instruktorów.
 
-Ze względu na bardzo szeroki zakres obowiązków podczas spacerów kosmicznych astronauci specjalizują sie w swojej dziedzinie i charakterze przeprowadzanej operacji. Każdy z nich także otrzymuje szkolenie umożliwiające mu zastąpienie dowolnego innego astronauty w jego obowiązkach gdyby zaszła taka potrzeba. Z tego względu szkolenie astronautów podzielone jest na dwa typy:
+Ze względu na bardzo szeroki zakres obowiązków podczas spacerów kosmicznych astronauci specjalizują się w swojej dziedzinie i charakterze przeprowadzanej operacji. Każdy z nich także otrzymuje szkolenie umożliwiające mu zastąpienie dowolnego innego astronauty w jego obowiązkach gdyby zaszła taka potrzeba. Z tego względu szkolenie astronautów podzielone jest na dwa typy:
 
 - generic training (pol. szkolenie generalne),
 - cross training (pol. szkolenie przekrojowe).
@@ -42,7 +42,7 @@ Każdy skafander kosmiczny posiada inny zestaw sensorów i urządzeń kontroluj�
 - systemy biometryczne,
 - systemy podtrzymania życia.
 
-Układ krwionośny monitorowany jest za pomocą trzypunktowych elektrod EKG (Elektrokardiografu). Informacje na temat układu oddechowego stanowią dane odnośnie ilości wdychania tlenu i wydychania dwutlenku węgla, dzięki czemu lekarze i biomedycy mogą wyliczyć metabolizm oraz przemianę anarobową w trakcie wykonywania prac.
+Układ krwionośny monitorowany jest za pomocą trzypunktowych elektrod EKG (Elektrokardiografu). Informacje na temat układu oddechowego stanowią dane odnośnie ilości wdychania tlenu i wydychania dwutlenku węgla, dzięki czemu lekarze i biomedycy mogą wyliczyć metabolizm oraz przemianę anaerobową w trakcie wykonywania prac.
 
 Każdy z systemów pobiera informacje i przekazuje je do centrum kontroli misji gdzie inżynierowie skafandra, inżynierowie biomedyczni oraz lekarz lotu (ang. flight surgeon) asystują astronautom podczas wyjścia w przestrzeń kosmiczną.
 
@@ -215,7 +215,7 @@ Z uwagi na koszt, stopień skomplikowania i czasochłonność operacji w baseni
 	- ostre krawędzie
 	- urządzenia pod napięciem
 	- informacje czego nie dotykać
-	- informacje do czego sie ne podpinać
+	- informacje do czego się ne podpinać
 - Ground IV informuje o następnych krokach dla EV1 oraz EV2
 
 - instalacja portable foot restraint, przed przystąpieniem do dalszych czynności takich jak odkręcanie

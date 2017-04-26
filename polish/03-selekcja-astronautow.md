@@ -163,7 +163,7 @@ Każda z tych profesji ma swoje zalety przy prowadzeniu badań w środowisku kos
 
 ### Selekcja ze względu na doświadczenie lotnicze
 
-Pilot-astronauta podczas misji specjalizuje się w prowadzeniu statków kosmicznych. W zakres jego obowiązków wchodzi pilotaż, odpowiedzialność za załogę i powodzenie misji, oraz dbanie o bezpieczeństwo na pokładzie. Pilot wspiera dowódcę w kontrolowaniu statku. Ponadto rola pilota może rozszerzyć się o zakres obowiązków związanych z przechwytywaniem i rozstawianiem stelit, korzystaniem z robotycznego ramienia - manipulatora, EVA oraz operacje związane z ładunkiem [@NASA-Astronaut-Requirements].
+Pilot-astronauta podczas misji specjalizuje się w prowadzeniu statków kosmicznych. W zakres jego obowiązków wchodzi pilotaż, odpowiedzialność za załogę i powodzenie misji, oraz dbanie o bezpieczeństwo na pokładzie. Pilot wspiera dowódcę w kontrolowaniu statku. Ponadto rola pilota może rozszerzyć się o zakres obowiązków związanych z przechwytywaniem i rozstawianiem satelit, korzystaniem z robotycznego ramienia - manipulatora, EVA oraz operacje związane z ładunkiem [@NASA-Astronaut-Requirements].
 
 Doświadczenie lotniczne nie jest wymagane, ale wysoko porządane [@ESA-Astronaut-Training-Requirements].
 
@@ -171,7 +171,7 @@ Przy specjalizacji jako pilot-astronauta amerykańska agencja NASA wymaga 1000 g
 
 Wymagania dotyczące wzroku dla pilotów są zwiększone:
 
-- 20/100 w widzeniu dalekim preferowne bez korekcji (okulary, soczewki),
+- 20/100 w widzeniu dalekim preferowane bez korekcji (okulary, soczewki),
 - 20/20 w widzeniu z korekcją.
 
 Zwiększone kryteria wzrostu:
@@ -279,7 +279,7 @@ Do końca roku 2015 agencja kosmiczna Roscosmos podlegała strukturom wojskowym 
 
 ### ESA - Europejska Agencja Kosmiczna
 
-Jednym z warunków bycia astronautą ESA jest aby państwo narodowości kandydata było oficjalnym członkiem tej agencji. Ostatni proces rekrutacji Europejskiej Agencji Kosmicznej odbył się w maju 2008 oraz maju 2009 roku. Przedsięwzięcie prowadziła jednostka EAC (ang. European Astronaut Centre) w Kolonii w Niemczech. Wzięło w nim udział 8413 kandydatów . 20 maja 2009 sześciu nowych kandydatów na astronautów zostało przedstawionych na konferencji prasowej w siedzibie ESA w Paryżu. Kandydaci rozpoczęli swoje wstępne przeszkolenie 1 września 2009 roku. W tej selekcji wybrano następujących kandydatów [@How-to-Become-an-ESA-Astronaut]:
+Jednym z warunków bycia astronautą ESA jest aby państwo narodowości kandydata było oficjalnym członkiem tej agencji. Ostatni proces rekrutacji Europejskiej Agencji Kosmicznej odbył się w maju 2008 oraz maju 2009 roku. Przedsięwzięcie prowadziła jednostka EAC (ang. European Astronaut Centre) w Kolonii w Niemczech. Wzięło w nim udział 8413 kandydatów. 20 maja 2009 sześciu nowych kandydatów na astronautów zostało przedstawionych na konferencji prasowej w siedzibie ESA w Paryżu. Kandydaci rozpoczęli swoje wstępne przeszkolenie 1 września 2009 roku. W tej selekcji wybrano następujących kandydatów [@How-to-Become-an-ESA-Astronaut]:
 
 | Astronauta             | Narodowość      | Rok naboru | Czas w kosmosie | Misje                                                                 |
 |:-----------------------|:----------------|:-----------|:----------------|:----------------------------------------------------------------------|
