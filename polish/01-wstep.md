@@ -8,7 +8,7 @@ language: polish
 - http://www.esa.int/Our_Activities/Human_Spaceflight/European_Astronaut_Selection/European_astronaut_charter
 -->
 
-Hisotria załogowych lotów kosmicznych sięga roku 1961 gdy 12 kwietnia rosyjski pilot Yuri Gagarin jako pierwszy przekroczył umowną granice kosmosu, tzw. linię Kármána. Od tego czasu podobnego wyczynu dokonało około 536 osób <!-- TODO: quote needed -->. W tym gronie znajduje się dwunastu amerykańskich astronatów, którzy postawili stopę na innym ciele niebieskim, tj. Księżycu. W ciągu czterdziestu lat od tego wydarzenia człowiek na stałe zaczął mieszkać na orbicie. Międzynarodowa stacja kosmiczna gości na swoim pokładzie trzech, a w szczytowym momencie sześciu astronautów i kosmonautów, którzy prowadzą badania naukowe w bardzo wielu dziedzinach techniczynch, inżynieryjnych, biologicznych i chemicznych. Średni czas przebywania członka załogi na stacji wynosi sześć miesięcy.
+Hisotria załogowych lotów kosmicznych sięga roku 1961 gdy 12 kwietnia rosyjski pilot Yuri Gagarin jako pierwszy przekroczył umowną granice kosmosu, tzw. linię Kármána. Od tego czasu podobnego wyczynu dokonało 553 osób [@Astronaut-Statistics]. W tym gronie znajduje się dwunastu amerykańskich astronatów, którzy postawili stopę na innym ciele niebieskim, tj. Księżycu. W ciągu czterdziestu lat od tego wydarzenia człowiek na stałe zaczął mieszkać na orbicie. Międzynarodowa stacja kosmiczna gości na swoim pokładzie sześciu astronautów i kosmonautów, którzy prowadzą badania naukowe w bardzo wielu dziedzinach techniczynch, inżynieryjnych, biologicznych i chemicznych. Średni czas przebywania członka załogi na stacji wynosi sześć miesięcy.
 
 W marcu 2016 Scott Kelly i Mikhail Korniyenko wrócili z 340 dniowego pobytu na stacji zapisując się w historii jako nieliczni ludzie z łącznym "nalotem" kosmicznym powyżej roku. Obecnie agencja kosmiczna NASA planuje lot człowieka na Marsa i misja Scotta Kelly była jednym z pierwszych etapów w tym programie. Głownym obszarem zainteresowania naukowców jest zadanie wpływu mikrograwitacji na ciało ludzkie, układ kostny i mięśniowy, przemieszczenie płynów ustrojowych wewnątrz ciała oraz zmiany zachodzące w psychice ludzkiej przy izolacji od czynników środowiskowych przebywając w niezmiennym towarzystwie. Scott Kelly ma brata bliźniaka, również astronautę, który pozostał na Ziemii i był poddawany identycznym badaniom. Amerykańska agencja kosmiczna będzie w stanie bardzo dokładnie zbadać wpływ powyższych czynników na ciało. Cykl adaptacji do grawitacji oraz badania po powrocie, którym poddani będą obaj bracia potrwają do końca roku 2016.
 
@@ -45,7 +45,6 @@ Każda agencja kosmiczna ma prawo nazwania ludzi, którzy lecą w kosmos wedle u
 | Nazwa w oryginale                | Nazwa w języku angielskim | Nazwa w języku polskim | Agencja         |
 |:---------------------------------|:--------------------------|:-----------------------|:----------------|
 | astronaut                        | astronaut                 | astronauta             | NASA, ESA, JAXA |
-| spationaut                       | spationaut                | spationauta            | ESA, CNES       |
 | космонавт                        | cosmonaut                 | kosmonauta             | Roscosmos       |
 | 趙裡昱 (trad.) / 赵里昱 (simpl.) | taikonaut                 | taikonauta             | CNSA            |
 

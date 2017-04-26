@@ -178,4 +178,12 @@ references:
   type: book
   publisher: Springer Praxis
   issued: 2003
+
+
+- id: Astronaut-Statistics
+  title: Astronaut/Cosmonaut Statistics
+  publisher: worldspaceflight.com
+  URL: https://www.worldspaceflight.com/bios/stats.php
+  type: article
+  issued: 2017
 ...
