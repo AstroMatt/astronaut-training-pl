@@ -40,6 +40,33 @@ Każda agencja kosmiczna ma prawo nazwania ludzi, którzy lecą w kosmos wedle u
 <!-- TODO: Problem z tabelkami w index-pl jest split po trzech myślnikach -->
 <!-- TODO: Definicja nazwy
 - As for other countries, the Chinese use (in their language) the phrase “space navigating personnel”. Outsiders, not being able to speak Chinese often use “taikonaut” which merges the Chinese word for outer space and the common suffix naut. Similarly, the term “vyomanaut” is often used for prospective Indian personnel.
+
+
+The Chinese word yuhangyuan - 宇航员 - yŭhángyuán
+(astronaut in Chinese)
+
+宇航员 (simpl.)
+宇航員 (trad.)
+
+Some fairly outlandish suggestions -- such as "Chinanaut" -- have failed to find many supporters, narrowing the field to two candidates, "Taikonaut" and "Yuhangyuan."
+
+"Taikonaut" is an odd mixture of languages, merging the Chinese word for space "taikong" with the Greek word for sailor, "naus."
+
+Chinese officials do not particularly like this newly-coined word, and state-run newspapers mostly stick to the more technical term "yuhangyuan," meaning "space navigator."
+
+However, "taikonaut" could eventually win out, because it is relatively easy for foreigners to pronounce, and because it alludes to terms for the profession coined by existing space powers.
+
+"Astronaut," the US term, means "star sailor," while cosmonaut, the Anglicized version of the Russian word "kosmonavt," means "sailor of the cosmos."
+
+Possibly for patriotic reasons, there have never been any efforts by the two former rivals to merge the idioms.
+
+Rather, each of the terms has spawned its own class of words in their respective languages. For instance, "astronautics" is called "kosmonavtika" in Russian.
+
+It could be that at the end of the day, no special word for Chinese space travelers will be needed.
+
+After all, Japanese traveling on the US space shuttle are still referred to as astronauts, just as East Germans who hitched a ride on Soviet spacecraft called themselves cosmonauts.
+
+
 -->
 
 | Nazwa w oryginale                | Nazwa w języku angielskim | Nazwa w języku polskim | Agencja         |
