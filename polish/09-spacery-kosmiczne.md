@@ -4,7 +4,37 @@ language: polish
 ---
 
 # Wyjścia astronautów w przestrzeń kosmiczną
-
+<!-- TODO: EVA
+⁃	narzędzia
+⁃	Jaki jest wpływ interfejsów narzędzi na konstrukcje
+⁃	Optymalizacja budowy stacji
+⁃	Czy lepiej inaczej zaprojektować, czy mieć kilka EVA więcej
+⁃	Stroje
+⁃	Procedury
+⁃	Szkolenia
+⁃	Planowanie
+⁃	Kontrola
+⁃	Optymalizacja
+⁃	Duże struktury ramię robotyczne, kable, człowiek
+⁃	Komunikacja
+⁃	Planning
+⁃	Organizacja
+⁃	Contingency EVA
+⁃	Każdy crewmember musi być przygotowany aby je przeprowadzić w dowolnym momencie
+⁃	Szybkie EVA do awaryjnej naprawy narzędzi i urządzeń
+⁃	Jak polecimy na Marsa to w czasie drogi też trzeb będzie coś naprawić na statku itp
+⁃	Jak naprawić zepsuty spacesuit w kosmosie?
+⁃	Wykorzystując tylko narzędzia na ISS
+⁃	Stroje były zaprojektowane by były składane w laboratorium przez techników a nie w środowisku 0g
+⁃	Przecieranie się rękawiczek
+⁃	Może doprowadzić do rozszczelnienia
+⁃	Stroje mają kompresor, który pompuje dużo powietrza jak zobaczy, że uchodzi
+⁃	Muszą uważać na główki śrubek, ostre poręcze i krawędzie, niezabezpieczone koncówki stalowych linek, poprzecierane uszczelki na metalowych elementach, zatyczki zabezpieczające śruby przed odkręceniem
+⁃	Mikrometeoryty porobiły w stacji przez 15 lat niewielkie wyłomki i ostre krawędzie
+⁃	Metalowe poręcze przez haki, których używają do przymocowywania porobiły niewielkie metalowe odpryski, które mogą przedziurawić rękawicę
+⁃	Mikrometeoryty
+- https://youtu.be/Z5Bz6L93Gwo
+-->
 Jednym z najtrudniejszych elementów pracy astronauty jest wyjście w przestrzeń kosmiczną na tzw. EVA (ang. Extravehicular Activity, pol. spacer kosmiczny). Do przeprowadzenia takiego wyjścia astronauci przygotowują się przez dwa lata przed misją przeprowadzając około 20 ćwiczeń w pełnym skafandrze pod wodą w basenach neutralnej pływalności. Każdy trening jest oceniany przez zespół wykwalifikowanych i certyfikowanych instruktorów.
 
 Ze względu na bardzo szeroki zakres obowiązków podczas spacerów kosmicznych astronauci specjalizują się w swojej dziedzinie i charakterze przeprowadzanej operacji. Każdy z nich także otrzymuje szkolenie umożliwiające mu zastąpienie dowolnego innego astronauty w jego obowiązkach gdyby zaszła taka potrzeba. Z tego względu szkolenie astronautów podzielone jest na dwa typy:
