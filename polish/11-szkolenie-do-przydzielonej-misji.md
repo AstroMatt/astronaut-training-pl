@@ -148,6 +148,10 @@ language: polish
 ### Educator Mission Specialist
 
 ## Tradycje przed wylotem
+<!-- TODO:
+- Astronauci wyposażają MAG w podpaski, aby im nie przeciekały podczas oczekiwania na start (szkolenie w Cottage House nr 3 w Gwiezdnym Miasteczku)
+- Astronauci za czasów Shuttle zabierali ze sobą torbę z ubraniami, w zależności od miejsca gdzie będą lądować np. Luźniejsze cichy na Californię itp
+-->
 
 ### Tradycje przed wylotem załóg statku Soyuz z kosmodromu w Bajkonurze
 
@@ -187,7 +191,6 @@ Bezpośrednio przed wylotem
 - każdy astronauta może wybrać trzy piosenki, które są odtwarzane podczas oczekiwania na start.
 
 ### Tradycje przed wylotem załóg promu kosmicznego Space Shuttle
-
 Amerykańskie tradycje przed wylotem są znaczenie skromniejsze niż ich odpowiedniki u Rosjan. Zwykle ograniczają się do:
 
 - grila na dzień przed wylotem,

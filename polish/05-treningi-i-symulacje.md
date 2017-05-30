@@ -76,17 +76,34 @@ language: polish
         - east temple peak
         - walking up to the peak holding hands z innymi
 - Tzw. survival training
-- kiedy takie sytuacje mogą wystąpić?
-- desert training
-- water training
-- jungle survival training
-- cook and eat snake
-- how to make a water in the desert
 -->
 
 ### Przetrwanie w warunkach zimowych
+<!-- TODO: Przetrwanie w warunkach zimowych
+- Jazda na nartach crosscountry, ciągnąć 75kg nosze z plecakiem w zimną zimę
+- Winter show shelter construction, techniques and procedures
+- Living outdoors in arctic Alaska
+- Proper way to defecate in snow and freezing temperature
+- Navigation in snow mountains, being aware of avalanches.
+- Practicing searching for bodies under snow avalanche (using beacon system); avalanche beacon; homing beacon and monitor
+- In part of the Survival, instructors disappear and crew need to survive
+- Russian survival training is easier. It last for 2.5day. They encourage you to have fire to have cold. Woods 8 miles outside of star city. Minus 26 degrees in night
+- Before 1 day of instructions and theories
+- Cosmonauts has to have training before they are flying, no matter how many times they had it before
+- Before going out, change to winter survival gear
+- Different suit for Water, ice cold water, survival
+- Construction of "lean to" shelter.
+- Wigwams need air circulation, otherwise you can inhale carbon monoxide
+- Two fires. Signal fire (fast, hot, top) and shelter fire next to the shelter, constantly maintained
+- Using navy army food rations (MRI)
+- Incapacitated astronaut while medevac (broken leg)
+-->
 
 ### Przetrwanie w warunkach pustynnych
+<!-- TODO: Przetrwanie w warunkach pustynnych
+- cook and eat snake
+- how to make a water in the desert
+-->
 
 ### Przetrwanie w warunkach dżungli
 
