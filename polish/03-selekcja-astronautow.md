@@ -26,7 +26,48 @@ language: polish
 - 60% astronautów jest super, reszta zdarza się że osiadają na laurach i przestają się uczyć kiedy mają już jakieś
 - Skontaktować się z MPUSC - Multi Purpose User Suppoer Center
 - Flight note system - późniejsze informacje dla zespołu (delta information) lub updated procedures, które zmieniają się od założeń
-- Poprosić Bernarda aby skontaktował mnie z Frankiem de Winne oraz Harve Stevenin
+
+- Ultimate question, do I want to go to space with this person
+- They are not looking for hyper focus person
+- They are looking for person who can do a little bit of everything
+- Why do you want to be an astronaut is that a passion or you think it would be fun?
+- Do you have an operational capability i.e. Can you fix things like computer or car
+- What is your applicability of experience
+- How well do you communicate
+- How well do you cope with others and how do you respond and adapt to change
+- Is this candidate will be a good representative of NASA
+- Is this candidate has personality that is to intense
+- Are you a team player, self starter
+- Who are you as a person, are you a hard worker, what is your humility and ego balance
+- Do you have good situational awareness and good judgement
+- Everything must be finished by the applications due date. Unfinished studies, pilot license or work experience does not count
+- Personal interviews are carried by actual astronauts and JSC managers. Selected must be accepted by JSC director and later by NASA administrator
+
+
+Show
+- you're trying to better yourself
+- You're learning new skills
+- You're aware of many skills required by new and old astronauts
+- You're not afraid to try anything
+
+Most of the applicants are doing or done the same thing. Do something that stands out.
+
+- Perform under the duress (stress?)
+- Analyzing situations in the instant and using appropriate reaction and execution
+
+Healthy ego
+- not cockiness
+- selection as astronaut does not guarantee mission assignment
+- If you cannot meet expectations in Russian language, robotics or EVA training you'll be disqualified
+
+- http://www.esa.int/Our_Activities/Human_Spaceflight/Astronauts/How_to_become_an_astronaut
+- http://www.esa.int/About_Us/ESTEC/See_spacecraft_and_meet_astronauts_at_ESA_s_technical_heart
+- http://www.nasa.gov/mission_pages/station/update/index.html
+- http://download.esa.int/esoc/shares/Polski_Sektor_Kosmiczny.pdf
+- http://www.isunet.edu/isu-live-webcast
+- http://blogs.esa.int/iriss/2015/07/23/first-soyuz-exam-passed/
+- https://www.facebook.com/saved/?cref=43&notif_t=heavy_save_reminder&notif_id=1459285020123049
+
 -->
 
 Przygotowanie astronautów i kosmonautów do długotrwałych misji kosmicznych zaczyna się od wyboru najlepszych kandydatów. Na chwilę obecną rekrutuje się osoby wśród najbardziej pożądanych specjalizacji tj.:

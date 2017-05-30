@@ -13,6 +13,10 @@ language: polish
 - Szkolenie T-38 (ostatnie szkolenie aby ukończyć astronaut training)
     - formation flying
 - high performing aircrafts requires physical fitness (adapt aerophysiologicly) pulling G’s, upside down (muscles and strong heart)
+
+- Elington AFB home of T-38
+- NASA Flight Opportunity Office (Zero-G flights scheduling)
+
 -->
 
 ## Statku kosmicznego Soyuz

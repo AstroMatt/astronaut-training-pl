@@ -61,7 +61,10 @@ Rozwiązywanie sytuacje awaryjnych na orbicie wymagaja wielu prób w symulatorac
 Obszerną cześć zadań astronauty na Ziemii stanowi praca jako tzw. CAPCOM (ang. Capsule Communicator). To stanowisko w ramach kontroli misji jest zarezerwowane dla jedynej osoby prowadzącej korespondencję z astronautami na orbicie. Instytucję CAPCOMa wprowadzono aby ograniczyć chaos komnikacyjny i ilość sprzecznych informacji, które docierają na orbitę. Tradycyjnie od czasów programu Mercury w strukturach kontroli misji tę rolę pełni jedynie astronauta, gdyż "tylko astronauta posiadający takie samo przeszkolenie i doświadczenie jest w stanie najlepiej komunikować w sytuacji kryzysowej".
 
 ## Popularyzacja nauki i obszaru S.T.E.M.
-Jednym z najważniejszych i zajmujących najwięcej czasu zadań astronautów podcas pobutu na Ziemii jest popularyzacja nauki w ramach obszaru S.T.E.M. (Science, Technology, Engineering, Mathematics - ang. Nauka, Technologia, Inżynieria, Matematyka). 
+<!-- FUNFACT: Popularyzacja nauki i obszaru S.T.E.M.
+- Latanie samolotem komunikacyjnym w Coach airfare
+-->
+Astronauci są rozpoznawanymi osobami publicznymi, które najsilniej reprezentują agencje kosmiczne i z tego powodu stają się ich ambasadorami. Jednym z najważniejszych i zajmujących najwięcej czasu zadań astronautów podcas pobutu na Ziemii jest popularyzacja nauki w ramach obszaru S.T.E.M. (Science, Technology, Engineering, Mathematics - ang. Nauka, Technologia, Inżynieria, Matematyka). Członkowie misji przemawiają publicznie na konferencjach, podczas pikników technologicznych oraz w szkołach zwiększając świadomość wykorzystywania rzeczy opracowanych dla przemysłu kosmicznego, które znalazły zastosowanie na codzień. Ponadto do ich zadań należy również uzasadnianie wysokich wydatków agencji kosmicznych na projekty badania i rozwoju.
 
 ## Czynności astronautów programu Mercury, Gemini, Apollo i Apollo Applications
 <!-- TODO: Czynności astronautów programu Mercury, Gemini, Apollo i Apollo Applications
@@ -77,4 +80,17 @@ Jednym z najważniejszych i zajmujących najwięcej czasu zadań astronautów po
     - astrophysics
     - flight physiology
     - orbital trajectories (orbital management)
+-->
+
+## Astronaut Close Family Escort
+
+## Coroczna ewaluacja kondycyjna
+<!-- Coroczna ewaluacja kondycyjna
+- 1.5 miles run
+- Stationary bike ride
+- Sit-ups
+- Pull ups (minimum of two)
+- Push-ups
+- Hand and grip test
+- Flexibility measurement to check whether you can touch your toes
 -->
