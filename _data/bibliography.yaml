@@ -186,4 +186,27 @@ references:
   URL: https://www.worldspaceflight.com/bios/stats.php
   type: article
   issued: 2017
+
+- id: Preparing-astronauts-for-exploring-celestial-bodies
+  title: Preparing astronauts for exploring celestial bodies
+  publisher: ESA
+  URL: http://www.esa.int/Our_Activities/Human_Spaceflight/Caves/Preparing_astronauts_for_exploring_celestial_bodies
+  type: article
+  issued: 2017
+
+- id: One-small-step-for-a-geologist
+  title: One small step for a geologist
+  publisher: ESA
+  URL: http://www.esa.int/Our_Activities/Human_Spaceflight/Caves/One_small_step_for_a_geologist
+  type: article
+  issued: 2017
+
+- id: Ordinary-Spaceman
+  title: The Ordinary Spaceman: From Boyhood Dreams to Astronaut
+  author:
+  - family: Anderson
+    given: Clayton C.
+  type: book
+  publisher: University of Nebraska Press
+  issued: 2015
 ...

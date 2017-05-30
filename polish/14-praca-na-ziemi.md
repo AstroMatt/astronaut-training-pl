@@ -5,6 +5,7 @@ language: polish
 
 
 # Praca astronautów na Ziemi
+Czas astronauty na Ziemi jest wykorzystywany zarówno na treningi i przygotowania oraz na popularyzację nauki i eksploracji kosmos.
 <!-- TODO: Praca astronautów na Ziemi
 - http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/ongoing-training.asp
 - The astronaut's responsibilities on Earth include:
@@ -34,33 +35,33 @@ http://www.esa.int/Our_Activities/Human_Spaceflight/Astronauts/European_astronau
 -->
 
 ## Testowanie sprzętu
+Ze względu na bardzo obszerne przeszkolenie i doświadczenie zdobyte na orbicie astronauci, którzy powrócili z misji a nie zostali przypisani do następnej zwykle zajmują się testowaniem sprzętu. Agencje kosmiczne dzięki ich sugestiom i ekspertyzie są w stanie jeszcze lepiej przygotowywać kolejne przedsięwzięcia. Wśród typowych zadań podczas należących do astronautów można wymienić:
+
+- testowanie nowych narzędzi wykoryzstywanych podczas spacerów kosminczych,
+- testowanie łazików i pojazdów do wykorzystania na innych plaetach,
+- prace przy tworzeniu i testowaniu nowych skafandrów kosmicznych zarówno do zastosowań IVA jak i EVA,
+- uczestnictwo przy opracowywaniu poprawek i ulepszeń do modułów międzynarowej stacji kosmicznej.
 
 ## Pomoc w przygotowaniu innych astronautów
+Starsi stażem astronauci pomagają tym mniej doświadczonym w przygotowaniach do misji. Pomagają im trenować spacery kosmiczne pod wodą oraz przygotowują ich teoretycznie do zadań na orbicie.
 
 ## Misje analogowe
-<!-- TODO: Misje analogowe
-- CAVES
-- NEEMO
-- Pangea
-- Sardynia (jaskinie) - misja CAVES
-- Lanzarote, Wyspy Kanaryjskie
-    - Geologia planetarna
-    - http://www.esa.int/Our_Activities/Human_Spaceflight/Caves/One_small_step_for_a_geologist
-- Bressanone, Italy
-    - project: Pangea
-    - http://www.esa.int/Our_Activities/Human_Spaceflight/Caves/Preparing_astronauts_for_exploring_celestial_bodies
-    - rock sampling
-    - traces of life
--->
+Misje analogowe (ang. analogs) starają się jaknajwierniej odzwierciedlić specyfikę problemu pracy na orbicie lub powierzchni obcej planety wykorzystując zasoby i tereny dostępne na Ziemi. Jednmi z najbardziej popularnych miejsc prowadzenia badań oraz szkoleń astronautów są pustynie skaliste lub zbocza wulkanów imitujące powierzchnię Marsa, wnętrza jaskiń oraz bazy podwodne [@One-small-step-for-a-geologist], [@Preparing-astronauts-for-exploring-celestial-bodies], [@Ordinary-Spaceman].
+
+Misja Europejskiej Agencji Kosmicznej CAVES służy astronautom oraz obsłudze w nauce eksploracji trudno dostępnych miejsc. Ponadto przyczynia się do zrozumienia konieczności pracy w grupie, zacieśnia relacje w zespole oraz uczy geologii i mikrobiologii. Członkowie wyprawy do jaskiń Srdynii eksplorują trójwymiarowe struktury korytarzy i odkrywają nowe gatunki mikroogranizmów zamieszkujące te miejsca [@Preparing-astronauts-for-exploring-celestial-bodies].
+
+Kolejnym przykładem misji analogowej Europejskiej Agencji Kosmicznej jest cykl wypraw "Pangaea", która składa się z dwóch części: jednej na wyspie Lanzarote w archipelagu wysp Kanaryjskich oraz drugiej w pobliżu Bressanone we włoszech. Pierwsze miejsce zostało wybrane ze względu na możliwość prowadzenia badań z zakresu geologii planetarnej na terenie przypominającym pustkowia Marsa [@One-small-step-for-a-geologist]. Miejsce we włoszech wybrano w celu prowadzenia analizy geologicznej i geomorfologicznej jak również poszukiwania śladów życia i pobranych próbkach [@Preparing-astronauts-for-exploring-celestial-bodies].
+
+Misje NEEMO w habitacie podwodnym Aquarius są projektem amerykańskiej agencji kosmicznej NASA. Poza obywatelami stanów zjednoczonych w mijsach także uczestniczą astronauci z Europy, Kanady, Japonii i Rosji. Program NEEMO ma za zadanie zapoznać astronautów z problemami pobytu w długotrwałej izolacji, specyfiką pracy w trudnych warunkach na dnie oceanu oraz czasowym przestrzeganiem procedur [@Ordinary-Spaceman].
 
 ## Praca w symulatorach w przypadku problemów na orbicie
+Rozwiązywanie sytuacje awaryjnych na orbicie wymagaja wielu prób w symulatorach. Podczas misji Apollo 13 członkowie załogi zapasowej (ang. backup crew) uczestniczyli w wielugodzinnych próbach optymalizacji wykorzystania systemów statku Command Module, Service Module i Lunar Module. W trakcie testowania systemów wykonywano próbę seleckcji i wyłączania urządzeń poza tymi, które były absolutnie niezbędne do prawidłowego funkcjonowania pojazdu. Dzięki sytmulacjom udało się ograniczyć zużycie energii elektrycznej i zostawić rezerwę aby system uwalniania spadochronów lądowania mógł zadziałać sprawnie sprowadzając astronautów bezpiecznie do oceanu na Ziemii.
 
 ## Praca jako Capsule Communicator (CAPCOM)
-<!-- TODO: Praca jako CAPCOM
-- Luca Parmitano dla Thomasa Pasqueta podczas EVA w styczniu 2017
-- https://en.wikipedia.org/wiki/Flight_controller#Capsule_Communicator_.28CAPCOM.29
--->
+Obszerną cześć zadań astronauty na Ziemii stanowi praca jako tzw. CAPCOM (ang. Capsule Communicator). To stanowisko w ramach kontroli misji jest zarezerwowane dla jedynej osoby prowadzącej korespondencję z astronautami na orbicie. Instytucję CAPCOMa wprowadzono aby ograniczyć chaos komnikacyjny i ilość sprzecznych informacji, które docierają na orbitę. Tradycyjnie od czasów programu Mercury w strukturach kontroli misji tę rolę pełni jedynie astronauta, gdyż "tylko astronauta posiadający takie samo przeszkolenie i doświadczenie jest w stanie najlepiej komunikować w sytuacji kryzysowej".
+
 ## Popularyzacja nauki i obszaru S.T.E.M.
+Jednym z najważniejszych i zajmujących najwięcej czasu zadań astronautów podcas pobutu na Ziemii jest popularyzacja nauki w ramach obszaru S.T.E.M. (Science, Technology, Engineering, Mathematics - ang. Nauka, Technologia, Inżynieria, Matematyka). 
 
 ## Czynności astronautów programu Mercury, Gemini, Apollo i Apollo Applications
 <!-- TODO: Czynności astronautów programu Mercury, Gemini, Apollo i Apollo Applications
