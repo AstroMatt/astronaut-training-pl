@@ -17,28 +17,25 @@ Astronaci są wysocewykwalifikowanymi i wytrenowanymi operatorami wykonującymi 
 - szkolenie przygotowujące do misji:
 
     - badania prowadzone podczas misji,
-    - treningi przetrwania w ekstremalnych warunkach na Ziemi,
+    - treningi przetrwania w ekstremalnych warunkach na Ziemi tj. pustynia, ocean, tundra,
     - przygotowanie operacyjne do przydzielonych zadań.
 
-Astronauci w trakcie szkolenia wstępnego są określani mianem ASSCAN (Astronaut Candidate - ang. Kandydat na astronautę). Szkolenie wstępne trwa około 2 lat, a jego czas uzależniony jest od agencji kosmicznej i rocznika selekcji grupy. Po ukończeniu szkolenia podstawowego astronauci zmieniają status na tzw. "waiting for mission assignment" (ang. oczekuje na przypisanie do misji) i moga posługiwać się tytułem Astronauta. Czas oczekiwania na przydział do misji w zależności od zapotrzebowania może trwać nawet do kilkunastu lat, a są również przypadki gdy przeszkolone osoby nigdy nie uzyskały przydziału.
+Astronauci w trakcie szkolenia wstępnego są określani mianem ASSCAN (Astronaut Candidate - ang. Kandydat na astronautę). Szkolenie wstępne trwa około 2 lat, a jego czas uzależniony jest od agencji kosmicznej i rocznika selekcji grupy. Poza wyżej wymienionymi  astronauci mają szereg szkoleń pomocniczych tzw. "ancillary training". Po ukończeniu szkolenia podstawowego astronauci zmieniają status na tzw. "waiting for mission assignment" (ang. oczekuje na przypisanie do misji) i moga posługiwać się tytułem Astronauta. Amerykańscy astronauci tradycyjnie dostają srebrną odzankę gwiazdy (ang. Astronaut Lapel Pin), którą mogą zamienić na złotą po odbyciu lotu w kosmos. Czas oczekiwania na przydział do misji w zależności od zapotrzebowania może trwać nawet do kilkunastu lat, a są również przypadki gdy przeszkolone osoby nigdy nie uzyskały przydziału.
 
-Podczas oczekiwania na przyposanie do misji astronauci wykonują szereg zadań, które szczegółowo opisano w rozdziale "Praca na Ziemi".
+![Fig. 4.1. - Astronaut Lapel Pin](/img/astronaut-lapel-pin.jpg)
+**Fig. 4.1. - Astronaut Lapel Pin**
+
+Podczas oczekiwania na przyposanie do misji astronauci wykonują szereg zadań wspierających obecie trwające misje oraz muszą utrzymywać gotowość operacyjną, umiejętności techniczne i sprawność fizyczną. Aby pozostać wśród kandydatów na przypisanie do misji ich umiejętności muszą pozostać na wysokim poziomie. Temat szczegółowo opisano w rozdziale "Praca na Ziemi".
+
+
 
 <!-- TODO: Przygotowanie teoretyczne
-While awaiting assignment to a space mission, astronauts must:
-    - support space activities in collaboration with ground crews
-    - maintain their skills while awaiting assignment to a mission
-- Atain the certain level in each of those
-- Do tego jest dużo szkoleń pomocniczych (ancillary training)
 - Jak zrobisz to wszystko dają Ci Astronaut Pin
+
 - Teraz już nie ma specjalizacji, każdy kto leci na space station musi robić wszystko
 - Jak skończysz jesteś "eligible to assign to space flight"
-- water survival
-- winter survival
-- nauka rosyjskiego
-- nauka systemów na ISS
-- nauka naprawiania poszczególnych elementów
-- nauka posługiwania się Canada Arm at CSA - Canadian Space Center
+
+
 - nauka lotu w nieważkości (Zero-G Flight) - Vomit Commet
 - NBL: trenowanie napraw ISS
 - http://www.crewpatches.com/crewpatches_betacloth.shtml

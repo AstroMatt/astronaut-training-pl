@@ -3,7 +3,7 @@ categories: chapter
 language: polish
 ---
 
-# Życie na Międzynarodowej Stacji Kosmicznej
+# Pryzgotowanie do wykorzystania systemów Międzynarodowej Stacji Kosmicznej
 <!-- TODO:
 - OBSPV - OnBoard Station Procedure Viewing Software
 - mieszkanie w mockupie ISS, spanie, praca, symulacje
@@ -30,8 +30,8 @@ They live on Greenwich time (GMT), the Coordinated Universal Time (UTC). It's a 
 ## Podnoszenie orbity stacji kosmicznej
 
 ## Urządzenia do utrzymania kondycji i sprawności fizycznej
-
-<!-- TODO: http://www.asc-csa.gc.ca/eng/astronauts/living-in-space/physical-activity-in-space.asp
+<!-- TODO: Urządzenia do utrzymania kondycji i sprawności fizycznej
+- http://www.asc-csa.gc.ca/eng/astronauts/living-in-space/physical-activity-in-space.asp
 -->
 
 ## Korzystanie z toalety
@@ -46,7 +46,6 @@ They live on Greenwich time (GMT), the Coordinated Universal Time (UTC). It's a 
 - różne sposoby mycia włosów
 - Strzyżenie włosów
 - Długie włosy mogą się zaczepić w rzepy lub śrubki
-
 -->
 
 ## Ubrania
@@ -119,7 +118,14 @@ They live on Greenwich time (GMT), the Coordinated Universal Time (UTC). It's a 
 - https://www.quora.com/Has-Mission-Control-ever-had-to-deliver-very-bad-news-to-an-astronaut-while-they-were-in-space
 -->
 
+
+![Fig. 6.1. - Wizualnie wyróżniona książka zawierająca procedury awaryjne ISS](/img/ISS-emergency-procedures-handbook-01.png)
+**Fig. 6.1. - Wizualnie wyróżniona książka zawierająca procedury awaryjne ISS**
+
 ### Pożar
+
+![Fig. 6.2. - Astronauci podczas szkolenia pożarowego na Międzynarodowej Stacji Kosmicznej](/img/iss-emergency-training.jpg)
+**Fig. 6.2. - Astronauci podczas szkolenia pożarowego na Międzynarodowej Stacji Kosmicznej**
 
 ### Problemy medyczne członków załogi
 

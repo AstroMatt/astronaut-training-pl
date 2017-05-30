@@ -51,6 +51,9 @@ language: polish
 
 ### Ćwiczenia kondycyjne i badania wydolności organizmu
 
+![Fig. 5.1. - Astronautka NASA Christina M. Hammock podczas ćwiczeń kondycyjnych i badań wydolności organizmu](/img/fitness-training.jpg)
+**Fig. 5.1. - Astronautka NASA Christina M. Hammock podczas ćwiczeń kondycyjnych i badań wydolności organizmu**
+
 ### Przygotowanie psychologiczne do pracy w odosobnieniu
 <!-- TODO:
 - Przygotowanie do samotności

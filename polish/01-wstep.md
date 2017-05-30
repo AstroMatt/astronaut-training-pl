@@ -6,7 +6,7 @@ language: polish
 # Wstęp
 <!-- TODO:
 - http://www.esa.int/Our_Activities/Human_Spaceflight/European_Astronaut_Selection/European_astronaut_charter
-- Strona 136 "[@Ciezar-Niewazkosci-opowiesc-pilota-kosmonauty]" dolny fragment to wstęp do pracy 
+- Strona 136 "[@Ciezar-Niewazkosci-opowiesc-pilota-kosmonauty]" dolny fragment to wstęp do pracy
 -->
 
 Historia załogowych lotów kosmicznych sięga roku 1961 gdy 12 kwietnia rosyjski pilot Yuri Gagarin jako pierwszy przekroczył umowną granice kosmosu, tzw. linię Kármána. Od tego czasu podobnego wyczynu dokonało 553 osób [@Astronaut-Statistics]. W tym gronie znajduje się dwunastu amerykańskich astronautów, którzy postawili stopę na innym ciele niebieskim, tj. Księżycu. W ciągu czterdziestu lat od tego wydarzenia człowiek na stałe zaczął mieszkać na orbicie. Międzynarodowa stacja kosmiczna gości na swoim pokładzie sześciu astronautów i kosmonautów, którzy prowadzą badania naukowe w bardzo wielu dziedzinach technicznych, inżynieryjnych, biologicznych i chemicznych. Średni czas przebywania członka załogi na stacji wynosi sześć miesięcy.
@@ -32,9 +32,13 @@ Obecnie agencje kosmiczne wielu państw coraz częściej wypowiadają się na te
 Jednym z najważniejszych ogniw całego programu pobytu człowieka poza Ziemią jest selekcja i przygotowanie załogi do trudnych warunków pozaziemskiej aktywności. Sam proces podstawowego przeszkolenia załogi trwa 2 lata i składa się z czterech głównych etapów:
 
 - nauka języka,
+- przeszkolenie robotyczne,
 - przeszkolenie z systemów międzynarodowej stacji kosmicznej,
 - nauka spacerów kosmicznych (ang. EVA - ExtraVehicular Activity),
 - nauka pilotażu samolotów odrzutowych.
+
+![Fig. 1.1. - Cykl kariery astronauty](/img/astronaut-career-lifecycle.png)
+**Fig. 1.1. - Cykl kariery astronauty**
 
 Każda agencja kosmiczna ma prawo nazwania ludzi, którzy lecą w kosmos wedle uznania. Tak przyjęły się trzy najbardziej rozpowszechnione nazwy. Poniższa tabela prezentuje konwencje przyjęte przez poszczególne agencje.
 
