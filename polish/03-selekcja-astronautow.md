@@ -314,6 +314,8 @@ Amerykańska agencja kosmiczna NASA organizuje rekrutację na kandydata na astro
 
 **Tabela 3.4. - Lista aktywnych astronautów NASA [@Active-NASA-Astronauts]**
 
+Klasy astronautów podobnie jak zespoły przydzielone do misji tworzą tzw. calss patch (ang. insygnia klasy) [@Ordinary-Spaceman].
+
 ### Roscosmos (Federacja Rosyjska)
 
 Do końca roku 2015 agencja kosmiczna Roscosmos podlegała strukturom wojskowym Federacji Rosyjskiej i wcześniej Związkowi Radzieckiemu. Z tego powodu kandydaci na kosmonautów byli wybierani wśród oficerów sił powietrznych. Wraz ze zmianami organizacyjnymi z 31 grudnia 2015 Roscosmos przekształcił się w cywilną agencję zarządzaną na wzór amerykańskiej NASA<!-- TODO: Quote Needed -->. Z tego powodu proces rekrutacji kosmonautów może ulec zmianie i w najbliższych latach wśród rosyjskich kosmonautów znajdzie się więcej cywili, naukowców i inżynierów.

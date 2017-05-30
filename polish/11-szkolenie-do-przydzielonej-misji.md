@@ -112,12 +112,24 @@ language: polish
 ### Commander
 <!-- TODO: Commander
 - Docking space shuttle to iss
+- Landing Space shuttle
+- Landing Lunar Lander
+- Role commandera po assignment:
+    - Kto będzie Lead spacewalker
+    - Kto będzie siedział na upperdeck
+    - Kto będzie głównym operatorem ramienia robotycznego a kto pomocniczym
+    - Kto będzie odpowiedzialny za cargo
+    - Kto będzie odpowiedzialny za Mission patch
 -->
 
 ### Pilot
 <!-- TODO: Pilot
 - Undocking space shuttle from iss
 -->
+
+### Lunar Module Pilot
+
+### Command Module Pilot
 
 ### Payload Specialist
 
