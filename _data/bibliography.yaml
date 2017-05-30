@@ -208,4 +208,36 @@ references:
   type: book
   publisher: University of Nebraska Press
   issued: 2015
+
+
+- id: Getting-Alan-Shepard-Ready-for-Space
+  title: 13 Little Things NASA Did to Get Alan Shepard Ready for Space
+  publisher: The Atlantic
+  author:
+  - family: Madrigal
+    given: Alexis C.
+  URL: https://www.theatlantic.com/technology/archive/2013/08/13-little-things-nasa-did-to-get-alan-shepard-ready-for-space/278500/
+  type: article
+  issued: 2013
+
+- id: Beta-Cloth-Patches
+  title: Beta Cloth Patches
+  publisher: crewpatches.com
+  author:
+  - family: Spain
+    given: Chris
+  URL: http://www.crewpatches.com/crewpatches_betacloth.shtml
+  type: article
+  issued: 2014
+
+- id: Victor-Glover-on-Safety
+  title: Astronaut Victor Glover Speaks About Safety & Health
+  publisher: NASA
+  author:
+  - family: Glover
+    given: Victor
+  URL: https://www.youtube.com/watch?v=fa5tYn4MU-I
+  issued: 2016
+
+
 ...

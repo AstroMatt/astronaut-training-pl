@@ -79,20 +79,14 @@ Każdy z systemów pobiera informacje i przekazuje je do centrum kontroli misji 
 Ze względu na niedoskonałość materiału każdy strój posiada tzw. przecieki, które są również monitorowane. W przypadku zbyt dużego tempa wycieku powietrza uruchamiane są systemy awaryjne a astronauta natychmiast musi przerwać pracę na zewnątrz i udać się do śluzy pojazdu. Więcej na temat procedur oraz systemów awaryjnych w osobnym podrozdziale.
 
 ### Wykorzystywanie specjalistycznych narzędzi do pracy
-<!-- TODO: narzędzia
-- wratched wrench
-- hex screwdriver
-- pistol grip tool
--->
 
 Prace w przestrzeni kosmicznej wymagają znajomości wysokospecjalistycznych narzędzi. Ich rolą jest nie tylko pomoc astronaucie w dokonaniu naprawy czy montażu sprzętu ale również zachowanie pozycji czy bezpiecznego poruszania się w obrębie stacji kosmicznej.
 
 Urządzenia wykorzystywane w pracy w przestrzeni kosmicznej możemy podzielić na:
 
-- śrubokręty,
-- klucze dynamometryczne,
-- wiertarki,
-- wkrętarki,
+- śrubokręty (ang. hex screwdriver),
+- klucze dynamometryczne (ang. ratchet wrench),
+- wiertarki i wkrętarki (ang. pistol grip tool),
 - urządzenia do spawania.
 
 Prowadzenie prac w środowisku mikrograwitacji przy wykorzystaniu urządzeń tj. śrubokręty, wiertarki i wkrętarki nie jest tak proste jak na Ziemi. Brak oporu i bardzo zmniejszone przyciąganie ziemskie powoduje wytworzenie niezbilansowanego momentu skręcającego działającego na astronautę a to w konsekwencji prowadzi do zmiany jego pozycji względem stacji. Astronauta używając klucza czy wkrętarki musi być przymocowany aby móc przyłożyć odpowiednią siłę.
@@ -125,6 +119,7 @@ Z uwagi na koszt, stopień skomplikowania i czasochłonność operacji w baseni
     - Generic Training, a później Flight Assignment, Repetition mode już bezpośrednio przed samym wylotem.
     - generic training - szkolenie generyczne z umiejętności, które się zawsze przydają
     - cross-training szkolą ludzi tak by każdy miał przynajmniej pojęcie jak to się robi
+    - trenowanie napraw ISS
 - Komunikacja
     - W basenie trenują również kontakt z CAPCOM
     - O wszystkim informują CAPCOM

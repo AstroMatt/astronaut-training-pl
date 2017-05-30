@@ -96,6 +96,7 @@ language: polish
 
 ## Specjalizacje astronautów
 <!-- TODO: Specjalizacje astronautów
+- Teraz już nie ma specjalizacji, każdy kto leci na space station musi robić wszystko
 - Odznaka skrzydeł na piersi:
     - żółta obwódka, niebieskie tło - Navy
     - niebieska obwódka, białe tło - Army or Air Force
@@ -130,9 +131,13 @@ language: polish
 
 ### Flight Surgeon
 
+### Crew Medical Officer
+
 ### Educator Mission Specialist
 
 ## Tradycje przed wylotem
+
+### Tradycje przed wylotem załóg statku Soyuz z kosmodromu w Bajkonurze
 
 W celu upamiętnienia wydarzeń historycznych astronauci przed wylotem w kosmos uczestniczą w wielu tradycjach. Każde z wydarzeń jest monitorowane przez media z całego świata. Poniżej przedstawiono listę czynności wykonywanych przez przyszłych uczestników lotów kosmicznych.
 
@@ -169,4 +174,31 @@ Bezpośrednio przed wylotem
 - sprawdzanie systemów,
 - każdy astronauta może wybrać trzy piosenki, które są odtwarzane podczas oczekiwania na start.
 
+### Tradycje przed wylotem załóg promu kosmicznego Space Shuttle
+
+Amerykańskie tradycje przed wylotem są znaczenie skromniejsze niż ich odpowiedniki u Rosjan. Zwykle ograniczają się do:
+
+- grila na dzień przed wylotem,
+- tradycyjnego wspólnego ostatniego posiłku załogi,
+- gry w pokera, w której astronauci grają do czasu przegrania dowódcy, co symbolizuje wykorzystanie całego "pecha" na czas trwania misji.
+
+Na ostani posiłek przed lotem wielu amerykańskich astronautów wzorem Alana Sheparda (pierwszego amerykanina w kosmosie) wybiera tradycyjnie stek z jajecznicą [@Getting-Alan-Shepard-Ready-for-Space] i sok pomarańczowy.
+
 ## Badania medyczne przed wylotem
+<!-- TODO:
+- Badania medyczne z książki ciężar nieważkości
+-->
+
+Bezpośrednio przed samym wylotem po odbyciu procesu kwarantanny badania medyczne załóg amerykańskiego promu kosmicznego były tyko formalnością [@Ordinary-Spaceman]. W przypadku startów z kosmodromu w Bajkonurze załoga przechodzi gruntowne testy przedstartowe oraz odbywa proces leżenia z głową w dół aby przyzwyczaić organizm astronauty do stanu nieważkości [@Ciezar-Niewazkosci-opowiesc-pilota-kosmonauty].
+
+## Tworzenie insygnii misji
+
+Zgodnie z tradycją zapoczątkowaną wraz z pierwszymi lotami załogowymi zespoły udające się w kosmos projektują swoje "mission patch" (ang. odznaki misji). Najczęstszym formatem loga misji jest okrąg, w którego obramowanie wkomponowane są nazwiska astronautów. Wyjątkiem od reguły umieszczania nazwisk jest misja Apollo 11, podczas której ze względu na międzynarodowy charakter pierwszego lądowania na księżycu zrezygnowno z tej tradycji (misja Apollo 11 miała być misją całej ludzkości ang. "for all mankind").
+
+Do stworzenia insygniów misji dowódca załogi wyznacza kilka osób, które współpracują z grafikiem i jest to jedna z pierwszych rzeczy jaką robią załogi po uzyskaniu przypisania do misji. Niektóre załogi korzystają z profesjonalnych firm, które zajmują się projektowaniem oraz wykonywaniem insygniów misji [@Ordinary-Spaceman], [@Beta-Cloth-Patches].
+
+![Fig. 11.1. - Insygnia misji Soyuz 30 w ramach programu Interkosmos. W misji wzięli udział gen. Hermaszewski oraz gen. Klimuk](/img/mission-patch-soyuz-30.png)
+**Fig. 11.1. - Insygnia misji Soyuz 30 w ramach programu Interkosmos. W misji wzięli udział gen. Hermaszewski oraz gen. Klimuk.**
+
+![Fig. 11.2. - Obraz przedstawia wybrane insygnia misji.](/img/mission-patch-multiple.jpg)
+**Fig. 11.2. - Obraz przedstawia wybrane insygnia misji.**
