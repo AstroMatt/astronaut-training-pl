@@ -80,23 +80,36 @@ Wyłączenie urządzeń elektrycznych ma na celu wyeliminowanie źródeł powsta
 Najbardziej drastycznym sposobem na wyeliminowanie pożaru jest rozszczelnienie statku kosmicznego (ang. depressuzization). Wraz z pozbawieniem atmosfery tlenu ogień zgaśnie. Jest to najbardziej niebezpieczny sposób gaszenia i to rozwiązanie pozostaje do użycia tylko w ostateczności. Przed procesem rozszczelnienia kapsuły astronauci muszą sprawdzić szczelność swoich skafandrów aby upewnić się czy sami nie będą narażeni na niebezpieczeństwo wystawienia na działanie próżni. Przy wykorzystaniu tego sposobu misja jest przerywana i kapsuła musi skierować się do awaryjnego wejścia w atmosferę w ciągu 125 minut. Czas ten odpowiada 1.5 okrążeniu Ziemi i powinien być wystarczający aby powrócić do jednego z wyznaczonych uprzednio miejsc awaryjnego lądowania. Podczas tego czasu temperatura ciała astronautów powoli zacznie wzrastać ze względu na tempo pompowania powietrza do skafandra - 22 litry na minutę. Tempo to jest wystarczające aby pozwolić astronautom bezpiecznie oddychać, ale nie pozwala na chłodzenie ciała. Z tego względu czas 125 minut jest krytyczny aby zapobiec śmierci astronautów ze względu na przegrzanie organizmu.
 
 ### System przerwania startu (Launch Escape System)
-<!-- TODO:
-- uruchomienie systemu LES na platformie i śmierć inżynierów - uzbrajanie LES w późniejszym etapie
-- przypadek użycia LES
-- system LES w programie Mercury
-- fotele katapultowe w programie Gemini
-- abort mode dla Space Shuttle i Bail-out
-- jak są szkoleni astronauci w tym
-- aktywowanie przez MCC
-- aktywowanie przez dowódcę załogi
--->
+
 Wszystkie załogowe statki kosmiczne są wyposażone w system ewakuacji podczas startu. Systemy te pozwalają na ucieczkę załogi gdy rakieta zachowuje się nieprawidłowo, lub gdy na płycie startowej doszło do eksplozji. Zasada działania systemu zwykle być bardzo prosta i polega na trzech przewodach elektrycznych. Jeżeli napięcie zaniknie na dwóch z nich - przewód jest przerwany - automatycznie aktywują się silniki rakietowe odciągające kapsułę z załogą z dala od wybuchającej rakiety. W system ten były wyposażone już rakiety z programu Mercury-Redstone i późniejsze.
 
-Na specjalną uwagę
+Na specjalną uwagę zasługuje fakt, iż w programie Gemini zdecydowano się na zmianę systemu awaryjnego opuszczania pojazdu przy starcie i zastąpiono go wyrzucanymi fotelami katapultowymi. W podobny system był wyposażony statek Wostok, którym Gagarin jako pierwszy okrążył Ziemię. W późniejszych lotach radzieckich Woschod <!-- TODO: Czy dobrze to napisałem? --> ze względu na brak miejsca w kabinie zrezygnowano z systemu awaryjnego.
 
+System ewakuacji załogi podczas startu może być aktywowany:
 
+- automatycznie (przerwanie minimum dwóch z trzech obwodów),
+- ręcznie przez kontrolerów lotu na polecenie kierownika lotu (ang. Flight Director),
+- ręcznie przez dowódcę załogi.
+
+Astronauci są szkoleni z wykorzystywania systemu lecz nie zdazył się przypadek gdy system ten zadziałał z tego powodu. Podczas misji Apollo 12 po starcie rakiety piorun trafił w strukturę pojazdu i dowódca Pete Conrad <!-- TODO: potwierdzić nazwisko --> był bliski aktywowania systemu. Piorun trafiał w rakietę dwukrotnie <!-- TODO: Potwierdzić ilość -->, ale w żadnym z tych wydarzeń system nie został aktywowany i misja przebiegła bez incydentów.
+
+System ten został użyty podczas misji Soyuz <!-- TODO: Wpisać numer --> i pozwolił załodze na bezpieczne oddalenie się od rakiety, która wybuchła na platformie startowej. Astronauci podczas tego wydarzenia byli poddani przeciążeniu chwilowemu równemu 14G <!-- TODO: Zweryfikować dane -->.
+
+Z systemem ewakuacji podczas startu związany jest również wypadek, w którym zginęli inżynierowie pracujący na platformie w kosmodromie Bajkonur w Kazachstanie. System będąc uzbrojonym błędnie zinterpretował dane na temat awarii i uruchomił silniki odrzutowe. Od tego momentu system uzbraja się bezpośrednio przed startem po opuszczeniu przez wszystkich platformy startowej i okolic rakiety <!-- TODO: Quote Needed -->.
+
+Przy misjach amerykańskiego promu Space Shuttle musiano zmodyfikować system. Prom kosminczy miał 8 procedur awaryjnego przerwania startu:
+
+- <!-- TODO: wypisać procedury z książki water egress z project PoSSUM -->.
+
+Podczas pierwszych testowych lotów prom był wyposażony w fotele katapultowe dla pierwszego i drugiego pilota. Z systemu tego zrezygnowano w późniejszych lotach ze względu na niewielkie prawdopodobieństwo przeżycia załogi. W zamian za to zastosowano system tzw. Mode VIII - Bail-out, w którym wyposażeni w spadochrony astronauci mieli zsunąć się z wyciągniętej z promu grubej rury chroniącej przed uderzeniem w usterzenie i skrzydła a następnie na spadochronach wylądować w oceanie i rozpocząć procedurę wodnego przetrwania (więcej w rozdziale dotyczącym survivalu wodnego i morskiego) <!-- TODO: Quote Needed -->.
 
 ### Awaryjne opuszczanie orbity
+
+Istnieje wiele powodów dla których statek kosmczny może być zmuszony do opuszczenia orbity. Przy opracowywaniu procedur wymienia się:
+
+- <!-- TODO: wypisać procedury z książki water egress z project PoSSUM -->.
+
+Najbardziej krytycznym
 
 ### Unikanie śmieci kosmicznych i kolizje na orbicie
 
