@@ -1,59 +1,27 @@
-Proces szkolenia astronautów do długotrwałych lotów i spacerów kosmicznych
-==========================================================================
-
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 4
     :numbered:
     :hidden:
-    :caption: Historia lotów kosmicznych
 
     docs/01-wstep.rst
     docs/02-rys-historyczny.rst
+    docs/03-selekcja-astronautow.rst
+    docs/04-przygotowanie-teoretyczne.rst
+    docs/05-treningi-i-symulacje.rst
+    docs/06-systemy-iss.rst
+    docs/07-systemy-robotyczne.rst
+    docs/08-skafandry-kosmiczne.rst
+    docs/09-spacery-kosmiczne.rst
+    docs/10-pilotaz.rst
+    docs/11-szkolenie-do-przydzielonej-misji.rst
+    docs/12-szkolenie-turystow-kosmicznych.rst
+    docs/13-powrot-na-ziemie.rst
+    docs/14-praca-na-ziemi.rst
+    docs/15-zakonczenie.rst
+    docs/16-astronaut-stats.rst
+    docs/17-european-astronauts-charter.rst
 
-.. toctree::
-    :maxdepth: 2
-    :numbered:
-    :hidden:
-    :caption: Selekcja Astronautów
 
-    docs/01-wstep.rst
+.. todo::
+    bibliography:: bibliografia.bib
 
-.. toctree::
-    :maxdepth: 2
-    :numbered:
-    :hidden:
-    :caption: Szkolenie Kandydackie
-
-    docs/01-wstep.rst
-
-.. toctree::
-    :maxdepth: 2
-    :numbered:
-    :hidden:
-    :caption: Selekcja do misji
-
-    docs/01-wstep.rst
-
-.. toctree::
-    :maxdepth: 2
-    :numbered:
-    :hidden:
-    :caption: Lot, Misja i Powrót
-
-    docs/01-wstep.rst
-
-.. toctree::
-    :maxdepth: 2
-    :numbered:
-    :hidden:
-    :caption: Praca na Ziemii
-
-    docs/01-wstep.rst
-
-.. toctree::
-    :maxdepth: 2
-    :numbered:
-    :hidden:
-    :caption: Zakończenie i załączniki
-
-    docs/01-wstep.rst

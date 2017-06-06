@@ -12,6 +12,7 @@ author = 'Matt Harasymczuk'
 
 extensions = [
     'sphinx.ext.todo',
+    #'sphinxcontrib.bibtex',
 ]
 
 language = 'pl'
@@ -23,7 +24,10 @@ source_suffix = ['.rst']
 version = '1.0'
 release = '1.0'
 
-html_theme = 'sphinx_rtd_theme'
+html_theme_path = ['_themes']
+#html_theme = 'sphinx_rtd_theme'
+html_theme = 'thesis'
 html_sidebars = {'sidebar': ['localtoc.html', 'sourcelink.html', 'searchbox.html']}
 html_show_sphinx = False
 htmlhelp_basename = 'Proces szkolenia astronautów do długotrwałych lotów i spacerów kosmicznych'
+
