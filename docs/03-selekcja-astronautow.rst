@@ -98,15 +98,15 @@ Kandydacji którzy biorą udział w rekrutacji muszą być zdolni do wytrzymywan
     - During their basic training, astronauts participate in training to prepare them for spacewalks and space missions. As this training often takes place underwater, scuba diving certification is necessary.
     - In addition, astronauts in training are required to fly jets. To do so, they must successfully complete a military aquatic survival course.
     - During the recruitment campaign evaluations, applicants will be required to take a swimming test and demonstrate the following abilities:
-    - Swim at least 250 metres in 10 minutes;
-    - Tread water for at least 10 minutes;
-    - Swim at least 15 metres underwater.
+        - Swim at least 250 metres in 10 minutes;
+        - Tread water for at least 10 minutes;
+        - Swim at least 15 metres underwater.
 
 Selekcja medyczna
 -----------------
 Zdrowie kandydata jest jednym z najważniejszych kryteriów doboru. Osoby rekrutowane muszą się wykazać niezwykłą adaptacją do warunków panujących w stanie nieważkości. Jest to podyktowane głównie ogromnym kosztem wyszkolenia astronautów i chęcią zmniejszenia możliwości zaistnienia problemów podczas misji ze względu na stan zdrowia pracującego operatora. Sprawność układu ruchu, krążenia oraz równowagi ma ogromne znaczenie dla późniejszej pracy kandydata.
 
-Ponadto jednym z kluczowych wskaźników jest także wzrost. Osoby niższe są bardziej predystynowane do wytrzymywania większych przeciążeń ze względu na niższą odległość pomiędzy sercem a mózgiem. Poza samą predyspozycją ze względów medycznych wzrost ma znaczenie ze względów konstrukcyjnych statków kosmicznych. Na chwilę obecną (maj 2016) jedynym sposobem dostarczania astronautów na Międzynarodową Stację Kosmiczną jest rosyjski statek Soyuz, który jest przewidziany dla osób ze wzrostem z zakresu 150 do 190 cm :cite:`ISS-Spacecraft-Soyuz-TM] (wersje TM przed czerwcem 1999 miały ograniczenie od 164 do 182 cm). Z tego samego powodu do amerykańskiego korpusu astronautów przyjmowani są kandydaci o wzroście pomiędzy 62 i 75 cali :cite:`NASA-Astronaut-Requirements` co odpowiada 157,5 i 190,5 cm. Wymaganiem Europejskiej Agencji Kosmicznej w tej dziedzinie jest wzrost pomiędzy 153 a 190 cm [@ESA-Astronaut-Training-Requirements`.
+Ponadto jednym z kluczowych wskaźników jest także wzrost. Osoby niższe są bardziej predystynowane do wytrzymywania większych przeciążeń ze względu na niższą odległość pomiędzy sercem a mózgiem. Poza samą predyspozycją ze względów medycznych wzrost ma znaczenie ze względów konstrukcyjnych statków kosmicznych. Na chwilę obecną (maj 2016) jedynym sposobem dostarczania astronautów na Międzynarodową Stację Kosmiczną jest rosyjski statek Soyuz, który jest przewidziany dla osób ze wzrostem z zakresu 150 do 190 cm :cite:`ISS-Spacecraft-Soyuz-TM` (wersje TM przed czerwcem 1999 miały ograniczenie od 164 do 182 cm). Z tego samego powodu do amerykańskiego korpusu astronautów przyjmowani są kandydaci o wzroście pomiędzy 62 i 75 cali :cite:`NASA-Astronaut-Requirements` co odpowiada 157,5 i 190,5 cm. Wymaganiem Europejskiej Agencji Kosmicznej w tej dziedzinie jest wzrost pomiędzy 153 a 190 cm :cite:`ESA-Astronaut-Training-Requirements`.
 
 ==================================== ============ =========
 Parametr                             Zakres       Jednostka
@@ -122,7 +122,7 @@ Szerokość ud                         do 41        cm
 Obwód klatki piersiowej              brak wymagań cm
 ==================================== ============ =========
 
-**Tabela 3.1. - wybrane parametry członków załogi statku kosmicznego Soyuz TM (zmodyfikowany po czerwcu 1999):cite:`Soyuz-A-Universal-Spacecraft`**
+**Tabela 3.1. - wybrane parametry członków załogi statku kosmicznego Soyuz TM (zmodyfikowany po czerwcu 1999) :cite:`Soyuz-A-Universal-Spacecraft`**
 
 ======================== ============================================= ========================
 Parametr                  NASA                                         Roscosmos ESA
@@ -137,7 +137,7 @@ Wzrok (widzenie bliskie) 20/20 w każdym oku (dopuszczalna korekcja)
 Wzrok (widzenie dalekie) 20/200 w każdym oku (dopuszczalna korekcja)
 ======================== ============================================= ========================
 
-**Tabela 3.2. - parametry medycznye kandydatów na astronautów :cite:`NASA-Astronaut-Requirements][@ESA-Astronaut-Training-Requirements`**
+**Tabela 3.2. - parametry medycznye kandydatów na astronautów :cite:`NASA-Astronaut-Requirements`,:cite:`ESA-Astronaut-Training-Requirements`**
 
 Powyższe parametry są weryfikowane podczas badań medycznych w procesie selekcji astronautów wykorzystując :cite:`ESA-Astronaut-Training-Requirements`:
 
@@ -218,7 +218,7 @@ Rok  Grupa Nazwa
 2013 21    "The 8-Balls"
 ==== ===== ================================================================================================
 
-**Tabela 3.3. - Dotychczasowe selekcje astronautów NASA :cite:`Active-NASA-Astronauts][@Inactive-NASA-Astronauts`**
+**Tabela 3.3. - Dotychczasowe selekcje astronautów NASA :cite:`Active-NASA-Astronauts`, :cite:`Inactive-NASA-Astronauts`**
 
 ======================= ========== =====
 Astronauta              Rok naboru Grupa
@@ -276,11 +276,11 @@ Wiseman, G. Reid        2009       20
 
 Roscosmos (Federacja Rosyjska)
 ------------------------------
-Do końca roku 2015 agencja kosmiczna Roscosmos podlegała strukturom wojskowym Federacji Rosyjskiej i wcześniej Związkowi Radzieckiemu. Z tego powodu kandydaci na kosmonautów byli wybierani wśród oficerów sił powietrznych. Wraz ze zmianami organizacyjnymi z 31 grudnia 2015 Roscosmos przekształcił się w cywilną agencję zarządzaną na wzór amerykańskiej NASA:cite:`Quote-Needed`. Z tego powodu proces rekrutacj kosmonautów może ulec zmianie i w najbliższych latach wśród rosyjskich kosmonautów znajdzie się więcej cywili, naukowców i inżynierów.
+Do końca roku 2015 agencja kosmiczna Roscosmos podlegała strukturom wojskowym Federacji Rosyjskiej i wcześniej Związkowi Radzieckiemu. Z tego powodu kandydaci na kosmonautów byli wybierani wśród oficerów sił powietrznych. Wraz ze zmianami organizacyjnymi z 31 grudnia 2015 Roscosmos przekształcił się w cywilną agencję zarządzaną na wzór amerykańskiej NASA :cite:`Quote-Needed`. Z tego powodu proces rekrutacj kosmonautów może ulec zmianie i w najbliższych latach wśród rosyjskich kosmonautów znajdzie się więcej cywili, naukowców i inżynierów.
 
 ESA - Europejska Agencja Kosmiczna
 ----------------------------------
-Jednym z warunków bycia astronautą ESA jest aby państwo narodowości kandydata było oficjalnym członkiem tej agencji. Ostatni proces rekrutacji Europejskiej Agencji Kosmicznej odbył się w maju 2008 oraz maju 2009 roku. Przedsięwzięcie prowadziła jednostka EAC (ang. European Astronaut Centre) w Kolonii w Niemczech. Wzięło w nim udział 8413 kandydatów . 20 maja 2009 sześciu nowych kandydatów na astronautów zostało przedstawionych na konferencji prasowej w siedzibie ESA w Paryżu. Kandydaci rozpoczęli swoje wstępne przeszkolenie 1 września 2009 roku. W tej selekcji wybrano następujących kandydatów :cite:`How-to-Become-an-ESA-Astronaut`:
+Jednym z warunków bycia astronautą ESA jest aby państwo narodowości kandydata było oficjalnym członkiem tej agencji. Ostatni proces rekrutacji Europejskiej Agencji Kosmicznej odbył się w maju 2008 oraz maju 2009 roku. Przedsięwzięcie prowadziła jednostka EAC (ang. European Astronaut Centre) w Kolonii w Niemczech. Wzięło w nim udział 8413 kandydatów. 20 maja 2009 sześciu nowych kandydatów na astronautów zostało przedstawionych na konferencji prasowej w siedzibie ESA w Paryżu. Kandydaci rozpoczęli swoje wstępne przeszkolenie 1 września 2009 roku. W tej selekcji wybrano następujących kandydatów :cite:`How-to-Become-an-ESA-Astronaut`:
 
 ====================== =============== ========== =============== =====================================================================
 Astronauta             Narodowość      Rok naboru Czas w kosmosie Misje

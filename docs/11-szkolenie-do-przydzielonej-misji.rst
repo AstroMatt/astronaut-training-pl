@@ -227,7 +227,7 @@ Badania medyczne przed wylotem
     - Badania medyczne z książki ciężar nieważkości
 
 
-Bezpośrednio przed samym wylotem po odbyciu procesu kwarantanny badania medyczne załóg amerykańskiego promu kosmicznego były tyko formalnością :cite:`Ordinary-Spaceman]. W przypadku startów z kosmodromu w Bajkonurze załoga przechodzi gruntowne testy przedstartowe oraz odbywa proces leżenia z głową w dół aby przyzwyczaić organizm astronauty do stanu nieważkości [@Ciezar-Niewazkosci-opowiesc-pilota-kosmonauty`.
+Bezpośrednio przed samym wylotem po odbyciu procesu kwarantanny badania medyczne załóg amerykańskiego promu kosmicznego były tyko formalnością :cite:`Ordinary-Spaceman`. W przypadku startów z kosmodromu w Bajkonurze załoga przechodzi gruntowne testy przedstartowe oraz odbywa proces leżenia z głową w dół aby przyzwyczaić organizm astronauty do stanu nieważkości :cite:`Ciezar-Niewazkosci-opowiesc-pilota-kosmonauty`.
 
 Tworzenie insygnii misji
 ========================
