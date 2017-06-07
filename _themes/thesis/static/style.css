@@ -194,8 +194,22 @@ a.headerlink {
     a.headerlink {
         display: none;
     }
+
+	.admonition-todo ul {
+		display: none;
+	}
 }
 
 .problematic {
+	color: red;
+}
+
+.admonition-todo p {
 	display: none;
 }
+
+.admonition-todo a,
+.admonition-todo ul {
+	color: #ccc !important;
+}
+

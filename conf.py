@@ -15,6 +15,9 @@ extensions = [
     'sphinxcontrib.bibtex',
 ]
 
+todo_emit_warnings = False
+todo_include_todos = True
+
 language = 'pl'
 copyright = '2012-{date:%Y}, Matt Harasymczuk <matt@astromatt.space>'.format(date=datetime.date.today())
 master_doc = 'index'
@@ -25,7 +28,6 @@ version = '1.0'
 release = '1.0'
 
 html_theme_path = ['_themes']
-#html_theme = 'sphinx_rtd_theme'
 html_theme = 'thesis'
 html_sidebars = {'sidebar': ['localtoc.html', 'sourcelink.html', 'searchbox.html']}
 html_show_sphinx = False

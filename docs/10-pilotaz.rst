@@ -28,26 +28,26 @@ Na chwilę obecną jednym z najważniejszych aspektów szkolenia astronautów pr
 
 Sytuacje normalne:
 
-  - przygotowanie do startu,
-  - start,
-  - zwiększanie orbity,
-  - podejście do ISS,
-  - manewr dokowania,
-  - manewr odejścia od ISS,
-  - obniżanie orbity,
-  - wejście w atmosferę,
-  - lądowanie,
+- przygotowanie do startu,
+- start,
+- zwiększanie orbity,
+- podejście do ISS,
+- manewr dokowania,
+- manewr odejścia od ISS,
+- obniżanie orbity,
+- wejście w atmosferę,
+- lądowanie,
 
 Sytuacje awaryjne:
 
-  - rozszczelnienie,
-  - pożar,
-  - przerwanie startu,
-  - problemy na orbicie,
-  - przejście na manualne sterowanie,
-  - kolizja,
-  - wejście wykorzustując profil balistyczny,
-  - problemy przy lądowaniu.
+- rozszczelnienie,
+- pożar,
+- przerwanie startu,
+- problemy na orbicie,
+- przejście na manualne sterowanie,
+- kolizja,
+- wejście wykorzustując profil balistyczny,
+- problemy przy lądowaniu.
 
 Podejście do ISS i manewr dokowania
 -----------------------------------
