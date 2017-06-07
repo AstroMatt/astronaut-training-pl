@@ -22,6 +22,9 @@
     docs/17-european-astronauts-charter.rst
 
 
-.. todo::
-    bibliography:: bibliografia.bib
+Bibliografia
+============
+
+.. bibliography:: bibliografia.bib
+    :style: plain
 

@@ -12,7 +12,7 @@ author = 'Matt Harasymczuk'
 
 extensions = [
     'sphinx.ext.todo',
-    #'sphinxcontrib.bibtex',
+    'sphinxcontrib.bibtex',
 ]
 
 language = 'pl'

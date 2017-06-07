@@ -1,0 +1,243 @@
+---
+references:
+
+- id: Goddard-American-Rocketry-Pioneer
+  title: Dr. Robert H. Goddard, American Rocketry Pioneer
+  publisher: NASA
+  URL: http://www.nasa.gov/centers/goddard/about/history/dr_goddard.html
+  type: article
+  issued: 2016
+
+- id: Korolev-How-One-Man-Masterminded-the-Soviet-Drive-to-Beat-America-to-the-Moon
+  title: Korolev - How One Man Masterminded the Soviet Drive to Beat America to the Moon
+  author:
+  - family: Harford
+    given: J. J.
+  URL: http://history.nasa.gov/sputnik/harford.html
+  type: article
+  issued: 1997
+
+- id: Moon-Speach-Rice-Stadium
+  title: Moon Speech - Rice Stadium
+  author:
+  - family: Kennedy
+    given: J. F.
+  URL: http://er.jsc.nasa.gov/seh/ricetalk.htm
+  issued: 1962
+
+- id: Human-Origins-Genetic-Evidence
+  title: Human Origins Genetic Evidence
+  publisher: Smithsonian Institution
+  URL: http://humanorigins.si.edu/evidence/genetics
+  type: article
+  issued: 2016
+
+- id: Why-Yuri-Gagarin-Remains-the-First-Man-in-Space
+  title: Why Yuri Gagarin Remains the First Man in Space, Even Though He Did Not Land Inside His Spacecraft
+  publisher: Smithsonian National Air and Space Museum
+  URL: http://blog.nasm.si.edu/space/why-yuri-gagarin-remains-the-first-man-in-space-even-though-he-did-not-land-inside-his-spacecraft/
+  type: article
+  issued: 2010
+
+- id: History-of-Project-Mercury
+  title: NASA History Series. This New Ocean - A History of Project Mercury
+  author:
+  - family: Swenson
+    given: Jr.
+  - family: Loyd
+    given: S.
+  - family: Grimwood
+    given: James M.
+  - family: Alexander
+    given: Charles C.
+  publisher: NASA
+  URL: http://history.nasa.gov/SP-4201/toc.htm
+  type: book
+  issued: 2008
+
+- id: How-to-Become-an-ESA-Astronaut
+  title: How to Become an ESA Astronaut
+  publisher: ESA
+  URL: http://www.esa.int/Our_Activities/Human_Spaceflight/Astronauts/How_to_become_an_astronaut
+  type: article
+  issued: 2012
+
+- id: NASA-Astronaut-Candidate-Program
+  title: NASA Astronaut Candidate Program
+  publisher: NASA
+  URL: http://astronauts.nasa.gov/content/broch00.htm
+  type: article
+  issued: 2015
+
+- id: NASA-Astronaut-Selection-Proces
+  title: NASA Astronaut Selection Proces
+  publisher: NASA
+  URL: http://astronauts.nasa.gov/default.htm
+  type: article
+  issued: 2015
+
+- id: NASA-Astronaut-Selection
+  title: NASA Astronaut Selection
+  publisher: NASA
+  URL: http://nasa.gov/astronauts
+  type: article
+  issued: 2015
+
+- id: Fire-in-the-Soyuz
+  title: Fire in the Soyuz!
+  author:
+  - family: Mogensen
+    given: Andreas
+  publisher: ESA
+  URL: https://www.youtube.com/watch?v=oE5Z3Uxbezc
+  issued: 2015
+
+- id: Active-NASA-Astronauts
+  title: Active NASA Astronauts
+  publisher: NASA
+  URL: http://www.jsc.nasa.gov/Bios/astrobio.html
+  type: article
+  issued: 2015
+
+- id: Inactive-NASA-Astronauts
+  title: Inactive NASA Astronauts
+  publisher: NASA
+  URL: http://www.jsc.nasa.gov/Bios/astrobio_former.html
+  type: article
+  issued: 2016
+
+- id: International-Astronauts
+  title: International Astronauts
+  publisher: NASA
+  URL: http://www.jsc.nasa.gov/Bios/astrobio_international.html
+  type: article
+  issued: 2015
+
+- id: European-Astronaut-Corps
+  title: European Astronaut Corps
+  publisher: ESA
+  URL: http://www.esa.int/Our_Activities/Human_Spaceflight/Astronauts/The_European_astronaut_corps
+  type: article
+  issued: 2012
+
+- id: NASA-Astronaut-Requirements
+  title: NASA Astronaut Requirements
+  publisher: NASA
+  URL: http://www.nasa.gov/audience/forstudents/postsecondary/features/F_Astronaut_Requirements.html
+  type: article
+  issued: 2004
+
+- id: Cosmonauts-Biographical-Data
+  title: Cosmonauts Biographical Data
+  publisher: NASA
+  URL: http://www.jsc.nasa.gov/Bios/cosmo.html
+  type: article
+  issued: 2015
+
+- id: An-Astronauts-Guide-to-Life-on-Earth
+  title: An Astronaut's Guide to Life on Earth
+  author:
+  - family: Hadfield
+    given: Chris
+  publisher: Macmillan
+  type: book
+  isbn: 978-1-4472-5710-3
+  issued: 2013
+
+- id: Ciezar-Niewazkosci-opowiesc-pilota-kosmonauty
+  title: Ciężar Nieważkości - opowieść pilota-kosmonauty
+  author:
+  - family: Hermaszewski
+    given: Mirosław
+  publisher: Universitas, Kraków
+  type: book
+  isbn: 97883-242-2296-4
+  issued: 2013
+
+- id: ESA-Astronaut-Training-Requirements
+  title: ESA Astronaut Training Requirements
+  publisher: ESA
+  URL: http://www.esa.int/Our_Activities/Human_Spaceflight/Astronauts/Astronaut_training_requirements
+  type: article
+  issued: 2016
+
+- id: ISS-Spacecraft-Soyuz-TM
+  title: ISS Spacecraft - Soyuz TM
+  publisher: Spaceref.com
+  URL: http://www.spaceref.com/iss/spacecraft/soyuz.tm.html
+  type: article
+  issued: 2016
+
+- id: Soyuz-A-Universal-Spacecraft
+  title: Soyuz - A Universal Spacecraft
+  author:
+  - family: Hall
+    given: Rex D.
+  - family: Shayler
+    given: David J.
+  type: book
+  publisher: Springer Praxis
+  issued: 2003
+
+- id: Astronaut-Statistics
+  title: Astronaut/Cosmonaut Statistics
+  publisher: worldspaceflight.com
+  URL: https://www.worldspaceflight.com/bios/stats.php
+  type: article
+  issued: 2017
+
+- id: Preparing-astronauts-for-exploring-celestial-bodies
+  title: Preparing astronauts for exploring celestial bodies
+  publisher: ESA
+  URL: http://www.esa.int/Our_Activities/Human_Spaceflight/Caves/Preparing_astronauts_for_exploring_celestial_bodies
+  type: article
+  issued: 2017
+
+- id: One-small-step-for-a-geologist
+  title: One small step for a geologist
+  publisher: ESA
+  URL: http://www.esa.int/Our_Activities/Human_Spaceflight/Caves/One_small_step_for_a_geologist
+  type: article
+  issued: 2017
+
+- id: Ordinary-Spaceman
+  title: The Ordinary Spaceman - From Boyhood Dreams to Astronaut
+  author:
+  - family: Anderson
+    given: Clayton C.
+  type: book
+  publisher: University of Nebraska Press
+  issued: 2015
+
+
+- id: Getting-Alan-Shepard-Ready-for-Space
+  title: 13 Little Things NASA Did to Get Alan Shepard Ready for Space
+  publisher: The Atlantic
+  author:
+  - family: Madrigal
+    given: Alexis C.
+  URL: https://www.theatlantic.com/technology/archive/2013/08/13-little-things-nasa-did-to-get-alan-shepard-ready-for-space/278500/
+  type: article
+  issued: 2013
+
+- id: Beta-Cloth-Patches
+  title: Beta Cloth Patches
+  publisher: crewpatches.com
+  author:
+  - family: Spain
+    given: Chris
+  URL: http://www.crewpatches.com/crewpatches_betacloth.shtml
+  type: article
+  issued: 2014
+
+- id: Victor-Glover-on-Safety
+  title: Astronaut Victor Glover Speaks About Safety & Health
+  publisher: NASA
+  author:
+  - family: Glover
+    given: Victor
+  URL: https://www.youtube.com/watch?v=fa5tYn4MU-I
+  issued: 2016
+
+
+...

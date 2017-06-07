@@ -186,12 +186,16 @@ hr, hr + p {
     display: none;
 }
 
-.section a[href^="#"] {
-    color: #fff;
+a.headerlink {
+    color: #fff !important;
 }
 
 @print {
-    .section a[href^="#"] {
+    a.headerlink {
         display: none;
     }
+}
+
+.problematic {
+	display: none;
 }

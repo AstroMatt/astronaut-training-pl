@@ -20,38 +20,38 @@ Europejscy astronauci uzyskują licencję pilota prywatnego PPL(A) na lotnisku w
 
 Trening pilotażu innych statków powietrznych
 ============================================
-Za czasów programu Apollo astronauci byli szkoleni również z pilotażu śmigłowców oraz LLRV <!-- TODO: czy tak to się nazywało? --> (ang. Lunar Landing Rocket Vechicle) czyli pojazdu pionowego startu i lądowania wyglądem przypominającego pająka z silnikiem odrzutowym umiejsciowionym w spodniej części. Zarówno szkolenie śmigłowcowe jak i LLRV <!-- TODO: czy tak to się nazywało? --> przygotowywały astronautów do umiejętności startu, zawisu i lądowania.
+Za czasów programu Apollo astronauci byli szkoleni również z pilotażu śmigłowców oraz LLRV (ang. Lunar Landing Research Vechicle) czyli pojazdu pionowego startu i lądowania wyglądem przypominającego pająka z silnikiem odrzutowym umiejsciowionym w spodniej części. Zarówno szkolenie śmigłowcowe jak i LLRV przygotowywały astronautów do umiejętności startu, zawisu i lądowania.
 
 Pilotaż oraz wykorzystanie systemów statku kosmicznego Soyuz
 ============================================================
 Na chwilę obecną jednym z najważniejszych aspektów szkolenia astronautów przed lotem kosmicznym jest szkolenie z wykorzystywania systemów rosyjskiego statku kosmicznego Soyuz. Operacje wykonywane przez ten statek są w pełni zautomatyzowane, ale w sytuacjach awaryjnych istnieje możliwość przejścia na tzw. ręczny tryb i samodzielne przejęcie kontroli nad kapsułą. Z tego też powodu zarówno astronautów jak i kosmonautów poddaje się szkoleniu, które trwa około 790h i obejmuje aspekty:
 
-- sytuacje normalne:
+Sytuacje normalne:
 
-    - przygotowanie do startu,
-    - start,
-    - zwiększanie orbity,
-    - podejście do ISS,
-    - manewr dokowania,
-    - manewr odejścia od ISS,
-    - obniżanie orbity,
-    - wejście w atmosferę,
-    - lądowanie,
+  - przygotowanie do startu,
+  - start,
+  - zwiększanie orbity,
+  - podejście do ISS,
+  - manewr dokowania,
+  - manewr odejścia od ISS,
+  - obniżanie orbity,
+  - wejście w atmosferę,
+  - lądowanie,
 
-- sytuacje awaryjne:
+Sytuacje awaryjne:
 
-    - rozszczelnienie,
-    - pożar,
-    - przerwanie startu,
-    - problemy na orbicie,
-    - przejście na manualne sterowanie,
-    - kolizja,
-    - wejście wykorzustując profil balistyczny,
-    - problemy przy lądowaniu.
+  - rozszczelnienie,
+  - pożar,
+  - przerwanie startu,
+  - problemy na orbicie,
+  - przejście na manualne sterowanie,
+  - kolizja,
+  - wejście wykorzustując profil balistyczny,
+  - problemy przy lądowaniu.
 
 Podejście do ISS i manewr dokowania
 -----------------------------------
-Statek Soyuz wyposażony jest w system *KURS*, który pozwala na automatyczne naprowadzenie oraz dokownie kapsuły do Międzynarowej Stacji Kosmicznej. System ten był opracowany dla kapsuł dokujących do stacji Salyut <!-- TODO: Quote needed --> oraz dla stacji MIR. Obecnie system jest wypierany przez nowszy i dokładniejszy system, którego podzespoły w kapsule są znaczenie lżejsze.
+Statek Soyuz wyposażony jest w system *KURS*, który pozwala na automatyczne naprowadzenie oraz dokownie kapsuły do Międzynarowej Stacji Kosmicznej. System ten był opracowany dla kapsuł dokujących do stacji Salyut :cite:`Quote-Needed` oraz dla stacji MIR. Obecnie system jest wypierany przez nowszy i dokładniejszy system, którego podzespoły w kapsule są znaczenie lżejsze.
 
 Wejście w atmosferę
 -------------------
@@ -59,7 +59,7 @@ Ze względu na przesunięty środek ciężkości kapsuły Soyuz istnieje możliw
 
 Lądowanie
 ---------
-Kapsuła Souyz używa tzw. *systemu miękkiego lądowania*. System ten składa się z niewielkich silniczków rakietowych z wektorem ciągu przeciwnie skierowanym do lotu kapsuły. System ten jest aktywowany na dwa metry [TODO: Quote needed] przed uderzeniem w ziemię pozwalając na zminimalizowanie w znacznym stopniu siły uderzenia o grunt. Jego użycie powoduje charakterystyczny płomień oraz dym przy uderzaniu w ziemię co mylnie kojarzone jest z sytuacją niebezpieczną. Aktywacja tego systemu oraz *miękkie lądowanie* zostało uwiecznione na taśmach video [TODO: Quote needed].
+Kapsuła Souyz używa tzw. *systemu miękkiego lądowania*. System ten składa się z niewielkich silniczków rakietowych z wektorem ciągu przeciwnie skierowanym do lotu kapsuły. System ten jest aktywowany na dwa metry :cite:`Quote-Needed` przed uderzeniem w ziemię pozwalając na zminimalizowanie w znacznym stopniu siły uderzenia o grunt. Jego użycie powoduje charakterystyczny płomień oraz dym przy uderzaniu w ziemię co mylnie kojarzone jest z sytuacją niebezpieczną. Aktywacja tego systemu oraz *miękkie lądowanie* zostało uwiecznione na taśmach video :cite:`Quote-Needed`.
 
 Sytuacje awaryjne statku kosmicznego
 ====================================
@@ -67,13 +67,13 @@ Loty kosmiczne są obarczone wysokim stopniem ryzyka. Większość z godzin prze
 
 Rozszczelnienie
 ---------------
-Do rozszczelnienia kapsuły może dość na skutek kolizji z mikrometeorytem, który niszcząc poszycie pozostawia otwór, z którego uchodzi powietrze. W zależności od wielkości uszkodzenia są różne procedury. Jedną z najważniejszych rzeczy należących do załogi jest uszczelnienie skafandra IVA Orlan oraz odkręcenie dopływu powietrza. Do czasu misji Souyz [TODO: Podać numer misji] podczas, której przy wejściu w atmosferę doszło do rozszczelnienia kapsuły i ujścia powietrza co skutkowało śmiercią załogi, kosmonauci nosili strojów wewnątrz kapsuły. Od czasu tego incydentu zarówno podczas startu, dokowania, odejścia, i wejścia w atmosferę astronauci muszą znajdować się w stroju IVA.
+Do rozszczelnienia kapsuły może dość na skutek kolizji z mikrometeorytem, który niszcząc poszycie pozostawia otwór, z którego uchodzi powietrze. W zależności od wielkości uszkodzenia są różne procedury. Jedną z najważniejszych rzeczy należących do załogi jest uszczelnienie skafandra IVA Orlan oraz odkręcenie dopływu powietrza. Do czasu misji Souyz :todo:`Podać numer misji` podczas, której przy wejściu w atmosferę doszło do rozszczelnienia kapsuły i ujścia powietrza co skutkowało śmiercią załogi, kosmonauci nosili strojów wewnątrz kapsuły. Od czasu tego incydentu zarówno podczas startu, dokowania, odejścia, i wejścia w atmosferę astronauci muszą znajdować się w stroju IVA.
 
-Podobny incydent zdarzył się podczas lotu Apollo-Soyuz gdy do amerykańskiej kapsuły Apollo podczas wejścia w atmosferę zaczął wdzierać się toksyczny gaz [TODO: nazwa gazu][TODO: Quote needed]. Tylko dzięki szybkiej reakcji astronautów udało się uniknąć ich śmierci.
+Podobny incydent zdarzył się podczas lotu Apollo-Soyuz gdy do amerykańskiej kapsuły Apollo podczas wejścia w atmosferę zaczął wdzierać się toksyczny gaz :todo:`nazwa gazu` :cite:`Quote-Needed`. Tylko dzięki szybkiej reakcji astronautów udało się uniknąć ich śmierci.
 
 Pożar
 -----
-Podczas treningu w statku kosmicznym Sojuz gdy astronauta zauważy dym lub ogień powinien natychmiast zamknąć szybę w skafandrze by uniknąć inhalacji potencjalnie szkodliwym dla zdrowia dymem [@Fire-in-the-Soyuz]. Po wykonaniu tej czynności przystępuje do gaszenia ognia. Ze względu na brak gaśnic oraz urządzeń do walki z ogniem na pokładzie statku kosmicznego astronauci mają następujące możliwości powstrzymania rozprzestrzeniania się ognia:
+Podczas treningu w statku kosmicznym Sojuz gdy astronauta zauważy dym lub ogień powinien natychmiast zamknąć szybę w skafandrze by uniknąć inhalacji potencjalnie szkodliwym dla zdrowia dymem :cite:`Fire-in-the-Soyuz`. Po wykonaniu tej czynności przystępuje do gaszenia ognia. Ze względu na brak gaśnic oraz urządzeń do walki z ogniem na pokładzie statku kosmicznego astronauci mają następujące możliwości powstrzymania rozprzestrzeniania się ognia:
 
 - wyłączenie wentylatorów i urządzeń cyrkulacji powietrza,
 - wyłączenie wszystkich elektrycznych urządzeń łącznie z komputerem pokładowym,
@@ -90,7 +90,7 @@ System przerwania startu (Launch Escape System)
 
 Wszystkie załogowe statki kosmiczne są wyposażone w system ewakuacji podczas startu. Systemy te pozwalają na ucieczkę załogi gdy rakieta zachowuje się nieprawidłowo, lub gdy na płycie startowej doszło do eksplozji. Zasada działania systemu zwykle być bardzo prosta i polega na trzech przewodach elektrycznych. Jeżeli napięcie zaniknie na dwóch z nich - przewód jest przerwany - automatycznie aktywują się silniki rakietowe odciągające kapsułę z załogą z dala od wybuchającej rakiety. W system ten były wyposażone już rakiety z programu Mercury-Redstone i późniejsze.
 
-Na specjalną uwagę zasługuje fakt, iż w programie Gemini zdecydowano się na zmianę systemu awaryjnego opuszczania pojazdu przy starcie i zastąpiono go wyrzucanymi fotelami katapultowymi. W podobny system był wyposażony statek Wostok, którym Gagarin jako pierwszy okrążył Ziemię. W późniejszych lotach radzieckich Woschod [TODO: Czy dobrze to napisałem?] ze względu na brak miejsca w kabinie zrezygnowano z systemu awaryjnego.
+Na specjalną uwagę zasługuje fakt, iż w programie Gemini zdecydowano się na zmianę systemu awaryjnego opuszczania pojazdu przy starcie i zastąpiono go wyrzucanymi fotelami katapultowymi. W podobny system był wyposażony statek Wostok, którym Gagarin jako pierwszy okrążył Ziemię. W późniejszych lotach radzieckich Woschod :todo:`Czy dobrze to napisałem?` ze względu na brak miejsca w kabinie zrezygnowano z systemu awaryjnego.
 
 System ewakuacji załogi podczas startu może być aktywowany:
 
@@ -98,17 +98,17 @@ System ewakuacji załogi podczas startu może być aktywowany:
 - ręcznie przez kontrolerów lotu na polecenie kierownika lotu (ang. Flight Director),
 - ręcznie przez dowódcę załogi.
 
-Astronauci są szkoleni z wykorzystywania systemu lecz nie zdazył się przypadek gdy system ten zadziałał z tego powodu. Podczas misji Apollo 12 po starcie rakiety piorun trafił w strukturę pojazdu i dowódca Pete Conrad [TODO: potwierdzić nazwisko] był bliski aktywowania systemu. Piorun trafiał w rakietę dwukrotnie [TODO: Potwierdzić ilość], ale w żadnym z tych wydarzeń system nie został aktywowany i misja przebiegła bez incydentów.
+Astronauci są szkoleni z wykorzystywania systemu lecz nie zdazył się przypadek gdy system ten zadziałał z tego powodu. Podczas misji Apollo 12 po starcie rakiety piorun trafił w strukturę pojazdu i dowódca Pete Conrad :todo:`potwierdzić nazwisko` był bliski aktywowania systemu. Piorun trafiał w rakietę dwukrotnie :todo:`Potwierdzić ilość`, ale w żadnym z tych wydarzeń system nie został aktywowany i misja przebiegła bez incydentów.
 
-System ten został użyty podczas misji Soyuz [TODO: Wpisać numer] i pozwolił załodze na bezpieczne oddalenie się od rakiety, która wybuchła na platformie startowej. Astronauci podczas tego wydarzenia byli poddani przeciążeniu chwilowemu równemu 14G [TODO: Zweryfikować dane].
+System ten został użyty podczas misji Soyuz :todo:`Wpisać numer` i pozwolił załodze na bezpieczne oddalenie się od rakiety, która wybuchła na platformie startowej. Astronauci podczas tego wydarzenia byli poddani przeciążeniu chwilowemu równemu 14G :todo:`Zweryfikować dane`.
 
-Z systemem ewakuacji podczas startu związany jest również wypadek, w którym zginęli inżynierowie pracujący na platformie w kosmodromie Bajkonur w Kazachstanie. System będąc uzbrojonym błędnie zinterpretował dane na temat awarii i uruchomił silniki odrzutowe. Od tego momentu system uzbraja się bezpośrednio przed startem po opuszczeniu przez wszystkich platformy startowej i okolic rakiety <!-- TODO: Quote Needed -->.
+Z systemem ewakuacji podczas startu związany jest również wypadek, w którym zginęli inżynierowie pracujący na platformie w kosmodromie Bajkonur w Kazachstanie. System będąc uzbrojonym błędnie zinterpretował dane na temat awarii i uruchomił silniki odrzutowe. Od tego momentu system uzbraja się bezpośrednio przed startem po opuszczeniu przez wszystkich platformy startowej i okolic rakiety :cite:`Quote-Needed`.
 
 Przy misjach amerykańskiego promu Space Shuttle musiano zmodyfikować system. Prom kosminczy miał 8 procedur awaryjnego przerwania startu:
 
 .. todo:: wypisać procedury z książki water egress z project PoSSUM
 
-Podczas pierwszych testowych lotów prom był wyposażony w fotele katapultowe dla pierwszego i drugiego pilota. Z systemu tego zrezygnowano w późniejszych lotach ze względu na niewielkie prawdopodobieństwo przeżycia załogi. W zamian za to zastosowano system tzw. Mode VIII - Bail-out, w którym wyposażeni w spadochrony astronauci mieli zsunąć się z wyciągniętej z promu grubej rury chroniącej przed uderzeniem w usterzenie i skrzydła a następnie na spadochronach wylądować w oceanie i rozpocząć procedurę wodnego przetrwania (więcej w rozdziale dotyczącym survivalu wodnego i morskiego) <!-- TODO: Quote Needed -->.
+Podczas pierwszych testowych lotów prom był wyposażony w fotele katapultowe dla pierwszego i drugiego pilota. Z systemu tego zrezygnowano w późniejszych lotach ze względu na niewielkie prawdopodobieństwo przeżycia załogi. W zamian za to zastosowano system tzw. Mode VIII - Bail-out, w którym wyposażeni w spadochrony astronauci mieli zsunąć się z wyciągniętej z promu grubej rury chroniącej przed uderzeniem w usterzenie i skrzydła a następnie na spadochronach wylądować w oceanie i rozpocząć procedurę wodnego przetrwania (więcej w rozdziale dotyczącym survivalu wodnego i morskiego) :cite:`Quote-Needed`.
 
 Awaryjne opuszczanie orbity
 ---------------------------
@@ -127,7 +127,7 @@ Sytuacje awaryjne przy dokowaniu
 
 Sytuacje awaryjne przy wejściu w atmosferę
 ------------------------------------------
-Kapsuła Soyuz jest wyposażona w dwa systemy uruchamiania bolców wybuchowych odstrzeliwujących moduł serwisowy oraz silnik <!-- TODO: profesjonalne słownictwo -->. System automatyczny jest uruchamiany w sytuacji normalnej a system zapasowy jest samoczynnie wyzwalany gdy bolce wybuchowe rozgrzeją się do dużej temperatury.
+Kapsuła Soyuz jest wyposażona w dwa systemy uruchamiania bolców wybuchowych odstrzeliwujących moduł serwisowy oraz silnik. System automatyczny jest uruchamiany w sytuacji normalnej a system zapasowy jest samoczynnie wyzwalany gdy bolce wybuchowe rozgrzeją się do dużej temperatury.
 
 Wejście w atmosferę po krzywej balistycznej
 -------------------------------------------
