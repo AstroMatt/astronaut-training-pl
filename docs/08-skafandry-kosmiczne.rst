@@ -4,7 +4,7 @@ Charakterystyka skafandrów kosmicznych
 
 Do podstawowych zadań skafandra należą:
 
-- ochrona przed ektremalnym środowiskiem kosmosu,
+- ochrona przed ekstremalnym środowiskiem kosmosu,
 - ochrona przed brakiem ciśnienia (próżnią),
 - ochrona przed mikrometeorytami,
 - ochrona termiczna przed fluktuacją temperatury od -156C do +121C,
@@ -182,7 +182,7 @@ MACES                         USA        n/d             Orion                  
 
 **Tabela 8.2 - zestawienie skafandrów do spacerów kosmicznych EVA (ang. Extravehicular Activity)**
 
-Charakterystyka wybranych skafandrów kosminczych
+Charakterystyka wybranych skafandrów kosmicznych
 ================================================
 
 Charakterystyka skafandra Sokol

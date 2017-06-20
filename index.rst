@@ -26,5 +26,5 @@ Bibliografia
 ============
 
 .. bibliography:: bibliografia.bib
-    :style: plain
-
+    :style: unsrt
+    :all:

@@ -9,17 +9,19 @@
     <meta name="author" content="Matt Harasymczuk">
     <meta name="description" content="Wyższa Szkoła Oficerska Sił Powietrznych Katedra Nawigacji - praca magisterska - Proces przygotownia astronautów do długoterminowych lotów i spacerów kosmicznych - Mateusz Harasymczuk">
 
-    <link rel="cannonical" href="http://astromatt.github.io">
-	<link rel="stylesheet" href="{{ pathto('_static/' + style, 1) }}" type="text/css" />
-    <link rel="icon" type="image/png" href="img/astronaut-pin.png" />
+    <link rel="cannonical" href="http://thesis.astromatt.space">
+	<link rel="stylesheet" href="{{ pathto('_static/style.css', 1) }}" type="text/css" />
+	<link rel="stylesheet" href="{{ pathto('_static/first-page.css', 1) }}" type="text/css" />
+	<link rel="stylesheet" href="{{ pathto('_static/content.css', 1) }}" type="text/css" />
+	<link rel="stylesheet" href="{{ pathto('_static/bibliography.css', 1) }}" type="text/css" />
+	<link rel="stylesheet" href="{{ pathto('_static/print.css', 1) }}" type="text/css" media="print" />
+    <link rel="icon" type="image/png" href="{{ pathto('img/astronaut-pin.png', 1) }}" />
 </head>
 <body>
-	{%- block content %}
-
     <section id="first-page">
         <header>
             <h1>Wyższa Szkoła Oficerska Sił Powietrznych</h1>
-            <h2>Katedra Nawigacji</h2>
+            <h2></h2>
         </header>
 
         <div id="title">
@@ -30,19 +32,14 @@
 
         <div id="about">
             <p>Praca magisterska napisana pod kierownictwem</p>
-            <p>prof. dr hab. inż. Janusz Zieliński</p>
+            <p></p>
         </div>
 
-        <footer>Dęblin 2017<footer>
+        <footer>Dęblin 2017</footer>
     </section>
 
     <section id="content">
-		{%- block document %}
-			{% block body %} {% endblock %}
-		{%- endblock %}
+        {% block body %} {% endblock %}
     </section>
-
-	{%- endblock %}
 </body>
 <html>
-

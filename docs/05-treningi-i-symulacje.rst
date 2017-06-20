@@ -28,6 +28,15 @@ Treningi i symulacje
     - http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/flight-training.asp
     - http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/ongoing-training.asp
 
+    - Symulatory w centrum wyszkolenia:
+
+        - MMU Simulator - how astronauts move in space
+        - Simulator Multi-Axes - Rotate in three different axis. Learn how to concentrate facing complete disorientation situation.
+        - Simulator 1/6 chair - during Apollo program. used to train astronauts how to walk on the moon. Elastic suspension compansate 5/6 body weight.
+        - Simulator 5DL Chair - Simulator used to train how to move in space using only arms and hands.
+        - Simulator 0-gravity wall
+        - Simulator SSMT - Simulator acustoms trainee to move in Space Station - 1,83m diameter cylinder allows to rotate 360 degrees.
+
 Przygotowanie psychologiczne, kondycyjne i medyczne
 ===================================================
 
@@ -49,6 +58,12 @@ Przygotowanie dentystyczne
 
 Ćwiczenia kondycyjne i badania wydolności organizmu
 ---------------------------------------------------
+
+.. figure:: /img/fitness-training.jpg
+    :scale: 50%
+    :align: center
+
+    Fig. 5.1. - Astronautka NASA Christina M. Hammock podczas ćwiczeń kondycyjnych i badań wydolności organizmu
 
 Przygotowanie psychologiczne do pracy w odosobnieniu
 ----------------------------------------------------
@@ -83,9 +98,30 @@ Przygotowanie do pracy w ekstremalnych warunkach
 
 Przetrwanie w warunkach zimowych
 --------------------------------
+.. todo::
+    - Jazda na nartach crosscountry, ciągnąć 75kg nosze z plecakiem w zimną zimę
+    - Winter show shelter construction, techniques and procedures
+    - Living outdoors in arctic Alaska
+    - Proper way to defecate in snow and freezing temperature
+    - Navigation in snow mountains, being aware of avalanches.
+    - Practicing searching for bodies under snow avalanche (using beacon system); avalanche beacon; homing beacon and monitor
+    - In part of the Survival, instructors disappear and crew need to survive
+    - Russian survival training is easier. It last for 2.5day. They encourage you to have fire to have cold. Woods 8 miles outside of star city. Minus 26 degrees in night
+    - Before 1 day of instructions and theories
+    - Cosmonauts has to have training before they are flying, no matter how many times they had it before
+    - Before going out, change to winter survival gear
+    - Different suit for Water, ice cold water, survival
+    - Construction of "lean to" shelter.
+    - Wigwams need air circulation, otherwise you can inhale carbon monoxide
+    - Two fires. Signal fire (fast, hot, top) and shelter fire next to the shelter, constantly maintained
+    - Using navy army food rations (MRI)
+    - Incapacitated astronaut while medevac (broken leg)
 
 Przetrwanie w warunkach pustynnych
 ----------------------------------
+.. todo::
+    - cook and eat snake
+    - how to make a water in the desert
 
 Przetrwanie w warunkach dżungli
 -------------------------------
@@ -121,8 +157,8 @@ Urządzenia symulujące obiżoną grawitację
     - MAT Multi Axial Trainer
     - vertical threadmill (poruszanie się w górę)
 
-Test w wirówce na odporność organizmu na przeciążenia
------------------------------------------------------
+Test w wirówce zwiększający odporność organizmu na przeciążenia
+---------------------------------------------------------------
 
 Loty paraboliczne symulujące stan nieważkości
 ---------------------------------------------

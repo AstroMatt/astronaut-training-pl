@@ -2,8 +2,21 @@
 Przygotowanie teoretyczne
 *************************
 
-.. todo:: Przygotowanie teoretyczne
-    Astronauts are:
+.. todo::
+    - http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/ongoing-training.asp
+    - As soon as they are recruited, Canadian astronauts begin learning Russian, and they continue to do so right up to their departure on a space mission.
+    - Onboard the ISS, the two official languages are: English, Russian
+    - However, onboard the Soyuz capsule, the astronauts must be able to communicate solely in Russian with the Mission Control Centre in Moscow.
+    - They must master the language well enough for communication to be effortless even under the stress of a launch or in an emergency situation!
+    - http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/ongoing-training.asp
+    - Once their basic training is successfully completed, candidates officially receive the title of astronaut. This is only the beginning of their work. While awaiting assignment to a space mission, astronauts must:
+
+        - support space activities in collaboration with ground crews
+        - maintain their skills while awaiting assignment to a mission
+
+    - różne sposoby mycia włosów
+    - Astronauts are:
+
         - Operators,
         - Ambasadors of Nasa,
         - Flyiers,
@@ -12,27 +25,18 @@ Przygotowanie teoretyczne
         - Physycist,
         - Leaders,
         - Technicans
-    - http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/ongoing-training.asp
-    - As soon as they are recruited, Canadian astronauts begin learning Russian, and they continue to do so right up to their departure on a space mission.
-    - Onboard the ISS, the two official languages are:
-        - English
-        - Russian
-    - However, onboard the Soyuz capsule, the astronauts must be able to communicate solely in Russian with the Mission Control Centre in Moscow.
-    - They must master the language well enough for communication to be effortless even under the stress of a launch or in an emergency situation!
-    - http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/ongoing-training.asp
-    - Once their basic training is successfully completed, candidates officially receive the title of astronaut. This is only the beginning of their work. While awaiting assignment to a space mission, astronauts must:
-        - support space activities in collaboration with ground crews
-        - maintain their skills while awaiting assignment to a mission
-    - różne sposoby mycia włosów
+
     - Strzyżenie włosów
     - Długie włosy mogą się zaczepić w rzepy lub śrubki
     - celowo wybrali 50% facetów i 50% kobiet
     - dwa lata (sylabus)
+
         - Foraign Language
         - ISS Systems
         - Robotics
         - Space walking
         - T-38 (ostatnia część szkolenia)
+
     - Atain the certain level in each of those
     - Do tego jest dużo szkoleń pomocniczych (ancillary training)
     - Jak zrobisz to wszystko dają Ci Astronaut Pin
