@@ -144,6 +144,267 @@ Kandydaci którzy biorą udział w rekrutacji muszą być zdolni do wytrzymywani
 
 Selekcja medyczna
 -----------------
+.. todo::
+    RTG klp - Klatka Piersiowa
+    - Czas trwania badania: 2 min
+    - Założenie na tyłek płyty ołowiowej
+    - Ustawienie się klatką piersiową do ekranu
+    - Za plecami jest aparat rentgenowski
+    - Wykonanie zdjęcia
+
+    Pantomogram
+    - Czas trwania badania: 2 min
+    - Założenie na tyłek płyty ołowiowej
+    - Zaciśnięcie zębów na ustniku
+    - Aparat robi zdjęcie całej głowy
+
+    RTG zatok
+    - Czas trwania badania: 2 min
+    - Założenie na tyłek płyty ołowiowej
+    - Ustawienie się głową do ekranu, broda dotyka ekranu
+    - Za głową jest aparat rentgenowski
+    - Wykonanie zdjęcia
+
+    USG Jamy brzusznej
+    - Czas trwania badania: 5-10 min
+    - Pęcherz
+    - Nerki
+    - Prostata
+    - Wątroba
+    - Śledziona
+
+    Bieżnia
+    - Czas trwania badania: 8 min
+    - Bieganie bez butów i koszulki
+    - Podczepienie elektrod
+    - Próba wysiłkowa
+    - Zwiększające się tępo i nachylenie bieżni
+    - Chodzi o uzyskanie minimum 100%
+    - 100% uzyskuje się w około 6 min
+
+    Holter
+    - Czas trwania badania: 24h
+    - Założenie elektrod i Holtera (5 min)
+    - Noszenie 24h
+    - Spisywanie wydarzeń, które się dzieją w trakcie
+    - Ściągnięcie Holtera (2 min)
+
+    ECHO serca
+    - Czas trwania badania: 15-20 min
+    - Kładziesz się na kozetce na lewym boku ręka lewa pod głowę łokieć na wysokości twarzy, głowa odchylona do tyłu noga prawa zgięta w kolanie blokuje przewracanie się
+    - Lekarz bierze maszynę USG i bada serce dyktując parametry sekretarce, później weryfikuje i daje wydruk
+
+    EEG
+    - Czas trwania badania: około 20-30min
+    - Założenie czepka z gumowych rurek z elektrodami
+    - Położenie się i nie ruszanie
+    - Nie spać i nie wchodzić w błogostan
+    - Leżenie z zamkniętymi oczami
+    - Leżenie z otwartymi oczami
+    - Kilkukrotne powtórzenie powyższych
+    - Zamknięcie oczu i błyskanie lamp
+        - Błyski co około 1 sek, Chwila przerwy
+        - Błyski co około 0.5 sek, Chwila przerwy
+        - Błyski co około 0.25 sek, Chwila przerwy
+        - Błyski co około 0.125 sek, Chwila przerwy
+    - Otwarcie oczu, chwila przerwy
+    - Zamknięcie oczu, chwila przerwy
+    - Otwarcie oczu, chwila przerwy
+
+    ENG
+    - Pierwsza część (około 40 minut)
+        - Podczepiają trzy elektrody
+            - skroń prawa
+            - skroń lewa
+            - czoło
+        - Siedzsz wyprostowany na 100cm od ściany z krzyżem na którym są diodowe czerwone lampki
+        - Wodzenie źrenicami za światłem (prawo, lewo) - mierzą jakieś zachowanie
+        - Wraz z elektrodami kładziesz się na łóżku
+        - 1 część
+            - Wlewanie wody do ucha
+            - Prawe ucho, później lewe ucho
+            - Temperatura wody 44 stopnie Celsjusza
+            - Z zamkniętymi oczami dodawanie na głos od 100 co trzy do góry
+            - Po około minucie
+                - otworzenie oczu
+                - Patrzenie w jeden punkt
+                - kontynuowanie dodawania
+            - Po około 30 sekundach
+                - Ponowne zamknięcie oczu
+                - kontynuowanie dodawania przez 30 sek.
+            - Przed każdym wlaniem wody i odliczaniem jakieś 5 minut przerwy
+        - 2 część (około 5-10 minut)
+            - Wlewanie wody do ucha
+            - Lewe ucho później prawe ucho
+            - Temperatura wody 30 stopni Celsjusza
+            - Odejmowanie od 200 co dwa w dół
+            - Po około minucie
+                - otworzenie oczu
+                - Patrzenie w jeden punkt
+                - kontynuowanie dodawania
+            - Po około 30 sekundach
+                - Ponowne zamknięcie oczu
+                - kontynuowanie dodawania przez 30 sek.
+            - Przed każdym wlaniem wody i odliczaniem jakieś 5 minut przerwy
+    - Druga część (czas trwania badania: 10 min)
+        - Siedzisz na obrotowym fotelu w całkowicie ciemnym pomieszczeniu o kształcie walca i średnicy 3m
+        - Przypinają te same trzy elektrody do czoła i skroni
+        - Każą wodzić wzrokiem w pojawiający się punkt, który zmienia swoje położenie: prawo, lewo, centrum
+        - Później uruchamiają krzesło obrotowe
+        - Każą odliczać od 300 w dół co trzy
+
+    Spirometria
+    - Czas trwania badania: 5 minut (+20 minut wyjaśnienie i anonimowa ankieta odnośnie zwyczajów żywienia)
+    - Podanie danych
+        - Data urodzenia
+        - Waga
+        - Wzrost
+        - Pesel
+        - Nazwisko i Imie
+    - Instrukcje wyjaśniające
+    - Test ustnika
+    - Test dmuchania
+    - Dmuchanie
+        - Trzy normalne wdechy i wydechy
+        - Czwarty wdech jest zakończony maksymalnym wydechem
+        - Później trzy maksymalne wdechy i wydechy
+
+    Psycholog
+    - Czas trwania badania: około 10h podzielony na 3-4 wizyt.
+    - 13 zadań, 10 na komputerze, 3 ankiety na kartce
+    - Omówienie wyników z psychologiem
+
+    EKG
+    - Czas trwania badania: około 5 minut
+    - Kładziesz się na kozetce
+    - Przypinają elektrody
+        - Na klatce piersiowej i po boku
+        - Klipsy z elektrodami na każdą rękę w okolicy nadgarstka
+        - Klipsy z elektrodami na każdą nogę powyżej kostki
+    - Wymagane do KNC
+    - Można zrobić mając założony Holter (chociaż robią niechętnie)
+
+    Okulista
+    - czas trwania za drugim razem około 3 min.
+    - Masz przyłożyć głowę do urządzenia
+    - Przez okular widzisz domek na horyzoncie z prostą drogą prowadzącą do niego po bokach której jest biały płotek
+    - Maszyna automatycznie ostrzy wzrok i dostosowuje obraz
+    - Najpierw prawe a później lewe oko
+
+    Internista
+    - Czas trwania badania: około 10 minut
+    - Sprawdzanie
+        - EKG
+        - USG jamy brzusznej
+        - Wynik RTG
+        - Spirometria
+        - Wynik badania krwi
+    - Sprawdzanie ciśnienia krwi w pozycji siedzącej
+    - Osłuchiwanie klatki piersiowej
+    - Osłuchiwanie pleców
+    - Wywiad z pacjentem
+    - Daje zdolność do KNC
+
+    Neurolog
+    - Czas trwania badania: około 10-15 minut
+    - Wywiad o złamaniach i urazach
+    - Sprawdzanie odruchu kolanowego prawe, lewe
+    - Sprawdzanie odruchu spodu stopy
+    - Sprawdzanie wyników EEG
+    - Sprawdzenie wyników MRI
+    - Daje zdolność do KNC
+
+    Chirurg
+    - Czas trwania badania: około 10-15 minut
+    - Wywiad o złamaniach i urazach
+    - Z zamkniętymi oczami z wyprostowanych rąk dotknąć nosa, prawa później lewa ręka
+    - Założyć ręce z tyłu pleców i połączyć, prawa, lewa
+    - Skłon jak najbardziej
+    - Prosta postawa - czy kręgosłup nie jest skrzywiony
+    - Pokazanie dłoni, spód, wierzch
+    - Ręce zaciśnięte w pięści i wyciągnięte przed siebie
+        - Lekarz naciska od góry, trzeba podnieść ręce
+        - Lekarz naciska od dołu, trzeba przeciwstawić
+        - Lekarz trzyma od zewnątrz po bokach, trzeba rozciągnąć
+        - Lekarz trzyma od wewnątrz po bokach trzeba ścisnąć
+        - Poruszanie po okręgu pięściami miękko w nadgarstku
+    - Sprawdzenie wyników MRI
+
+    Laryngolog
+    - Spotkanie przed KNC (około 5-10 min)
+        - Sprawdza nozdrza, lewe, prawe
+        - Sprawdza uszy, lewe, prawe
+        - Każe stanąć przy drzwiach bokiem i szepce cyfry, które trzeba powtórzyć
+        - Obrót drugim bokiem i kolejne cyfry do powtórzenia
+        - Sprawdza audiogram, wyniki ciśnienia uszu, próbę Coriolisa
+        - Daje zdolność do KNC
+    - Spotkanie po KNC (około 2 min)
+        - Sprawdza uszy, prawe, lewe
+
+    Audiogram
+    - 1 część (około 3-5 min)
+        - Badanie w komorze dźwiękoszczelnej
+        - Słuchawki na uszach i mały joystick z przyciskiem w ręce
+        - Ciche tony najpierw w uchu prawym później w lewym
+        - Tony są coraz głośniejsze z upływem czasu
+        - Trzeba kliknąć przycisk gdy usłyszy się dźwięk
+    - 2 część (około 2 min)
+        - Mierzenie ciśnienia w uchu i rozciągliwości bębenka
+        - Wdmuchiwanie powietrza i wysysanie powietrza
+    - 3 część (około 5 minut) tzw. Próba Coriolisa
+        - Jest metronom ustawiony na około sekundę (czas nie jest bardzo istotny)
+        - Siedzisz na fotelu który się obraca i:
+            - Masz zamknięte oczy
+            - Masz poruszać głową w takt metronomu, prawo, środek, lewo, środek, prawo, środek...
+        - Uczucie jakby fotel falował - ze względu na zaburzenie błędnika
+        - Cel zadania nie mieć nudności i wymiotów
+
+    Antropometria
+    - Czas trwania badania: około 10-15 min
+    - Wzrost
+    - Waga
+    - Wzrost w pozycji siedzącej
+    - Prawa noga i lewa noga długość od kolców biodrowych do kostki
+    - Siła ścisku prawa dłoń, lewa dłoń
+    - BMI, ilość tłuszczu
+    - Obwód w klatce piersiowej, wdech, wydech
+    - Obwód w pasie
+    - Obwód w biodrach
+
+    Komora Niskich Ciśnień (KNC)
+    - Czas trwania badania: 1h 10m
+    - Przed wejściem do komory sprawdzają papiery
+    - Przed wejściem do komory sprawdzają ciśnienie urządzeniem marki: OMRON
+    - Część 1 (około 5-10 minut)
+        - Szybkie wznoszenie i opadanie na 3000m z prędkością 8m/s
+        - Pobyt na wysokości około minuty
+        - Bez założonych pulsoksymetrów
+    - Część 2 (około 45minut)
+        - Masz założone dwa pulsoksymetry na lewej ręce na palcu wskazującym i serdecznym
+        - Wznoszenie na 5000m
+        - Pobyt na wysokości przez równe 30 minut
+        - Opadanie do poziomu gruntu
+        - W pogotowiu maska z czystym tlenem w przepływem na żądanie z możliwością włączenia przepływu ciągłego
+        - Głębokie oddychanie podnosi na jakiś czas ilość powietrza we krwi
+        - Przy 87% zacząłem mieć oznaki niepokoju - symptom Hipoxii (ale tylko za pierwszym razem jak przekroczyłem)
+        - Graliśmy w kamień, nożyce i papier
+
+    Rezonans Magnetyczny
+    - Czas trwania badania: równo 1h
+    - Bez metalowych rzeczy w samych majtkach i koszulce
+    - Kładziesz się nieruchomo na desce z podkładką pod kolanami
+    - Masz stopery w uszach wygłuszające
+    - Twoja głowa jest unieruchomiona w kołnierzu za pomocą pianek, które uciskają
+    - Można spać, byle by się nie ruszać
+    - Raz się ruszysz - ostrzeżenie, drugi raz - koniec badania
+    - Masz w ręku przycisk, którego kliknięcie spowoduje przerwanie badania i wyciągnięcie z maszyny
+
+    Stomatolog
+    - Czas trwania badania: 2 min
+    - Sprawdzanie ubytków
+
+    Wirówka
+
 
 Zdrowie kandydata jest jednym z najważniejszych kryteriów doboru. Osoby rekrutowane muszą się wykazać niezwykłą adaptacją do warunków panujących w stanie nieważkości. Jest to podyktowane głównie ogromnym kosztem wyszkolenia astronautów i chęcią zmniejszenia możliwości zaistnienia problemów podczas misji ze względu na stan zdrowia pracującego operatora. Sprawność układu ruchu, krążenia oraz równowagi ma ogromne znaczenie dla późniejszej pracy kandydata.
 

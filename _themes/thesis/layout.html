@@ -42,4 +42,11 @@
         {% block body %} {% endblock %}
     </section>
 </body>
+
+{% if analytics_code %}
+<script>
+        {{ analytics_code }}
+</script>
+{% endif %}
+
 <html>
