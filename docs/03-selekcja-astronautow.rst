@@ -299,7 +299,7 @@ Selekcja medyczna
         - Wynik RTG
         - Spirometria
         - Wynik badania krwi
-    - Sprawdzanie ciśnienia krwi w pozycji siedzącej
+    - Sprawdzanie ciśnienia krwi w pozycji siedzącej (Ciśnieniomierz OMRON)
     - Osłuchiwanie klatki piersiowej
     - Osłuchiwanie pleców
     - Wywiad z pacjentem
@@ -402,6 +402,98 @@ Selekcja medyczna
     Stomatolog
     - Czas trwania badania: 2 min
     - Sprawdzanie ubytków
+
+    Psycholog
+    - Czas trwania badania: około 10h podzielony na 3-4 wizyt.
+    - 13 zadań, 10 na komputerze, 3 ankiety na kartce
+    - Omówienie wyników z psychologiem
+
+    Testy pisemne
+    - Test NEO-PI-R; P.T. Costa
+    - Test CISS; Norman Endler
+    - Test STARSI; Spielberg
+    - Test J. C. Ravena
+        - kształty na papierze
+        - Dwie serie 12 testowa i 36 zadaniowa
+        - Czas zadaniowej 30 minut
+        - Testowa bez czasu
+
+    Gwiazdki w kwadrat
+    - 20 minut
+    - Zadanie na utrzymywanie uwagi
+    - Na ekranie wyświetlają się gwiazdki (w istocie są to białe kwadraty równomiernie rozmieszczone na siatce na przecięciu, siatka jest niewidoczna)
+    - Gdy pojawi się kwadrat, tzn zapalą się cztery gwiazdki w bezpośrednim sąsiedztwie to należy kliknąć zielony przycisk
+
+    samolot i obracanie go w osiach
+    -  aby doprowadzić z obrazka po lewej do obrazka po prawej 13 zadań, niektóre mają w jednej, inne w dwóch a inne w trzech osiach
+    - Trudne są przykłady z samolotem do góry nogami i zmianą osi
+    - Jest samolot horyzont, ziemia jest w kratkę zielono brązową na horyzoncie jest kompas co 10 stopni
+    - Czasami na niebie są chmurki
+    - Zadania mają jakiś timeout
+    - Czas około 10 minut
+
+    Pizza przez 15 minut
+    - Najpierw przykład testowy z pizzą na prawo i lewo, a później 3 minutowy przykład z pizza we wszystkich osiach
+    - Drążki co jakiś czas zmieniają zachowanie
+    - Zadanie z programistycznego punktu widzenia to statyczne tło wnętrza sześcianu; statyczne odwrócone T jako najwyższy overlay. Na warstwie pomiędzy jest okrąg o zmniejszającym się promieniu i obracający się. Kulki są przymocowane do wycinka
+
+    Czy na ekranie jest figura powyżej
+    - czas trwania 5-10 min
+    - Dwa rzędy, u góry 4 figury na dole jedna stale się zmieniająca
+    - Do Górnego rzędu jest jakieś 10 dopasowań a później górny rząd się zmienia
+    - Zielony przycisk figura występuje
+    - Czerwony przycisk figura nie występuje
+    - Na dole jest jeden znak
+    - Figury mają różne przekątne, czasami brakuje jakiejś deseczki a czasami są inaczej obrócone lub mają akcenty (daszek) pod spodem
+    - Figury są skonstruowane z czegoś co przypomina cyfrowe ledowe 88 (takie jak na układzie 8051) wraz z
+    - Przekątnymi
+    - Trzeba szybko odpowiedzieć czy dolny znak znajduje się wśrod górnych
+    - 200 porównań figur
+
+    Znikająca Kulka i linia
+    - 30 przykładów.
+    - Kulka ma rożna prędkość
+    - Czasami zadania są z lewej a czasami z prawej strony
+    - Kulka znika w różnych miejscach ekranu zwykle w  okolicach połowy
+    - Wcisnąć czarny podłużny przycisk gdy kulka powinna być na linii
+
+    Kostki
+    - czas trwania do 5 minut
+    - 9 kostek na raz
+    - Zapamiętywanie które kostki wskazała strzałka i w jakiej kolejności
+    - 4 dwa przykłady (lub trzy)
+    - 5 dwa przykłady (lub trzy)
+    - 6 dwa przykłady (lub trzy)
+    - I idzie dalej
+    - Po trzech błędach zadanie jest przerywane
+
+    Złoty palec
+    - Czas trwania około 5min
+    - Palec na złotej blaszce
+    - Na ekranie są dwa czarne koła
+    - Gdy pojawi się żółte oraz w słuchawkach sygnał trzeba szybko przycisnąć czarny przycisk i wrócić palcem na blaszkę
+    - Światełka mają dwa kolory żółte po lewej i czerwone po prawej
+    - Czasami jest dźwięk czasami tylko światełka a czasami światełko czerwone z dźwiękiem
+    - Nie ma dwóch światełek na raz
+
+    Wszystko na raz
+    - Trwanie: 20min
+    - najcięższe zadanie
+    - Są dwa pedały sześć światełek i dwa tony, wysoki i niski
+    - Trzeba jak najszybciej klikać przyciski jakie pojawiają się na ekranie lub pedały lub szary dla wysokiego dźwięku lub czarny dla niskiego
+    - Po kliknięciu kolor nie znika na początku (ma swój czas wyświetlania) później był okres gdy kolory (dźwięki i pedały) znikały zaraz po kliknięciu, później był okres gdzie wyświetlane mega przyspieszyły, a później zwolniły
+
+    System komputerowy to:
+    Wiedeński system testów. Zestawy:
+    - 014001/09
+    - 014001/04
+    - Producent Krakowska firma Alta
+    - Koszt badań 380zł
+
+    (Końcówka wyglada na numer komputera)
+
+    https://www.schuhfried.com/search/testfinder?category=260bde92-6ed6-4a79-aa91-cb09ae7f0f97
+
 
     Wirówka
 
