@@ -2,8 +2,6 @@
 
 import sys
 import os
-import datetime
-
 
 sys.path.append(os.path.abspath('.'))
 
