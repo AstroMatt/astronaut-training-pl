@@ -2,27 +2,36 @@
 Rys historyczny lotów kosmicznych
 *********************************
 
-.. todo:: czy radziecki dużą literą
-.. todo:: data rozpoczęcia wyścigu kosmicznego
-.. todo:: The Space Race began on August 2, 1955, when the Soviet Union responded to the US announcement four days earlier of intent to launch artificial satellites for the International Geophysical Year, by declaring they would also launch a satellite "in the near future". The Soviet Union beat the US to this, with the October 4, 1957 orbiting of Sputnik 1, and later beat the US to the first human in space, Yuri Gagarin, on April 12, 1961. The race peaked with the July 20, 1969 US landing of the first humans on the Moon with Apollo 11. The USSR tried but failed manned lunar missions, and eventually cancelled them and concentrated on Earth orbital space stations. A period of détente followed with the April 1972 agreement on a co-operative Apollo–Soyuz Test Project, resulting in the July 1975 rendezvous in Earth orbit of a US astronaut crew with a Soviet cosmonaut crew. The end of the Space Race is harder to pinpoint than its beginning, but it was over by the December, 1991 dissolution of the Soviet Union, after which true spaceflight cooperation between the US and Russia began.
-.. todo:: kolejność wydarzeń
-
-
-Wyścig o wystrzelenie pierwszego sztucznego satelity Ziemi trwał pomiędzy Związkiem Radzieckim i Stanami Zjednoczonymi od 1930. Jednym z pierwszych pionierów w dziedzinie budowy rakiet był amerykański naukowiec Dr Robert H. Goddard. W roku 1957 Związkowi Radzieckiemu udało się dokonać.
-
-Pierwszym sztucznym satelitą Ziemi był Sputnik, który został wystrzelony 4 października 1957 roku. Dopiero to wydarzenie spowodowało zintensyfikowanie działań. Gdy Amerykanie starali się unieść swoje rakiety z ponad wyrzutni, Rosjanie powoli zaczynali dominować na niskiej orbicie okołoziemskiej. Następnymi krokami radzieckiego programu kosmicznego było wystrzelenie zwierząt i na samym końcu człowieka. Dokonali tego w 1961 roku, na trzy miesiące przed Amerykanami. Następnie pierwszy spacer kosmiczny, pierwsza kobieta w kosmosie oraz pierwsze dłuższe pozostanie na orbicie również do nich należało.
-
-Aby zażegnać widmo porażki prezydent Stanów Zjednoczonych Ameryki J. F. Kennedy 12 września 1962 roku wygłosił mowę na Rice Uniwersytecie :cite:`Moon-Speach-Rice-Stadium`, w której zmobilizował naród i postawił cel, aby w do końca dekady "człowiek postawił nogę na księżycu i bezpiecznie wrócił na Ziemię". Cel ten udało się zrealizować, ale nie podczas życia prezydenta. Amerykanie w 1969 roku zdobyli Księżyc.
-
 Pionierzy kosmonautyki
 ======================
-.. todo:: cytat
 
-W Związku Radzieckim
-Po stronie Stanów Zjednoczonych największym wpływ na program rakietowy tego kraju miał dr Robert H. Goddard.
+Erę rakietową rozpoczęła publikacja tzw. wzoru Ciołkowskiego w 1903 roku określającego prędkość rakiety zmieniającej masę (zużywającej paliwo podczas lotu). Wzór ten został opublikowany w książce "Badanie przestrzeni świata przy pomocy urządzeń odrzutowych" :cite:`Ciolkowski`. Do pierwszych pionierów kosmonautyki wykorzystujących podstawy teoretyczne stworzone przez Ciołkowskiego zalicza się:
 
-Pierwsze loty kosmiczne
-=======================
+- dr Robert H. Goddard (USA),
+- Siergiej Korolew (ZSSR),
+- Hermann Oberth (Niemcy),
+- Robert Albert Charles Esnault-Pelterie (Francja).
+
+Prowadzili badania zarówno nad materiałami pędnymi, paliwami stałymi i ciekłymi oraz aerodynamiką rakiet. 16 marca 1926 roku Robert H. Goddard pomyślnie wystrzelił pierwszą na świecie rakietę napędzaną na paliwo ciekłe.
+
+Podczas II wojny światowej prowadzono wiele badań wykorzystujących paliwo płynne. Stworzona przez Wernera von Brauna rakieta "Vergeltungswaffe 2" znana jako V-2 była pierwszą na świecie rakietą dalekiego zasięgu. Wykorzystywana głównie jako broń do bombardowania miast sojuszu alianckiego posłużyła również do testu, w którym po raz pierwszy udało się przekroczyć linię Karmana, tj. osiągnąć przestrzeń kosmiczną.
+
+
+Pierwsze loty kosmiczne i wyścig kosmiczny
+==========================================
+
+Po drugiej wojnie światowej wyścig zbrojeń przerodził się w tzw. zimną wojnę pomiędzy Stanami Zjednoczonymi Ameryki i Związkiem Socjalistycznych Republik Radzieckich. Za oficjalną datę rozpoczęcia wyścigu kosmicznego (ang. Space Race) przyjmuje się dzień drugiego sierpnia 1955 roku. Tego dnia Związek Radziecki odpowiedział na ogłoszoną przez rząd USA cztery dni wcześniej deklarację zamiaru wystrzelenia sztucznego satelity z okazji międzynarodowego roku geofizyki :cite:`Space-Race`.
+
+Wystrzelony 4 października 1957 należący do ZSSR Sputnik został pierwszym sztucznym satelitą Ziemi. To wydarzenie zapoczątkowało serię sukcesów Związku Socjalistycznych Republik Radzieckich w kosmosie, do których należały:
+
+- pierwsze wystrzelenie zwierzęcia (pies Łaika, 3 październik 1957),
+- wystrzelenie oraz orbitowanie pierwszego człowieka (J. Gagarin, 12 kwietnia 1961),
+- pierwsza doba na orbicie (G. Titow, 6 sierpnia 1961),
+- pierwsza kobieta w kosmosie (W. Tierieszkowa, 16 Czerwiec 1963),
+- pierwszy spacer kosmiczny (A. Leonow, 18 marzec 1965),
+
+Aby zażegnać widmo porażki prezydent Stanów Zjednoczonych Ameryki J. F. Kennedy 12 września 1962 roku wygłosił mowę na Uniwersytecie Rice :cite:`Moon-Speach-Rice-Stadium`, w której zmobilizował naród i postawił cel, aby "do końca dekady człowiek postawił nogę na księżycu i bezpiecznie wrócił na Ziemię". Cel ten udało się zrealizować w 1969 roku, gdy amerykański astronauta Neil Armstrong stanął na Księżycu.
+
 
 Pierwsze bezzałogowe loty kosmiczne
 -----------------------------------
@@ -36,12 +45,8 @@ Program Mercury w stanach zjednoczonych również zakładał wysłanie zwierzęc
 
 Pierwszy lot człowieka
 ----------------------
-.. todo:: długość lotu
-.. todo:: ilość osób z naboru Gagarina
-.. todo:: źródło cytatu 1
-.. todo:: źródło cytatu 2
 
-Pierwszym człowiekiem w kosmosie był pułkownik Yuri Gagarin. Został wystrzelony przez Związek Radziecki 12 kwietnia 1961 w 90 minutowy orbitalny wokół Ziemi na pokładzie *Vostok 1*. Gagarin był jednym z 20 osób, które zostały wybrane wśród pilotów wojskowych Związku Radzieckiego. Wg. podań świadków pułkownik wyróżniał się wytrzymałością, duchem oraz doświadczeniem. Wśród wszyskich rekrutowanych kosmonautów przeprowadzono ankietę "kogo wytypowałbyś na pierwszy lot". Osiemnaście na dwadzieścia osób z załogi wybrało Gagarina. Pułkownik po okrążeniu Ziemi wszedł ponownie w atmosferę w tzw. krzywej balistycznej cechującej się wysokim poziomem przeciążeń działających na ciało kosmonauty. Ze względu na fakt, iż Radzieccy konstruktorzy nie dysponowali jeszcze techniką aby bezpiecznie posadzić statek kosmiczny na ziemi zdecydowano się na użycie katapulty i spadochronu. Na poziomie 20000 stup Gagarin katapultował się i bezpiecznie wrócił na powierzchnię :cite:`Why-Yuri-Gagarin-Remains-the-First-Man-in-Space`.
+Pierwszym człowiekiem w kosmosie był major Yuri Gagarin (awansowany później na pułkownika). Został wystrzelony przez Związek Radziecki 12 kwietnia 1961 w 108 minutowy orbitalny wokół Ziemi na pokładzie *Vostok 1*. Gagarin był jednym z 20 osób, które zostały wybrane wśród pilotów wojskowych Związku Radzieckiego :cite:`Quote Needed`. Wg. podań świadków major wyróżniał się wytrzymałością, duchem oraz doświadczeniem. Wśród wszyskich rekrutowanych kosmonautów przeprowadzono ankietę "kogo wytypowałbyś na pierwszy lot" :cite:`Quote Needed`. Osiemnaście na dwadzieścia osób z załogi wybrało Gagarina. Pułkownik po okrążeniu Ziemi wszedł ponownie w atmosferę w tzw. krzywej balistycznej cechującej się wysokim poziomem przeciążeń działających na ciało kosmonauty. Ze względu na fakt, iż Radzieccy konstruktorzy nie dysponowali jeszcze techniką aby bezpiecznie posadzić statek kosmiczny na ziemi zdecydowano się na użycie katapulty i spadochronu. Na poziomie 20000 stóp Gagarin katapultował się i bezpiecznie wrócił na powierzchnię :cite:`Why-Yuri-Gagarin-Remains-the-First-Man-in-Space`.
 
 Amerykańską odpowiedzią był program *Mercury*. W trakcie programu wybrano siedmiu astronautów. Nazwiska astronautów, znak wywoławczy oraz datę wystrzelenia przedstawia tabela poniżej.
 
