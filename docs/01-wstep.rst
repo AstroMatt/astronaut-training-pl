@@ -23,7 +23,7 @@ Aby móc pomyśleć na temat dalszej eksploracji kosmosu agencje kosmiczne musz�
 - ochrona przed promieniowaniem kosmicznym,
 - pozyskiwanie lub posiadanie wystarczającego zapasu paliwa rakietowego.
 
-Obecnie agencje kosmiczne wielu państw coraz częściej wypowiadają się na temat planów długotrwałych misji człowieka w kosmosie. Wspomniana NASA planuje wylot na Marsa z poprzedzającą ją misją "Asteroid Redirect Mission", która ma na celu pozyskanie głazu z asteroidy i umieszczenie go na orbicie okołoksiężycowej. Następnie na niego zostanie wysłana załoga aby dokonać poboru próbek powierzchni oraz badań geologicznych. Europejka Agencja Kosmiczna (ang. ESA - European Space Agency) wraz z Roscosmos (Rosyjska Agencja Kosmiczna) planują w 2030 roku :cite:`Quote-Needed` zbudowanie w okolicach południowego bieguna permanentnej osady człowieka na Księżycu. Prace przygotowawcze do tego projektu już trwają. Europejskie Centrum Szkolenia Astronautów (ang. EAC - European Astronaut Centre) ogłosiło projekt "Spaceship EAC" :cite:`Quote-Needed`, który ma na celu sprawdzenie gotowości (ang. Proof of Concept) obecnych technologii do tego przedsięwzięcia. Ponadto w ostatnich miesiącach chińska agencja kosmiczna zapowiedziała budowę stacji orbitalnej.
+Obecnie agencje kosmiczne wielu państw coraz częściej wypowiadają się na temat planów długotrwałych misji człowieka w kosmosie. Wspomniana NASA planuje wylot na Marsa z poprzedzającą ją misją "Asteroid Redirect Mission", która ma na celu pozyskanie głazu z asteroidy i umieszczenie go na orbicie okołoksiężycowej. Następnie na niego zostanie wysłana załoga aby dokonać poboru próbek powierzchni oraz badań geologicznych. Europejka Agencja Kosmiczna (ang. ESA - European Space Agency) wraz z Roscosmos (Rosyjska Agencja Kosmiczna) planują w 2030 roku :cite:`Moon-Village` zbudowanie w okolicach południowego bieguna permanentnej osady człowieka na Księżycu. Prace przygotowawcze do tego projektu już trwają. Europejskie Centrum Szkolenia Astronautów (ang. EAC - European Astronaut Centre) ogłosiło projekt "Spaceship EAC" :cite:`Spaceship-EAC`, który ma na celu sprawdzenie gotowości (ang. Proof of Concept) obecnych technologii do tego przedsięwzięcia. Ponadto w ostatnich miesiącach chińska agencja kosmiczna zapowiedziała budowę stacji orbitalnej.
 
 Jednym z najważniejszych ogniw całego programu pobytu człowieka poza Ziemią jest selekcja i przygotowanie załogi do trudnych warunków pozaziemskiej aktywności. Sam proces podstawowego przeszkolenia załogi trwa 2 lata i składa się z czterech głównych etapów:
 
@@ -69,16 +69,9 @@ Każda agencja kosmiczna ma prawo nazwania ludzi, którzy lecą w kosmos wedle u
 
     After all, Japanese traveling on the US space shuttle are still referred to as astronauts, just as East Germans who hitched a ride on Soviet spacecraft called themselves cosmonauts.
 
-
-================================= ========================= ====================== ===============
-Nazwa w oryginale                 Nazwa w języku angielskim Nazwa w języku polskim Agencja
-================================= ========================= ====================== ===============
-astronaut                         astronaut                 astronauta             NASA, ESA, JAXA
-космонавт                         cosmonaut                 kosmonauta             Roscosmos
-趙裡昱 (trad.) / 赵里昱 (simpl.)    taikonaut                 taikonauta             CNSA
-================================= ========================= ====================== ===============
-
-**Tabela 1.1. - Konwencje nazewnicze stanowiska osoby lecącej w kosmos w różnych agencjach kosmicznych**
+.. csv-table:: Tabela 1.1. - Konwencje nazewnicze stanowiska osoby lecącej w kosmos w różnych agencjach kosmicznych
+    :file: ../data/spaceman-names.csv
+    :header-rows: 1
 
 W celu uproszczenia w poniższej pracy przyjmuję konwencję stosowania nazewnictwa w języku polskim dla wszystkich profesji. Ponadto słowo astronauta będzie wykorzystane jako zamiennik pozostałych. Znaczenie tytułu pracy: "proces szkolenia astronautów do długotrwałych lotów kosmicznych" należy więc rozpatrywać jako "proces szkolenia astronautów, kosmonautów, taikonautów do długotrwałych lotów kosmicznych".
 

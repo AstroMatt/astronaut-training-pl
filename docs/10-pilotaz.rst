@@ -51,7 +51,7 @@ Sytuacje awaryjne:
 
 Podejście do ISS i manewr dokowania
 -----------------------------------
-Statek Soyuz wyposażony jest w system *KURS*, który pozwala na automatyczne naprowadzenie oraz dokownie kapsuły do Międzynarowej Stacji Kosmicznej. System ten był opracowany dla kapsuł dokujących do stacji Salyut :cite:`Quote-Needed` oraz dla stacji MIR. Obecnie system jest wypierany przez nowszy i dokładniejszy system, którego podzespoły w kapsule są znaczenie lżejsze.
+Statek Soyuz wyposażony jest w system *KURS*, który pozwala na automatyczne naprowadzenie oraz dokownie kapsuły do Międzynarowej Stacji Kosmicznej. System ten był opracowany dla kapsuł dokujących do stacji Salyut :cite:`Soviet-Union-Space-Race` oraz dla stacji MIR. Obecnie system jest wypierany przez nowszy i dokładniejszy system, którego podzespoły w kapsule są znaczenie lżejsze.
 
 Wejście w atmosferę
 -------------------
@@ -59,7 +59,7 @@ Ze względu na przesunięty środek ciężkości kapsuły Soyuz istnieje możliw
 
 Lądowanie
 ---------
-Kapsuła Souyz używa tzw. *systemu miękkiego lądowania*. System ten składa się z niewielkich silniczków rakietowych z wektorem ciągu przeciwnie skierowanym do lotu kapsuły. System ten jest aktywowany na dwa metry :cite:`Quote-Needed` przed uderzeniem w ziemię pozwalając na zminimalizowanie w znacznym stopniu siły uderzenia o grunt. Jego użycie powoduje charakterystyczny płomień oraz dym przy uderzaniu w ziemię co mylnie kojarzone jest z sytuacją niebezpieczną. Aktywacja tego systemu oraz *miękkie lądowanie* zostało uwiecznione na taśmach video :cite:`Quote-Needed`.
+Kapsuła Souyz używa tzw. *systemu miękkiego lądowania*. System ten składa się z niewielkich silniczków rakietowych z wektorem ciągu przeciwnie skierowanym do lotu kapsuły. System ten jest aktywowany na dwa metry :cite:`An-Astronauts-Guide-to-Life-on-Earth` przed uderzeniem w ziemię pozwalając na zminimalizowanie w znacznym stopniu siły uderzenia o grunt. Jego użycie powoduje charakterystyczny płomień oraz dym przy uderzaniu w ziemię co mylnie kojarzone jest z sytuacją niebezpieczną. Aktywacja tego systemu oraz *miękkie lądowanie* zostało uwiecznione na taśmach video :cite:`Soyuz-undocking-reentry-landing`.
 
 Sytuacje awaryjne statku kosmicznego
 ====================================
@@ -67,9 +67,9 @@ Loty kosmiczne są obarczone wysokim stopniem ryzyka. Większość z godzin prze
 
 Rozszczelnienie
 ---------------
-Do rozszczelnienia kapsuły może dość na skutek kolizji z mikrometeorytem, który niszcząc poszycie pozostawia otwór, z którego uchodzi powietrze. W zależności od wielkości uszkodzenia są różne procedury. Jedną z najważniejszych rzeczy należących do załogi jest uszczelnienie skafandra IVA Orlan oraz odkręcenie dopływu powietrza. Do czasu misji Souyz :todo:`Podać numer misji` podczas, której przy wejściu w atmosferę doszło do rozszczelnienia kapsuły i ujścia powietrza co skutkowało śmiercią załogi, kosmonauci nosili strojów wewnątrz kapsuły. Od czasu tego incydentu zarówno podczas startu, dokowania, odejścia, i wejścia w atmosferę astronauci muszą znajdować się w stroju IVA.
+Do rozszczelnienia kapsuły może dość na skutek kolizji z mikrometeorytem, który niszcząc poszycie pozostawia otwór, z którego uchodzi powietrze. W zależności od wielkości uszkodzenia są różne procedury. Jedną z najważniejszych rzeczy należących do załogi jest uszczelnienie skafandra IVA Orlan oraz odkręcenie dopływu powietrza. Do czasu misji Souyz 11 podczas, której przy wejściu w atmosferę doszło do rozszczelnienia kapsuły i ujścia powietrza co skutkowało śmiercią załogi, kosmonauci nosili strojów wewnątrz kapsuły :cite:`Soyuz11`. Od czasu tego incydentu zarówno podczas startu, dokowania, odejścia, i wejścia w atmosferę astronauci muszą znajdować się w stroju IVA :cite:`Sokol`.
 
-Podobny incydent zdarzył się podczas lotu Apollo-Soyuz gdy do amerykańskiej kapsuły Apollo podczas wejścia w atmosferę zaczął wdzierać się toksyczny gaz :todo:`nazwa gazu` :cite:`Quote-Needed`. Tylko dzięki szybkiej reakcji astronautów udało się uniknąć ich śmierci.
+Podobny incydent zdarzył się podczas lotu Apollo-Soyuz gdy do amerykańskiej kapsuły Apollo podczas wejścia w atmosferę zaczął wdzierać się toksyczny gaz Tetratlenek diazotu :math:`N\sub{2}O\sub{4}` :cite:`Failure-Is-Not-an-Option`, :cite:`Manned-Space-from-Mercury-to-the-Shuttle`. Tylko dzięki szybkiej reakcji astronautów udało się uniknąć ich śmierci.
 
 Pożar
 -----
@@ -90,7 +90,7 @@ System przerwania startu (Launch Escape System)
 
 Wszystkie załogowe statki kosmiczne są wyposażone w system ewakuacji podczas startu. Systemy te pozwalają na ucieczkę załogi gdy rakieta zachowuje się nieprawidłowo, lub gdy na płycie startowej doszło do eksplozji. Zasada działania systemu zwykle być bardzo prosta i polega na trzech przewodach elektrycznych. Jeżeli napięcie zaniknie na dwóch z nich - przewód jest przerwany - automatycznie aktywują się silniki rakietowe odciągające kapsułę z załogą z dala od wybuchającej rakiety. W system ten były wyposażone już rakiety z programu Mercury-Redstone i późniejsze.
 
-Na specjalną uwagę zasługuje fakt, iż w programie Gemini zdecydowano się na zmianę systemu awaryjnego opuszczania pojazdu przy starcie i zastąpiono go wyrzucanymi fotelami katapultowymi. W podobny system był wyposażony statek Wostok, którym Gagarin jako pierwszy okrążył Ziemię. W późniejszych lotach radzieckich Woschod :todo:`Czy dobrze to napisałem?` ze względu na brak miejsca w kabinie zrezygnowano z systemu awaryjnego.
+Na specjalną uwagę zasługuje fakt, iż w programie Gemini zdecydowano się na zmianę systemu awaryjnego opuszczania pojazdu przy starcie i zastąpiono go wyrzucanymi fotelami katapultowymi. W podobny system był wyposażony statek Wostok, którym Gagarin jako pierwszy okrążył Ziemię. W późniejszych lotach radzieckich Woschod ze względu na brak miejsca w kabinie zrezygnowano z systemu awaryjnego.
 
 System ewakuacji załogi podczas startu może być aktywowany:
 
@@ -98,9 +98,9 @@ System ewakuacji załogi podczas startu może być aktywowany:
 - ręcznie przez kontrolerów lotu na polecenie kierownika lotu (ang. Flight Director),
 - ręcznie przez dowódcę załogi.
 
-Astronauci są szkoleni z wykorzystywania systemu lecz nie zdazył się przypadek gdy system ten zadziałał z tego powodu. Podczas misji Apollo 12 po starcie rakiety piorun trafił w strukturę pojazdu i dowódca Pete Conrad :todo:`potwierdzić nazwisko` był bliski aktywowania systemu. Piorun trafiał w rakietę dwukrotnie :todo:`Potwierdzić ilość`, ale w żadnym z tych wydarzeń system nie został aktywowany i misja przebiegła bez incydentów.
+Astronauci są szkoleni z wykorzystywania systemu lecz nie zdazył się przypadek gdy system ten zadziałał z tego powodu. Podczas misji Apollo 12 po starcie rakiety piorun trafił w strukturę pojazdu i dowódca Charles "Pete" Conrad był bliski aktywowania systemu. Piorun trafiał w rakietę dwukrotnie, ale w żadnym z tych wydarzeń system nie został aktywowany i misja przebiegła bez incydentów :cite:`Failure-Is-Not-an-Option`.
 
-System ten został użyty podczas misji Soyuz :todo:`Wpisać numer` i pozwolił załodze na bezpieczne oddalenie się od rakiety, która wybuchła na platformie startowej. Astronauci podczas tego wydarzenia byli poddani przeciążeniu chwilowemu równemu 14G :todo:`Zweryfikować dane`.
+System ten został użyty podczas misji Soyuz T-10-1 (26 września 1983) i pozwolił załodze na bezpieczne oddalenie się od rakiety, która wybuchła na platformie startowej. Astronauci podczas tego wydarzenia byli poddani przeciążeniu chwilowemu równemu 14G do 17G (137 to 167 :math:`m/s\sup{2}`).
 
 Z systemem ewakuacji podczas startu związany jest również wypadek, w którym zginęli inżynierowie pracujący na platformie w kosmodromie Bajkonur w Kazachstanie. System będąc uzbrojonym błędnie zinterpretował dane na temat awarii i uruchomił silniki odrzutowe. Od tego momentu system uzbraja się bezpośrednio przed startem po opuszczeniu przez wszystkich platformy startowej i okolic rakiety :cite:`Quote-Needed`.
 
