@@ -65,7 +65,7 @@ Nazwiska astronautów, znak wywoławczy oraz datę wystrzelenia przedstawia tabe
     :file: ../data/mercury-astronauts.csv
     :header-rows: 1
 
-Z przyczyn zdrowotnych Deke Slayton został zdyskwalifikowany z udziału w programie *Mercury* i uziemiony. Przez trzynaście lat od czasu pierwszego lotu Sheparda, Deke Slayton kierował biurem astronautów i przydziału do misji (ang. *Astronauts Office*) przemianowany później na "Flight Crew Operations Office" i po ostatecznym przejściu badań medycznych wziął udział w ostatnim locie programu *Apollo* tj. *Apollo-Souyz* :cite:`History-of-Project-Mercury`. W tym locie doszło do historycznego dokowania na orbicie okołoziemskiej statków *Apollo* i *Soyuz* oraz do symbolicznego uściśnięcia dłoni przedstawicieli USA i ZSSR.
+    Z przyczyn zdrowotnych Deke Slayton został zdyskwalifikowany z udziału w programie *Mercury* i uziemiony. Przez trzynaście lat od czasu pierwszego lotu Sheparda, Deke Slayton kierował biurem astronautów i przydziału do misji (ang. *Astronauts Office*) przemianowany później na "Flight Crew Operations Office" i po ostatecznym przejściu badań medycznych wziął udział w ostatnim locie programu *Apollo* tj. *Apollo-Souyz* :cite:`History-of-Project-Mercury`. W tym locie doszło do historycznego dokowania na orbicie okołoziemskiej statków *Apollo* i *Soyuz* oraz do symbolicznego uściśnięcia dłoni przedstawicieli USA i ZSSR.
 
 Projekt Gemini
 --------------
