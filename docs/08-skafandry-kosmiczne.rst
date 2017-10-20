@@ -264,9 +264,10 @@ SAFER
 Augumentacja
 ============
 .. todo::
-        - mobiPV
-        - Google Glass
+    - mobiPV
+    - Google Glass
     - Pozycjonowanie astronautów i obserwacja realtime gdzie są
+
         - GPS na Księżycu i Marsie
         - Nawigowanie alternatywne
         - Geografia terenu

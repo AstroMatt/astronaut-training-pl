@@ -6,6 +6,7 @@ Treningi i symulacje
     - Astronaut Pilots and Commanders are a breed apart, as are Test Pilots. These are people with total control over their emotions and reactions, rarely if ever flustered. If you've watched test pilots flying aircraft in Air Shows, and seen planes literally come apart and the pilot stays seemingly forever in the cockpit, before a last ditch ejection, then you know the kind of people I'm talking about.  I have flown simulations with Astronauts and they really do have ice water running through their veins.  Nothing rattles them.  They do not have a death wish, but they face every situation, including the toughest ones, with a calm that's nearly impossible to believe.
     - http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/basic-training.asp
     - Canadian Astronaut Basic training covers many subjects, including:
+
         - CSA orientation
         - History of space flight
         - Fundamentals of space flight
@@ -25,6 +26,7 @@ Treningi i symulacje
         - Operation of photographic equipment
         - Media relations
         - Survival training
+
     - http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/flight-training.asp
     - http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/ongoing-training.asp
 
@@ -45,6 +47,7 @@ Przygotowanie medyczne
 .. todo:: Przygotowanie medyczne
     - http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/ongoing-training.asp
     - Given all of the risks involved in space missions and the requirements of certain scientific experiments, the astronauts must be able to perform medical interventions if necessary, such as:
+
         - drawing blood
         - ultrasounds
         - cardio-pulmonary resuscitation
@@ -60,6 +63,7 @@ Przygotowanie dentystyczne
 ---------------------------------------------------
 
 .. figure:: /img/fitness-training.jpg
+    :name: cwiczenia-kondycyjne
     :scale: 50%
     :align: center
 
@@ -84,10 +88,10 @@ Przygotowanie do pracy w ekstremalnych warunkach
     - planetary science
     - geology
     - poznawanie siebie i innych w zespole aby być lepszymi kumplami
-        - expeditionary training
-        - graduation of national outdoor leadership school, Orlando, Wyoming (hike 8 days and 8 nights)
-            - east temple peak
-            - walking up to the peak holding hands z innymi
+    - expeditionary training
+    - graduation of national outdoor leadership school, Orlando, Wyoming (hike 8 days and 8 nights)
+    - east temple peak
+    - walking up to the peak holding hands z innymi
     - Tzw. survival training
     - kiedy takie sytuacje mogą wystąpić?
     - desert training

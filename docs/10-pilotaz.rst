@@ -8,7 +8,7 @@ Szkolenie pilotażowe jest jednym z najtrudniejszych elementów szkolenia astron
 - umiejętność pilotowania ekperymentalnych statków powietrznych,
 - wykonywanie procedur w ekstremalnych wartunkach,
 - przyzwyczajenie pilota i jego rodziny do ciągłej nieobecności w domu,
-- przyzwyczajenie pilota i jego rodziny do niebezpiecznego charakteru pracy.
+- przyzwyczajenie pilota i jego rodziny do niebezpiecznego charakteru pracy :cite:`Victor-Glover-on-Safety`.
 
 Trening pilotażu samolotów
 ==========================
@@ -69,7 +69,7 @@ Rozszczelnienie
 ---------------
 Do rozszczelnienia kapsuły może dość na skutek kolizji z mikrometeorytem, który niszcząc poszycie pozostawia otwór, z którego uchodzi powietrze. W zależności od wielkości uszkodzenia są różne procedury. Jedną z najważniejszych rzeczy należących do załogi jest uszczelnienie skafandra IVA Orlan oraz odkręcenie dopływu powietrza. Do czasu misji Souyz 11 podczas, której przy wejściu w atmosferę doszło do rozszczelnienia kapsuły i ujścia powietrza co skutkowało śmiercią załogi, kosmonauci nosili strojów wewnątrz kapsuły :cite:`Soyuz11`. Od czasu tego incydentu zarówno podczas startu, dokowania, odejścia, i wejścia w atmosferę astronauci muszą znajdować się w stroju IVA :cite:`Sokol`.
 
-Podobny incydent zdarzył się podczas lotu Apollo-Soyuz gdy do amerykańskiej kapsuły Apollo podczas wejścia w atmosferę zaczął wdzierać się toksyczny gaz Tetratlenek diazotu :math:`N\sub{2}O\sub{4}` :cite:`Failure-Is-Not-an-Option`, :cite:`Manned-Space-from-Mercury-to-the-Shuttle`. Tylko dzięki szybkiej reakcji astronautów udało się uniknąć ich śmierci.
+Podobny incydent zdarzył się podczas lotu Apollo-Soyuz gdy do amerykańskiej kapsuły Apollo podczas wejścia w atmosferę zaczął wdzierać się toksyczny gaz Tetratlenek diazotu :math:`N_2O_4` :cite:`Failure-Is-Not-an-Option`, :cite:`Manned-Space-from-Mercury-to-the-Shuttle`. Tylko dzięki szybkiej reakcji astronautów udało się uniknąć ich śmierci.
 
 Pożar
 -----
@@ -100,9 +100,9 @@ System ewakuacji załogi podczas startu może być aktywowany:
 
 Astronauci są szkoleni z wykorzystywania systemu lecz nie zdazył się przypadek gdy system ten zadziałał z tego powodu. Podczas misji Apollo 12 po starcie rakiety piorun trafił w strukturę pojazdu i dowódca Charles "Pete" Conrad był bliski aktywowania systemu. Piorun trafiał w rakietę dwukrotnie, ale w żadnym z tych wydarzeń system nie został aktywowany i misja przebiegła bez incydentów :cite:`Failure-Is-Not-an-Option`.
 
-System ten został użyty podczas misji Soyuz T-10-1 (26 września 1983) i pozwolił załodze na bezpieczne oddalenie się od rakiety, która wybuchła na platformie startowej. Astronauci podczas tego wydarzenia byli poddani przeciążeniu chwilowemu równemu 14G do 17G (137 to 167 :math:`m/s\sup{2}`).
+System ten został użyty podczas misji Soyuz T-10-1 (26 września 1983) i pozwolił załodze na bezpieczne oddalenie się od rakiety, która wybuchła na platformie startowej. Astronauci podczas tego wydarzenia byli poddani przeciążeniu chwilowemu równemu 14G do 17G (137 do 167 :math:`\frac{m}{s^2}`).
 
-Z systemem ewakuacji podczas startu związany jest również wypadek, w którym zginęli inżynierowie pracujący na platformie w kosmodromie Bajkonur w Kazachstanie. System będąc uzbrojonym błędnie zinterpretował dane na temat awarii i uruchomił silniki odrzutowe. Od tego momentu system uzbraja się bezpośrednio przed startem po opuszczeniu przez wszystkich platformy startowej i okolic rakiety :cite:`Quote-Needed`.
+Z systemem ewakuacji podczas startu związany jest również wypadek, w którym zginęli inżynierowie pracujący na platformie w kosmodromie Bajkonur w Kazachstanie. System będąc uzbrojonym błędnie zinterpretował dane na temat awarii i uruchomił silniki odrzutowe. Od tego momentu system uzbraja się bezpośrednio przed startem po opuszczeniu przez wszystkich platformy startowej i okolic rakiety Soyuz 7K-OK No.1 :cite:`Kamanin-Diaries`.
 
 Przy misjach amerykańskiego promu Space Shuttle musiano zmodyfikować system. Prom kosminczy miał 8 procedur awaryjnego przerwania startu:
 

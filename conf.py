@@ -11,6 +11,7 @@ author = 'Matt Harasymczuk'
 extensions = [
     'sphinx.ext.todo',
     'sphinxcontrib.bibtex',
+    'sphinx.ext.imgmath',
 ]
 
 todo_emit_warnings = False
@@ -20,6 +21,8 @@ language = 'pl'
 master_doc = 'index'
 today_fmt = '%Y-%m-%d'
 source_suffix = ['.rst']
+imgmath_image_format = 'svg'
+numfig = True
 
 version = '1.0'
 release = '1.0'
