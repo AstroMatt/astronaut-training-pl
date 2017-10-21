@@ -509,7 +509,7 @@ Ponadto jednym z kluczowych wskaźników jest także wzrost. Osoby niższe są b
 
 
 .. csv-table:: Tabela 3.2. - parametry medycznye kandydatów na astronautów** :cite:`NASA-Astronaut-Requirements`, :cite:`ESA-Astronaut-Training-Requirements`
-    :file: ../data/astronaut-requirements-.csv
+    :file: ../data/astronaut-requirements.csv
     :header-rows: 1
 
 
