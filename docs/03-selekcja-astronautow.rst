@@ -503,36 +503,15 @@ Zdrowie kandydata jest jednym z najważniejszych kryteriów doboru. Osoby rekrut
 
 Ponadto jednym z kluczowych wskaźników jest także wzrost. Osoby niższe są bardziej predestynowane do wytrzymywania większych przeciążeń ze względu na niższą odległość pomiędzy sercem a mózgiem. Poza samą predyspozycją ze względów medycznych wzrost ma znaczenie ze względów konstrukcyjnych statków kosmicznych. Na chwilę obecną (maj 2016) jedynym sposobem dostarczania astronautów na Międzynarodową Stację Kosmiczną jest rosyjski statek Soyuz, który jest przewidziany dla osób ze wzrostem z zakresu 150 do 190 cm :cite:`ISS-Spacecraft-Soyuz-TM` (wersje TM przed czerwcem 1999 miały ograniczenie od 164 do 182 cm). Z tego samego powodu do amerykańskiego korpusu astronautów przyjmowani są kandydaci o wzroście pomiędzy 62 i 75 cali :cite:`NASA-Astronaut-Requirements` co odpowiada 157,5 i 190,5 cm. Wymaganiem Europejskiej Agencji Kosmicznej w tej dziedzinie jest wzrost pomiędzy 153 a 190 cm :cite:`ESA-Astronaut-Training-Requirements`.
 
-==================================== ============ =========
-Parametr                             Zakres       Jednostka
-==================================== ============ =========
-Wzrost w pozycji stojącej            150 - 190    cm
-Wzrost w pozycji siedzącej           80 - 99      cm
-Masa ciała                           50 - 95      kg
-Długość stopy                        29,5         cm
-Szerokość ramion                     do 52        cm
-Głębokość ramion                     do 45        cm
-Głębokość bioder w pozycji siedzącej do 41        cm
-Szerokość ud                         do 41        cm
-Obwód klatki piersiowej              brak wymagań cm
-==================================== ============ =========
+.. csv-table:: Tabela 3.1. - wybrane parametry członków załogi statku kosmicznego Soyuz TM (zmodyfikowany po czerwcu 1999) :cite:`Soyuz-A-Universal-Spacecraft`
+    :file: ../data/soyuz-requirements.csv
+    :header-rows: 1
 
-**Tabela 3.1. - wybrane parametry członków załogi statku kosmicznego Soyuz TM (zmodyfikowany po czerwcu 1999)** :cite:`Soyuz-A-Universal-Spacecraft`
 
-======================== ============================================= ========================
-Parametr                  NASA                                         Roscosmos ESA
-======================== ============================================= ========================
-Wzrost [cm]              157,48 - 190,5 (62 - 75 cali)                 150 - 190
-Ciśnienie                140/90
-Wiek                     27 - 37
-Doświadczenie            min. 3 lata pracy zawodowej
-Wykształcenie            min. poziom licencjat lub inżynier
-                         (nauki przyrodnicze, inżynieria lub medycyna)
-Wzrok (widzenie bliskie) 20/20 w każdym oku (dopuszczalna korekcja)
-Wzrok (widzenie dalekie) 20/200 w każdym oku (dopuszczalna korekcja)
-======================== ============================================= ========================
+.. csv-table:: Tabela 3.2. - parametry medycznye kandydatów na astronautów** :cite:`NASA-Astronaut-Requirements`, :cite:`ESA-Astronaut-Training-Requirements`
+    :file: ../data/astronaut-requirements-.csv
+    :header-rows: 1
 
-**Tabela 3.2. - parametry medycznye kandydatów na astronautów** :cite:`NASA-Astronaut-Requirements`, :cite:`ESA-Astronaut-Training-Requirements`
 
 Powyższe parametry są weryfikowane podczas badań medycznych w procesie selekcji astronautów wykorzystując :cite:`ESA-Astronaut-Training-Requirements`:
 
@@ -590,87 +569,16 @@ NASA - Narodowa Agencja Aeronautyki i Astronautyki (USA)
 
 Amerykańska agencja kosmiczna NASA organizuje rekrutację na kandydata na astronautę (ang. Astronaut Candidate) regularnie co dwa lata. Ostania tego typu rekrutacja miała miejsce na przełomie 2015/2016 roku i zakończyła się 15 lutego 2016 :cite:`NASA-Astronaut-Selection-Proces`. Dzięki zaangażowaniu mediów społecznościowych oraz innych środków masowego przekazu swoje aplikacje złożyło rekordowo dużo osób. Komisja rekrutacyjna będzie musiała rozpatrzyć 18000 podań i z tego grona wybrać 8-10 najlepszych kandydatów, którzy rozpoczną przygotowanie wstępne :cite:`NASA-Astronaut-Selection`.
 
-==== ===== ================================================================================================
-Rok  Grupa Nazwa
-==== ===== ================================================================================================
-1959 1     "The Mercury Seven"
-1962 2     "The New Nine"
-1963 3     "The Fourteen"
-1965 4     "The Scientists"
-1966 5     "The Original 19"
-1967 6     "The Excess Eleven (XS-11)"
-1969 7     "USAF MOL Transfer" (Astronauts selected from the Manned Orbiting Laboratory program)
-1978 8     "Thirty-Five New Guys (TFNG)" (class included first female candidates)
-1980 9     "19+80"
-1984 10    "The Maggots"
-1985 11
-1987 12    "The GAFFers"
-1990 13    "The Hairballs"
-1992 14    "The Hogs"
-1994 15    "The Flying Escargot"
-1996 16    "The Sardines" (largest class to date, 35 NASA candidates and nine international astronauts)
-1998 17    "The Penguins"
-2000 18    "The Bugs"
-2004 19    "The Peacocks"
-2009 20    "The Chumps"
-2013 21    "The 8-Balls"
-==== ===== ================================================================================================
 
-**Tabela 3.3. - Dotychczasowe selekcje astronautów NASA** :cite:`Active-NASA-Astronauts`, :cite:`Inactive-NASA-Astronauts`
+.. csv-table:: Tabela 3.3. - Dotychczasowe selekcje astronautów NASA :cite:`Active-NASA-Astronauts`, :cite:`Inactive-NASA-Astronauts`
+    :file: ../data/nasa-selections.csv
+    :header-rows: 1
 
-======================= ========== =====
-Astronauta              Rok naboru Grupa
-======================= ========== =====
-Acaba, Joseph M.        2004       19
-Arnold, Richard R.      2004       19
-Aunon, Serena M.        2009       20
-Barratt, Michael R.     2000       18
-Behnken, Robert L.      2000       18
-Boe, Eric A.            2000       18
-Bowen, Stephen G.       2000       18
-Bresnik, Randolph J.    2004       19
-Burbank, Daniel C.      1996       16
-Cassada, Josh A.        2013       21
-Cassidy, Christopher J. 2004       19
-Dyson, Tracy Caldwell   1998       17
-Epps, Jeanette J.       2009       20
-Feustel, Andrew J.      2000       18
-Fincke, E. Michael      1996       16
-Fischer, Jack D.        2009       20
-Fossum, Michael E.      1998       17
-Glover, Victor J.       2013       21
-Hague, Tyler N.         2013       21
-Hopkins, Michael S.     2009       20
-Hurley, Douglas G.      2000       18
-Kelly, Scott J.         1996       16
-Kimbrough, Robert Shane 2004       19
-Koch, Christina H.      2013       21
-Kopra, Timothy L.       2000       18
-Lindgren, Kjell N.      2009       20
-Mann, Nicole Aunapu     2013       21
-Marshburn, Thomas H.    2004       19
-McArthur, K. Megan      2000       18
-McClain, Anne C.        2013       21
-Meir, Jessica U.        2013       21
-Morgan, Andrew R.       2013       21
-Nyberg, Karen L.        2000       18
-Pettit, Donald R.       1996       16
-Rubins, Kathleen (Kate) 2009       20
-Tingle, Scott D.        2009       20
-Vande Hei, Mark T.      2009       20
-Virts, Terry W., Jr.    2000       18
-Walheim, Rex J.         1996       16
-Walker, Shannon         2004       19
-Wheelock, Douglas H.    1998       17
-Wilson, Stephanie D.    1996       16
-Whitson, Peggy A.       1996       16
-Williams, Jeffrey N.    1996       16
-Williams, Sunita L.     1998       17
-Wilmore, Barry E.       2000       18
-Wiseman, G. Reid        2009       20
-======================= ========== =====
 
-**Tabela 3.4. - Lista aktywnych astronautów NASA** :cite:`Active-NASA-Astronauts`
+.. csv-table:: Tabela 3.4. - Lista aktywnych astronautów NASA :cite:`Active-NASA-Astronauts`
+    :file: ../data/nasa-astronauts.csv
+    :header-rows: 1
+
 
 Klasy astronautów podobnie jak zespoły przydzielone do misji tworzą tzw. calss patch (ang. insygnia klasy) :cite:`Ordinary-Spaceman`.
 
@@ -684,25 +592,11 @@ ESA - Europejska Agencja Kosmiczna
 
 Jednym z warunków bycia astronautą ESA jest aby państwo narodowości kandydata było oficjalnym członkiem tej agencji. Ostatni proces rekrutacji Europejskiej Agencji Kosmicznej odbył się w maju 2008 oraz maju 2009 roku. Przedsięwzięcie prowadziła jednostka EAC (ang. European Astronaut Centre) w Kolonii w Niemczech. Wzięło w nim udział 8413 kandydatów. 20 maja 2009 sześciu nowych kandydatów na astronautów zostało przedstawionych na konferencji prasowej w siedzibie ESA w Paryżu. Kandydaci rozpoczęli swoje wstępne przeszkolenie 1 września 2009 roku. W tej selekcji wybrano następujących kandydatów :cite:`How-to-Become-an-ESA-Astronaut`, :cite:`International-Astronauts`:
 
-====================== =============== ========== =============== =====================================================================
-Astronauta             Narodowość      Rok naboru Czas w kosmosie Misje
-====================== =============== ========== =============== =====================================================================
-Jean-François Clervoy  Francja         1992       28d 03h 05m     STS-66, STS-84, STS-103
-Samantha Cristoforetti Włochy          2009       199d 16h 43m    Soyuz TMA-15M, Expedition 42, Expedition 43
-Léopold Eyharts        Francja         1998       68d 21h 31m     Soyuz TM-27, Soyuz TM-26, STS-122, Expedition 16, STS-123
-Christer Fuglesang     Szwecja         1992       26d 17h 38m     STS-116, STS-128
-Alexander Gerst        Niemcy          2009       165d 08h 01m    Soyuz TMA-13M Expedition 40, Expedition 41
-André Kuipers          Holandia        1998       203d 15h 51m    Soyuz TMA-4, Soyuz TMA-3, Soyuz TMA-03M, Expedition 30, Expedition 31
-Andreas Mogensen       Dania           2009       9d 20h 14m      Soyuz TMA-18M/Soyuz TMA-16M
-Paolo A. Nespoli       Włochy          1998       174d 09h 40m    STS-120, Soyuz TMA-20, Expedition 26
-Luca Parmitano         Włochy          2009       166d 6h 19m     Soyuz TMA-09M, Expedition 36, Expedition 37
-Timothy Peake          Wielka Brytania 2009       186d            Soyuz TMA-19M (Expedition 46/47)
-Thomas Pesquet         Francja         2009       164d            Soyuz MS-03 (Expedition 50/51)
-Hans Schlegel          Niemcy          1998       22d 18h 02m     STS-55, STS-122
-Roberto Vittori        Włochy          1998       35d 12h 26m     Soyuz TM-34, Soyuz TM-33, Soyuz TMA-6, Soyuz TMA-5, STS-134
-====================== =============== ========== =============== =====================================================================
 
-**Tabela 3.5. - Lista aktywnych astronautów ESA** :cite:`European-Astronaut-Corps`
+.. csv-table:: Tabela 3.5. - Lista aktywnych astronautów ESA :cite:`European-Astronaut-Corps`
+    :file: ../data/esa-astronauts.csv
+    :header-rows: 1
+
 
 JAXA - Japońska Agencja Eksploracji Kosmicznej
 ----------------------------------------------

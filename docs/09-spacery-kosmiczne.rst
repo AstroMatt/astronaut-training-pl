@@ -147,18 +147,10 @@ Symulacja prac w basenie doskonałej pływalności
         - NBL: dwóch nurków (EV1, EV2) na jednego astronautę Safety Diver + jeden (Float Diver) z kamerą i zmieniają się co dwie godziny, video jest do prezentacji i do analizowania szkoleń
         - Na dwie osoby trenujące EVA jest około 40 osób, które upewniają się, że wszystko jest bezpiecznie
 
-======================  ======================================  =====  =========================================================================
-Agencja                 Nazwa pełna                             Skrót  Lokacja
-======================  ======================================  =====  =========================================================================
-NASA                    Neutral Buoyancy Laboratory             NBL    Sonny Carter Training Facility, Johnson Space Center, Houston, TX, USA
-ESA                     Neutral Buoyancy Facility               NBF    European Astronaut Center, Kolonia, Niemcy
-Roscosmos               Hydro Lab                                      Gagarin Cosmonaut Training Center (GCTC), Zvyozdny gorodok, Moskwa, Rosja
-CNSA                    Neutral Buoyancy Facility               NBF    China Astronaut Research and Training Center, Pekin, Chiny
-JAXA                    Weightlessness Environment Test System  WETS   Tsukuba Space Center, Ibaraki, Japan
-University of Maryland  Buoyancy Research Facility              NBRF   University of Maryland, USA
-======================  ======================================  =====  =========================================================================
 
-**Tabela 9.1. - Lista basenów neutralnej pływalności**
+.. csv-table:: Tabela 9.1. - Lista basenów neutralnej pływalności
+    :file: ../data/neutral-buoyancy-pools.csv
+    :header-rows: 1
 
 NASA - Neutral Buoyancy Laboratory
 ----------------------------------

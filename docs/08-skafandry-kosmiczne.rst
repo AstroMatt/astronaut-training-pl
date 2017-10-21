@@ -139,48 +139,18 @@ Lista skafandrów kosmicznych
 Skafandry kosmiczne wykorzystywane podczas startu i lądowania
 -------------------------------------------------------------
 
-=========================  =============  =========  ==============  =============  =====================================
-Nazwa                      Przeznaczenie  Produkcja  Lata użycia     Program        Uwagi
-=========================  =============  =========  ==============  =============  =====================================
-SK                         IVA            ZSSR       1961 - 1963     Wostok         Yuri Gagarin, pierwszy skafander
-Mark IV                    IVA            USA        1961 - 1963     Mercury
-Gemini G3C                 IVA            USA        1965 - 1966     Gemini
-Gemini G4C                 IVA i EVA      USA        1965 - 1966     Gemini         użyty zarówno do IVA i EVA
-Gemini G5C                 IVA            USA        1965 - 1966     Gemini         używany przez 14 dni podczas Gemini 7
-Sokol                      IVA            ZSSR       1973 - obecnie  Soyuz
-Ejection Escape Suit       IVA            USA        1981 - 1982     Space Shuttle  używany przy pierwszych lotach
-Launch Entry Suit          IVA            USA        1988 - 1998     Space Shuttle
-Strizh                     IVA            ZSSR       1988            Buran
-Advanced Crew Escape Suit  IVA            USA        1994 - 2014     Space Shuttle
-Shenzhou IVA               IVA            Chiny      2005            Shenzhou       użyty podczas Shenzhou 5
-MACES                      USA                                       Orion          użyty zarówno do IVA i EVA
-=========================  =============  =========  ==============  =============  =====================================
+.. csv-table:: Tabela 8.1 - zestawienie skafandrów do czynności podczas startu i lądowania IVA (ang. Intravehicular Activity)
+    :file: ../data/spacesuits-iva.csv
+    :header-rows: 1
 
-**Tabela 8.1 - zestawienie skafandrów do czynności podczas startu i lądowania IVA (ang. Intravehicular Activity)**
 
 Skafandry kosmiczne wykorzystywane podczas wyjść w przestrzeń kosmiczną
 -----------------------------------------------------------------------
 
-============================  =========  ==============  =========================  ======================================
-Nazwa                         Produkcja  Lata użycia     Program                    Uwagi
-============================  =========  ==============  =========================  ======================================
-Berkut                        ZSSR       1965            Wostok                     Alexey Leovov, pierwszy EVA
-Krechet-94                    ZSSR       1965 - 1970     N1/L3 (księżycowy)
-Gemini G4C                    USA        1965 - 1966     Gemini                     użyty zarówno do IVA i EVA
-Apollo Block 1 A1C            USA        1966 - 1967     Apollo                     zaprzestano użycia po pożarze Apollo 1
-MH-7                          USA        n/d             Manned Orbital Laboratory  nigdy nie użyty
-Shuguang                      Chiny      1967            Project 714                nigdy nie użyty
-Project 863                   Chiny      n/d             n/d                        nigdy nie użyty
-Apollo / Skylab A7L           USA        1968 - 1975     Apollo, Skylab
-Yasterb                       ZSSR       1969            Soyuz 4 i 5
-Orlan                         ZSSR       1977 - obecnie  Soyuz, Mir, ISS
-Extravehicular Mobility Unit  USA        1982 - obecnie  Space Shuttle, ISS
-Haiying                       Chiny      2008            Shenzhou                   Orlan M, użyty podczas Shenzhou 7
-Feitian                       Chiny      2008 - obecnie  Shenzhou                   używany od Shenzhou 7
-MACES                         USA        n/d             Orion                      użyty zarówno do IVA i EVA
-============================  =========  ==============  =========================  ======================================
+.. csv-table:: Tabela 8.2 - zestawienie skafandrów do spacerów kosmicznych EVA (ang. Extravehicular Activity)
+    :file: ../data/spacesuits-eva.csv
+    :header-rows: 1
 
-**Tabela 8.2 - zestawienie skafandrów do spacerów kosmicznych EVA (ang. Extravehicular Activity)**
 
 Charakterystyka wybranych skafandrów kosmicznych
 ================================================
