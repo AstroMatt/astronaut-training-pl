@@ -45,13 +45,13 @@ Starsi stażem astronauci pomagają tym mniej doświadczonym w przygotowaniach d
 
 Misje analogowe
 ===============
-Misje analogowe (ang. analogs) starają się jaknajwierniej odzwierciedlić specyfikę problemu pracy na orbicie lub powierzchni obcej planety wykorzystując zasoby i tereny dostępne na Ziemi. Jednmi z najbardziej popularnych miejsc prowadzenia badań oraz szkoleń astronautów są pustynie skaliste lub zbocza wulkanów imitujące powierzchnię Marsa, wnętrza jaskiń oraz bazy podwodne :cite:`One-small-step-for-a-geologist`, :cite:`Preparing-astronauts-for-exploring-celestial-bodies`, :cite:`Ordinary-Spaceman`.
+Misje analogowe (ang. analogs) starają się jaknajwierniej odzwierciedlić specyfikę problemu pracy na orbicie lub powierzchni obcej planety wykorzystując zasoby i tereny dostępne na Ziemi. Jednmi z najbardziej popularnych miejsc prowadzenia badań oraz szkoleń astronautów są pustynie skaliste lub zbocza wulkanów imitujące powierzchnię Marsa, wnętrza jaskiń oraz bazy podwodne :cite:`One-small-step-for-a-geologist`, :cite:`Preparing-astronauts-for-exploring-celestial-bodies`, :cite:`Anderson2015`.
 
 Misja Europejskiej Agencji Kosmicznej CAVES służy astronautom oraz obsłudze w nauce eksploracji trudno dostępnych miejsc. Ponadto przyczynia się do zrozumienia konieczności pracy w grupie, zacieśnia relacje w zespole oraz uczy geologii i mikrobiologii. Członkowie wyprawy do jaskiń Srdynii eksplorują trójwymiarowe struktury korytarzy i odkrywają nowe gatunki mikroogranizmów zamieszkujące te miejsca :cite:`Preparing-astronauts-for-exploring-celestial-bodies`.
 
 Kolejnym przykładem misji analogowej Europejskiej Agencji Kosmicznej jest cykl wypraw "Pangaea", która składa się z dwóch części: jednej na wyspie Lanzarote w archipelagu wysp Kanaryjskich oraz drugiej w pobliżu Bressanone we włoszech. Pierwsze miejsce zostało wybrane ze względu na możliwość prowadzenia badań z zakresu geologii planetarnej na terenie przypominającym pustkowia Marsa :cite:`One-small-step-for-a-geologist`. Miejsce we włoszech wybrano w celu prowadzenia analizy geologicznej i geomorfologicznej jak również poszukiwania śladów życia i pobranych próbkach :cite:`Preparing-astronauts-for-exploring-celestial-bodies`.
 
-Misje NEEMO w habitacie podwodnym Aquarius są projektem amerykańskiej agencji kosmicznej NASA. Poza obywatelami stanów zjednoczonych w mijsach także uczestniczą astronauci z Europy, Kanady, Japonii i Rosji. Program NEEMO ma za zadanie zapoznać astronautów z problemami pobytu w długotrwałej izolacji, specyfiką pracy w trudnych warunkach na dnie oceanu oraz czasowym przestrzeganiem procedur :cite:`Ordinary-Spaceman`.
+Misje NEEMO w habitacie podwodnym Aquarius są projektem amerykańskiej agencji kosmicznej NASA. Poza obywatelami stanów zjednoczonych w mijsach także uczestniczą astronauci z Europy, Kanady, Japonii i Rosji. Program NEEMO ma za zadanie zapoznać astronautów z problemami pobytu w długotrwałej izolacji, specyfiką pracy w trudnych warunkach na dnie oceanu oraz czasowym przestrzeganiem procedur :cite:`Anderson2015`.
 
 Praca w symulatorach w przypadku problemów na orbicie
 =====================================================

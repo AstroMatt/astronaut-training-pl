@@ -21,46 +21,8 @@ Selekcja kandydatów do przeszkolenia podstawowego
     - https://www.facebook.com/saved/?cref=43&notif_t=heavy_save_reminder&notif_id=1459285020123049
 
     - 60% astronautów jest super, reszta zdarza się że osiadają na laurach i przestają się uczyć kiedy mają już jakieś
-    - Skontaktować się z MPUSC - Multi Purpose User Suppoer Center
+    - Skontaktować się z MPUSC - Multi Purpose User Support Center
     - Flight note system - późniejsze informacje dla zespołu (delta information) lub updated procedures, które zmieniają się od założeń
-
-    Pytania na selekcji na Astronautę:
-
-        - dlaczego chcesz zostać astronautą
-        - Czy myślałeś kiedyś aby zabić swoją matkę
-        - Swoje mocne strony i jak je wykorzystujesz
-        - Swoje słabe strony i jak nad nimi pracujesz
-        - Ultimate question, do I want to go to space with this person
-        - They are not looking for hyper focus person
-        - They are looking for person who can do a little bit of everything
-        - Why do you want to be an astronaut is that a passion or you think it would be fun?
-        - Do you have an operational capability i.e. Can you fix things like computer or car
-        - What is your applicability of experience
-        - How well do you communicate
-        - How well do you cope with others and how do you respond and adapt to change
-        - Is this candidate will be a good representative of NASA
-        - Is this candidate has personality that is to intense
-        - Are you a team player, self starter
-        - Who are you as a person, are you a hard worker, what is your humility and ego balance
-        - Do you have good situational awareness and good judgement
-        - Everything must be finished by the applications due date. Unfinished studies, pilot license or work experience does not count
-        - Personal interviews are carried by actual astronauts and JSC managers. Selected must be accepted by JSC director and later by NASA administrator
-
-    Show
-    - you're trying to better yourself
-    - You're learning new skills
-    - You're aware of many skills required by new and old astronauts
-    - You're not afraid to try anything
-
-    Most of the applicants are doing or done the same thing. Do something that stands out.
-
-    - Perform under the duress (stress?)
-    - Analyzing situations in the instant and using appropriate reaction and execution
-
-    Healthy ego
-    - not cockiness
-    - selection as astronaut does not guarantee mission assignment
-    - If you cannot meet expectations in Russian language, robotics or EVA training you'll be disqualified
 
 Przygotowanie astronautów i kosmonautów do długotrwałych misji kosmicznych zaczyna się od wyboru najlepszych kandydatów. Na chwilę obecną rekrutuje się osoby wśród najbardziej pożądanych specjalizacji tj.:
 
@@ -124,7 +86,47 @@ Idealny kandydat posiada :cite:`ESA-Astronaut-Training-Requirements`:
 - stabilność emocjonalna,
 - umiejętność długotrwałej współpracy w międzykulturowym środowisku.
 
-Proces badań wstępnych jest prowadzony przez zespół wykwalifikowanych specjalistów z zakresu psychologii.
+Proces badań wstępnych jest prowadzony przez zespół wykwalifikowanych specjalistów z zakresu psychologii. Wśród pytań zadawanych przez ekspertów wymienić można te, które pojawiają się najczęściej podczas rekrutacji :cite:`​Hadfield2013`,:cite:`​Hermaszewski2013`,:cite:`​Anderson2015`,:cite:`​Massimino2016`:
+
+Pytania na selekcji na Astronautę:
+
+        - dlaczego chcesz zostać astronautą
+        - Czy myślałeś kiedyś aby zabić swoją matkę
+        - Swoje mocne strony i jak je wykorzystujesz
+        - Swoje słabe strony i jak nad nimi pracujesz
+        - Ultimate question, do I want to go to space with this person
+        - They are not looking for hyper focus person
+        - They are looking for person who can do a little bit of everything
+        - Why do you want to be an astronaut is that a passion or you think it would be fun?
+        - Do you have an operational capability i.e. Can you fix things like computer or car
+        - What is your applicability of experience
+        - How well do you communicate
+        - How well do you cope with others and how do you respond and adapt to change
+        - Is this candidate will be a good representative of NASA
+        - Is this candidate has personality that is to intense
+        - Are you a team player, self starter
+        - Who are you as a person, are you a hard worker, what is your humility and ego balance
+        - Do you have good situational awareness and good judgement
+        - Everything must be finished by the applications due date. Unfinished studies, pilot license or work experience does not count
+        - Personal interviews are carried by actual astronauts and JSC managers. Selected must be accepted by JSC director and later by NASA administrator
+
+    Show
+    - you're trying to better yourself
+    - You're learning new skills
+    - You're aware of many skills required by new and old astronauts
+    - You're not afraid to try anything
+
+    Most of the applicants are doing or done the same thing. Do something that stands out.
+
+    - Perform under the duress (stress?)
+    - Analyzing situations in the instant and using appropriate reaction and execution
+
+    Healthy ego
+    - not cockiness
+    - selection as astronaut does not guarantee mission assignment
+    - If you cannot meet expectations in Russian language, robotics or EVA training you'll be disqualified
+
+
 
 Selekcja kondycyjna
 -------------------
@@ -575,7 +577,7 @@ Amerykańska agencja kosmiczna NASA organizuje rekrutację na kandydata na astro
     :header-rows: 1
 
 
-Klasy astronautów podobnie jak zespoły przydzielone do misji tworzą tzw. calss patch (ang. insygnia klasy) :cite:`Ordinary-Spaceman`.
+Klasy astronautów podobnie jak zespoły przydzielone do misji tworzą tzw. calss patch (ang. insygnia klasy) :cite:`Anderson2015`.
 
 Roscosmos (Federacja Rosyjska)
 ------------------------------

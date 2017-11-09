@@ -59,7 +59,7 @@ Ze względu na przesunięty środek ciężkości kapsuły Soyuz istnieje możliw
 
 Lądowanie
 ---------
-Kapsuła Souyz używa tzw. *systemu miękkiego lądowania*. System ten składa się z niewielkich silniczków rakietowych z wektorem ciągu przeciwnie skierowanym do lotu kapsuły. System ten jest aktywowany na dwa metry :cite:`An-Astronauts-Guide-to-Life-on-Earth` przed uderzeniem w ziemię pozwalając na zminimalizowanie w znacznym stopniu siły uderzenia o grunt. Jego użycie powoduje charakterystyczny płomień oraz dym przy uderzaniu w ziemię co mylnie kojarzone jest z sytuacją niebezpieczną. Aktywacja tego systemu oraz *miękkie lądowanie* zostało uwiecznione na taśmach video :cite:`Soyuz-undocking-reentry-landing`.
+Kapsuła Souyz używa tzw. *systemu miękkiego lądowania*. System ten składa się z niewielkich silniczków rakietowych z wektorem ciągu przeciwnie skierowanym do lotu kapsuły. System ten jest aktywowany na dwa metry :cite:`Hadfield2013` przed uderzeniem w ziemię pozwalając na zminimalizowanie w znacznym stopniu siły uderzenia o grunt. Jego użycie powoduje charakterystyczny płomień oraz dym przy uderzaniu w ziemię co mylnie kojarzone jest z sytuacją niebezpieczną. Aktywacja tego systemu oraz *miękkie lądowanie* zostało uwiecznione na taśmach video :cite:`Soyuz-undocking-reentry-landing`.
 
 Sytuacje awaryjne statku kosmicznego
 ====================================

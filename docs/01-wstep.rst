@@ -3,7 +3,7 @@ Wstęp
 *****
 
 .. todo:: http://www.esa.int/Our_Activities/Human_Spaceflight/European_Astronaut_Selection/European_astronaut_charter
-.. todo:: Strona 136 :cite:`Ciezar-Niewazkosci-opowiesc-pilota-kosmonauty` dolny fragment to wstęp do pracy
+.. todo:: Strona 136 :cite:`Hermaszewski2013` dolny fragment to wstęp do pracy
 
 Historia załogowych lotów kosmicznych sięga roku 1961 gdy 12 kwietnia rosyjski pilot Yuri Gagarin jako pierwszy przekroczył umowną granice kosmosu, tzw. linię Kármána. Od tego czasu podobnego wyczynu dokonało 553 osób :cite:`Astronaut-Statistics`. W tym gronie znajduje się dwunastu amerykańskich astronautów, którzy postawili stopę na innym ciele niebieskim, tj. Księżycu. W ciągu czterdziestu lat od tego wydarzenia człowiek na stałe zaczął mieszkać na orbicie. Międzynarodowa stacja kosmiczna gości na swoim pokładzie sześciu astronautów i kosmonautów, którzy prowadzą badania naukowe w bardzo wielu dziedzinach technicznych, inżynieryjnych, biologicznych i chemicznych. Średni czas przebywania członka załogi na stacji wynosi sześć miesięcy.
 

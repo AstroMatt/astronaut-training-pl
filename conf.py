@@ -29,3 +29,11 @@ release = '1.0'
 
 html_theme = 'thesis'
 html_theme_path = ['_themes']
+
+# Fix for: LaTeX Backend Fails with Citations In Figure Captions
+latex_elements = {
+ 'preamble': r'''
+     \usepackage{etoolbox}
+     \AtBeginEnvironment{figure}{\renewcommand{\phantomsection}{}}
+ '''
+}

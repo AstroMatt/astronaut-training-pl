@@ -227,14 +227,14 @@ Badania medyczne przed wylotem
     - Badania medyczne z książki ciężar nieważkości
 
 
-Bezpośrednio przed samym wylotem po odbyciu procesu kwarantanny badania medyczne załóg amerykańskiego promu kosmicznego były tyko formalnością :cite:`Ordinary-Spaceman`. W przypadku startów z kosmodromu w Bajkonurze załoga przechodzi gruntowne testy przedstartowe oraz odbywa proces leżenia z głową w dół aby przyzwyczaić organizm astronauty do stanu nieważkości :cite:`Ciezar-Niewazkosci-opowiesc-pilota-kosmonauty`.
+Bezpośrednio przed samym wylotem po odbyciu procesu kwarantanny badania medyczne załóg amerykańskiego promu kosmicznego były tyko formalnością :cite:`Anderson2015`. W przypadku startów z kosmodromu w Bajkonurze załoga przechodzi gruntowne testy przedstartowe oraz odbywa proces leżenia z głową w dół aby przyzwyczaić organizm astronauty do stanu nieważkości :cite:`Hermaszewski2013`.
 
 Tworzenie insygnii misji
 ========================
 
 Zgodnie z tradycją zapoczątkowaną wraz z pierwszymi lotami załogowymi zespoły udające się w kosmos projektują swoje "mission patch" (ang. odznaki misji). Najczęstszym formatem loga misji jest okrąg, w którego obramowanie wkomponowane są nazwiska astronautów. Wyjątkiem od reguły umieszczania nazwisk jest misja Apollo 11, podczas której ze względu na międzynarodowy charakter pierwszego lądowania na księżycu zrezygnowno z tej tradycji (misja Apollo 11 miała być misją całej ludzkości ang. "for all mankind").
 
-Do stworzenia insygniów misji dowódca załogi wyznacza kilka osób, które współpracują z grafikiem i jest to jedna z pierwszych rzeczy jaką robią załogi po uzyskaniu przypisania do misji. Niektóre załogi korzystają z profesjonalnych firm, które zajmują się projektowaniem oraz wykonywaniem insygniów misji :cite:`Ordinary-Spaceman`, :cite:`Beta-Cloth-Patches`.
+Do stworzenia insygniów misji dowódca załogi wyznacza kilka osób, które współpracują z grafikiem i jest to jedna z pierwszych rzeczy jaką robią załogi po uzyskaniu przypisania do misji. Niektóre załogi korzystają z profesjonalnych firm, które zajmują się projektowaniem oraz wykonywaniem insygniów misji :cite:`Anderson2015`, :cite:`Beta-Cloth-Patches`.
 
 .. figure: /img/mission-patch-soyuz-30.png
     :scale: 50%
