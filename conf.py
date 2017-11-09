@@ -22,7 +22,14 @@ master_doc = 'index'
 today_fmt = '%Y-%m-%d'
 source_suffix = ['.rst']
 imgmath_image_format = 'svg'
+
 numfig = True
+numfig_format = {
+    'section': 'Rozd. %s',
+    'figure': 'Ryc. %s',
+    'table': 'Tab. %s',
+    'code-block': 'List. %s',
+}
 
 version = '1.0'
 release = '1.0'
