@@ -62,7 +62,6 @@ Selekcja kandydatów do przeszkolenia podstawowego
     - selection as astronaut does not guarantee mission assignment
     - If you cannot meet expectations in Russian language, robotics or EVA training you'll be disqualified
 
-
 Przygotowanie astronautów i kosmonautów do długotrwałych misji kosmicznych zaczyna się od wyboru najlepszych kandydatów. Na chwilę obecną rekrutuje się osoby wśród najbardziej pożądanych specjalizacji tj.:
 
 - pilot, a w szczególności pilot testowy,
@@ -83,6 +82,10 @@ Osoby biorące udział w rekrutacji poddawane są skrupulatnym badaniom mającym
 - umiejętność kojarzenia i przewidywania.
 
 Na wybór kandydata ma ogromny wpływ również doświadczenie, wykształcenie nalot lotniczy oraz przebyte kursy i wyprawy przetrwania. Astronauci to także osoby publiczne często występujące przed dużymi audiencjami dlatego ceniona jest umiejętność posługiwania się mediami społecznościowymi, pisania tekstów oraz przemawiania :cite:`How-to-Become-an-ESA-Astronaut`. Język angielski i rosyjski są obecnie oficjalnymi używanymi na ISS - międzynarodowej stacji kosmicznej dlatego od kandydatów wymaga się również znajomości tych dwóch powyższych. Dodatkowo ze względu na międzynarodowy charakter misji kosmicznych mile widziane jest zainteresowanie kulturą Stanów Zjednoczonych, Japonii i Rosji.
+
+.. csv-table:: Wymagania dla kandydatów na astronautów i kosmonautów :cite:`NASA-Astronaut-Requirements`, :cite:`ESA-Astronaut-Training-Requirements`, :cite:`Roscosmos-Cosmonaus-Requirements`
+    :file: ../data/astronaut-requirements.csv
+    :header-rows: 1
 
 Sam proces podstawowego szkolenia astronautów trwa dwa lata i jego ukończenie pozwala na zmianę tytułu z "kandydat na astronautę" na "astronauta" :cite:`NASA-Astronaut-Candidate-Program`. Jest to długi proces i wymagający wielu poświęceń z życia prywatnego. Ze względu na dużą ilość osób i zasobów zaangażowanych w przygotowanie proces ten jest bardzo kosztowny. Wsparcie jakiego wymaga przygotowanie do i po misji jest ogromne. Z tego powodu agencje kosmiczne wybierają najbardziej odpowiednie osoby na to stanowisko.
 
@@ -495,9 +498,7 @@ Selekcja medyczna
 
     https://www.schuhfried.com/search/testfinder?category=260bde92-6ed6-4a79-aa91-cb09ae7f0f97
 
-
     Wirówka
-
 
 Zdrowie kandydata jest jednym z najważniejszych kryteriów doboru. Osoby rekrutowane muszą się wykazać niezwykłą adaptacją do warunków panujących w stanie nieważkości. Jest to podyktowane głównie ogromnym kosztem wyszkolenia astronautów i chęcią zmniejszenia możliwości zaistnienia problemów podczas misji ze względu na stan zdrowia pracującego operatora. Sprawność układu ruchu, krążenia oraz równowagi ma ogromne znaczenie dla późniejszej pracy kandydata.
 
@@ -506,12 +507,6 @@ Ponadto jednym z kluczowych wskaźników jest także wzrost. Osoby niższe są b
 .. csv-table:: Wybrane parametry członków załogi statku kosmicznego Soyuz TM (zmodyfikowany po czerwcu 1999) :cite:`Soyuz-A-Universal-Spacecraft`
     :file: ../data/soyuz-requirements.csv
     :header-rows: 1
-
-
-.. csv-table:: Parametry medycznye kandydatów na astronautów :cite:`NASA-Astronaut-Requirements`, :cite:`ESA-Astronaut-Training-Requirements`
-    :file: ../data/astronaut-requirements.csv
-    :header-rows: 1
-
 
 Powyższe parametry są weryfikowane podczas badań medycznych w procesie selekcji astronautów wykorzystując :cite:`ESA-Astronaut-Training-Requirements`:
 
