@@ -1,7 +1,7 @@
-Mission  , Launch         , Duration      , Landing        , Pilot                , Notes
-Vostok 1 , 12 April 1961  , 1 h 48 m      , 12 April 1961  , Yuri Gagarin         , First man in space.
-Vostok 2 , 6 August 1961  , 1 d 1 h 18 m  , 7 August 1961  , Gherman Titov        , First manned mission lasting a full day.
-Vostok 3 , 11 August 1962 , 3 d 22 h 22 m , 15 August 1962 , Andriyan Nikolayev   , First simultaneous flight of two manned spacecraft.
-Vostok 4 , 12 August 1962 , 2 d 22 h 56 m , 15 August 1962 , Pavel Popovich       , First simultaneous flight of two manned spacecraft with Vostok 4
-Vostok 5 , 14 June 1963   , 4 d 23 h 7 m  , 19 June 1963   , Valery Bykovsky      , Longest solo orbital flight.
-Vostok 6 , 2 d 22 h 50 m  , 16 June 1963  , 19 June 1963   , Valentina Tereshkova , First woman in space.                                            ,
+ "Mission",         "Launch",      "Duration",        "Landing",                "Pilot",                                                            "Notes"
+"Vostok 1",  "12 April 1961",      "1 h 48 m",  "12 April 1961",         "Yuri Gagarin",                                              "First man in space."
+"Vostok 2",  "6 August 1961",  "1 d 1 h 18 m",  "7 August 1961",        "Gherman Titov",                         "First manned mission lasting a full day."
+"Vostok 3", "11 August 1962", "3 d 22 h 22 m", "15 August 1962",   "Andriyan Nikolayev",              "First simultaneous flight of two manned spacecraft."
+"Vostok 4", "12 August 1962", "2 d 22 h 56 m", "15 August 1962",       "Pavel Popovich", "First simultaneous flight of two manned spacecraft with Vostok 4"
+"Vostok 5",   "14 June 1963",  "4 d 23 h 7 m",   "19 June 1963",      "Valery Bykovsky",                                     "Longest solo orbital flight."
+"Vostok 6",  "2 d 22 h 50 m",  "16 June 1963",   "19 June 1963", "Valentina Tereshkova",                                            "First woman in space."

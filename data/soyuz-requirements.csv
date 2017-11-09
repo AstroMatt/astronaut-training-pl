@@ -1,10 +1,10 @@
-Parametr                             , Zakres       , Jednostka
-Wzrost w pozycji stojącej            , 150 - 190    , cm
-Wzrost w pozycji siedzącej           , 80 - 99      , cm
-Masa ciała                           , 50 - 95      , kg
-Długość stopy                        , "29,5"       , cm
-Szerokość ramion                     , do 52        , cm
-Głębokość ramion                     , do 45        , cm
-Głębokość bioder w pozycji siedzącej , do 41        , cm
-Szerokość ud                         , do 41        , cm
-Obwód klatki piersiowej              , brak wymagań , n/d
+                            "Parametr",       "Zakres", "Jednostka"
+           "Wzrost w pozycji stojącej",    "150 - 190",        "cm"
+          "Wzrost w pozycji siedzącej",      "80 - 99",        "cm"
+                          "Masa ciała",      "50 - 95",        "kg"
+                       "Długość stopy",         "29,5",        "cm"
+                    "Szerokość ramion",        "do 52",        "cm"
+                    "Głębokość ramion",        "do 45",        "cm"
+"Głębokość bioder w pozycji siedzącej",        "do 41",        "cm"
+                        "Szerokość ud",        "do 41",        "cm"
+             "Obwód klatki piersiowej", "brak wymagań",       "n/d"
