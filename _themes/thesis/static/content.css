@@ -1,9 +1,38 @@
+@page {
+    size: A4;
+    margin-top: 2.5cm;
+    margin-bottom: 2.5cm;
+    border: 1px solid #000;
+}
+
+body {
+    margin-left: 2.5cm;
+    margin-right: 2.5cm;
+    background-color: #fff;
+}
+
+a.headerlink {
+    color: #fff !important;
+}
+
+.problematic {
+    color: red;
+}
+
+.admonition-todo p {
+    display: none;
+}
+
+.admonition-todo a,
+.admonition-todo ul {
+    color: #ccc !important;
+}
+
 #content {
-  line-height: 1.5;
-  font-size: 1em;
-  text-align: justify;
-  font-family: "Times New Roman";
-  font-size: 12pt;
+    line-height: 1.5;
+    text-align: justify;
+    font-family: "Times New Roman", serif;
+    font-size: 12pt;
 }
 
 #content h1 {
@@ -14,7 +43,7 @@
     page-break-before: always;
     page-break-inside: avoid;
     page-break-after: avoid;
-    font-family: Arial;
+    font-family: Arial, sans-serif;
 }
 
 #content h2 {
@@ -24,7 +53,7 @@
     text-align: left;
     page-break-inside: avoid;
     page-break-after: avoid;
-    font-family: Arial;
+    font-family: Arial, sans-serif;
 }
 
 #content h3 {
@@ -33,7 +62,7 @@
     text-align: left;
     page-break-inside: avoid;
     page-break-after: avoid;
-    font-family: Arial;
+    font-family: Arial, sans-serif;
 }
 
 #content img {
@@ -111,6 +140,7 @@
 #content table caption,
 #content p.caption {
     font-weight: bold;
+    text-align: center;
     margin-top: 1em;
     margin-bottom: 1em;
     font-size: 10pt;
