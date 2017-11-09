@@ -88,27 +88,33 @@ Idealny kandydat posiada :cite:`ESA-Astronaut-Training-Requirements`:
 
 Proces badań wstępnych jest prowadzony przez zespół wykwalifikowanych specjalistów z zakresu psychologii. Wśród pytań zadawanych przez ekspertów wymienić można te, które pojawiają się najczęściej podczas rekrutacji :cite:`​Hadfield2013`,:cite:`​Hermaszewski2013`,:cite:`​Anderson2015`,:cite:`​Massimino2016`:
 
-Pytania na selekcji na Astronautę:
+    - Dlaczego chcesz zostać astronautą?
+    - Opisz swoje mocne strony i jak je wykorzystujesz,
+    - Opisz swoje słabe strony i jak nad nimi pracujesz,
+    - Czy myślałeś kiedyś aby zabić swoją matkę?
+    - Jakie jest zastosowanie twojego doświadczenia?
 
-        - dlaczego chcesz zostać astronautą
-        - Czy myślałeś kiedyś aby zabić swoją matkę
-        - Swoje mocne strony i jak je wykorzystujesz
-        - Swoje słabe strony i jak nad nimi pracujesz
-        - Ultimate question, do I want to go to space with this person
-        - They are not looking for hyper focus person
-        - They are looking for person who can do a little bit of everything
-        - Why do you want to be an astronaut is that a passion or you think it would be fun?
-        - Do you have an operational capability i.e. Can you fix things like computer or car
-        - What is your applicability of experience
-        - How well do you communicate
-        - How well do you cope with others and how do you respond and adapt to change
-        - Is this candidate will be a good representative of NASA
-        - Is this candidate has personality that is to intense
-        - Are you a team player, self starter
-        - Who are you as a person, are you a hard worker, what is your humility and ego balance
-        - Do you have good situational awareness and good judgement
-        - Everything must be finished by the applications due date. Unfinished studies, pilot license or work experience does not count
-        - Personal interviews are carried by actual astronauts and JSC managers. Selected must be accepted by JSC director and later by NASA administrator
+
+    - Czy masz dobrą świadomość sytuacyjną i osąd?
+    - Jak dobrze się komunikujesz?
+
+
+    - Do you have good situational awareness and good judgement
+    - They are not looking for hyper focus person
+    - They are looking for person who can do a little bit of everything
+    - Why do you want to be an astronaut is that a passion or you think it would be fun?
+    - Do you have an operational capability i.e. Can you fix things like computer or car
+
+    - How well do you communicate
+    - How well do you cope with others and how do you respond and adapt to change
+    - Is this candidate will be a good representative of NASA
+    - Is this candidate has personality that is to intense
+    - Are you a team player, self starter
+    - Who are you as a person, are you a hard worker, what is your humility and ego balance
+    -
+    - Everything must be finished by the applications due date. Unfinished studies, pilot license or work experience does not count
+    - Personal interviews are carried by actual astronauts and JSC managers. Selected must be accepted by JSC director and later by NASA administrator
+    - Ultimate question, do I want to go to space with this person
 
     Show
     - you're trying to better yourself

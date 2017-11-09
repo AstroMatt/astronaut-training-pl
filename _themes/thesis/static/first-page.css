@@ -1,7 +1,7 @@
 #first-page {
     text-align: center;
-	padding-top: 5em;
-	page-break-after: always;
+    padding-top: 5em;
+    page-break-after: always;
 }
 
 #first-page h1 {
@@ -38,6 +38,6 @@
 }
 
 #first-page footer {
-	page-break-before: avoid;
+    page-break-before: avoid;
     margin-top: 14em;
 }
