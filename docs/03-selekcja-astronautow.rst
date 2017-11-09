@@ -86,7 +86,7 @@ Idealny kandydat posiada :cite:`ESA-Astronaut-Training-Requirements`:
 - stabilność emocjonalna,
 - umiejętność długotrwałej współpracy w międzykulturowym środowisku.
 
-Proces badań wstępnych jest prowadzony przez zespół wykwalifikowanych specjalistów z zakresu psychologii. Wśród pytań zadawanych przez ekspertów wymienić można te, które pojawiają się najczęściej podczas rekrutacji :cite:`​Hadfield2013`,:cite:`​Hermaszewski2013`,:cite:`​Anderson2015`,:cite:`​Massimino2016`:
+Proces badań wstępnych jest prowadzony przez zespół wykwalifikowanych specjalistów z zakresu psychologii. Wśród pytań zadawanych przez ekspertów wymienić można te, które pojawiają się najczęściej podczas rekrutacji :cite:`Hadfield2013`,:cite:`​Hermaszewski2013`,:cite:`​Anderson2015`,:cite:`Massimino2016`:
 
     - Dlaczego chcesz zostać astronautą?
     - Opisz swoje mocne strony i jak je wykorzystujesz,
@@ -219,46 +219,58 @@ Selekcja medyczna
         - Błyski co około 0.5 sek, Chwila przerwy
         - Błyski co około 0.25 sek, Chwila przerwy
         - Błyski co około 0.125 sek, Chwila przerwy
+
     - Otwarcie oczu, chwila przerwy
     - Zamknięcie oczu, chwila przerwy
     - Otwarcie oczu, chwila przerwy
 
     ENG
     - Pierwsza część (około 40 minut)
-        - Podczepiają trzy elektrody
-            - skroń prawa
-            - skroń lewa
-            - czoło
+
+        - Podczepiają trzy elektrody (skroń prawa, skroń lewa, czoło)
         - Siedzsz wyprostowany na 100cm od ściany z krzyżem na którym są diodowe czerwone lampki
         - Wodzenie źrenicami za światłem (prawo, lewo) - mierzą jakieś zachowanie
         - Wraz z elektrodami kładziesz się na łóżku
         - 1 część
+
             - Wlewanie wody do ucha
             - Prawe ucho, później lewe ucho
             - Temperatura wody 44 stopnie Celsjusza
             - Z zamkniętymi oczami dodawanie na głos od 100 co trzy do góry
             - Po około minucie
+
                 - otworzenie oczu
                 - Patrzenie w jeden punkt
                 - kontynuowanie dodawania
+
             - Po około 30 sekundach
+
                 - Ponowne zamknięcie oczu
                 - kontynuowanie dodawania przez 30 sek.
+
             - Przed każdym wlaniem wody i odliczaniem jakieś 5 minut przerwy
+
         - 2 część (około 5-10 minut)
+
             - Wlewanie wody do ucha
             - Lewe ucho później prawe ucho
             - Temperatura wody 30 stopni Celsjusza
             - Odejmowanie od 200 co dwa w dół
             - Po około minucie
+
                 - otworzenie oczu
                 - Patrzenie w jeden punkt
                 - kontynuowanie dodawania
+
             - Po około 30 sekundach
+
                 - Ponowne zamknięcie oczu
                 - kontynuowanie dodawania przez 30 sek.
+
             - Przed każdym wlaniem wody i odliczaniem jakieś 5 minut przerwy
+
     - Druga część (czas trwania badania: 10 min)
+
         - Siedzisz na obrotowym fotelu w całkowicie ciemnym pomieszczeniu o kształcie walca i średnicy 3m
         - Przypinają te same trzy elektrody do czoła i skroni
         - Każą wodzić wzrokiem w pojawiający się punkt, który zmienia swoje położenie: prawo, lewo, centrum
@@ -268,15 +280,18 @@ Selekcja medyczna
     Spirometria
     - Czas trwania badania: 5 minut (+20 minut wyjaśnienie i anonimowa ankieta odnośnie zwyczajów żywienia)
     - Podanie danych
+
         - Data urodzenia
         - Waga
         - Wzrost
         - Pesel
         - Nazwisko i Imie
+
     - Instrukcje wyjaśniające
     - Test ustnika
     - Test dmuchania
     - Dmuchanie
+
         - Trzy normalne wdechy i wydechy
         - Czwarty wdech jest zakończony maksymalnym wydechem
         - Później trzy maksymalne wdechy i wydechy
@@ -290,9 +305,11 @@ Selekcja medyczna
     - Czas trwania badania: około 5 minut
     - Kładziesz się na kozetce
     - Przypinają elektrody
+
         - Na klatce piersiowej i po boku
         - Klipsy z elektrodami na każdą rękę w okolicy nadgarstka
         - Klipsy z elektrodami na każdą nogę powyżej kostki
+
     - Wymagane do KNC
     - Można zrobić mając założony Holter (chociaż robią niechętnie)
 
@@ -306,11 +323,13 @@ Selekcja medyczna
     Internista
     - Czas trwania badania: około 10 minut
     - Sprawdzanie
+
         - EKG
         - USG jamy brzusznej
         - Wynik RTG
         - Spirometria
         - Wynik badania krwi
+
     - Sprawdzanie ciśnienia krwi w pozycji siedzącej (Ciśnieniomierz OMRON)
     - Osłuchiwanie klatki piersiowej
     - Osłuchiwanie pleców
@@ -335,39 +354,50 @@ Selekcja medyczna
     - Prosta postawa - czy kręgosłup nie jest skrzywiony
     - Pokazanie dłoni, spód, wierzch
     - Ręce zaciśnięte w pięści i wyciągnięte przed siebie
+
         - Lekarz naciska od góry, trzeba podnieść ręce
         - Lekarz naciska od dołu, trzeba przeciwstawić
         - Lekarz trzyma od zewnątrz po bokach, trzeba rozciągnąć
         - Lekarz trzyma od wewnątrz po bokach trzeba ścisnąć
         - Poruszanie po okręgu pięściami miękko w nadgarstku
+
     - Sprawdzenie wyników MRI
 
     Laryngolog
     - Spotkanie przed KNC (około 5-10 min)
+
         - Sprawdza nozdrza, lewe, prawe
         - Sprawdza uszy, lewe, prawe
         - Każe stanąć przy drzwiach bokiem i szepce cyfry, które trzeba powtórzyć
         - Obrót drugim bokiem i kolejne cyfry do powtórzenia
         - Sprawdza audiogram, wyniki ciśnienia uszu, próbę Coriolisa
         - Daje zdolność do KNC
+
     - Spotkanie po KNC (około 2 min)
+
         - Sprawdza uszy, prawe, lewe
 
     Audiogram
     - 1 część (około 3-5 min)
+
         - Badanie w komorze dźwiękoszczelnej
         - Słuchawki na uszach i mały joystick z przyciskiem w ręce
         - Ciche tony najpierw w uchu prawym później w lewym
         - Tony są coraz głośniejsze z upływem czasu
         - Trzeba kliknąć przycisk gdy usłyszy się dźwięk
+
     - 2 część (około 2 min)
+
         - Mierzenie ciśnienia w uchu i rozciągliwości bębenka
         - Wdmuchiwanie powietrza i wysysanie powietrza
+
     - 3 część (około 5 minut) tzw. Próba Coriolisa
         - Jest metronom ustawiony na około sekundę (czas nie jest bardzo istotny)
         - Siedzisz na fotelu który się obraca i:
+
             - Masz zamknięte oczy
             - Masz poruszać głową w takt metronomu, prawo, środek, lewo, środek, prawo, środek...
+
         - Uczucie jakby fotel falował - ze względu na zaburzenie błędnika
         - Cel zadania nie mieć nudności i wymiotów
 
@@ -388,10 +418,13 @@ Selekcja medyczna
     - Przed wejściem do komory sprawdzają papiery
     - Przed wejściem do komory sprawdzają ciśnienie urządzeniem marki: OMRON
     - Część 1 (około 5-10 minut)
+
         - Szybkie wznoszenie i opadanie na 3000m z prędkością 8m/s
         - Pobyt na wysokości około minuty
         - Bez założonych pulsoksymetrów
+
     - Część 2 (około 45minut)
+
         - Masz założone dwa pulsoksymetry na lewej ręce na palcu wskazującym i serdecznym
         - Wznoszenie na 5000m
         - Pobyt na wysokości przez równe 30 minut
@@ -425,6 +458,7 @@ Selekcja medyczna
     - Test CISS; Norman Endler
     - Test STARSI; Spielberg
     - Test J. C. Ravena
+
         - kształty na papierze
         - Dwie serie 12 testowa i 36 zadaniowa
         - Czas zadaniowej 30 minut
@@ -437,7 +471,7 @@ Selekcja medyczna
     - Gdy pojawi się kwadrat, tzn zapalą się cztery gwiazdki w bezpośrednim sąsiedztwie to należy kliknąć zielony przycisk
 
     samolot i obracanie go w osiach
-    -  aby doprowadzić z obrazka po lewej do obrazka po prawej 13 zadań, niektóre mają w jednej, inne w dwóch a inne w trzech osiach
+    - aby doprowadzić z obrazka po lewej do obrazka po prawej 13 zadań, niektóre mają w jednej, inne w dwóch a inne w trzech osiach
     - Trudne są przykłady z samolotem do góry nogami i zmianą osi
     - Jest samolot horyzont, ziemia jest w kratkę zielono brązową na horyzoncie jest kompas co 10 stopni
     - Czasami na niebie są chmurki
@@ -534,7 +568,7 @@ Jednym z najbardziej kluczowych elementów selekcji kandydatów na astronautów 
 - pilot,
 - lekarz.
 
-Każda z tych profesji ma swoje zalety przy prowadzeniu badań w środowisku kosmicznym. Obecnie agencje odchodzą od specjalizacji astronautów :cite:`Quote-Needed` i każdy z członków załogi musi poznać wszystkie aspekty pracy na orbicie, tj. pilotowanie statków kosmicznych, prowadzenie badań naukowych, udzielanie pomocy medycznej i przeprowadzanie operacji, kwestie związane z manipulowaniem ramion robotycznych i dokonywanie spacerów kosmicznych, czyli tzw. EVA (ang. ExtraVehicular Activity). Astronauta czy kosmonauta staje się operatorem czyli wysoce wykwalifikowanym specjalistą w wykonywaniu starannie zaplanowanych czynności. To wymaga dużej wszechstronności od kandydata i umiejętności adaptowania się do zmieniających się warunków.
+Każda z tych profesji ma swoje zalety przy prowadzeniu badań w środowisku kosmicznym. Obecnie agencje odchodzą od specjalizacji astronautów :cite:`Hadfield2013`, :cite:`Anderson2015` i każdy z członków załogi musi poznać wszystkie aspekty pracy na orbicie, tj. pilotowanie statków kosmicznych, prowadzenie badań naukowych, udzielanie pomocy medycznej i przeprowadzanie operacji, kwestie związane z manipulowaniem ramion robotycznych i dokonywanie spacerów kosmicznych, czyli tzw. EVA (ang. ExtraVehicular Activity). Astronauta czy kosmonauta staje się operatorem czyli wysoce wykwalifikowanym specjalistą w wykonywaniu starannie zaplanowanych czynności. To wymaga dużej wszechstronności od kandydata i umiejętności adaptowania się do zmieniających się warunków.
 
 Selekacja ze względu na doświadczenie lotnicze
 ----------------------------------------------

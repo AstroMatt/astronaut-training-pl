@@ -130,6 +130,8 @@ Przetrwanie w warunkach pustynnych
 Przetrwanie w warunkach dżungli
 -------------------------------
 
+.. _sea-survival:
+
 Przetrwanie w warunkach wodnych
 -------------------------------
 

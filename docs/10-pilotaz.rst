@@ -87,7 +87,6 @@ Najbardziej drastycznym sposobem na wyeliminowanie pożaru jest rozszczelnienie 
 
 System przerwania startu (Launch Escape System)
 ===============================================
-
 Wszystkie załogowe statki kosmiczne są wyposażone w system ewakuacji podczas startu. Systemy te pozwalają na ucieczkę załogi gdy rakieta zachowuje się nieprawidłowo, lub gdy na płycie startowej doszło do eksplozji. Zasada działania systemu zwykle być bardzo prosta i polega na trzech przewodach elektrycznych. Jeżeli napięcie zaniknie na dwóch z nich - przewód jest przerwany - automatycznie aktywują się silniki rakietowe odciągające kapsułę z załogą z dala od wybuchającej rakiety. W system ten były wyposażone już rakiety z programu Mercury-Redstone i późniejsze.
 
 Na specjalną uwagę zasługuje fakt, iż w programie Gemini zdecydowano się na zmianę systemu awaryjnego opuszczania pojazdu przy starcie i zastąpiono go wyrzucanymi fotelami katapultowymi. W podobny system był wyposażony statek Wostok, którym Gagarin jako pierwszy okrążył Ziemię. W późniejszych lotach radzieckich Woschod ze względu na brak miejsca w kabinie zrezygnowano z systemu awaryjnego.
@@ -108,11 +107,10 @@ Przy misjach amerykańskiego promu Space Shuttle musiano zmodyfikować system. P
 
 .. todo:: wypisać procedury z książki water egress z project PoSSUM
 
-Podczas pierwszych testowych lotów prom był wyposażony w fotele katapultowe dla pierwszego i drugiego pilota. Z systemu tego zrezygnowano w późniejszych lotach ze względu na niewielkie prawdopodobieństwo przeżycia załogi. W zamian za to zastosowano system tzw. Mode VIII - Bail-out, w którym wyposażeni w spadochrony astronauci mieli zsunąć się z wyciągniętej z promu grubej rury chroniącej przed uderzeniem w usterzenie i skrzydła a następnie na spadochronach wylądować w oceanie i rozpocząć procedurę wodnego przetrwania (więcej w rozdziale dotyczącym survivalu wodnego i morskiego) :cite:`Quote-Needed`.
+Podczas pierwszych testowych lotów prom był wyposażony w fotele katapultowe dla pierwszego i drugiego pilota. Z systemu tego zrezygnowano w późniejszych lotach ze względu na niewielkie prawdopodobieństwo przeżycia załogi. W zamian za to zastosowano system tzw. Mode VIII - Bail-out, w którym wyposażeni w spadochrony astronauci mieli zsunąć się z wyciągniętej z promu grubej rury chroniącej przed uderzeniem w usterzenie i skrzydła a następnie na spadochronach wylądować w oceanie i rozpocząć procedurę wodnego przetrwania (opis w :numref:`sea-survival` dotyczącym przetrwania w warunkach morskich i oceanicznych).
 
 Awaryjne opuszczanie orbity
 ---------------------------
-
 Istnieje wiele powodów dla których statek kosmczny może być zmuszony do opuszczenia orbity. Przy opracowywaniu procedur wymienia się:
 
 .. todo:: wypisać procedury z książki water egress z project PoSSUM

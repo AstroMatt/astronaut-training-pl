@@ -22,6 +22,9 @@ Rozmieszczenie modułów i poruszanie się po stacji
 Wykorzystywanie, utrzymanie i naprawa systemów pokładowych
 ==========================================================
 
+System podtrzymywania życia
+===========================
+
 System katalogowania i przechowywania obiektów i narzędzi
 =========================================================
 
