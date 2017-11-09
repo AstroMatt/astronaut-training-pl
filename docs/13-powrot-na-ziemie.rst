@@ -49,6 +49,8 @@ Badania medyczne - wzrok, układ ruchu i krążenia
 
 Badanie sprawności fizycznej
 ----------------------------
+.. todo:: Badanie zręczności - konstrukcja elementów bazy
 
-Badanie zręczności - konstrukcja elementów bazy
------------------------------------------------
+Ewaluacja astronauty po locie
+-----------------------------
+.. todo:: Post-flight evaluation
