@@ -19,7 +19,6 @@ Podczas II wojny światowej prowadzono wiele badań wykorzystujących paliwo pł
 
 Wyścig kosmiczny
 ================
-
 Po drugiej wojnie światowej wyścig zbrojeń przerodził się w tzw. zimną wojnę pomiędzy Stanami Zjednoczonymi Ameryki i Związkiem Socjalistycznych Republik Radzieckich. Za oficjalną datę rozpoczęcia wyścigu kosmicznego (ang. Space Race) przyjmuje się dzień drugiego sierpnia 1955 roku. Tego dnia Związek Radziecki odpowiedział na ogłoszoną przez rząd USA cztery dni wcześniej deklarację zamiaru wystrzelenia sztucznego satelity z okazji międzynarodowego roku geofizyki :cite:`Space-Race`.
 
 Wystrzelony 4 października 1957 należący do ZSSR Sputnik został pierwszym sztucznym satelitą Ziemi. To wydarzenie zapoczątkowało serię sukcesów Związku Socjalistycznych Republik Radzieckich w kosmosie, do których należały:
@@ -42,7 +41,6 @@ Amerykańską odpowiedzią na to wydarzenie był program *Mercury*. W trakcie pr
 
 Rys historyczny programów kosmicznych NASA
 ==========================================
-
 W skład amerykańskiego programu kosmonatycznego wchodzą projekty:
 
 - Mercury,
@@ -54,8 +52,7 @@ W skład amerykańskiego programu kosmonatycznego wchodzą projekty:
 
 Projekt Mercury
 ---------------
-
-Głównym celem programu Mercury trwającego od 1958 do 1963 było wyniesienie pierwszego obywatela USA w przestrzeń kosmiczną :cite:`Getting-Alan-Shepard-Ready-for-Space`. Program ten wykorzystywał technologię opracowaną przez US Army tj. rakiety Redstone i w późniejszej fazie rakiety interkontynentalne Atlas LV-3B stworzone dla US Air Force :cite:`History-of-Project-Mercury`.
+Głównym celem programu Mercury trwającego od 1958 do 1963 było wyniesienie pierwszego obywatela USA w przestrzeń kosmiczną :cite:`Getting-Alan-Shepard-Ready-for-Space`, :cite:`Wolfe1979`. Program ten wykorzystywał technologię opracowaną przez US Army tj. rakiety Redstone i w późniejszej fazie rakiety interkontynentalne Atlas LV-3B stworzone dla US Air Force :cite:`History-of-Project-Mercury`.
 
 Program Mercury zakładał wysłanie zwierzęcia przed pierwszym lotem człowieka. Ze względu na bardzo wiele wspólnych cech z człowiekiem wybrano szympansa (DNA szympansa jest w 98,4% identyczne z człowiekiem co czyni go najbliższym odpowiednikiem z królestwa zwierząt :cite:`Human-Origins-Genetic-Evidence`). Szympans nazywał się HAM co jest skrótem od Holloman Aerospace Medical Center, zlokalizowanego w Holloman Air Force Base w New Mexico w USA :cite:`History-of-Project-Mercury`.
 
@@ -69,7 +66,6 @@ Z przyczyn zdrowotnych Deke Slayton został zdyskwalifikowany z udziału w progr
 
 Projekt Gemini
 --------------
-
 W celu sprostania wymaganiom postawionym przez prezydenta J. F. Kennedy'ego dotyczącego wysłania człowieka na Księżyc :cite:`Moon-Speach-Rice-Stadium` konieczne było stworzenie programu pomostowego pomiędzy projektami *Mercury* oraz *Apollo*. Celem programy miało być stworzenie i przetestowanie technologii umożliwiającej realizację projektu Księżycowego. Po raz pierwszy miano zademonstrować
 
 Głównymi celami programu były:
@@ -88,6 +84,11 @@ Amerykańska agencja kosmiczna NASA podczas projektu Gemini przeprowadziła dwa 
 
 Program Apollo
 --------------
+:cite:`Cunningham2010`
+:cite:`Cernan2000`
+:cite:`Eisele2017`
+:cite:`AldrinAbraham2009`
+:cite:`FrenchBurgess2007`
 
 .. csv-table:: Astronauci programu Apollo :cite:`Manned-Space-from-Mercury-to-the-Shuttle`
     :file: ../data/apollo-astronauts.csv

@@ -111,7 +111,7 @@ Specjalizacje astronautów
 
     - Każdy astronauta ma jakiś background, medyczny, lotniczy itp, i to prawdopodobnie wpływa na assignments do misji, np. ze względu na badania naukowe jakie chcą przeprowadzić na stacji.
     - Astronauci nie znają systemu dlaczego są przypisywani do misji
-    - Wcześniej byli Piloci i po drugiej stronie Mission Specialiści, czasami pojawiali się po środku Payload Specjaliści, ale już tego nie ma każdy na stacji jest Flight Engineerem
+    - Wcześniej byli Piloci i po drugiej stronie Mission Specialiści, czasami pojawiali się po środku Payload Specjaliści, ale już tego nie ma każdy na stacji jest Flight Engineerem :cite:`Massimino2016`
     - Long Duration space flight, you have to be a jack of all traits
     - https://en.wikipedia.org/wiki/Astronaut_badge
 
@@ -119,10 +119,10 @@ Specjalizacje astronautów
 Commander
 ---------
 .. todo::
-    - Docking space shuttle to iss
+    - Docking space shuttle to iss :cite:`HittSmith2014`
     - Landing Space shuttle
     - Landing Lunar Lander
-    - Role commandera po assignment:
+    - Role commandera po assignment :cite:`Massimino2016`, :cite:`HittSmith2014`:
 
         - Kto będzie Lead spacewalker
         - Kto będzie siedział na upperdeck
@@ -134,7 +134,7 @@ Commander
 Pilot
 -----
 .. todo::
-    - Undocking space shuttle from iss
+    - Undocking space shuttle from iss :cite:`HittSmith2014`
 
 Lunar Module Pilot
 ------------------
@@ -169,13 +169,13 @@ Educator Mission Specialist
 Tradycje przed wylotem
 ======================
 .. todo::
-    - Astronauci wyposażają MAG w podpaski, aby im nie przeciekały podczas oczekiwania na start (szkolenie w Cottage House nr 3 w Gwiezdnym Miasteczku)
-    - Astronauci za czasów Shuttle zabierali ze sobą torbę z ubraniami, w zależności od miejsca gdzie będą lądować np. Luźniejsze cichy na Californię itp
+    - Astronauci wyposażają MAG w podpaski, aby im nie przeciekały podczas oczekiwania na start (szkolenie w Cottage House nr 3 w Gwiezdnym Miasteczku) :cite:`Anderson2015`
+    - Astronauci za czasów Shuttle zabierali ze sobą torbę z ubraniami, w zależności od miejsca gdzie będą lądować np. Luźniejsze cichy na Californię itp  :cite:`Anderson2015`, :cite:`Melvin2017`
+    - Od czasów Shepparda jedzą stek i jajkami sadzonymi :cite:`Wolfe1979`, :cite:`FrenchBurgess2007`
 
 
 Tradycje przed wylotem załóg statku Soyuz z kosmodromu w Bajkonurze
 -------------------------------------------------------------------
-
 W celu upamiętnienia wydarzeń historycznych astronauci przed wylotem w kosmos uczestniczą w wielu tradycjach. Każde z wydarzeń jest monitorowane przez media z całego świata. Poniżej przedstawiono listę czynności wykonywanych przez przyszłych uczestników lotów kosmicznych.
 
 Przed udaniem się na kosmodrom w Bajkonurze:
@@ -188,14 +188,14 @@ Bezpośrednio po przybyciu do Bajkonuru:
 - podniesienie flag narodowych astronautów,
 - zasadzenie drzewa w alei kosmonautów.
 
-Na kilka dni przed wylotem:
+Na kilka dni przed wylotem :cite:`Kelly2017`, :cite:`Hermaszewski2013`:
 
 - poświecenie rakiety przez popa,
-- astronauci nie mogą zobaczyć rakiety ani po drugim ani po trzecim przeglądzie przedstartowym (tradycja),
+- astronauci nie mogą zobaczyć rakiety ani po drugim ani po trzecim przeglądzie przedstartowym,
 - kwarantanna i ochrona przed mikrobami,
 - spanie na łóżku z głową w dół.
 
-Bezpośrednio przed wylotem
+Bezpośrednio przed wylotem :cite:`Kelly2017`:
 
 - ostatnie strzyżenie włosów przez fryzjera,
 - ostatni posiłek załogi,
@@ -209,11 +209,11 @@ Bezpośrednio przed wylotem
 - ostatni salut stojąc na wyznaczonych miejscach,
 - pozowanie do zdjęć i machanie do obserwatorów ze schodów do rakiety Soyuz,
 - sprawdzanie systemów,
-- każdy astronauta może wybrać trzy piosenki, które są odtwarzane podczas oczekiwania na start.
+- każdy astronauta może wybrać trzy piosenki, które są odtwarzane podczas oczekiwania na start :cite:`Hermaszewski2013`.
 
 Tradycje przed wylotem załóg promu kosmicznego Space Shuttle
 ------------------------------------------------------------
-Amerykańskie tradycje przed wylotem są znaczenie skromniejsze niż ich odpowiedniki u Rosjan. Zwykle ograniczają się do:
+Amerykańskie tradycje przed wylotem są znaczenie skromniejsze niż ich odpowiedniki u Rosjan. Zwykle ograniczają się do :cite:`HittSmith2014`:
 
 - grila na dzień przed wylotem,
 - tradycyjnego wspólnego ostatniego posiłku załogi,

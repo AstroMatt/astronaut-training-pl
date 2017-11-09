@@ -61,12 +61,11 @@ Kryteria doboru kandydatów
 
 Selekcja psychologiczna
 -----------------------
-
 Jednym z kluczowych elementów branych pod uwagę jest odporność na stres i umiejętność działania pod presją. Astronauta jako operator musi umieć realizować zadane czynności bez względu na okoliczności. Podążanie za procedurami w przypadku różnego rodzaju awarii i zdarzeń wyjątkowych jest absolutnie niezbędne. Procedury te zostały przygotowane przez lata praktyki i wszelkie odstępstwa mogą narazić członków załogi na niebezpieczeństwo lub śmierć.
 
-Ponadto cechą pracy w warunkach kosmicznych jest przebywanie w małych pomieszczeniach pozbawionych okien (z wyjątkiem miejsc widokowych) w rzadko zmieniającym się towarzystwie. Kandydaci muszą umieć współistnieć w międzynarodowym środowisku, prowadzić badania i interakcje oraz komunikować się. Od kandydatów wymaga się stabilności psychicznej, braku uprzedzeń i dojrzałości emocjonalnej.
+Ponadto cechą pracy w warunkach kosmicznych jest przebywanie w małych pomieszczeniach pozbawionych okien (z wyjątkiem miejsc widokowych) w rzadko zmieniającym się towarzystwie. Kandydaci muszą umieć współistnieć w międzynarodowym środowisku, prowadzić badania i interakcje oraz komunikować się. Od kandydatów wymaga się stabilności psychicznej, braku uprzedzeń i dojrzałości emocjonalnej :cite:`FrenchBurgess2007`.
 
-Jednym z kluczowych elementów szkolenia astronautów jest pobyt w różnych centrach szkolenia na świecie. Jest to związane z długim przebywaniem poza miejscem zamieszkania i w ciągłej separacji z rodziną. Sam pobyt na międzynarodowej stacji kosmicznej na chwilę obecną trwa zwykle do sześciu miesięcy, ale te czasy zdecydowanie się wydłużą ze względu na konieczność przygotowania do długotrwałych misji kosmicznych na Księżyc i Marsa.
+Jednym z kluczowych elementów szkolenia astronautów jest pobyt w różnych centrach szkolenia na świecie. Jest to związane z długim przebywaniem poza miejscem zamieszkania i w ciągłej separacji z rodziną. Sam pobyt na międzynarodowej stacji kosmicznej na chwilę obecną trwa zwykle do sześciu miesięcy, ale te czasy zdecydowanie się wydłużą ze względu na konieczność przygotowania do długotrwałych misji kosmicznych na Księżyc i Marsa :cite:`Kelly2017`, :cite:`Massimino2016`.
 
 Ponadto dużą uwagę zwraca się na :cite:`ESA-Astronaut-Training-Requirements`:
 
@@ -86,7 +85,7 @@ Idealny kandydat posiada :cite:`ESA-Astronaut-Training-Requirements`:
 - stabilność emocjonalna,
 - umiejętność długotrwałej współpracy w międzykulturowym środowisku.
 
-Proces badań wstępnych jest prowadzony przez zespół wykwalifikowanych specjalistów z zakresu psychologii. Wśród pytań zadawanych przez ekspertów wymienić można te, które pojawiają się najczęściej podczas rekrutacji :cite:`Hadfield2013`,:cite:`​Hermaszewski2013`,:cite:`​Anderson2015`,:cite:`Massimino2016`:
+Proces badań wstępnych jest prowadzony przez zespół wykwalifikowanych specjalistów z zakresu psychologii. Wśród pytań zadawanych przez ekspertów wymienić można te, które pojawiają się najczęściej podczas rekrutacji :cite:`Hadfield2013`,:cite:`​Hermaszewski2013`,:cite:`​Anderson2015`,:cite:`Massimino2016`, :cite:`Wolfe1979`:
 
     - Dlaczego chcesz zostać astronautą?
     - Opisz swoje mocne strony i jak je wykorzystujesz,
@@ -136,7 +135,6 @@ Proces badań wstępnych jest prowadzony przez zespół wykwalifikowanych specja
 
 Selekcja kondycyjna
 -------------------
-
 Charakter pracy jako astronauta wymaga wysokiej aktywności kondycyjnej i dużej sprawności fizycznej. Podczas wielomiesięcznych a docelowo wieloletnich misji kosmicznych astronauci aby przeciwdziałać niebezpiecznemu wpływowi braku grawitacji na układ szkieletowy i mięśniowy. Aby zapobiec atrofii mięśni astronauci muszą ćwiczyć przynajmniej dwie do trzech godzin dziennie.
 
 Sam proces treningu do spacerów kosmicznych (w basenie z doskonałą pływalnością) trwa sześć godzin, w trakcie którego astronauta wykonuje zadania pod wodą będąc umieszczonym w skafandrze. Każdy jednorazowy EVA (ang. ExtraVehicular Activity - spacer kosmiczny) w przestrzeni kosmicznej jest poprzedzony przynajmniej dwudziestokrotnym treningiem w środowisku symulującym stan nieważkości w basenie przy użyciu ciężarów i wyporników nadających skafandrowi kosmicznemu cechę neutralnego unoszenia się.
