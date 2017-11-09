@@ -139,7 +139,7 @@ Lista skafandrów kosmicznych
 Skafandry kosmiczne wykorzystywane podczas startu i lądowania
 -------------------------------------------------------------
 
-.. csv-table:: Tabela 8.1 - zestawienie skafandrów do czynności podczas startu i lądowania IVA (ang. Intravehicular Activity)
+.. csv-table:: Zestawienie skafandrów do czynności podczas startu i lądowania IVA (ang. Intravehicular Activity)
     :file: ../data/spacesuits-iva.csv
     :header-rows: 1
 
@@ -147,7 +147,7 @@ Skafandry kosmiczne wykorzystywane podczas startu i lądowania
 Skafandry kosmiczne wykorzystywane podczas wyjść w przestrzeń kosmiczną
 -----------------------------------------------------------------------
 
-.. csv-table:: Tabela 8.2 - zestawienie skafandrów do spacerów kosmicznych EVA (ang. Extravehicular Activity)
+.. csv-table:: Zestawienie skafandrów do spacerów kosmicznych EVA (ang. Extravehicular Activity)
     :file: ../data/spacesuits-eva.csv
     :header-rows: 1
 

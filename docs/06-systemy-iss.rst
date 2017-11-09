@@ -128,7 +128,7 @@ Sytuacje awaryjne na międzynarodowej stacji kosmicznej
     :scale: 50%
     :align: center
 
-    Fig. 6.1. - Wizualnie wyróżniona książka zawierająca procedury awaryjne ISS
+    Wizualnie wyróżniona książka zawierająca procedury awaryjne ISS
 
 Pożar
 -----
@@ -137,7 +137,7 @@ Pożar
     :scale: 50%
     :align: center
 
-    Fig. 6.2. - Astronauci podczas szkolenia pożarowego na Międzynarodowej Stacji Kosmicznej
+    Astronauci podczas szkolenia pożarowego na Międzynarodowej Stacji Kosmicznej
 
 Problemy medyczne członków załogi
 ---------------------------------

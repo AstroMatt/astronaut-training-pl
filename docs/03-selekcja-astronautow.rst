@@ -503,12 +503,12 @@ Zdrowie kandydata jest jednym z najważniejszych kryteriów doboru. Osoby rekrut
 
 Ponadto jednym z kluczowych wskaźników jest także wzrost. Osoby niższe są bardziej predestynowane do wytrzymywania większych przeciążeń ze względu na niższą odległość pomiędzy sercem a mózgiem. Poza samą predyspozycją ze względów medycznych wzrost ma znaczenie ze względów konstrukcyjnych statków kosmicznych. Na chwilę obecną (maj 2016) jedynym sposobem dostarczania astronautów na Międzynarodową Stację Kosmiczną jest rosyjski statek Soyuz, który jest przewidziany dla osób ze wzrostem z zakresu 150 do 190 cm :cite:`ISS-Spacecraft-Soyuz-TM` (wersje TM przed czerwcem 1999 miały ograniczenie od 164 do 182 cm). Z tego samego powodu do amerykańskiego korpusu astronautów przyjmowani są kandydaci o wzroście pomiędzy 62 i 75 cali :cite:`NASA-Astronaut-Requirements` co odpowiada 157,5 i 190,5 cm. Wymaganiem Europejskiej Agencji Kosmicznej w tej dziedzinie jest wzrost pomiędzy 153 a 190 cm :cite:`ESA-Astronaut-Training-Requirements`.
 
-.. csv-table:: Tabela 3.1. - wybrane parametry członków załogi statku kosmicznego Soyuz TM (zmodyfikowany po czerwcu 1999) :cite:`Soyuz-A-Universal-Spacecraft`
+.. csv-table:: Wybrane parametry członków załogi statku kosmicznego Soyuz TM (zmodyfikowany po czerwcu 1999) :cite:`Soyuz-A-Universal-Spacecraft`
     :file: ../data/soyuz-requirements.csv
     :header-rows: 1
 
 
-.. csv-table:: Tabela 3.2. - parametry medycznye kandydatów na astronautów** :cite:`NASA-Astronaut-Requirements`, :cite:`ESA-Astronaut-Training-Requirements`
+.. csv-table:: Parametry medycznye kandydatów na astronautów :cite:`NASA-Astronaut-Requirements`, :cite:`ESA-Astronaut-Training-Requirements`
     :file: ../data/astronaut-requirements.csv
     :header-rows: 1
 
@@ -570,12 +570,12 @@ NASA - Narodowa Agencja Aeronautyki i Astronautyki (USA)
 Amerykańska agencja kosmiczna NASA organizuje rekrutację na kandydata na astronautę (ang. Astronaut Candidate) regularnie co dwa lata. Ostania tego typu rekrutacja miała miejsce na przełomie 2015/2016 roku i zakończyła się 15 lutego 2016 :cite:`NASA-Astronaut-Selection-Proces`. Dzięki zaangażowaniu mediów społecznościowych oraz innych środków masowego przekazu swoje aplikacje złożyło rekordowo dużo osób. Komisja rekrutacyjna będzie musiała rozpatrzyć 18000 podań i z tego grona wybrać 8-10 najlepszych kandydatów, którzy rozpoczną przygotowanie wstępne :cite:`NASA-Astronaut-Selection`.
 
 
-.. csv-table:: Tabela 3.3. - Dotychczasowe selekcje astronautów NASA :cite:`Active-NASA-Astronauts`, :cite:`Inactive-NASA-Astronauts`
+.. csv-table:: Dotychczasowe selekcje astronautów NASA :cite:`Active-NASA-Astronauts`, :cite:`Inactive-NASA-Astronauts`
     :file: ../data/nasa-selections.csv
     :header-rows: 1
 
 
-.. csv-table:: Tabela 3.4. - Lista aktywnych astronautów NASA :cite:`Active-NASA-Astronauts`
+.. csv-table:: Lista aktywnych astronautów NASA :cite:`Active-NASA-Astronauts`
     :file: ../data/nasa-astronauts.csv
     :header-rows: 1
 
@@ -593,7 +593,7 @@ ESA - Europejska Agencja Kosmiczna
 Jednym z warunków bycia astronautą ESA jest aby państwo narodowości kandydata było oficjalnym członkiem tej agencji. Ostatni proces rekrutacji Europejskiej Agencji Kosmicznej odbył się w maju 2008 oraz maju 2009 roku. Przedsięwzięcie prowadziła jednostka EAC (ang. European Astronaut Centre) w Kolonii w Niemczech. Wzięło w nim udział 8413 kandydatów. 20 maja 2009 sześciu nowych kandydatów na astronautów zostało przedstawionych na konferencji prasowej w siedzibie ESA w Paryżu. Kandydaci rozpoczęli swoje wstępne przeszkolenie 1 września 2009 roku. W tej selekcji wybrano następujących kandydatów :cite:`How-to-Become-an-ESA-Astronaut`, :cite:`International-Astronauts`:
 
 
-.. csv-table:: Tabela 3.5. - Lista aktywnych astronautów ESA :cite:`European-Astronaut-Corps`
+.. csv-table:: Lista aktywnych astronautów ESA :cite:`European-Astronaut-Corps`
     :file: ../data/esa-astronauts.csv
     :header-rows: 1
 

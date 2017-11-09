@@ -148,7 +148,7 @@ Symulacja prac w basenie doskonałej pływalności
         - Na dwie osoby trenujące EVA jest około 40 osób, które upewniają się, że wszystko jest bezpiecznie
 
 
-.. csv-table:: Tabela 9.1. - Lista basenów neutralnej pływalności
+.. csv-table:: Lista basenów neutralnej pływalności
     :file: ../data/neutral-buoyancy-pools.csv
     :header-rows: 1
 

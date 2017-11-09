@@ -61,7 +61,7 @@ Program Mercury zakładał wysłanie zwierzęcia przed pierwszym lotem człowiek
 
 Nazwiska astronautów, znak wywoławczy oraz datę wystrzelenia przedstawia tabela poniżej:
 
-.. csv-table:: Tabela 2.1. - Astronauci programu Mercury wraz z czasem lotu oraz znakiem wywoławczym kapsuły :cite:`Manned-Space-from-Mercury-to-the-Shuttle`
+.. csv-table:: Astronauci programu Mercury wraz z czasem lotu oraz znakiem wywoławczym kapsuły :cite:`Manned-Space-from-Mercury-to-the-Shuttle`
     :file: ../data/mercury-astronauts.csv
     :header-rows: 1
 
@@ -81,7 +81,7 @@ Głównymi celami programu były:
 
 Amerykańska agencja kosmiczna NASA podczas projektu Gemini przeprowadziła dwa nabory na astronautów w których
 
-.. csv-table:: Tabela 2.2. - Astronauci programu Gemini :cite:`Manned-Space-from-Mercury-to-the-Shuttle`
+.. csv-table:: Astronauci programu Gemini :cite:`Manned-Space-from-Mercury-to-the-Shuttle`
     :file: ../data/gemini-astronauts.csv
     :header-rows: 1
 
@@ -89,7 +89,7 @@ Amerykańska agencja kosmiczna NASA podczas projektu Gemini przeprowadziła dwa 
 Program Apollo
 --------------
 
-.. csv-table:: Tabela 2.3. - Astronauci programu Apollo :cite:`Manned-Space-from-Mercury-to-the-Shuttle`
+.. csv-table:: Astronauci programu Apollo :cite:`Manned-Space-from-Mercury-to-the-Shuttle`
     :file: ../data/apollo-astronauts.csv
     :header-rows: 1
 

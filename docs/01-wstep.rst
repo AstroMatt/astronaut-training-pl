@@ -38,7 +38,7 @@ Jednym z najważniejszych ogniw całego programu pobytu człowieka poza Ziemią 
 .. figure:: /img/astronaut-career-lifecycle.png
     :align: center
 
-    Fig. 1.1. Cykl kariery astronauty
+    Cykl kariery astronauty
 
 Każda agencja kosmiczna ma prawo nazwania ludzi, którzy lecą w kosmos wedle uznania. Tak przyjęły się trzy najbardziej rozpowszechnione nazwy. Poniższa tabela prezentuje konwencje przyjęte przez poszczególne agencje.
 
@@ -69,7 +69,7 @@ Każda agencja kosmiczna ma prawo nazwania ludzi, którzy lecą w kosmos wedle u
 
     After all, Japanese traveling on the US space shuttle are still referred to as astronauts, just as East Germans who hitched a ride on Soviet spacecraft called themselves cosmonauts.
 
-.. csv-table:: Tabela 1.1. - Konwencje nazewnicze stanowiska osoby lecącej w kosmos w różnych agencjach kosmicznych
+.. csv-table:: Konwencje nazewnicze stanowiska osoby lecącej w kosmos w różnych agencjach kosmicznych
     :file: ../data/spaceman-names.csv
     :header-rows: 1
 
