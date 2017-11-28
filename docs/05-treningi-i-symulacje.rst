@@ -62,7 +62,7 @@ Przygotowanie dentystyczne
 Ćwiczenia kondycyjne i badania wydolności organizmu
 ---------------------------------------------------
 
-.. figure:: /img/fitness-training.jpg
+.. figure:: /img/training-fitness.jpg
     :name: cwiczenia-kondycyjne
     :scale: 50%
     :align: center

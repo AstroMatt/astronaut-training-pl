@@ -127,7 +127,7 @@ Sytuacje awaryjne na międzynarodowej stacji kosmicznej
     - Mission Control has had to deliver very bad news to astronauts while they are in space and yes there are protocols for how to do such things. While in orbit, astronauts have had family members die, friends and colleagues die, and drastic other events occur. In each case, the crew has a dedicated support team including a flight surgeon that can properly convey the information and work with the crew to handle the news. Nowadays, the crew can also have direct telephone and videocon access to their families.
     - https://www.quora.com/Has-Mission-Control-ever-had-to-deliver-very-bad-news-to-an-astronaut-while-they-were-in-space
 
-.. figure:: /img/ISS-emergency-procedures-handbook-01.png
+.. figure:: /img/iss-emergency-procedures-handbook.png
     :scale: 50%
     :align: center
 
