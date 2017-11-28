@@ -447,8 +447,7 @@ Statystyki i wykresy
 
         S.Zalyotin    G.Zamka    Zhai.Z    Zhang.X    V.Zholobov    V.Zudov
 
-        * Names listed on this page are restricted to
-        individuals who have actually flown in space.
+        * Names listed on this page are restricted to individuals who have actually flown in space.
 
 Lista EVA
 =========
