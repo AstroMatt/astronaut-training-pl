@@ -87,9 +87,17 @@ Manewry na orbicie
 
 Transfer pomiędzy orbitami i zmiany inklinacji
 ----------------------------------------------
+- Hohmann transfer
+- Bielliptic tranfer
+
+.. todo:: Bielliptic jest uzywany w Soyuz aby upewnic sie czy predkosc oraz odleglosc jest odpowiednia
+
 
 Operacje Rendezvous i dokowania
 -------------------------------
+.. todo::
+    - Fly-around manouvre
+    - Redocking 
 
 Operacja opuszczania orbity i wejścia w atmosferę
 -------------------------------------------------
