@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
-
-import sys
+import datetime
 import os
+import re
+import subprocess
+import sys
+
 
 sys.path.append(os.path.abspath('.'))
 
@@ -10,9 +13,12 @@ author = 'Matt Harasymczuk'
 
 extensions = [
     'sphinx.ext.todo',
-    'sphinxcontrib.bibtex',
     'sphinx.ext.imgmath',
+    'sphinxcontrib.bibtex',
 ]
+
+extensions_dir = os.path.join(os.path.dirname(__file__), '..', '_extensions')
+sys.path.append(extensions_dir)
 
 todo_emit_warnings = False
 todo_include_todos = True

@@ -1,5 +1,5 @@
 thesis:
-    @sphinx-build -b singlehtml . _build/
+    @sphinx-build -b singlehtml . _book/
 
 clean:
-    -rm -fr _build/
+    -rm -fr _book/
