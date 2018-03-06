@@ -174,7 +174,7 @@ Tradycje przed wylotem
     - Od czasów Shepparda jedzą stek i jajkami sadzonymi :cite:`Wolfe1979`, :cite:`FrenchBurgess2007`
 
 
-Tradycje przed wylotem załóg statku Soyuz z kosmodromu w Bajkonurze
+Tradycje przed wylotem załóg statku Sojuz z kosmodromu w Bajkonurze
 -------------------------------------------------------------------
 W celu upamiętnienia wydarzeń historycznych astronauci przed wylotem w kosmos uczestniczą w wielu tradycjach. Każde z wydarzeń jest monitorowane przez media z całego świata. Poniżej przedstawiono listę czynności wykonywanych przez przyszłych uczestników lotów kosmicznych.
 

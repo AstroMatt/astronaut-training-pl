@@ -2,6 +2,15 @@
 Przygotowanie teoretyczne
 *************************
 
+    I'm not a techie, I am an operator
+    -- Astronaut Victor Glover
+
+Po selecji osoba wybrana przez komisję ma za zadanie stawić się na tzw. szkolenie podstawowe. Podczas szkolenia kandydat na astronatę (ang. ASCAN, Astronaut Candidate) będzie przygotowany przez ekspertów oraz starszych stażem astronautów do pełnienia służby i docelowego lotu w kosmos. Szkolenie kandydackie trwa w zależności od agencji półtora do dwóch i pół roku. Po jego ukończe
+
+Szkolenie podstawowe astronautów, które  dzieli się na 4 główne części:
+
+-
+
 .. todo::
     - http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/ongoing-training.asp
     - As soon as they are recruited, Canadian astronauts begin learning Russian, and they continue to do so right up to their departure on a space mission.
@@ -56,11 +65,10 @@ Przygotowanie teoretyczne
     Same with fitness and same goes with education.
     -- Astronaut Victor Glover
 
-    I'm not a techie, I am an operator
-    -- Astronaut Victor Glover
 
 Przygotowanie podstawowe
 ========================
+
 
 Nauka języków obcych i przygotowanie kulturowe
 ==============================================

@@ -100,7 +100,7 @@ Program Skylab
 Program Space Shuttle
 ---------------------
 
-Rys historyczny programów kosmicznych ZSSR i Federacji Rosyjskiej
+Rys historyczny programów kosmicznych ZSRR i Federacji Rosyjskiej
 =================================================================
 
 Program Wostok
@@ -123,7 +123,7 @@ Program Księżycowy
 Program Salyut
 --------------
 
-Program Intercosmos i lot generała Hermaszewskiego
+Program Interkosmos i lot generała Hermaszewskiego
 --------------------------------------------------
 .. todo:: http://www.spacepatches.nl/salyut_frame.html
 

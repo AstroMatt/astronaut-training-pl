@@ -112,6 +112,15 @@ Ramiona i Rękawice
 Nogi i Buty
 -----------
 
+.. todo:: Przetłumaczyć opis zdjęcia
+
+.. figure:: /img/spacesuit-a7l-boots.jpg
+    :scale: 75%
+    :align: center
+
+    The Lunar Overshoe was a boot that the astronaut slipped on over the pressure boot of the spacesuit. Except for the ribbed silicone rubber sole, the outer layer of the lunar boot was made from metal-woven fabric (Chromel R) for abrasion protection. The boots inner layers were made from Teflon-coated fiber-glass cloth followed by 25 alternating layers of Kapton film and fiber-glass cloth to form an efficient, lightweight thermal insulation. The boot was manufactured by General Electric and ILC Industries Inc.
+
+
 Plecak z systemem podtrzymywania życia
 --------------------------------------
 .. todo::
@@ -127,6 +136,17 @@ Zaczepy na narzędzia
         - kręcąc kluczem, klucz odpycha Ciebie więc zwykle korzysta się z niego jedną ręką a druga trzyma się stacji aby zyskać stabilność, chyba że używają foot restraint aby nie odlatywać
         - narzędzia nigdy nie mogą być bez przywiązania, są połączone ze skafandrem Equipment Theather (z karabińczykiem)
         - ze względu na różną wielkość gniazd i śrub są także przejściówki, które nakłada się na klucz, przejściówki również są podpięte do mniejszego Equipment Theater (socket catty) z zatyczką aby przy zakładaniu nie odleciały
+
+Ciśnienie pracy
+---------------
+.. todo::
+    - 3.7 psi (Apollo),
+    - 4.3 psi (EMU)
+    - 5.8 psi(Orlan) of current spacesuits.
+    - dlaczego obniżone ciżnienie? ze względu na wagę oraz flamability
+    - nowe skafandry na księżyc oraz mars mają być 8 psi (bez pre-breating) ten sam poziom co łazik
+    - pre-breathing protocols
+    - 100% pure oxygen (ze względu na masę azotu)
 
 Insygnia oraz naszywki
 ----------------------
@@ -210,7 +230,7 @@ Charakterystyka skafandra EMU
         - hełm
     - SAFER
 
-Utrzymywanie sprawnośni skafandra
+Utrzymywanie sprawności skafandra
 =================================
 .. todo::
     - nie są przystosowane do naprawy w nieważkości
@@ -231,8 +251,8 @@ SAFER
 .. todo::
     - Augument Reality i możliwość zdalnego aktualizowania procedur
 
-Augumentacja
-============
+Augmentacja
+===========
 .. todo::
     - mobiPV
     - Google Glass

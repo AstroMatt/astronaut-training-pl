@@ -141,6 +141,7 @@ Misje CAVES
 Misje NEEMO
 -----------
 .. todo::
+    - Pierwowzorem był SEALAB https://en.wikipedia.org/wiki/SEALAB
     - Key West, Florida
     - Day 1
         - zapoznanie z wodą
@@ -155,8 +156,8 @@ Misje Pangea
 Symulacja pracy w środowisku mikrograwitacji
 ============================================
 
-Urządzenia symulujące obiżoną grawitację
-----------------------------------------
+Urządzenia symulujące obniżoną grawitację
+-----------------------------------------
 .. todo::
     - liny i poruszanie się po ścianie w boki (z programu apollo)
     - urządzenie na którym trenował Ed White poruszanie się w kosmosie

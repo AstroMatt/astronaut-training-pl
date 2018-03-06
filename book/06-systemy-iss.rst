@@ -1,5 +1,5 @@
 *************************************************************************
-Pryzgotowanie do wykorzystania systemów Międzynarodowej Stacji Kosmicznej
+Przygotowanie do wykorzystania systemów Międzynarodowej Stacji Kosmicznej
 *************************************************************************
 
 .. todo::

@@ -1,9 +1,9 @@
+    W emocji tej zawarta jest chyba, a może przede wszystkim, świadomość ogromnej odpowiedzialności, jaka spoczywa na mnie przed moimi rodakami, a także to, że lot ten wykonujemy dla dobra calej ludzkości. Robimy to w imię rozwoju nauki i postepu. Lot nasz to nie tylko wielka przygoda, ale trudna złożona praca w nowym, nierozpozanym jeszcze środowisku pełnym niewiadomych i niebezpieczeństw. To także okazja uczestniczenia w czymś nowatorskim i niezwykłym, to możliwość uczestniczenia w realizacji eksperymentów naukowych, nad przygotowaniem których trudziły sie znane w świecie autorytety. Nie mogę zawieść oczekiwań uczonych i moich rodaków zawieść nie mogę.
+    -- Mirosław Hermaszewski, Ciężar Nieważkości :cite:`Hermaszewski2013`
+
 *****
 Wstęp
 *****
-
-.. todo:: http://www.esa.int/Our_Activities/Human_Spaceflight/European_Astronaut_Selection/European_astronaut_charter
-.. todo:: Strona 136 :cite:`Hermaszewski2013` dolny fragment to wstęp do pracy
 
 Historia załogowych lotów kosmicznych sięga roku 1961 gdy 12 kwietnia rosyjski pilot Yuri Gagarin jako pierwszy przekroczył umowną granice kosmosu, tzw. linię Kármána. Od tego czasu podobnego wyczynu dokonało 553 osób :cite:`Astronaut-Statistics`. W tym gronie znajduje się dwunastu amerykańskich astronautów, którzy postawili stopę na innym ciele niebieskim, tj. Księżycu. W ciągu czterdziestu lat od tego wydarzenia człowiek na stałe zaczął mieszkać na orbicie. Międzynarodowa stacja kosmiczna gości na swoim pokładzie sześciu astronautów i kosmonautów, którzy prowadzą badania naukowe w bardzo wielu dziedzinach technicznych, inżynieryjnych, biologicznych i chemicznych. Średni czas przebywania członka załogi na stacji wynosi sześć miesięcy.
 
@@ -45,8 +45,7 @@ Każda agencja kosmiczna ma prawo nazwania ludzi, którzy lecą w kosmos wedle u
 .. todo:: Definicja nazwy
 .. todo:: As for other countries, the Chinese use (in their language) the phrase "space navigating personnel". Outsiders, not being able to speak Chinese often use “taikonaut” which merges the Chinese word for outer space and the common suffix naut. Similarly, the term “vyomanaut” is often used for prospective Indian personnel.
 .. todo::
-    The Chinese word yuhangyuan - 宇航员 - yŭhángyuán
-    (astronaut in Chinese)
+    The Chinese word yuhangyuan - 宇航员 - yŭhángyuán (astronaut in Chinese)
 
     宇航员 (simpl.)
     宇航員 (trad.)
@@ -74,5 +73,7 @@ Każda agencja kosmiczna ma prawo nazwania ludzi, którzy lecą w kosmos wedle u
     :header-rows: 1
 
 W celu uproszczenia w poniższej pracy przyjmuję konwencję stosowania nazewnictwa w języku polskim dla wszystkich profesji. Ponadto słowo astronauta będzie wykorzystane jako zamiennik pozostałych. Znaczenie tytułu pracy: "proces szkolenia astronautów do długotrwałych lotów kosmicznych" należy więc rozpatrywać jako "proces szkolenia astronautów, kosmonautów, taikonautów do długotrwałych lotów kosmicznych".
+
+Na osobny komentarz zasługuje nazwa pracy, która ze względu na specyfikę tematu jest trudno tłumaczalna na język polski. Angielska wersja tematu oddaje precyzyjniej charakter pracy "Astronaut Training Program for Long-Duration Spaceflight and Extravehicular Activity". Termin Extravehicular Activity (EVA) odnosi się do aktywności astronautów poza statkiem lub habitatem kosmicznym. Więcej na ten temat w rozdziale :ref:`Wyjścia astronautów w przestrzeń kosmiczną <eva-training>`.
 
 Niniejsza praca jest próbą analizy procesu szkolenia astronautów, kosmonautów, taikonautów przez różne agencje kosmiczne do długotrwałych lotów kosmicznych w tym docelowo do permanentnej obecności człowieka na Księżycu i Marsie.
