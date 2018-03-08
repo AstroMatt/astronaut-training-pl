@@ -2,36 +2,16 @@
 Selekcja kandydatów do przeszkolenia podstawowego
 *************************************************
 
-.. todo::
-    - http://www.esa.int/Our_Activities/Human_Spaceflight/European_Astronaut_Selection/Concept_of_aeromedical_fitness_and_associated_medical_certificate_requirement
-    - http://www.esa.int/Our_Activities/Human_Spaceflight/European_Astronaut_Selection/FAQs_How_When_Where
-    - http://www.esa.int/Our_Activities/Human_Spaceflight/European_Astronaut_Selection/FAQs_Qualifications_and_skills_required
-    - http://www.asc-csa.gc.ca/eng/astronauts/how-to-become-an-astronaut/2009-recruitment-campaign.asp
-    - http://www.asc-csa.gc.ca/eng/astronauts/how-to-become-an-astronaut/requirements-and-conditions.asp
-    - http://www.asc-csa.gc.ca/eng/astronauts/how-to-become-an-astronaut/process-2016.asp
-    - http://www.asc-csa.gc.ca/eng/astronauts/faq.asp
-    - http://www.asc-csa.gc.ca/eng/astronauts/how-to-become-an-astronaut/default.asp
-    - http://www.asc-csa.gc.ca/eng/astronauts/faq.asp#recruitment
-    - http://www.esa.int/Our_Activities/Human_Spaceflight/Astronauts/How_to_become_an_astronaut
-    - http://www.esa.int/About_Us/ESTEC/See_spacecraft_and_meet_astronauts_at_ESA_s_technical_heart
-    - http://www.nasa.gov/mission_pages/station/update/index.html
-    - http://download.esa.int/esoc/shares/Polski_Sektor_Kosmiczny.pdf
-    - http://www.isunet.edu/isu-live-webcast
-    - http://blogs.esa.int/iriss/2015/07/23/first-soyuz-exam-passed/
-    - https://www.facebook.com/saved/?cref=43&notif_t=heavy_save_reminder&notif_id=1459285020123049
-
-    - 60% astronautów jest super, reszta zdarza się że osiadają na laurach i przestają się uczyć kiedy mają już jakieś
-    - Skontaktować się z MPUSC - Multi Purpose User Support Center
-    - Flight note system - późniejsze informacje dla zespołu (delta information) lub updated procedures, które zmieniają się od założeń
-
-Przygotowanie astronautów i kosmonautów do długotrwałych misji kosmicznych zaczyna się od wyboru najlepszych kandydatów. Na chwilę obecną rekrutuje się osoby wśród najbardziej pożądanych specjalizacji tj.:
+Przygotowanie astronautów i kosmonautów do długotrwałych misji kosmicznych zaczyna się od wyboru kandydatów do szkolenia podstawowego. Na chwilę obecną najczęściej rekrutuje się osoby wśród najbardziej pożądanych specjalizacji tj.:
 
 - pilot, a w szczególności pilot testowy,
 - lekarz,
 - inżynier,
 - naukowiec (nauki przyrodnicze).
 
-Osoby biorące udział w rekrutacji poddawane są skrupulatnym badaniom mającym na celu wyłonienia najlepszych z najlepszych. Podczas badań brane są pod uwagę takie czynniki jak:
+Na wybór kandydata ma ogromny wpływ również doświadczenie, wykształcenie, nalot lotniczy oraz przebyte kursy i wyprawy przetrwania. Astronauci to także osoby publiczne często występujące przed dużymi audiencjami dlatego ceniona jest umiejętność posługiwania się mediami społecznościowymi, pisania tekstów oraz przemawiania :cite:`How-to-Become-an-ESA-Astronaut`. Język angielski i rosyjski są obecnie oficjalnymi używanymi na ISS - Międzynarodowej Stacji Kosmicznej dlatego od kandydatów wymaga się również znajomości tych dwóch powyższych. Dodatkowo ze względu na międzynarodowy charakter misji kosmicznych mile widziane jest zainteresowanie kulturą Stanów Zjednoczonych, Japonii i Rosji.
+
+Osoby biorące udział w rekrutacji poddawane są skrupulatnym badaniom mającym na celu wyłonienia najlepszych kandydatów. Podczas badań brane są pod uwagę takie czynniki jak:
 
 - kondycja fizyczna i wydolność organizmu,
 - zdolność adaptacji do zmiennych warunków,
@@ -43,95 +23,19 @@ Osoby biorące udział w rekrutacji poddawane są skrupulatnym badaniom mającym
 - wytrzymałość na przeciążenia,
 - umiejętność kojarzenia i przewidywania.
 
-Na wybór kandydata ma ogromny wpływ również doświadczenie, wykształcenie nalot lotniczy oraz przebyte kursy i wyprawy przetrwania. Astronauci to także osoby publiczne często występujące przed dużymi audiencjami dlatego ceniona jest umiejętność posługiwania się mediami społecznościowymi, pisania tekstów oraz przemawiania :cite:`How-to-Become-an-ESA-Astronaut`. Język angielski i rosyjski są obecnie oficjalnymi używanymi na ISS - międzynarodowej stacji kosmicznej dlatego od kandydatów wymaga się również znajomości tych dwóch powyższych. Dodatkowo ze względu na międzynarodowy charakter misji kosmicznych mile widziane jest zainteresowanie kulturą Stanów Zjednoczonych, Japonii i Rosji.
-
 .. csv-table:: Wymagania dla kandydatów na astronautów i kosmonautów :cite:`NASA-Astronaut-Requirements`, :cite:`ESA-Astronaut-Training-Requirements`, :cite:`Roscosmos-Cosmonaus-Requirements`
     :file: ../data/astronaut-requirements.csv
     :header-rows: 1
 
-Sam proces podstawowego szkolenia astronautów trwa dwa lata i jego ukończenie pozwala na zmianę tytułu z "kandydat na astronautę" na "astronauta" :cite:`NASA-Astronaut-Candidate-Program`. Jest to długi proces i wymagający wielu poświęceń z życia prywatnego. Ze względu na dużą ilość osób i zasobów zaangażowanych w przygotowanie proces ten jest bardzo kosztowny. Wsparcie jakiego wymaga przygotowanie do i po misji jest ogromne. Z tego powodu agencje kosmiczne wybierają najbardziej odpowiednie osoby na to stanowisko.
+Sam proces podstawowego szkolenia astronautów trwa około dwa lata. Głównym celem szkolenia jest wyrównanie poziomu wiedzy i umijejętności kandydatów pochodzących z różnych specjalizacji i dziedzin i wprowadzenie spójnego zasobu wiedzy, który stanowi podstawę do dalszego szkolenia. Ukończenie kursu podstawowego pozwala na zmianę tytułu z "kandydat na astronautę" na "astronauta" :cite:`NASA-Astronaut-Candidate-Program`. Jest to proces wymagający wielu poświęceń z życia prywatnego, który determinuje zasadność dalszych inwestycji przez agencję kosmiczną. W trakcie zbierania materiałów autor dotarł źródła pragnącego zachować anonimowość, które przekazało informację, że tylko 60% astronautów nadaje się do przydziałów do dalszych misji. Zgodnie z wywiadem pozostali "osiadają na laurach i przestają się uczyć", a ciągłe kształcenie jest podstawą specyfiki tego zawodu. Ze względu na dużą ilość osób i zasobów zaangażowanych w przygotowanie kandydata proces ten jest bardzo kosztowny. Wsparcie jakiego wymaga przygotowanie do i po misji jest ogromne. Z tego powodu agencje kosmiczne wybierają najbardziej odpowiednie osoby na to stanowisko, a proces szkolenia kandydackiego stanowi jeden z etapów późnej selekcji.
 
-Aby przygotować misję kosmiczną wymagane są lata pracy wielu zespołów profesjonalistów. I choć pozycja astronauty jest jedną z najbardziej prestiżowych na świecie to ich sukces zbudowany jest przez tych co pozostali na Ziemi :cite:`How-to-Become-an-ESA-Astronaut`. Ograniczone możliwości w zakresie wysyłania ludzi w przestrzeń kosmiczną i koszt tego przedsięwzięcia wymaga starannego doboru kandydatów. Z tego powodu proces selekcji astronautów i kosmonautów jest zadaniem trudnym. Wymaga umiejętności multidyscyplinarnych. W poniższym rozdziale przedstawione zostaną kryteria oraz proces wyboru najlepszych kandydatów.
+Aby przygotować misję kosmiczną wymagane są lata pracy wielu zespołów profesjonalistów. I choć pozycja astronauty jest jedną z najbardziej prestiżowych na świecie to ich sukces zbudowany jest przez tych co pozostali na Ziemi :cite:`How-to-Become-an-ESA-Astronaut`. Ograniczone możliwości w zakresie wysyłania ludzi w przestrzeń kosmiczną i koszt tego przedsięwzięcia wymaga starannego doboru kandydatów. Z tego powodu proces selekcji astronautów i kosmonautów jest zadaniem trudnym. Wymaga od ubiegających się o to stanowisko umiejętności multidyscyplinarnych i wysokiego poziomu umiejętności przyswajania wiedzy z zakresu wielu dziedzin naukowych. W poniższym rozdziale przedstawione zostaną kryteria oraz proces wyboru najlepszych kandydatów.
 
 Kryteria doboru kandydatów
 ==========================
 .. todo:: http://www.esa.int/Our_Activities/Human_Spaceflight/European_Astronaut_Selection/FAQs_Qualifications_and_skills_required
 .. todo:: http://www.esa.int/Our_Activities/Human_Spaceflight/European_Astronaut_Selection/FAQs_Health_and_physical_condition
 .. todo:: http://www.esa.int/Our_Activities/Human_Spaceflight/European_Astronaut_Selection/Psychological_and_medical_selection_process
-
-Selekcja psychologiczna
------------------------
-Jednym z kluczowych elementów branych pod uwagę jest odporność na stres i umiejętność działania pod presją. Astronauta jako operator musi umieć realizować zadane czynności bez względu na okoliczności. Podążanie za procedurami w przypadku różnego rodzaju awarii i zdarzeń wyjątkowych jest absolutnie niezbędne. Procedury te zostały przygotowane przez lata praktyki i wszelkie odstępstwa mogą narazić członków załogi na niebezpieczeństwo lub śmierć.
-
-Ponadto cechą pracy w warunkach kosmicznych jest przebywanie w małych pomieszczeniach pozbawionych okien (z wyjątkiem miejsc widokowych) w rzadko zmieniającym się towarzystwie. Kandydaci muszą umieć współistnieć w międzynarodowym środowisku, prowadzić badania i interakcje oraz komunikować się. Od kandydatów wymaga się stabilności psychicznej, braku uprzedzeń i dojrzałości emocjonalnej :cite:`FrenchBurgess2007`.
-
-Jednym z kluczowych elementów szkolenia astronautów jest pobyt w różnych centrach szkolenia na świecie. Jest to związane z długim przebywaniem poza miejscem zamieszkania i w ciągłej separacji z rodziną. Sam pobyt na międzynarodowej stacji kosmicznej na chwilę obecną trwa zwykle do sześciu miesięcy, ale te czasy zdecydowanie się wydłużą ze względu na konieczność przygotowania do długotrwałych misji kosmicznych na Księżyc i Marsa :cite:`Kelly2017`, :cite:`Massimino2016`.
-
-Ponadto dużą uwagę zwraca się na :cite:`ESA-Astronaut-Training-Requirements`:
-
-- zdolność rozumowania,
-- dobra pamięć,
-- koncentracja,
-- zręczność manualna,
-- umiejętność przystosowania się do zmiennych warunków przestrzennych.
-
-Idealny kandydat posiada :cite:`ESA-Astronaut-Training-Requirements`:
-
-- wysoką motywację,
-- elastyczność,
-- towarzyskość,
-- empatia,
-- niski poziom agresji,
-- stabilność emocjonalna,
-- umiejętność długotrwałej współpracy w międzykulturowym środowisku.
-
-Proces badań wstępnych jest prowadzony przez zespół wykwalifikowanych specjalistów z zakresu psychologii. Wśród pytań zadawanych przez ekspertów wymienić można te, które pojawiają się najczęściej podczas rekrutacji :cite:`Hadfield2013`,:cite:`​Hermaszewski2013`,:cite:`​Anderson2015`,:cite:`Massimino2016`, :cite:`Wolfe1979`:
-
-    - Dlaczego chcesz zostać astronautą?
-    - Opisz swoje mocne strony i jak je wykorzystujesz,
-    - Opisz swoje słabe strony i jak nad nimi pracujesz,
-    - Czy myślałeś kiedyś aby zabić swoją matkę?
-    - Jakie jest zastosowanie twojego doświadczenia?
-
-
-    - Czy masz dobrą świadomość sytuacyjną i osąd?
-    - Jak dobrze się komunikujesz?
-
-
-    - Do you have good situational awareness and good judgement
-    - They are not looking for hyper focus person
-    - They are looking for person who can do a little bit of everything
-    - Why do you want to be an astronaut is that a passion or you think it would be fun?
-    - Do you have an operational capability i.e. Can you fix things like computer or car
-
-    - How well do you communicate
-    - How well do you cope with others and how do you respond and adapt to change
-    - Is this candidate will be a good representative of NASA
-    - Is this candidate has personality that is to intense
-    - Are you a team player, self starter
-    - Who are you as a person, are you a hard worker, what is your humility and ego balance
-    -
-    - Everything must be finished by the applications due date. Unfinished studies, pilot license or work experience does not count
-    - Personal interviews are carried by actual astronauts and JSC managers. Selected must be accepted by JSC director and later by NASA administrator
-    - Ultimate question, do I want to go to space with this person
-
-    Show
-    - you're trying to better yourself
-    - You're learning new skills
-    - You're aware of many skills required by new and old astronauts
-    - You're not afraid to try anything
-
-    Most of the applicants are doing or done the same thing. Do something that stands out.
-
-    - Perform under the duress (stress?)
-    - Analyzing situations in the instant and using appropriate reaction and execution
-
-    Healthy ego
-    - not cockiness
-    - selection as astronaut does not guarantee mission assignment
-    - If you cannot meet expectations in Russian language, robotics or EVA training you'll be disqualified
-
-
 
 Selekcja kondycyjna
 -------------------
@@ -555,6 +459,71 @@ Powyższe parametry są weryfikowane podczas badań medycznych w procesie selekc
 - komory ciśnień,
 - wirówka (centrifuge),
 - lot samolotem.
+
+Selekcja psychologiczna
+-----------------------
+Jednym z kluczowych elementów branych pod uwagę jest odporność na stres i umiejętność działania pod presją. Astronauta jako operator musi umieć realizować zadane czynności bez względu na okoliczności. Podążanie za procedurami w przypadku różnego rodzaju awarii i zdarzeń wyjątkowych jest absolutnie niezbędne. Procedury te zostały przygotowane przez lata praktyki i wszelkie odstępstwa mogą narazić członków załogi na niebezpieczeństwo lub śmierć.
+
+Ponadto cechą pracy w warunkach kosmicznych jest przebywanie w małych pomieszczeniach pozbawionych okien (z wyjątkiem miejsc widokowych) w rzadko zmieniającym się towarzystwie. Kandydaci muszą umieć współistnieć w międzynarodowym środowisku, prowadzić badania i interakcje oraz komunikować się. Od kandydatów wymaga się stabilności psychicznej, braku uprzedzeń i dojrzałości emocjonalnej :cite:`FrenchBurgess2007`.
+
+Jednym z kluczowych elementów szkolenia astronautów jest pobyt w różnych centrach szkolenia na świecie. Jest to związane z długim przebywaniem poza miejscem zamieszkania i w ciągłej separacji z rodziną. Sam pobyt na międzynarodowej stacji kosmicznej na chwilę obecną trwa zwykle do sześciu miesięcy, ale te czasy zdecydowanie się wydłużą ze względu na konieczność przygotowania do długotrwałych misji kosmicznych na Księżyc i Marsa :cite:`Kelly2017`, :cite:`Massimino2016`.
+
+Ponadto dużą uwagę zwraca się na :cite:`ESA-Astronaut-Training-Requirements`:
+
+- zdolność rozumowania,
+- dobra pamięć,
+- koncentracja,
+- zręczność manualna,
+- umiejętność przystosowania się do zmiennych warunków przestrzennych.
+
+Idealny kandydat posiada :cite:`ESA-Astronaut-Training-Requirements`:
+
+- wysoką motywację,
+- elastyczność,
+- towarzyskość,
+- empatia,
+- niski poziom agresji,
+- stabilność emocjonalna,
+- umiejętność długotrwałej współpracy w międzykulturowym środowisku,
+- multidyscyplinarność.
+
+Proces badań wstępnych jest prowadzony przez zespół wykwalifikowanych specjalistów z zakresu psychologii. Wśród pytań zadawanych przez ekspertów wymienić można te, które pojawiają się najczęściej podczas rekrutacji :cite:`Hadfield2013`, :cite:`​Hermaszewski2013`, :cite:`​Anderson2015`, :cite:`Massimino2016`, :cite:`Wolfe1979` (pytania są tłumaczone przez autora pracy):
+
+- Dlaczego chcesz zostać astronautą?
+- Opisz swoje mocne strony i jak je wykorzystujesz,
+- Opisz swoje słabe strony i jak nad nimi pracujesz,
+- Czy myślałeś kiedyś aby zabić swoją matkę?
+- Jakie jest zastosowanie twojego doświadczenia?
+- Czy masz dobrą świadomość sytuacyjną i osąd?
+- Jak dobrze się komunikujesz?
+- Czy jesteś graczem zespołowym?
+- Czy przejawiasz inicjatywę w grupie?
+- Czy jesteś osobą, która poświęca się dla pracy?
+- Jaki jest balans pomiędzy twoją pokorą a ego?
+- Czy umiesz naprawiać rzeczy (samochód, kran, ubikacja)?
+- Jakie są twoje umiejętności operacyjne?
+- Jak szybko adaptujesz się do nowego środowiska i ludzi?
+- Jak radzisz sobie z ciągłymi zmianami?
+- Czy nie masz zbyt intensywnej (narzucającej się) osobowości?
+- Czy nie skupiasz się nadmiernie nad detalami?
+
+Wielu kandydatów powiela utarty schemat. Agencje kosmiczne szukają osób, które są innowacyjne i potrafią wyróżnić się z grupy. Brak umiejętności przyswojenia zagadnień związanych z EVA, robotyką czy posługiwaniem się obcym językiem powoduje natychmiastową dyskwalifikację kandydata.
+
+Idealny kandydat powinien pokazać:
+
+- jak konsekwentnie stara się powiększać swoje umiejętności,
+- jak stara się być lepszym,
+- jest świadomy jakie cechy są wymagane na astronautę,
+- nie boi się próbować nowych rzeczy,
+- jak pracuje wysokowydajnie podczas stresu,
+- potrafi szybko podejmować decyzje gdy konsekwencje mogą skutkować śmiercią,
+- zdrowe ego (brak zarozumiałości).
+
+Wszystkie licencje, szkolenia, edukacja, studia itp. muszą być ukończone przed datą końca aplikacji. Nieukończone rzeczy nie podlegają ocenie podczas selekcji :cite:`Massimino2016`. Rozmowy indywidualne prowadzone są przez obecnych astronautów oraz managerów wysokiego szczebla odpowiednich jednostek organizacyjnych agencji kosmicznych. Wytypowani kandydaci muszą zostać zaakceptowani przez dyrektorów agencji kosmicznych.
+
+Powyższe pytania są tylko reprezentacyjnym przykładem kwestii poruszanych podczas rozmowy kwalifikacyjnej i mają na celu przedstawienie zachowania i myślenia kandydata. Komisja musi być również przekonana czy kandydat będzie dobrym reprezentantem agencji kosmicznej przez wiele następnych lat. Cała rozmowa osoby ubiegającej się o stanowisko astronauty sprowadza się do podstawowego i najważniejszego pytania:
+
+- Czy chciałbym polecieć w kosmos z tą osobą?
 
 Selekcja umiejętności technicznych i naukowych
 ----------------------------------------------
