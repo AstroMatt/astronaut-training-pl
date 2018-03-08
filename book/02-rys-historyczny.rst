@@ -80,12 +80,11 @@ Głównymi celami programu były:
 - demonstracja spacerów kosmicznych (ang. *Extra-Vehicular Activity*, *EVA*) na zewnątrz pojazdu wraz z pokaaniem możliwości wykonywania operacji przez astronautę w ciśnieniowym skafandrze,
 - udoskonalenie procedury wejścia w atmosferę (ang. *re-entry*) i precyzyjnego lądowania w określonym miejscu :cite:`Failure-Is-Not-an-Option`.
 
-.. figure:: ../img/eva-gemini.jpg
+.. figure:: ../img/eva-gemini-6.jpg
     :scale: 50%
     :align: center
 
     Amerykański astronauta Edward White podczas pierwszego w historii stanów zjednoczonych wyjścia w przestrzeń kosmiczną :cite:`NASAGeminiIV`.
-
 
 Amerykańska agencja kosmiczna NASA podczas projektu Gemini przeprowadziła dwa nabory na astronautów w których
 
