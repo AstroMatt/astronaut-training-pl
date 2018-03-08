@@ -4,7 +4,6 @@ Rys historyczny lotów kosmicznych
 
 Pionierzy kosmonautyki
 ======================
-
 Erę rakietową rozpoczęła publikacja tzw. wzoru Ciołkowskiego w 1903 roku określającego prędkość rakiety zmieniającej masę (zużywającej paliwo podczas lotu). Wzór ten został opublikowany w książce "Badanie przestrzeni świata przy pomocy urządzeń odrzutowych" :cite:`Ciolkowski`. Do pierwszych pionierów kosmonautyki wykorzystujących podstawy teoretyczne stworzone przez Ciołkowskiego zalicza się:
 
 - dr Robert H. Goddard (USA),
@@ -52,7 +51,7 @@ W skład amerykańskiego programu kosmonatycznego wchodzą projekty:
 
 Projekt Mercury
 ---------------
-Głównym celem programu Mercury trwającego od 1958 do 1963 było wyniesienie pierwszego obywatela USA w przestrzeń kosmiczną :cite:`Getting-Alan-Shepard-Ready-for-Space`, :cite:`Wolfe1979`. Program ten wykorzystywał technologię opracowaną przez US Army tj. rakiety Redstone i w późniejszej fazie rakiety interkontynentalne Atlas LV-3B stworzone dla US Air Force :cite:`History-of-Project-Mercury`.
+Głównym celem programu Mercury trwającego od 1958 do 1963 było wyniesienie pierwszego obywatela USA w przestrzeń kosmiczną :cite:`Getting-Alan-Shepard-Ready-for-Space`, :cite:`Wolfe1979`. Program ten wykorzystywał technologię opracowaną przez US Army tj. rakiety *Redstone* i w późniejszej fazie rakiety interkontynentalne *Atlas LV-3B* stworzone dla US Air Force :cite:`History-of-Project-Mercury`.
 
 Program Mercury zakładał wysłanie zwierzęcia przed pierwszym lotem człowieka. Ze względu na bardzo wiele wspólnych cech z człowiekiem wybrano szympansa (DNA szympansa jest w 98,4% identyczne z człowiekiem co czyni go najbliższym odpowiednikiem z królestwa zwierząt :cite:`Human-Origins-Genetic-Evidence`). Szympans nazywał się HAM co jest skrótem od Holloman Aerospace Medical Center, zlokalizowanego w Holloman Air Force Base w New Mexico w USA :cite:`History-of-Project-Mercury`.
 
@@ -84,18 +83,56 @@ Amerykańska agencja kosmiczna NASA podczas projektu Gemini przeprowadziła dwa 
 
 Program Apollo
 --------------
-:cite:`Cunningham2010`
-:cite:`Cernan2000`
-:cite:`Eisele2017`
-:cite:`AldrinAbraham2009`
-:cite:`FrenchBurgess2007`
+Najbardziej ambitnym programem w historii astronautyki był program Apollo. W ciągu niespełna dekady udało się opracować technologię oraz procedury pozwalające człowiekowi stanąć na powierzchni Księżyca i bezpiecznie powrócić na Ziemię. Program Apollo był próbą realizacji oświadczenia prezydenta USA J. F. Kennedy'ego z 12 września 1962 roku :cite:`Moon-Speach-Rice-Stadium`.
+
+Tabela (:numref:`apollo-astronauts`) przedstawia listę astronautów programu Apollo wraz z przydziałem do misji oraz datami pobytu na Księżycu :cite:`FrenchBurgess2007`, :cite:`AldrinAbraham2009`.
+
+.. _table-apollo-astronauts:
 
 .. csv-table:: Astronauci programu Apollo :cite:`Manned-Space-from-Mercury-to-the-Shuttle`
     :file: ../data/apollo-astronauts.csv
     :header-rows: 1
 
+Każda z misji programu Apollo cechowała się innym zadaniem w zależności od kategorii do której była przydzielona :cite:`ApolloChronology2007`. :numref:`table-apollo-mission-types` przedstawia typy misji oraz opis każdej z kategorii.
+
+.. _table-apollo-mission-types:
+
+.. csv-table:: Typy misji w ramach programu Apollo :cite:`ApolloChronology2007`
+    :file: ../data/apollo-mission-types.csv
+    :header-rows: 1
+    :widths: 10, 90
+
+Krótka charakterystyka misji *Apollo*:
+
+- Apollo 1 - pożar przy rutynowym teście, załoga poniosła śmierć,
+- Apollo 7 - pierwszy start rakiety Saturn V z astronautami w module Command Module :cite:`Eisele2017`, :cite:`Cunningham2010`,
+- Apollo 8 - pierwsze orbitowanie Księżyca, ikoniczne zdjęcie wschodu Ziemi (ang. *Lunar Earthrise*),
+- Apollo 10 - pełny test do misji typu *G*, zbliżenie się na 60 mil do Księżyca,
+- Apollo 11 - pierwsze lądodanie na Księżycu,
+- Apollo 12 - najbardziej dokładne lądowanie w programie *Apollo*,
+- Apollo 13 - wybuch zbiornika z tlenem i dramatyczna walka z czasem aby sprowadzić załogę na Ziemię,
+- Apollo 14 - najstarszy astronauta na Księżycu, pierwsza gra w golfa,
+- Apollo 15 - pierwsze wykorzystanie pojazdu na powierzchni Księżyca,
+- Apollo 16 - pierwsza misjia trzydniowa na Księżycu (typ *J*)
+- Apollo 17 - ostatnie lądowanie na Księżycu (pierwsza misja w której brał udział naukowiec - geolog), ikoniczne zdjęcie Ziemii z daleka (ang. *blue marble*) :cite:`Cernan2000`,
+- Apollo-Soyuz - ostatnia misja programu, podczas której doszło do dokowania na orbicie statków Apollo oraz Soyuz i historycznego uścisku dłoni między reprezentatmi dwóch mocarstw.
+
 Program Skylab
 --------------
+Głównym celem kolejnych programów NASA było zagospodarowanie niskiej orbity dookołaziemskiej (ang. *LEO - Low Earth Orbit*). Pierwszym głównym programem był *Skylab* (1973-1979) - czyli budowa stacji kosmicznej i test wpływu długotrwałego pobytu w przestrzeni kosmicznej na organizm człowieka. W trakcie ostatnich misji programu Apollo został powołany zespół *Apollo Applications Program* (AAP), którego celem było stworzenie planu wykorzystania technologii wytworzonych na potrzeby misji księżycowych w dalszej eksploracji kosmosu :cite:`ApolloChronology2007`. Program *Skylab* odziedziczył rakiety *Saturn V*, które posłużyły nie tylko wynoszeniu elementów konstrukcji na orbitę, ale również po przekształceniu górnego stopnia rakiety stworzyły podstawę budowy stacji.
+
+Astronauci do stacji *Skylab* byli wynoszeni w *Apollo Command/Service Module* (CSM) stworzonym na potrzeby realizacji programu *Apollo* i załgowych misji na Księżyc.
+
+Wśród najważniejszych osągnięć programu *Skylab* można zaliczyć:
+
+- rozwinięcie technologii i procedur spacerów kosmicznych (EVA),
+- dopracowanie konstrukcji skafandra kosmicznego,
+- badanie długotrwałego wpływu środowiska mikrograwitacji na organizm człowieka,
+- obserwacja słońca za pomocą *Apollo Telescope Mount* (wielospektralne słoneczne obserwatorium,
+- dopracowanie konstrukcji portów dokowania,
+- opracowanie technologii śluz powietrznych,
+- pierwsza kontrolowana deorbitacja dużej konstrukcji.
+
 
 Program Space Shuttle
 ---------------------

@@ -14,7 +14,7 @@
 }
 
 #first-page h2 {
-    font-size: 1.2em;
+    font-size: 1.5em;
     font-weight: normal;
     text-align: center;
     page-break-before: avoid;
@@ -32,12 +32,12 @@
 }
 
 #first-page #about {
-    margin-top: 14em;
+    margin-top: 12em;
     text-align: left;
     padding-left: 50%;
 }
 
 #first-page footer {
     page-break-before: avoid;
-    margin-top: 14em;
+    margin-top: 12em;
 }
