@@ -5,75 +5,53 @@
 Wstęp
 *****
 
-Historia załogowych lotów kosmicznych sięga roku 1961 gdy 12 kwietnia rosyjski pilot Yuri Gagarin jako pierwszy przekroczył umowną granice kosmosu, tzw. linię Kármána. Od tego czasu podobnego wyczynu dokonało 553 osób :cite:`Astronaut-Statistics`. W tym gronie znajduje się dwunastu amerykańskich astronautów, którzy postawili stopę na innym ciele niebieskim, tj. Księżycu. W ciągu czterdziestu lat od tego wydarzenia człowiek na stałe zaczął mieszkać na orbicie. Międzynarodowa stacja kosmiczna gości na swoim pokładzie sześciu astronautów i kosmonautów, którzy prowadzą badania naukowe w bardzo wielu dziedzinach technicznych, inżynieryjnych, biologicznych i chemicznych. Średni czas przebywania członka załogi na stacji wynosi sześć miesięcy.
+Historia załogowych lotów kosmicznych sięga roku 1961 gdy 12 kwietnia rosyjski pilot Yuri Gagarin jako pierwszy przekroczył umowną granice kosmosu, tzw. linię Kármána :cite:`Cordoba2004`. Od tego czasu podobnego wyczynu dokonało 553 osób :cite:`Astronaut-Statistics`. W tym gronie znajduje się dwunastu amerykańskich astronautów, którzy postawili stopę na innym ciele niebieskim - na Księżycu. W ciągu czterdziestu lat od tego wydarzenia człowiek na stałe zaczął mieszkać na orbicie. Międzynarodowa stacja kosmiczna jest miejscem codziennej pracy dla sześciu astronautów i kosmonautów, którzy prowadzą badania naukowe w różnych dziedzinach technicznych, inżynieryjnych, biologicznych i chemicznych. Średni czas przebywania członka załogi na stacji wynosi sześć miesięcy.
 
-W marcu 2016 Scott Kelly i Mikhail Korniyenko wrócili z 340 dniowego pobytu na stacji zapisując się w historii jako nieliczni ludzie z łącznym "nalotem" kosmicznym powyżej roku. Obecnie agencja kosmiczna NASA planuje lot człowieka na Marsa i misja Scotta Kelly była jednym z pierwszych etapów w tym programie. Głównym obszarem zainteresowania naukowców jest zadanie wpływu mikrograwitacji na ciało ludzkie, układ kostny i mięśniowy, przemieszczenie płynów ustrojowych wewnątrz ciała oraz zmiany zachodzące w psychice ludzkiej przy izolacji od czynników środowiskowych przebywając w niezmiennym towarzystwie. Scott Kelly ma brata bliźniaka, również astronautę, który pozostał na Ziemi i był poddawany identycznym badaniom. Amerykańska agencja kosmiczna będzie w stanie bardzo dokładnie zbadać wpływ powyższych czynników na ciało. Cykl adaptacji do grawitacji oraz badania po powrocie, którym poddani będą obaj bracia potrwają do końca roku 2016.
+W marcu 2016 Scott Kelly i Mikhail Korniyenko wrócili z 340 dniowego pobytu na stacji zapisując się w historii jako nieliczni ludzie z łącznym "nalotem" kosmicznym powyżej roku. Obecnie agencja kosmiczna NASA planuje lot człowieka na Marsa i misja Scotta Kelly była jednym z pierwszych etapów w tym programie. Głównym obszarem zainteresowania naukowców jest zbadanie wpływu mikrograwitacji na ciało ludzkie, układ kostny i mięśniowy, przemieszczenie płynów ustrojowych wewnątrz ciała oraz zmiany zachodzące w psychice ludzkiej przy izolacji. Podczas pobytu na Międzynarodowej Stacji Kosmicznej (ISS) brat bliźniak Scotta Kelly'ego - Mark, również astronauta NASA, był poddawany identycznym badaniom na Ziemii. Dzięki unikalnej możliwości porównania wyników dwóch bliźniaków jednojajowych Amerykańska agencja kosmiczna będzie w stanie bardzo dokładnie zbadać wpływ powyższych czynników na ciało ludzkie. Cykl adaptacji do grawitacji oraz badania po powrocie, którym poddani będą obaj bracia trwały do końca roku 2016, a analiza danych wciąż trwa :cite:`TwinsStudy2018`.
 
-Aby móc pomyśleć na temat dalszej eksploracji kosmosu agencje kosmiczne muszą rozwiązać bardzo dużo problemów nie tylko medycznych jak tem wspomniane powyżej, ale również technicznych:
+Aby rozważać temat dalszej eksploracji kosmosu agencje kosmiczne muszą rozwiązać problemy nie tylko medyczne jak wspomniane powyżej, ale również technicznych:
 
-- efektywne systemy podtrzymywania życia,
+- efektywne systemy podtrzymywania życia (zamknięty obieg),
 - obiegu i filtracji powietrza,
 - usuwania dwutlenku węgla z powietrza,
 - obieg wody technicznej i pitnej,
 - systemy chłodzenia,
 - pozyskiwanie i magazynowanie energii,
-- przechowywanie pożywienia,
+- przechowywanie oraz produkcja pożywienia w środowisku mikrograwitacji,
 - zadania operacyjne i utrzymanie misji,
 - ochrona przed mikrometeorytami,
 - ochrona przed promieniowaniem kosmicznym,
-- pozyskiwanie lub posiadanie wystarczającego zapasu paliwa rakietowego.
+- posiadanie wystarczającego zapasu paliwa rakietowego lub umiejętność pozyskiwania z zasobów na innym ciele niebieskim.
 
-Obecnie agencje kosmiczne wielu państw coraz częściej wypowiadają się na temat planów długotrwałych misji człowieka w kosmosie. Wspomniana NASA planuje wylot na Marsa z poprzedzającą ją misją "Asteroid Redirect Mission", która ma na celu pozyskanie głazu z asteroidy i umieszczenie go na orbicie okołoksiężycowej. Następnie na niego zostanie wysłana załoga aby dokonać poboru próbek powierzchni oraz badań geologicznych. Europejka Agencja Kosmiczna (ang. ESA - European Space Agency) wraz z Roscosmos (Rosyjska Agencja Kosmiczna) planują w 2030 roku :cite:`Moon-Village` zbudowanie w okolicach południowego bieguna permanentnej osady człowieka na Księżycu. Prace przygotowawcze do tego projektu już trwają. Europejskie Centrum Szkolenia Astronautów (ang. EAC - European Astronaut Centre) ogłosiło projekt "Spaceship EAC" :cite:`Spaceship-EAC`, który ma na celu sprawdzenie gotowości (ang. Proof of Concept) obecnych technologii do tego przedsięwzięcia. Ponadto w ostatnich miesiącach chińska agencja kosmiczna zapowiedziała budowę stacji orbitalnej.
+Na chwilę obecną polityka głównych agencji kosmicznych skierowana jest w stronę Księżyca i programu Lunar Orbital Platform-Gateway (LOP-G) wcześniej znanego jako Deep Space Gateway (DSG) :cite:`DeepSpaceGateway2017`. Program jest następcą Międzynarodowej Stacji Kosmicznej. Stacja LOP-G jest wspólną inicjatywą: Europejskiej Agencji Kosmicznej, NASA, Rosyjskiej Agencji Kosmicznej - Roscosmos, Japońskeij JAXA oraz Chińskiej Agencji Kosmicznej (CSA). Stacja orbitalna ma służyć jako platforma dla badań geologicznych i geofizycznych Księżyca, platforma, z której będą odbywały się załogowe i robotyczne wyloty w stronę powierzchni naturalnego satelity oraz jako przyszłe miejsce początku misji eksplorujących dalsze obiekty układu słonecznego tj. Mars, Europa i Enceladus. Ponadto Europejska Agencja Kosmiczna (ang. ESA - European Space Agency) wraz z Roscosmos planują w 2030 roku :cite:`Moon-Village` zbudowanie w okolicach południowego bieguna permanentnej bazy na Księżycu. Prace przygotowawcze do tego projektu już trwają. Europejskie Centrum Szkolenia Astronautów (ang. EAC - European Astronaut Centre) prowadzi projekt "Spaceship EAC" :cite:`Spaceship-EAC`, który ma na celu sprawdzenie gotowości (ang. Proof of Concept) obecnych technologii do tego przedsięwzięcia.
 
-Jednym z najważniejszych ogniw całego programu pobytu człowieka poza Ziemią jest selekcja i przygotowanie załogi do trudnych warunków pozaziemskiej aktywności. Sam proces podstawowego przeszkolenia załogi trwa 2 lata i składa się z czterech głównych etapów:
+Kluczowym aspektem eksploracji kosmosu są załogowe loty kosmiczne. Aby skutecznie przygotować ekspertów do prowadzenia badań i działań operacyjnych konieczna jest restrykcyjna selekcja oraz przygotowanie załogi do trudnych warunków pozaziemskiej aktywności. Sam proces podstawowego przeszkolenia załogi trwa około 2 lata i składa się z pięciu głównych etapów:
 
 - nauka języka,
 - przeszkolenie robotyczne,
-- przeszkolenie z systemów międzynarodowej stacji kosmicznej,
+- przeszkolenie z systemów Międzynarodowej Stacji Kosmicznej,
 - nauka spacerów kosmicznych (ang. EVA - ExtraVehicular Activity),
-- nauka pilotażu samolotów odrzutowych.
+- nauka pilotażu samolotów odrzutowych oraz statków kosmicznych.
 
-.. _fig-astronaut-career-lifecycle:
+Rysunek :numref:`figure-astronaut-career-lifecycle` prezentuje cykl kariery astronauty od jego selekcji, treningu podstawowego, wsparcia obecnie trwających misji po tzw. Mission Specific trainig, czyli szkolenie specyficzne do przydzielonej misji.
+
+.. _figure-astronaut-career-lifecycle:
 
 .. figure:: /img/astronaut-career-lifecycle.png
     :align: center
 
-    Cykl kariery astronauty
+    Cykl kariery i szkoleń astronautów.
 
-Każda agencja kosmiczna ma prawo nazwania ludzi, którzy lecą w kosmos wedle uznania. Tak przyjęły się trzy najbardziej rozpowszechnione nazwy. Poniższa tabela prezentuje konwencje przyjęte przez poszczególne agencje.
+Poszczególne agencje kosmiczne nazywają osoby wysyłane w kosmos w inny sposób. W większości przypadków jest to tłumaczenie lub analogia to frazy "osoba nawigująca w kosmosie (lub między gwiazdami)". W celu uproszczenia w poniższej pracy przyjmuję konwencję stosowania nazewnictwa w języku polskim dla wszystkich profesji. Ponadto słowo astronauta będzie wykorzystane jako zamiennik pozostałych. Znaczenie tytułu pracy: "proces szkolenia astronautów do długotrwałych lotów kosmicznych" należy więc rozpatrywać jako "proces szkolenia astronautów, kosmonautów, taikonautów do długotrwałych lotów kosmicznych". Poniższa tabela prezentuje konwencje przyjęte przez poszczególne agencje.
 
-.. todo:: Definicja nazwy
-.. todo:: As for other countries, the Chinese use (in their language) the phrase "space navigating personnel". Outsiders, not being able to speak Chinese often use “taikonaut” which merges the Chinese word for outer space and the common suffix naut. Similarly, the term “vyomanaut” is often used for prospective Indian personnel.
-.. todo::
-    The Chinese word yuhangyuan - 宇航员 - yŭhángyuán (astronaut in Chinese)
+Problematyczna jest kwestia nazwy "kosmicznych nawigatorów" przyjętej przez Chińską Agencję Kosmiczną. Popularnie wykorzystywana stała się nazwa "taikonaut", która jest zbitką słów oznaczających przestrzeń kosmiczną w języku chińskim z sufixem *naut* (żeglarzm, pochodzenia Greckiego) stanowiącym analogię do kosmonautów, astronautów itp. Podobnie przyjęło się używać terminu "vyomanaut" w stosunku do Indyjskiego personelu. W chińskich oficjalnych dokumentach i prasie stosowane jest słowo *yǔ háng yuán* lub *háng tiān yuán* nie stanowiące połączenia dwóch języków. :numref:`table-spaceman-names` przedstawia konwencje nazewnicze stanowiska osoby lecącej w kosmos stosowane w wybrancyh agencjach kosmicznych.
 
-    宇航员 (simpl.)
-    宇航員 (trad.)
+.. _table-spaceman-names:
 
-    Some fairly outlandish suggestions -- such as "Chinanaut" -- have failed to find many supporters, narrowing the field to two candidates, "Taikonaut" and "Yuhangyuan."
-
-    "Taikonaut" is an odd mixture of languages, merging the Chinese word for space "taikong" with the Greek word for sailor, "naus."
-
-    Chinese officials do not particularly like this newly-coined word, and state-run newspapers mostly stick to the more technical term "yuhangyuan," meaning "space navigator."
-
-    However, "taikonaut" could eventually win out, because it is relatively easy for foreigners to pronounce, and because it alludes to terms for the profession coined by existing space powers.
-
-    "Astronaut," the US term, means "star sailor," while cosmonaut, the Anglicized version of the Russian word "kosmonavt," means "sailor of the cosmos."
-
-    Possibly for patriotic reasons, there have never been any efforts by the two former rivals to merge the idioms.
-
-    Rather, each of the terms has spawned its own class of words in their respective languages. For instance, "astronautics" is called "kosmonavtika" in Russian.
-
-    It could be that at the end of the day, no special word for Chinese space travelers will be needed.
-
-    After all, Japanese traveling on the US space shuttle are still referred to as astronauts, just as East Germans who hitched a ride on Soviet spacecraft called themselves cosmonauts.
-
-.. csv-table:: Konwencje nazewnicze stanowiska osoby lecącej w kosmos w różnych agencjach kosmicznych
+.. csv-table:: Konwencje nazewnicze stanowiska osoby lecącej w kosmos w wybrancyh agencjach kosmicznych
     :file: ../data/spaceman-names.csv
     :header-rows: 1
 
-W celu uproszczenia w poniższej pracy przyjmuję konwencję stosowania nazewnictwa w języku polskim dla wszystkich profesji. Ponadto słowo astronauta będzie wykorzystane jako zamiennik pozostałych. Znaczenie tytułu pracy: "proces szkolenia astronautów do długotrwałych lotów kosmicznych" należy więc rozpatrywać jako "proces szkolenia astronautów, kosmonautów, taikonautów do długotrwałych lotów kosmicznych".
-
 Na osobny komentarz zasługuje nazwa pracy, która ze względu na specyfikę tematu jest trudno tłumaczalna na język polski. Angielska wersja tematu oddaje precyzyjniej charakter pracy "Astronaut Training Program for Long-Duration Spaceflight and Extravehicular Activity". Termin Extravehicular Activity (EVA) odnosi się do aktywności astronautów poza statkiem lub habitatem kosmicznym. Więcej na ten temat w rozdziale :ref:`Wyjścia astronautów w przestrzeń kosmiczną <eva-training>`.
 
-Niniejsza praca jest próbą analizy procesu szkolenia astronautów, kosmonautów, taikonautów przez różne agencje kosmiczne do długotrwałych lotów kosmicznych w tym docelowo do permanentnej obecności człowieka na Księżycu i Marsie.
+Niniejsza praca jest próbą analizy procesu szkolenia astronautów przez różne agencje kosmiczne do długotrwałych lotów kosmicznych w tym docelowo do permanentnej obecności człowieka na Księżycu, Marsie i dalszej eksploracji kosmosu.
