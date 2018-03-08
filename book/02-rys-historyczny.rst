@@ -61,6 +61,12 @@ Nazwiska astronautów, znak wywoławczy oraz datę wystrzelenia przedstawia tabe
     :file: ../data/mercury-astronauts.csv
     :header-rows: 1
 
+.. figure:: ../img/mercury-ground-stations.jpg
+    :scale: 50%
+    :align: center
+
+    Lista stacji naziemnych, które NASA zbudowało w celu komunikacji z kaspułami w trakcie programu *Mercury* :cite:`MercuryChronology2014`.
+
 Z przyczyn zdrowotnych Deke Slayton został zdyskwalifikowany z udziału w programie *Mercury* i uziemiony. Przez trzynaście lat od czasu pierwszego lotu Sheparda, Deke Slayton kierował biurem astronautów i przydziału do misji (ang. *Astronauts Office*) przemianowany później na "Flight Crew Operations Office" i po ostatecznym przejściu badań medycznych wziął udział w ostatnim locie programu *Apollo* tj. *Apollo-Souyz* :cite:`History-of-Project-Mercury`. W tym locie doszło do historycznego dokowania na orbicie okołoziemskiej statków *Apollo* i *Soyuz* oraz do symbolicznego uściśnięcia dłoni przedstawicieli USA i ZSSR.
 
 Projekt Gemini
@@ -74,16 +80,28 @@ Głównymi celami programu były:
 - demonstracja spacerów kosmicznych (ang. *Extra-Vehicular Activity*, *EVA*) na zewnątrz pojazdu wraz z pokaaniem możliwości wykonywania operacji przez astronautę w ciśnieniowym skafandrze,
 - udoskonalenie procedury wejścia w atmosferę (ang. *re-entry*) i precyzyjnego lądowania w określonym miejscu :cite:`Failure-Is-Not-an-Option`.
 
+.. figure:: ../img/eva-gemini.jpg
+    :scale: 50%
+    :align: center
+
+    Amerykański astronauta Edward White podczas pierwszego w historii stanów zjednoczonych wyjścia w przestrzeń kosmiczną :cite:`NASAGeminiIV`.
+
+
 Amerykańska agencja kosmiczna NASA podczas projektu Gemini przeprowadziła dwa nabory na astronautów w których
 
 .. csv-table:: Astronauci programu Gemini :cite:`Manned-Space-from-Mercury-to-the-Shuttle`
     :file: ../data/gemini-astronauts.csv
     :header-rows: 1
 
+Podczas przygotowań do misji *Gemini 12* amerynański astronauta Buzz Aldrin jako pierwszy wykorzystał techiniki nurkowania w celu symulacji spacerów kosmicznych co zapoczątkowało rozpoczęcie badań i stworzenie ośrodków pływalności neutralnej (ang. *NBL - Nutral Buoyancy Laboratory*).
 
 Program Apollo
 --------------
 Najbardziej ambitnym programem w historii astronautyki był program Apollo. W ciągu niespełna dekady udało się opracować technologię oraz procedury pozwalające człowiekowi stanąć na powierzchni Księżyca i bezpiecznie powrócić na Ziemię. Program Apollo był próbą realizacji oświadczenia prezydenta USA J. F. Kennedy'ego z 12 września 1962 roku :cite:`Moon-Speach-Rice-Stadium`.
+
+.. figure:: ../img/eva-apollo-11-aldrin.jpg
+    :scale: 50%
+    :align: center
 
 Tabela (:numref:`apollo-astronauts`) przedstawia listę astronautów programu Apollo wraz z przydziałem do misji oraz datami pobytu na Księżycu :cite:`FrenchBurgess2007`, :cite:`AldrinAbraham2009`.
 
@@ -115,7 +133,7 @@ Krótka charakterystyka misji *Apollo*:
 - Apollo 15 - pierwsze wykorzystanie pojazdu na powierzchni Księżyca,
 - Apollo 16 - pierwsza misjia trzydniowa na Księżycu (typ *J*)
 - Apollo 17 - ostatnie lądowanie na Księżycu (pierwsza misja w której brał udział naukowiec - geolog), ikoniczne zdjęcie Ziemii z daleka (ang. *blue marble*) :cite:`Cernan2000`,
-- Apollo-Soyuz - ostatnia misja programu, podczas której doszło do dokowania na orbicie statków Apollo oraz Soyuz i historycznego uścisku dłoni między reprezentatmi dwóch mocarstw.
+- Apollo-Soyuz Test Project - ostatnia misja programu, podczas której doszło do dokowania na orbicie statków Apollo oraz Soyuz i historycznego uścisku dłoni między reprezentatmi dwóch mocarstw.
 
 Program Skylab
 --------------
@@ -133,9 +151,38 @@ Wśród najważniejszych osągnięć programu *Skylab* można zaliczyć:
 - opracowanie technologii śluz powietrznych,
 - pierwsza kontrolowana deorbitacja dużej konstrukcji.
 
-
 Program Space Shuttle
 ---------------------
+Jendym z najbardziej ikoninych programów kosmicznych jest *Space Transportation System* czyli tzw. prom kosmiczny (ang. *Space Shuttle*). Podczas tego programu stworzono reużywalny statek kosmiczny w kształcie przypominający samolot, który był w stanie wynosić na orbitę 27,5 metrycznej tony ładunku oraz załogą do 8 osób (misja *STS-61A*).
+
+W trakcie programu Space Shuttle stworzono orbitery:
+
+- Enterprise (1976) używany do testów podejścia i lądowania, nigdy nie osiągnął orbity,
+- Columbia (1981) pierwszy prom, który osiągnął orbitę Ziemii, uległ zniszczeniu w 2003 roku przy wejściu w atmosferę, cała siedmioosobowa załoga została utracona,
+- Challenger (1983) drugi prom który osiągnął orbitę, uległ zniszczeniu w 1986 przy starcie, cała siedmioosobowa załoga została utracona, zastąpiony później przez *Endeavour*,
+- Discovery (1984), trzeci orbiter, 27 lat służby, 39 lotów,
+- Atlantis (1985), czwarty orbiter, 33 misje, 4848 orbit, 203 mln km,
+- Endeavour (1992), ostatni orbiter, 25 misji, 4671 orbit, 198 mln km.
+
+.. _figure-vehicle-space-shuttle:
+
+.. figure:: ../img/spacecraft-space-shuttle.jpg
+    :scale: 50%
+    :align: center
+
+    Rysunek przedstawia zdjęcia poszczególnych orbiterów zbudowanych podczas programu Space Shuttle. W kolejności Columbia (STS-107), Challenger (STS-51-B), Discovery (STS-124), Atlantis (STS-132), Endeavour (STS-118) :cite:`NASASpaceShuttle`
+
+.. _figure-vehicle-sts-and-soyuz:
+
+.. figure:: ../img/spacecraft-space-shuttle-and-soyuz.png
+    :scale: 50%
+    :align: center
+
+    Rysunenk przedstawia skalę amerykańskiego promu kosmicznego Space Shuttle oraz rosyjskiego statku Soyuz TM :cite:`Portree1995`
+
+Program Space Shuttle pozwolił na zwiększenie częstotliwości lotów załogowych na niską orbitę okołoziemską. Dzięki promom kosmicznym i misjom *STS* stany zjednoczone osiągnęły bardzo wysoki poziom sprawności operacyjnej oraz ogromną przewagę w ilości wyszkolonych astronautów oraz osób, które odbyły lot w kosmos. Promy przyczyniły się również do budowy Międzynarodowej Stacji Kosmicznej oraz wyniesieniu i późniejszemu serwisowaniu teleskopu Hubble.
+
+Podczas lotów promów kosmicznych amerykańska agencja NASA opracowała program szkolenia astronautów, który stał się podstawą dzisiejszych treningów. Opracowano również skafander *EMU - Extravehicular Mobility Unit* (modyfikacja skafandra A7L wykorzystywanego w programie *Apollo*), który znajduje zastosowanie w misjach kosmicznych aż po dziś dzień w programie Międzynarodowej Stacji Kosmicznej.
 
 Rys historyczny programów kosmicznych ZSRR i Federacji Rosyjskiej
 =================================================================

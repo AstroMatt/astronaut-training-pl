@@ -230,6 +230,13 @@ Charakterystyka skafandra EMU
         - hełm
     - SAFER
 
+.. figure:: ../img/spacesuit-emu-dcm.jpg
+    :scale: 50%
+    :align: center
+
+    Moduł kontrolny z wyświetlaczem amerykańskiego skafandra EMU (ang. *EMU DCM - Display and Control Module*)
+
+
 Utrzymywanie sprawności skafandra
 =================================
 .. todo::
