@@ -2,11 +2,11 @@
     text-align: center;
     padding-top: 5rem;
     page-break-after: always;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
 }
 
 #first-page h1 {
-    font-size: 2.3rem;
+    font-size: 2rem;
     text-align: center;
     page-break-before: avoid;
     page-break-after: avoid;
@@ -15,7 +15,7 @@
 }
 
 #first-page h2 {
-    font-size: 1.85rem;
+    font-size: 1.5rem;
     font-weight: normal;
     text-align: center;
     page-break-before: avoid;
@@ -33,7 +33,7 @@
 }
 
 #first-page #about {
-    margin-top: 12rem;
+    margin-top: 11rem;
     text-align: left;
     padding-left: 40%;
     word-break: keep-all;
@@ -41,5 +41,5 @@
 
 #first-page footer {
     page-break-before: avoid;
-    margin-top: 12rem;
+    margin-top: 11rem;
 }

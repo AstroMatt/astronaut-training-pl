@@ -2,7 +2,8 @@
 Szkolenie Podstawowe
 ********************
 
-   I'm not a techie, I am an operator
+    I'm not a techie, I am an operator
+
     -- Astronaut Victor Glover :cite:`Glover2016`
 
 Po selecji osoba wybrana przez komisję ma za zadanie stawić się na tzw. szkolenie podstawowe. Podczas szkolenia kandydat na astronatę (ang. *ASCAN, Astronaut Candidate*) będzie przygotowany przez ekspertów oraz starszych stażem astronautów do pełnienia służby i docelowego lotu w kosmos. Szkolenie kandydackie trwa w zależności od agencji półtora do dwóch i pół roku. Po jego ukończeniu osoba ubiegająca się będzie mogła oczekiwać na przydział do misji :cite:`Gregersen2009`.

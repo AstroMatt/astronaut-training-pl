@@ -1,9 +1,9 @@
 *************************************************
 Selekcja kandydatów do przeszkolenia podstawowego
 *************************************************
-
 ​
-    Ability to parse and solve complex problems rapidly with incomplete information in a hostile environment, this is what makes you an astronaut. You don’t born with this, you develop this on the job by mental and physical toughness. [...] ​Astronaut is a person who can quickly without complete information make a decision when decisions can mean life or death.
+    Ability to parse and solve complex problems rapidly with incomplete information in a hostile environment, this is what makes you an astronaut. ​Astronaut is a person who can quickly without complete information make a decision when decisions can mean life or death.
+
     -- Chris Hadfield, An Astronaut's Guide to Life on Earth :cite:`Hadfield2013`
 
 Przygotowanie astronautów i kosmonautów do długotrwałych misji kosmicznych zaczyna się od wyboru kandydatów do szkolenia podstawowego. Na chwilę obecną najczęściej rekrutuje się osoby wśród najbardziej pożądanych specjalizacji tj.:
@@ -13,9 +13,9 @@ Przygotowanie astronautów i kosmonautów do długotrwałych misji kosmicznych z
 - inżynier,
 - naukowiec (nauki przyrodnicze).
 
-Na wybór kandydata ma ogromny wpływ również doświadczenie, wykształcenie, nalot lotniczy oraz przebyte kursy i wyprawy przetrwania. Astronauci to także osoby publiczne często występujące przed dużymi audiencjami dlatego ceniona jest umiejętność posługiwania się mediami społecznościowymi, pisania tekstów oraz przemawiania :cite:`How-to-Become-an-ESA-Astronaut`. Język angielski i rosyjski są obecnie oficjalnymi używanymi na ISS - Międzynarodowej Stacji Kosmicznej dlatego od kandydatów wymaga się również znajomości tych dwóch powyższych. Dodatkowo ze względu na międzynarodowy charakter misji kosmicznych mile widziane jest zainteresowanie kulturą Stanów Zjednoczonych, Japonii i Rosji.
+Na wybór kandydata ma ogromny wpływ również doświadczenie, wykształcenie, nalot lotniczy oraz przebyte kursy i wyprawy przetrwania. Astronauci to także osoby publiczne często występujące przed dużymi audiencjami dlatego ceniona jest umiejętność posługiwania się mediami społecznościowymi, pisania tekstów oraz przemawiania :cite:`How-to-Become-an-ESA-Astronaut`. Język angielski i rosyjski są obecnie oficjalnymi używanymi na *Międzynarodowej Stacji Kosmicznej* (ISS) dlatego od kandydatów wymaga się również znajomości tych dwóch powyższych. Dodatkowo ze względu na międzynarodowy charakter misji kosmicznych mile widziane jest zainteresowanie kulturą Europejską, Stanów Zjednoczonych, Japonii i Rosji.
 
-Osoby biorące udział w rekrutacji poddawane są skrupulatnym badaniom mającym na celu wyłonienia najlepszych kandydatów. Podczas badań brane są pod uwagę takie czynniki jak:
+Osoby biorące udział w rekrutacji poddawane są skrupulatnym badaniom mającym na celu wyłonienia najlepszych kandydatów. Podczas badań brane są pod uwagę takie czynniki jak :cite:`Psychological-and-medical-selection-process`, :cite:`Health-and-physical-condition`, :cite:`Qualifications-and-skills-required`:
 
 - kondycja fizyczna i wydolność organizmu,
 - zdolność adaptacji do zmiennych warunków,
@@ -27,31 +27,38 @@ Osoby biorące udział w rekrutacji poddawane są skrupulatnym badaniom mającym
 - wytrzymałość na przeciążenia,
 - umiejętność kojarzenia i przewidywania.
 
+Sam proces podstawowego szkolenia astronautów trwa około dwa lata. Głównym celem szkolenia jest wyrównanie poziomu wiedzy i umijejętności kandydatów pochodzących z różnych specjalizacji i dziedzin i wprowadzenie spójnego zasobu wiedzy, który stanowi podstawę do dalszego szkolenia. Ukończenie kursu podstawowego pozwala na zmianę tytułu z "kandydat na astronautę" na "astronauta" :cite:`NASA-Astronaut-Candidate-Program`. Jest to proces wymagający wielu poświęceń z życia prywatnego, który determinuje zasadność dalszych inwestycji przez agencję kosmiczną. W trakcie zbierania materiałów autor dotarł źródła pragnącego zachować anonimowość, które przekazało informację, że tylko 60% astronautów nadaje się do przydziałów do dalszych misji. Zgodnie z wywiadem pozostali "osiadają na laurach i przestają się uczyć", a ciągłe kształcenie jest podstawą specyfiki tego zawodu. Ze względu na dużą ilość osób i zasobów zaangażowanych w przygotowanie kandydata proces ten jest bardzo kosztowny. Wsparcie jakiego wymaga przygotowanie do i po misji jest ogromne. Z tego powodu agencje kosmiczne wybierają najbardziej odpowiednie osoby na to stanowisko, a proces szkolenia kandydackiego stanowi jeden z etapów późnej selekcji.
+
+Aby przygotować misję kosmiczną wymagane są lata pracy wielu zespołów profesjonalistów. I choć pozycja astronauty jest jedną z najbardziej prestiżowych na świecie to ich sukces zbudowany jest przez tych co pozostali na Ziemi :cite:`How-to-Become-an-ESA-Astronaut`. Ograniczone możliwości w zakresie wysyłania ludzi w przestrzeń kosmiczną i koszt tego przedsięwzięcia wymaga starannego doboru kandydatów. Z tego powodu proces selekcji astronautów i kosmonautów jest zadaniem trudnym. Wymaga od ubiegających się o to stanowisko umiejętności multidyscyplinarnych oraz wysokiego poziomu przyswajania wiedzy z zakresu wielu dziedzin naukowych. W poniższym rozdziale przedstawione zostaną kryteria oraz proces wyboru najlepszych kandydatów.
+
+Kryteria doboru kandydatów
+==========================
+:numref:`table-astronaut-requirements` Przedstawia zestawienie minimalnych umiejętności i porządanych cech kandydatów na astronautów w różnych agencjach kosmicznych.
+
+.. _table-astronaut-requirements:
+
 .. csv-table:: Wymagania dla kandydatów na astronautów i kosmonautów :cite:`NASA-Astronaut-Requirements`, :cite:`ESA-Astronaut-Training-Requirements`, :cite:`Roscosmos-Cosmonaus-Requirements`
     :file: ../data/astronaut-requirements.csv
     :header-rows: 1
 
-Sam proces podstawowego szkolenia astronautów trwa około dwa lata. Głównym celem szkolenia jest wyrównanie poziomu wiedzy i umijejętności kandydatów pochodzących z różnych specjalizacji i dziedzin i wprowadzenie spójnego zasobu wiedzy, który stanowi podstawę do dalszego szkolenia. Ukończenie kursu podstawowego pozwala na zmianę tytułu z "kandydat na astronautę" na "astronauta" :cite:`NASA-Astronaut-Candidate-Program`. Jest to proces wymagający wielu poświęceń z życia prywatnego, który determinuje zasadność dalszych inwestycji przez agencję kosmiczną. W trakcie zbierania materiałów autor dotarł źródła pragnącego zachować anonimowość, które przekazało informację, że tylko 60% astronautów nadaje się do przydziałów do dalszych misji. Zgodnie z wywiadem pozostali "osiadają na laurach i przestają się uczyć", a ciągłe kształcenie jest podstawą specyfiki tego zawodu. Ze względu na dużą ilość osób i zasobów zaangażowanych w przygotowanie kandydata proces ten jest bardzo kosztowny. Wsparcie jakiego wymaga przygotowanie do i po misji jest ogromne. Z tego powodu agencje kosmiczne wybierają najbardziej odpowiednie osoby na to stanowisko, a proces szkolenia kandydackiego stanowi jeden z etapów późnej selekcji.
-
-Aby przygotować misję kosmiczną wymagane są lata pracy wielu zespołów profesjonalistów. I choć pozycja astronauty jest jedną z najbardziej prestiżowych na świecie to ich sukces zbudowany jest przez tych co pozostali na Ziemi :cite:`How-to-Become-an-ESA-Astronaut`. Ograniczone możliwości w zakresie wysyłania ludzi w przestrzeń kosmiczną i koszt tego przedsięwzięcia wymaga starannego doboru kandydatów. Z tego powodu proces selekcji astronautów i kosmonautów jest zadaniem trudnym. Wymaga od ubiegających się o to stanowisko umiejętności multidyscyplinarnych i wysokiego poziomu umiejętności przyswajania wiedzy z zakresu wielu dziedzin naukowych. W poniższym rozdziale przedstawione zostaną kryteria oraz proces wyboru najlepszych kandydatów.
-
-Kryteria doboru kandydatów
-==========================
-.. todo:: http://www.esa.int/Our_Activities/Human_Spaceflight/European_Astronaut_Selection/FAQs_Qualifications_and_skills_required
-.. todo:: http://www.esa.int/Our_Activities/Human_Spaceflight/European_Astronaut_Selection/FAQs_Health_and_physical_condition
-.. todo:: http://www.esa.int/Our_Activities/Human_Spaceflight/European_Astronaut_Selection/Psychological_and_medical_selection_process
 
 Selekcja kondycyjna
 -------------------
-Charakter pracy jako astronauta wymaga wysokiej aktywności kondycyjnej i dużej sprawności fizycznej. Podczas wielomiesięcznych a docelowo wieloletnich misji kosmicznych astronauci aby przeciwdziałać niebezpiecznemu wpływowi braku grawitacji na układ szkieletowy i mięśniowy. Aby zapobiec atrofii mięśni astronauci muszą ćwiczyć przynajmniej dwie do trzech godzin dziennie.
+Charakter pracy astronauty wymaga wysokiej aktywności kondycyjnej i dużej sprawności fizycznej. Podczas wielomiesięcznych, a docelowo wieloletnich, misji kosmicznych astronauci aby przeciwdziałać niebezpiecznemu wpływowi braku grawitacji na układ szkieletowy oraz atrofii mięśni muszą ćwiczyć przynajmniej dwie godziny dziennie.
 
-Sam proces treningu do spacerów kosmicznych (w basenie z doskonałą pływalnością) trwa sześć godzin, w trakcie którego astronauta wykonuje zadania pod wodą będąc umieszczonym w skafandrze. Każdy jednorazowy EVA (ang. ExtraVehicular Activity - spacer kosmiczny) w przestrzeni kosmicznej jest poprzedzony przynajmniej dwudziestokrotnym treningiem w środowisku symulującym stan nieważkości w basenie przy użyciu ciężarów i wyporników nadających skafandrowi kosmicznemu cechę neutralnego unoszenia się.
+Jednorazowe wejście do basenu neutralnej pływalności w celu ćwiczenia spacerów kosmicznych (ang. *EVA - ExtraVehicular Activity*) trwa sześć godzin, w trakcie którego astronauta wykonuje zadania pod wodą będąc umieszczonym w skafandrze *EMU* lub *Orlan*. Każdy późniejszy *EVA* w przestrzeni kosmicznej jest poprzedzony przynajmniej dwudziestokrotnym treningiem w środowisku symulującym stan nieważkości. W tym celu w  basenie przy użyciu ciężarów i wyporników nadaje się skafandrowi kosmicznemu cechę neutralnego unoszenia się. Skafander w którym trenują astronauci oraz specjalne warunki wymienione powyżej wymagają wysokiej sprawności kondycyjnej i wytrzymałościowej.
 
 Kandydaci którzy biorą udział w rekrutacji muszą być zdolni do wytrzymywania zadanych obciążeń i dużego wysiłku fizycznego. Umiejętności te wymagają wieloletniego przygotowania kondycyjno-wytrzymałościowego i są oceniane przez komisję rekrutacyjną.
 
+Podczas rekrutacji oceniane są:
+
+- umiejętność pływania,
+- umiejętność utrzymywania się na powierzchni wody bez użycia rąk,
+- umiejętność pływania pod wodą,
+
+
 .. todo::
     - http://www.asc-csa.gc.ca/eng/astronauts/faq.asp
-    - It is essential for astronauts to be able to swim, tread water and swim underwater.
     - During their basic training, astronauts participate in training to prepare them for spacewalks and space missions. As this training often takes place underwater, scuba diving certification is necessary.
     - In addition, astronauts in training are required to fly jets. To do so, they must successfully complete a military aquatic survival course.
     - During the recruitment campaign evaluations, applicants will be required to take a swimming test and demonstrate the following abilities:
@@ -144,7 +151,6 @@ Powyższe pytania są tylko reprezentacyjnym przykładem kwestii poruszanych pod
 
 Selekcja umiejętności technicznych i naukowych
 ----------------------------------------------
-
 Jednym z najbardziej kluczowych elementów selekcji kandydatów na astronautów i kosmonautów jest dobór ze względu na umiejętności i doświadczenie. Obecnie Europejska Agencja Kosmiczna (podobny profil poszukiwany jest również w innych agencjach kosmicznych) poszukuje kandydatów wśród specjalizacji:
 
 - naukowiec,
@@ -156,7 +162,6 @@ Każda z tych profesji ma swoje zalety przy prowadzeniu badań w środowisku kos
 
 Selekcja ze względu na doświadczenie lotnicze
 ---------------------------------------------
-
 Pilot-astronauta podczas misji specjalizuje się w prowadzeniu statków kosmicznych. W zakres jego obowiązków wchodzi pilotaż, odpowiedzialność za załogę i powodzenie misji, oraz dbanie o bezpieczeństwo na pokładzie. Pilot wspiera dowódcę w kontrolowaniu statku. Ponadto rola pilota może rozszerzyć się o zakres obowiązków związanych z przechwytywaniem i rozstawianiem satelit, korzystaniem z robotycznego ramienia - manipulatora, EVA oraz operacje związane z ładunkiem :cite:`NASA-Astronaut-Requirements`.
 
 Doświadczenie lotniczne nie jest wymagane, ale wysoko pożądane :cite:`ESA-Astronaut-Training-Requirements`.
@@ -187,32 +192,25 @@ Poniżej zaprezentowano proces rekrutacji
 
 NASA - Narodowa Agencja Aeronautyki i Astronautyki (USA)
 --------------------------------------------------------
-
 Amerykańska agencja kosmiczna NASA organizuje rekrutację na kandydata na astronautę (ang. Astronaut Candidate) regularnie co dwa lata. Ostania tego typu rekrutacja miała miejsce na przełomie 2015/2016 roku i zakończyła się 15 lutego 2016 :cite:`NASA-Astronaut-Selection-Proces`. Dzięki zaangażowaniu mediów społecznościowych oraz innych środków masowego przekazu swoje aplikacje złożyło rekordowo dużo osób. Komisja rekrutacyjna będzie musiała rozpatrzyć 18000 podań i z tego grona wybrać 8-10 najlepszych kandydatów, którzy rozpoczną przygotowanie wstępne :cite:`NASA-Astronaut-Selection`.
 
-
 .. csv-table:: Dotychczasowe selekcje astronautów NASA :cite:`Active-NASA-Astronauts`, :cite:`Inactive-NASA-Astronauts`
-    :file: ../data/nasa-selections.csv
+    :file: ../data/selection-nasa.csv
     :header-rows: 1
-
 
 .. csv-table:: Lista aktywnych astronautów NASA :cite:`Active-NASA-Astronauts`
     :file: ../data/nasa-astronauts.csv
     :header-rows: 1
 
-
 Klasy astronautów podobnie jak zespoły przydzielone do misji tworzą tzw. calss patch (ang. insygnia klasy) :cite:`Anderson2015`.
 
 Roscosmos (Federacja Rosyjska)
 ------------------------------
-
 Do końca roku 2015 agencja kosmiczna Roscosmos podlegała strukturom wojskowym Federacji Rosyjskiej i wcześniej Związkowi Radzieckiemu. Z tego powodu kandydaci na kosmonautów byli wybierani wśród oficerów sił powietrznych. Wraz ze zmianami organizacyjnymi z 31 grudnia 2015 Roscosmos przekształcił się w cywilną agencję zarządzaną na wzór amerykańskiej NASA :cite:`Cosmonauts-Biographical-Data`. Z tego powodu proces rekrutacji kosmonautów może ulec zmianie i w najbliższych latach wśród rosyjskich kosmonautów znajdzie się więcej cywili, naukowców i inżynierów.
 
 ESA - Europejska Agencja Kosmiczna
 ----------------------------------
-
 Jednym z warunków bycia astronautą ESA jest aby państwo narodowości kandydata było oficjalnym członkiem tej agencji. Ostatni proces rekrutacji Europejskiej Agencji Kosmicznej odbył się w maju 2008 oraz maju 2009 roku. Przedsięwzięcie prowadziła jednostka EAC (ang. European Astronaut Centre) w Kolonii w Niemczech. Wzięło w nim udział 8413 kandydatów. 20 maja 2009 sześciu nowych kandydatów na astronautów zostało przedstawionych na konferencji prasowej w siedzibie ESA w Paryżu. Kandydaci rozpoczęli swoje wstępne przeszkolenie 1 września 2009 roku. W tej selekcji wybrano następujących kandydatów :cite:`How-to-Become-an-ESA-Astronaut`, :cite:`International-Astronauts`:
-
 
 .. csv-table:: Lista aktywnych astronautów ESA :cite:`European-Astronaut-Corps`
     :file: ../data/esa-astronauts.csv
