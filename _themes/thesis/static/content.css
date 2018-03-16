@@ -25,13 +25,13 @@ a.headerlink {
     line-height: 1.5;
     text-align: justify;
     font-family: "Times New Roman", serif;
-    font-size: 12pt;
+    font-size: 1.5rem;
 }
 
 #content h1 {
-    font-size: 14pt;
+    font-size: 2rem;
     border-bottom: 0;
-    margin-bottom: 2em;
+    margin-bottom: 2rem;
     text-align: left;
     page-break-before: always;
     page-break-inside: avoid;
@@ -40,9 +40,9 @@ a.headerlink {
 }
 
 #content h2 {
-    font-size: 12pt;
+    font-size: 1.75rem;
     font-weight: bold;
-    margin-top: 2em;
+    margin-top: 2rem;
     text-align: left;
     page-break-inside: avoid;
     page-break-after: avoid;
@@ -50,8 +50,8 @@ a.headerlink {
 }
 
 #content h3 {
-    font-size: 12pt;
-    margin-top: 2em;
+    font-size: 1.5rem;
+    margin-top: 2rem;
     text-align: left;
     page-break-inside: avoid;
     page-break-after: avoid;
@@ -61,7 +61,7 @@ a.headerlink {
 #content img {
     display: block;
     margin: 0 auto;
-    margin-top: 1em;
+    margin-top: 1rem;
     max-width: 640px;
     max-height: 480px;
 }
@@ -69,7 +69,7 @@ a.headerlink {
 #content img + strong {
     display: block;
     text-align: center;
-    margin-bottom: 2em;
+    margin-bottom: 2rem;
 }
 
 #content ul {
@@ -94,7 +94,7 @@ a.headerlink {
 #content blockquote {
     color: #888888;
     border-left: 5px solid #CCCCCC;
-    padding-left: 1em;
+    padding-left: 1rem;
 }
 
 #content p {
@@ -103,7 +103,7 @@ a.headerlink {
 }
 
 #content table {
-    font-size: 10pt;
+    font-size: 0.85rem;
     font-family: "Times New Roman", serif;
     border-spacing: 0;
     border-collapse: collapse;
@@ -112,21 +112,21 @@ a.headerlink {
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 2em;
-    margin-bottom: 1em;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
 }
 
 #content th {
     text-align: center;
     vertical-align: middle;
     background-color: #F5F5F5;
-    padding: 0.6em;
+    padding: 0.6rem;
     border: 1px solid #000000;
 }
 
 #content td {
     vertical-align: middle;
-    padding: 0.3em;
+    padding: 0.3rem;
     border: 1px solid #000000;
 }
 
@@ -134,8 +134,8 @@ a.headerlink {
 #content p.caption {
     font-weight: bold;
     text-align: center;
-    margin-top: 1em;
-    margin-bottom: 1em;
-    font-size: 11pt;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-size: 1.25rem;
     font-family: "Times New Roman", serif;
 }
