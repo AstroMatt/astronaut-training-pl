@@ -8,7 +8,7 @@ Szkolenie pilotażowe jest jednym z najtrudniejszych elementów szkolenia astron
 - umiejętność pilotowania ekperymentalnych statków powietrznych,
 - wykonywanie procedur w ekstremalnych wartunkach,
 - przyzwyczajenie pilota i jego rodziny do ciągłej nieobecności w domu,
-- przyzwyczajenie pilota i jego rodziny do niebezpiecznego charakteru pracy :cite:`Victor-Glover-on-Safety`.
+- przyzwyczajenie pilota i jego rodziny do niebezpiecznego charakteru pracy :cite:`Glover2016`.
 
 Trening pilotażu samolotów
 ==========================
@@ -24,6 +24,68 @@ Za czasów programu Apollo astronauci byli szkoleni również z pilotażu śmig�
 
 Pilotaż oraz wykorzystanie systemów statku kosmicznego Soyuz
 ============================================================
+.. todo:: PTT; Part Tasks Trainier; 1on1 computer simulation Training failures one at a time, instructor shows on a display normal conditions and then simulates what it would look like if for example pomp would not work
+    ptt of thermal systems of Soyuz
+    Pump failure
+    Sensor failure
+    Symptoms of false alarms, vs actual systems failures
+    Pressure regulation
+    Atmospheric constituant control
+    Randevouz sensing System
+    What triggers the most negatives situations
+    What to pay attention to
+    What to disregard
+    Which risks are the greatest
+    Which triggers the most negative consequences
+
+.. todo:: Then Soyuz simulations:
+    Staring with individual failures
+    Then integrated failures
+    Thermo regulation system malefunctions and a digital control loop in central computer failure
+    Do This problems compound each other or they are unrelated ?
+    Now engine is failed, and we’re on backup thrusters.
+    Prioritizing risks, which problem has to be dealt first
+
+.. todo:: Dynamic Operations
+    Launch
+    Reentry
+    Meteorite strike
+    (Practiced hundreds or even thousands of times)
+
+.. todo:: Soyuz has communication only above Russian territory. Why flying, all other time is peace and quiet
+    24 immediate action buttons. Cover with flip lids, to prevent accidental pushes:
+    switch main engine off
+    Turn the backup thrusters
+    Motto astronautów: nic nie jest ważniejsze niż to co robisz teraz
+    Aby utrzymać panele słoneczne skierowane na słońce Soyuz kręci się jak kurczak na rożnie
+    Oprogramowanoe Soyuza ma okolo 50 displays:
+    Speed
+    Altitude
+    Ships oxygen system
+    Mathematical summaries of the orbital target
+    Fuel pressure
+    Steering
+    Propellant flow
+​
+    Na orbicie:
+        Sprawdzanie ciśnienia (pierwsze i najważniejsze)
+        Upewnienie się czy systemy automatyczne działają
+        Czy RCS Fuel lines są pełne
+        Wyłączenie Oxygen supply
+        Measure the pressure in reentry vehicle and orbital capsules for an hour. Jeżeli choćby trochę przecieka, to trzeba szykować powrót awaryjny na backupowe miejsca lądowania.
+        Ściągnięcie skafandra
+        Ściągnięcie pieluchy
+        Zostają tylko w underwear 100% cotton, bo w przypadku pożaru nie płonie ani się nie topi tylko zwegla
+
+​
+    Soyuz:
+        explosion
+        Computer meltdown
+        Engine problem
+    ​
+    Dwie minuty po starcie, jest najgorszy moment. Jak coś się stanie, to mają za mała prędkość i zaczną spadać. W przy takim spadku mogą mieć nawet do 24g, przeżywalne ale bardzo niedobre dla ludzi i sprzętu. Dowódca może w ciągu 4 sekund wcisnąć przyciski które zmienia ustawienie kapsuły i trajektorię, co może obniżyć load nawet o 8-9g.
+
+
 Na chwilę obecną jednym z najważniejszych aspektów szkolenia astronautów przed lotem kosmicznym jest szkolenie z wykorzystywania systemów rosyjskiego statku kosmicznego Soyuz. Operacje wykonywane przez ten statek są w pełni zautomatyzowane, ale w sytuacjach awaryjnych istnieje możliwość przejścia na tzw. ręczny tryb i samodzielne przejęcie kontroli nad kapsułą. Z tego też powodu zarówno astronautów jak i kosmonautów poddaje się szkoleniu, które trwa około 790h i obejmuje aspekty:
 
 Sytuacje normalne:
@@ -51,7 +113,7 @@ Sytuacje awaryjne:
 
 Podejście do ISS i manewr dokowania
 -----------------------------------
-Statek Soyuz wyposażony jest w system *KURS*, który pozwala na automatyczne naprowadzenie oraz dokownie kapsuły do Międzynarowej Stacji Kosmicznej. System ten był opracowany dla kapsuł dokujących do stacji Salyut :cite:`Soviet-Union-Space-Race` oraz dla stacji MIR. Obecnie system jest wypierany przez nowszy i dokładniejszy system, którego podzespoły w kapsule są znaczenie lżejsze.
+Statek Soyuz wyposażony jest w system *KURS*, który pozwala na automatyczne naprowadzenie oraz dokownie kapsuły do Międzynarowej Stacji Kosmicznej. System ten był opracowany dla kapsuł dokujących do stacji Salyut :cite:`Siddiqi2000` oraz dla stacji MIR. Obecnie system jest wypierany przez nowszy i dokładniejszy system, którego podzespoły w kapsule są znaczenie lżejsze.
 
 Wejście w atmosferę
 -------------------
@@ -67,9 +129,17 @@ Loty kosmiczne są obarczone wysokim stopniem ryzyka. Większość z godzin prze
 
 Rozszczelnienie
 ---------------
+.. todo::
+    Reentry contingency: :cite:`Hadfield2013`
+    Small leak of oxygen (not a big deal, they have several spares)
+    But it was the leak to inside the capsule, which raises oxygen level and could make everything flammable
+    Solution is to open the valve and purge the atmosphere
+    But, the remaining canisters will be insufficient to fill the whole capsule
+    Solution: turn the spaceship around and drop as fast as possible
+
 Do rozszczelnienia kapsuły może dość na skutek kolizji z mikrometeorytem, który niszcząc poszycie pozostawia otwór, z którego uchodzi powietrze. W zależności od wielkości uszkodzenia są różne procedury. Jedną z najważniejszych rzeczy należących do załogi jest uszczelnienie skafandra IVA Orlan oraz odkręcenie dopływu powietrza. Do czasu misji Souyz 11 podczas, której przy wejściu w atmosferę doszło do rozszczelnienia kapsuły i ujścia powietrza co skutkowało śmiercią załogi, kosmonauci nosili strojów wewnątrz kapsuły :cite:`Soyuz11`. Od czasu tego incydentu zarówno podczas startu, dokowania, odejścia, i wejścia w atmosferę astronauci muszą znajdować się w stroju IVA :cite:`Sokol`.
 
-Podobny incydent zdarzył się podczas lotu Apollo-Soyuz gdy do amerykańskiej kapsuły Apollo podczas wejścia w atmosferę zaczął wdzierać się toksyczny gaz Tetratlenek diazotu :math:`N_2O_4` :cite:`Failure-Is-Not-an-Option`, :cite:`Manned-Space-from-Mercury-to-the-Shuttle`. Tylko dzięki szybkiej reakcji astronautów udało się uniknąć ich śmierci.
+Podobny incydent zdarzył się podczas lotu Apollo-Soyuz gdy do amerykańskiej kapsuły Apollo podczas wejścia w atmosferę zaczął wdzierać się toksyczny gaz Tetratlenek diazotu :math:`N_2O_4` :cite:`Kranz2001`, :cite:`Manned-Space-from-Mercury-to-the-Shuttle`. Tylko dzięki szybkiej reakcji astronautów udało się uniknąć ich śmierci.
 
 Pożar
 -----
@@ -97,7 +167,7 @@ System ewakuacji załogi podczas startu może być aktywowany:
 - ręcznie przez kontrolerów lotu na polecenie kierownika lotu (ang. Flight Director),
 - ręcznie przez dowódcę załogi.
 
-Astronauci są szkoleni z wykorzystywania systemu lecz nie zdazył się przypadek gdy system ten zadziałał z tego powodu. Podczas misji Apollo 12 po starcie rakiety piorun trafił w strukturę pojazdu i dowódca Charles "Pete" Conrad był bliski aktywowania systemu. Piorun trafiał w rakietę dwukrotnie, ale w żadnym z tych wydarzeń system nie został aktywowany i misja przebiegła bez incydentów :cite:`Failure-Is-Not-an-Option`.
+Astronauci są szkoleni z wykorzystywania systemu lecz nie zdazył się przypadek gdy system ten zadziałał z tego powodu. Podczas misji Apollo 12 po starcie rakiety piorun trafił w strukturę pojazdu i dowódca Charles "Pete" Conrad był bliski aktywowania systemu. Piorun trafiał w rakietę dwukrotnie, ale w żadnym z tych wydarzeń system nie został aktywowany i misja przebiegła bez incydentów :cite:`Kranz2001`.
 
 System ten został użyty podczas misji Soyuz T-10-1 (26 września 1983) i pozwolił załodze na bezpieczne oddalenie się od rakiety, która wybuchła na platformie startowej. Astronauci podczas tego wydarzenia byli poddani przeciążeniu chwilowemu równemu 14G do 17G (137 do 167 :math:`\frac{m}{s^2}`).
 
@@ -132,3 +202,26 @@ Wejście w atmosferę po krzywej balistycznej
 
 Problemy przy lądowaniu
 -----------------------
+
+
+Sytuacje awaryjne
+=================
+.. todo:: Sytuacje awaryjne
+    - In his book, An Astronaut's Guide to Life on Earth, astronaut Chris Hadfield explains a chilling training exercise called a 'death sim'. It's designed to help prepare astronauts for what they should do in the event of the death of one of their colleagues. Death sims usually operate as a roundtable discussion in which one astronaut is announced as having died and whoever is leading the exercise will throw curveballs into the hypothetical scenario that plays out. In his book, Hadfield explains what it was like listening to his own death sim played out: "We've just received word from the Station: Chris is dead." Immediately, people start working the problem. Okay, what are we going to do with his corpse? There are no body bags on Station, so should we shove it in a spacesuit and stick it in a locker? But what about the smell? Should we send it back to Earth on a resupply ship and let it burn up with the rest of the garbage on re-entry? Jettison it during a spacewalk and let it float away into space? The death sims force the astronauts to really think through how they should respond, Hadfield writes: "Who should tell my parents their son is dead? By phone or in person? Where will they even be - at the farm or at the cottage? Do we need two plans, then, depending on where my mom and dad are?" I'm guessing a similar sim might have been done for the Apollo astronauts.
+
+Przygotowanie do wyławiania z oceanu
+------------------------------------
+.. todo::
+    - Przy szkoleniu wodnym, opuszczanie kapsuły w wodzie są dwie opcje
+        - w skafandrze wodnym suchym (zdążyli się przebrać)
+        - Awaryjne w skafandrze Sokol
+    - Odpalanie racy i dmuchanie jacketów jak nurkowie
+
+Awaryjne opuszczanie platformy startowej
+----------------------------------------
+.. todo::
+    - MRAP - Mine resistant ambush protected vehicles  - opancerzony samochód do ewakuacji astronautów z launch pad
+    - Wagoniki ze space shuttle
+
+Systemy przerywania startu
+--------------------------

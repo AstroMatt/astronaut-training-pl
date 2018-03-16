@@ -1,6 +1,41 @@
-********************
+*************
+Wiedza Ogólna
+*************
+
+Nauka języków obcych i przygotowanie kulturowe
+==============================================
+
+Nauka języka rosyjskiego
+------------------------
+.. todo:: Nauka języka rosyjskiego
+    - 1000h ćwiczeń zanim pojadą na szkolenie do Gwiezdnego Miasteczka w Rosji.
+
+Przygotowanie do pracy w wielokulturowym środowisku
+---------------------------------------------------
+
+Przygotowanie teoretyczne z nauk przyrodniczych i technicznych
+==============================================================
+
+Kurs nawigacji kosmicznej i mechaniki orbitalnej
+================================================
+
+Wynoszenie na orbitę
+Manewry na orbicie
+Transfer pomiędzy orbitami i zmiany inklinacji
+
+    - Hohmann transfer
+    - Bielliptic tranfer (Bielliptic jest uzywany w Soyuz aby upewnic sie czy predkosc oraz odleglosc jest odpowiednia)
+
+Operacje Rendezvous i dokowania
+
+    - Fly-around manouvre
+    - Redocking
+
+Operacja opuszczania orbity i wejścia w atmosferę
+Nawigacja kosmiczna za pomocą gwiazd
+
 Treningi i symulacje
-********************
+====================
 
 .. todo:: Treningi i symulacje
     - Astronaut Pilots and Commanders are a breed apart, as are Test Pilots. These are people with total control over their emotions and reactions, rarely if ever flustered. If you've watched test pilots flying aircraft in Air Shows, and seen planes literally come apart and the pilot stays seemingly forever in the cockpit, before a last ditch ejection, then you know the kind of people I'm talking about.  I have flown simulations with Astronauts and they really do have ice water running through their veins.  Nothing rattles them.  They do not have a death wish, but they face every situation, including the toughest ones, with a calm that's nearly impossible to believe.
@@ -176,24 +211,22 @@ Loty paraboliczne symulujące stan nieważkości
     - Samoloty wykorzystywane przez Ruskich
     - ESA samolot
 
-Sytuacje awaryjne
-=================
-.. todo:: Sytuacje awaryjne
-    - In his book, An Astronaut's Guide to Life on Earth, astronaut Chris Hadfield explains a chilling training exercise called a 'death sim'. It's designed to help prepare astronauts for what they should do in the event of the death of one of their colleagues. Death sims usually operate as a roundtable discussion in which one astronaut is announced as having died and whoever is leading the exercise will throw curveballs into the hypothetical scenario that plays out. In his book, Hadfield explains what it was like listening to his own death sim played out: "We've just received word from the Station: Chris is dead." Immediately, people start working the problem. Okay, what are we going to do with his corpse? There are no body bags on Station, so should we shove it in a spacesuit and stick it in a locker? But what about the smell? Should we send it back to Earth on a resupply ship and let it burn up with the rest of the garbage on re-entry? Jettison it during a spacewalk and let it float away into space? The death sims force the astronauts to really think through how they should respond, Hadfield writes: "Who should tell my parents their son is dead? By phone or in person? Where will they even be - at the farm or at the cottage? Do we need two plans, then, depending on where my mom and dad are?" I'm guessing a similar sim might have been done for the Apollo astronauts.
 
-Przygotowanie do wyławiania z oceanu
-------------------------------------
-.. todo::
-    - Przy szkoleniu wodnym, opuszczanie kapsuły w wodzie są dwie opcje
-        - w skafandrze wodnym suchym (zdążyli się przebrać)
-        - Awaryjne w skafandrze Sokol
-    - Odpalanie racy i dmuchanie jacketów jak nurkowie
+Proces przygotowania do operacji nietechnicznych i komunikacji
+==============================================================
+.. todo:: Proces przygotowania do operacji nietechnicznych i komunikacji
 
-Awaryjne opuszczanie platformy startowej
-----------------------------------------
-.. todo::
-    - MRAP - Mine resistant ambush protected vehicles  - opancerzony samochód do ewakuacji astronautów z launch pad
-    - Wagoniki ze space shuttle
+    Communication is a foundation of any good team
+    -- Astronaut Victor Glover :cite:`Glover2016`
 
-Systemy przerywania startu
---------------------------
+Wykorzystanie mediów społecznościowych do popularyzacji nauki i misji
+---------------------------------------------------------------------
+
+Przemówienia publiczne i "Space Advocacy"
+-----------------------------------------
+
+Fotografia
+----------
+
+Amatorskie radio krótkofalowe
+-----------------------------

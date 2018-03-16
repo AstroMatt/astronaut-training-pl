@@ -1,9 +1,9 @@
-    W emocji tej zawarta jest chyba, a może przede wszystkim, świadomość ogromnej odpowiedzialności, jaka spoczywa na mnie przed moimi rodakami, a także to, że lot ten wykonujemy dla dobra calej ludzkości. Robimy to w imię rozwoju nauki i postepu. Lot nasz to nie tylko wielka przygoda, ale trudna złożona praca w nowym, nierozpozanym jeszcze środowisku pełnym niewiadomych i niebezpieczeństw. To także okazja uczestniczenia w czymś nowatorskim i niezwykłym, to możliwość uczestniczenia w realizacji eksperymentów naukowych, nad przygotowaniem których trudziły sie znane w świecie autorytety. Nie mogę zawieść oczekiwań uczonych i moich rodaków zawieść nie mogę.
-    -- Mirosław Hermaszewski, Ciężar Nieważkości :cite:`Hermaszewski2013`
-
 *****
 Wstęp
 *****
+
+    W emocji tej zawarta jest chyba, a może przede wszystkim, świadomość ogromnej odpowiedzialności, jaka spoczywa na mnie przed moimi rodakami, a także to, że lot ten wykonujemy dla dobra calej ludzkości. Robimy to w imię rozwoju nauki i postepu. Lot nasz to nie tylko wielka przygoda, ale trudna złożona praca w nowym, nierozpozanym jeszcze środowisku pełnym niewiadomych i niebezpieczeństw. To także okazja uczestniczenia w czymś nowatorskim i niezwykłym, to możliwość uczestniczenia w realizacji eksperymentów naukowych, nad przygotowaniem których trudziły sie znane w świecie autorytety. Nie mogę zawieść oczekiwań uczonych i moich rodaków zawieść nie mogę.
+    -- gen. Mirosław Hermaszewski, Ciężar Nieważkości :cite:`Hermaszewski2013`
 
 Historia załogowych lotów kosmicznych sięga roku 1961 gdy 12 kwietnia rosyjski pilot Yuri Gagarin jako pierwszy przekroczył umowną granice kosmosu, tzw. linię Kármána :cite:`Cordoba2004`. Od tego czasu podobnego wyczynu dokonało 553 osób :cite:`Astronaut-Statistics`. W tym gronie znajduje się dwunastu amerykańskich astronautów, którzy postawili stopę na innym ciele niebieskim - na Księżycu. W ciągu czterdziestu lat od tego wydarzenia człowiek na stałe zaczął mieszkać na orbicie. Międzynarodowa stacja kosmiczna jest miejscem codziennej pracy dla sześciu astronautów i kosmonautów, którzy prowadzą badania naukowe w różnych dziedzinach technicznych, inżynieryjnych, biologicznych i chemicznych. Średni czas przebywania członka załogi na stacji wynosi sześć miesięcy.
 

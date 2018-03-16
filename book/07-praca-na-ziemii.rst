@@ -63,6 +63,18 @@ Praca w symulatorach w przypadku problemów na orbicie
 =====================================================
 Rozwiązywanie sytuacje awaryjnych na orbicie wymagaja wielu prób w symulatorach. Podczas misji Apollo 13 członkowie załogi zapasowej (ang. backup crew) uczestniczyli w wielugodzinnych próbach optymalizacji wykorzystania systemów statku Command Module, Service Module i Lunar Module. W trakcie testowania systemów wykonywano próbę selekcji i wyłączania urządzeń poza tymi, które były absolutnie niezbędne do prawidłowego funkcjonowania pojazdu. Dzięki sytmulacjom udało się ograniczyć zużycie energii elektrycznej i zostawić rezerwę aby system uwalniania spadochronów lądowania mógł zadziałać sprawnie sprowadzając astronautów bezpiecznie do oceanu na Ziemii.
 
+
+Praca jako Head of ISS Operations
+=================================
+    selection
+    Training
+    Certification
+    Support
+    Recovery
+    Rehabilitation
+    Reintegration
+    Interacting on International partners
+
 Praca jako Capsule Communicator (CAPCOM)
 ========================================
 .. todo::
@@ -89,9 +101,6 @@ Czynności astronautów programu Mercury, Gemini, Apollo i Apollo Applications
         - astrophysics
         - flight physiology
         - orbital trajectories (orbital management)
-
-Astronaut Close Family Escort
-=============================
 
 Coroczna ewaluacja kondycyjna
 =============================

@@ -4,7 +4,7 @@ Rys historyczny lotów kosmicznych
 
 Pionierzy kosmonautyki
 ======================
-Erę rakietową rozpoczęła publikacja tzw. wzoru Ciołkowskiego w 1903 roku określającego prędkość rakiety zmieniającej masę (zużywającej paliwo podczas lotu). Wzór ten został opublikowany w książce "Badanie przestrzeni świata przy pomocy urządzeń odrzutowych" :cite:`Ciolkowski`. Do pierwszych pionierów kosmonautyki wykorzystujących podstawy teoretyczne stworzone przez Ciołkowskiego zalicza się:
+Erę rakietową rozpoczęła publikacja tzw. wzoru Ciołkowskiego w 1903 roku określającego prędkość rakiety zmieniającej masę (zużywającej paliwo podczas lotu). Wzór ten został opublikowany w książce "Badanie przestrzeni świata przy pomocy urządzeń odrzutowych" :cite:`Ciolkowski1967`. Do pierwszych pionierów kosmonautyki wykorzystujących podstawy teoretyczne stworzone przez Ciołkowskiego zalicza się:
 
 - dr Robert H. Goddard (USA),
 - Siergiej Korolew (ZSSR),
@@ -23,18 +23,18 @@ Po drugiej wojnie światowej wyścig zbrojeń przerodził się w tzw. zimną woj
 Wystrzelony 4 października 1957 należący do ZSSR Sputnik został pierwszym sztucznym satelitą Ziemi. To wydarzenie zapoczątkowało serię sukcesów Związku Socjalistycznych Republik Radzieckich w kosmosie, do których należały:
 
 - pierwsze wystrzelenie zwierzęcia (pies Łaika, 3 październik 1957),
-- pierwsze bezzałogowe lądowanie na Księżycu (Luna 2, 13 września 1959) :cite:`Zond2`,
+- pierwsze bezzałogowe lądowanie na Księżycu (Luna 2, 13 września 1959) :cite:`Shelton1969`,
 - wystrzelenie oraz orbitowanie pierwszego człowieka (J. Gagarin, 12 kwietnia 1961),
 - pierwsza doba na orbicie (G. Titow, 6 sierpnia 1961),
 - pierwsza kobieta w kosmosie (W. Tierieszkowa, 16 Czerwiec 1963),
 - pierwszy spacer kosmiczny (A. Leonow, 18 marzec 1965),
-- pierwsze zwierzęta na orbicie Księżyca (Zond 5, 15 września 1968) :cite:`Soviet-Union-Space-Race`.
+- pierwsze zwierzęta na orbicie Księżyca (Zond 5, 15 września 1968) :cite:`Siddiqi2000`.
 
-Aby zażegnać widmo porażki prezydent Stanów Zjednoczonych Ameryki J. F. Kennedy 12 września 1962 roku wygłosił mowę na Uniwersytecie Rice :cite:`Moon-Speach-Rice-Stadium`, w której zmobilizował naród i postawił cel, aby "do końca dekady człowiek postawił nogę na księżycu i bezpiecznie wrócił na Ziemię". Cel ten udało się zrealizować w 1969 roku, gdy amerykański astronauta Neil Armstrong stanął na Księżycu.
+Aby zażegnać widmo porażki prezydent Stanów Zjednoczonych Ameryki J. F. Kennedy 12 września 1962 roku wygłosił mowę na Uniwersytecie Rice :cite:`Kennedy1962`, w której zmobilizował naród i postawił cel, aby "do końca dekady człowiek postawił nogę na księżycu i bezpiecznie wrócił na Ziemię". Cel ten udało się zrealizować w 1969 roku, gdy amerykański astronauta Neil Armstrong stanął na Księżycu.
 
-Pierwszym zwierzęciem, które przekroczyło linię graniczną kosmosu był pies Łajka wystrzelony za pomocą rakiety *Sputnik 8K71PS* w kapsule *Sputnik 2* :cite:`Soviet-Union-Space-Race`. Ze względu na wysoką temperaturę spowodowaną uszkodzeniem i niepełnym rozczepieniem członu rakiety od satelity zwierze zdechło po kilku godzinach od startu. Pies planowo miał żyć na orbicie 10 dni. Po około 2000 orbit w ciągu 162 dni kapsuła z martwym ciałem weszła w atmosferę i spłonęła :cite:`Korolev-How-One-Man-Masterminded-the-Soviet-Drive-to-Beat-America-to-the-Moon`.
+Pierwszym zwierzęciem, które przekroczyło linię graniczną kosmosu był pies Łajka wystrzelony za pomocą rakiety *Sputnik 8K71PS* w kapsule *Sputnik 2* :cite:`Siddiqi2000`. Ze względu na wysoką temperaturę spowodowaną uszkodzeniem i niepełnym rozczepieniem członu rakiety od satelity zwierze zdechło po kilku godzinach od startu. Pies planowo miał żyć na orbicie 10 dni. Po około 2000 orbit w ciągu 162 dni kapsuła z martwym ciałem weszła w atmosferę i spłonęła :cite:`Harford1997`.
 
-Pierwszym człowiekiem w kosmosie był major Yuri Gagarin (awansowany później na pułkownika). Został wystrzelony przez Związek Radziecki 12 kwietnia 1961 w 108 minutowy orbitalny wokół Ziemi na pokładzie *Vostok 1*. Gagarin był jednym z 20 osób, które zostały wybrane wśród pilotów wojskowych Związku Radzieckiego :cite:`Soviet-Union-Space-Race`. Wg. podań świadków major wyróżniał się wytrzymałością, duchem oraz doświadczeniem. Wśród wszyskich rekrutowanych kosmonautów przeprowadzono ankietę, w której zadano pytanie "kogo wytypowałbyś na pierwszy lot". Osiemnaście na dwadzieścia osób z załogi wybrało Gagarina. Major po okrążeniu Ziemi wszedł ponownie w atmosferę w tzw. krzywej balistycznej cechującej się wysokim poziomem przeciążeń działających na ciało kosmonauty. Ze względu na fakt, iż Radzieccy konstruktorzy nie dysponowali jeszcze techniką aby bezpiecznie wylądować statekiem kosmicznym na ziemi zdecydowano się na użycie fotela katapultowego i spadochronu. Na poziomie 20 000 stóp nad poziomem morza (ok. 6 tys. metrów) Gagarin katapultował się z kapsuły i bezpiecznie wrócił na powierzchnię :cite:`Why-Yuri-Gagarin-Remains-the-First-Man-in-Space`.
+Pierwszym człowiekiem w kosmosie był major Yuri Gagarin (awansowany później na pułkownika). Został wystrzelony przez Związek Radziecki 12 kwietnia 1961 w 108 minutowy orbitalny wokół Ziemi na pokładzie *Vostok 1*. Gagarin był jednym z 20 osób, które zostały wybrane wśród pilotów wojskowych Związku Radzieckiego :cite:`Siddiqi2000`. Wg. podań świadków major wyróżniał się wytrzymałością, duchem oraz doświadczeniem. Wśród wszyskich rekrutowanych kosmonautów przeprowadzono ankietę, w której zadano pytanie "kogo wytypowałbyś na pierwszy lot". Osiemnaście na dwadzieścia osób z załogi wybrało Gagarina. Major po okrążeniu Ziemi wszedł ponownie w atmosferę w tzw. krzywej balistycznej cechującej się wysokim poziomem przeciążeń działających na ciało kosmonauty. Ze względu na fakt, iż Radzieccy konstruktorzy nie dysponowali jeszcze techniką aby bezpiecznie wylądować statekiem kosmicznym na ziemi zdecydowano się na użycie fotela katapultowego i spadochronu. Na poziomie 20 000 stóp nad poziomem morza (ok. 6 tys. metrów) Gagarin katapultował się z kapsuły i bezpiecznie wrócił na powierzchnię :cite:`Why-Yuri-Gagarin-Remains-the-First-Man-in-Space`.
 
 Amerykańską odpowiedzią na to wydarzenie był program *Mercury*. W trakcie programu wybrano siedmiu astronautów.
 
@@ -51,42 +51,57 @@ W skład amerykańskiego programu kosmonatycznego wchodzą projekty:
 
 Projekt Mercury
 ---------------
-Głównym celem programu Mercury trwającego od 1958 do 1963 było wyniesienie pierwszego obywatela USA w przestrzeń kosmiczną :cite:`Getting-Alan-Shepard-Ready-for-Space`, :cite:`Wolfe1979`. Program ten wykorzystywał technologię opracowaną przez US Army tj. rakiety *Redstone* i w późniejszej fazie rakiety interkontynentalne *Atlas LV-3B* stworzone dla US Air Force :cite:`History-of-Project-Mercury`.
+Głównym celem programu Mercury trwającego od 1958 do 1963 było wyniesienie pierwszego obywatela USA w przestrzeń kosmiczną :cite:`Madrigal2013`, :cite:`Wolfe1979`. Program ten wykorzystywał technologię opracowaną przez US Army tj. rakiety *Redstone* i w późniejszej fazie rakiety interkontynentalne *Atlas LV-3B* stworzone dla US Air Force :cite:`History-of-Project-Mercury`.
 
 Program Mercury zakładał wysłanie zwierzęcia przed pierwszym lotem człowieka. Ze względu na bardzo wiele wspólnych cech z człowiekiem wybrano szympansa (DNA szympansa jest w 98,4% identyczne z człowiekiem co czyni go najbliższym odpowiednikiem z królestwa zwierząt :cite:`Human-Origins-Genetic-Evidence`). Szympans nazywał się HAM co jest skrótem od Holloman Aerospace Medical Center, zlokalizowanego w Holloman Air Force Base w New Mexico w USA :cite:`History-of-Project-Mercury`.
 
-Nazwiska astronautów, znak wywoławczy oraz datę wystrzelenia przedstawia tabela poniżej:
+W dniu 9 kwietnia 1959, NASA przedstawiła pierwszą grupę astronautów tzw. *Mercury 7* (:numref:`figure-astronaut-mercury`). Nazwiska astronautów, znak wywoławczy oraz datę wystrzelenia przedstawia tabela :numref:`table-mercury-astronauts`:
+
+.. _table-mercury-astronauts:
 
 .. csv-table:: Astronauci programu Mercury wraz z czasem lotu oraz znakiem wywoławczym kapsuły :cite:`Manned-Space-from-Mercury-to-the-Shuttle`
     :file: ../data/mercury-astronauts.csv
     :header-rows: 1
 
-.. figure:: ../img/mercury-ground-stations.jpg
+.. _figure-astronaut-mercury:
+
+.. figure:: ../img/astronaut-mercury.jpg
     :scale: 50%
     :align: center
 
-    Lista stacji naziemnych, które NASA zbudowało w celu komunikacji z kaspułami w trakcie programu *Mercury* :cite:`MercuryChronology2014`.
+    Astronauci programu *Mercury* tzw. *Original Seven*. Pierwszy rząd, od lewej do prawej: Walter M. Schirra, Jr., Donald K. "Deke" Slayton, John H. Glenn, Jr., and M. Scott Carpenter; tylny rząd, Alan B. Shepard, Jr., Virgil I. "Gus" Grissom, L. Gordon Cooper, Jr. źródło: NASA :cite:`Mercury7`.
 
-Z przyczyn zdrowotnych Deke Slayton został zdyskwalifikowany z udziału w programie *Mercury* i uziemiony. Przez trzynaście lat od czasu pierwszego lotu Sheparda, Deke Slayton kierował biurem astronautów i przydziału do misji (ang. *Astronauts Office*) przemianowany później na "Flight Crew Operations Office" i po ostatecznym przejściu badań medycznych wziął udział w ostatnim locie programu *Apollo* tj. *Apollo-Souyz* :cite:`History-of-Project-Mercury`. W tym locie doszło do historycznego dokowania na orbicie okołoziemskiej statków *Apollo* i *Soyuz* oraz do symbolicznego uściśnięcia dłoni przedstawicieli USA i ZSSR.
+Z przyczyn zdrowotnych Deke Slayton został zdyskwalifikowany z udziału w programie *Mercury* i uziemiony. Przez trzynaście lat od czasu pierwszego lotu Sheparda, Deke Slayton kierował biurem astronautów i przydziału do misji (ang. *Astronauts Office*) przemianowany później na "Flight Crew Operations Office" i po ostatecznym przejściu badań medycznych wziął udział w ostatnim locie programu *Apollo* tj. *Apollo-Souyz* :cite:`History-of-Project-Mercury`. W tym locie doszło do historycznego dokowania na orbicie okołoziemskiej statków *Apollo* i *Soyuz* oraz do symbolicznego uściśnięcia dłoni przedstawicieli USA i ZSSR :cite:`MercuryChronology2014`.
 
 Projekt Gemini
 --------------
-W celu sprostania wymaganiom postawionym przez prezydenta J. F. Kennedy'ego dotyczącego wysłania człowieka na Księżyc :cite:`Moon-Speach-Rice-Stadium` konieczne było stworzenie programu pomostowego pomiędzy projektami *Mercury* oraz *Apollo*. Celem programy miało być stworzenie i przetestowanie technologii umożliwiającej realizację projektu Księżycowego. Po raz pierwszy miano zademonstrować
+W celu sprostania wymaganiom postawionym przez prezydenta J. F. Kennedy'ego dotyczącego wysłania człowieka na Księżyc :cite:`Kennedy1962` konieczne było stworzenie programu pomostowego pomiędzy projektami *Mercury* oraz *Apollo*. Celem programy miało być stworzenie i przetestowanie technologii umożliwiającej realizację projektu Księżycowego. Po raz pierwszy miano zademonstrować
 
 Głównymi celami programu były:
 
 - demonstracja wytrzymałości człowieka i ekwipunku w lotach kosmicznych trwających minimum 8 dni aż do 14 dni,
 - zbliżenie (ang. *randevouz*) i dokowanie (ang. *docking*) dwóch statków kosmicznych oraz manewrowanie połączonym zespołem na robicie używając system napędowy docelowego pojazdu,
-- demonstracja spacerów kosmicznych (ang. *Extra-Vehicular Activity*, *EVA*) na zewnątrz pojazdu wraz z pokaaniem możliwości wykonywania operacji przez astronautę w ciśnieniowym skafandrze,
-- udoskonalenie procedury wejścia w atmosferę (ang. *re-entry*) i precyzyjnego lądowania w określonym miejscu :cite:`Failure-Is-Not-an-Option`.
+- demonstracja spacerów kosmicznych (ang. *Extra-Vehicular Activity*, *EVA*) na zewnątrz pojazdu wraz z pokaaniem możliwości wykonywania operacji przez astronautę w ciśnieniowym skafandrze :cite:`NASAGeminiIV`,
+- udoskonalenie procedury wejścia w atmosferę (ang. *re-entry*) i precyzyjnego lądowania w określonym miejscu :cite:`Kranz2001`.
 
-.. figure:: ../img/eva-gemini-6.jpg
+.. _figure-astronaut-gemini-2:
+
+.. figure:: ../img/astronaut-gemini-2.jpg
     :scale: 50%
     :align: center
 
-    Amerykański astronauta Edward White podczas pierwszego w historii stanów zjednoczonych wyjścia w przestrzeń kosmiczną :cite:`NASAGeminiIV`.
+    Astronauci grupy 2. Rząd z tyłu, od lewej: See, McDivitt, Lovell, White, Stafford. Rząd z przodu: Conrad, Borman, Armstrong, Young.
 
-Amerykańska agencja kosmiczna NASA podczas projektu Gemini przeprowadziła dwa nabory na astronautów w których
+.. _figure-astronaut-gemini-3:
+
+.. figure:: ../img/astronaut-gemini-3.jpg
+    :scale: 50%
+    :align: center
+
+    Astronauci grupy 2. Rząd z tyłu, od lewej: Collins, Cunningham, Eisele, Freeman, Gordon, Schweickart, Scott, Williams. Rząd z przodu: Aldrin, Anders, Bassett, Bean, Cernan, Chaffee.
+
+
+Amerykańska agencja kosmiczna NASA podczas projektu Gemini przeprowadziła dwa nabory na astronautów (:numref:`figure-astronaut-gemini-2`, :numref:`figure-astronaut-gemini-3`).
 
 .. csv-table:: Astronauci programu Gemini :cite:`Manned-Space-from-Mercury-to-the-Shuttle`
     :file: ../data/gemini-astronauts.csv
@@ -96,13 +111,13 @@ Podczas przygotowań do misji *Gemini 12* amerynański astronauta Buzz Aldrin ja
 
 Program Apollo
 --------------
-Najbardziej ambitnym programem w historii astronautyki był program Apollo. W ciągu niespełna dekady udało się opracować technologię oraz procedury pozwalające człowiekowi stanąć na powierzchni Księżyca i bezpiecznie powrócić na Ziemię. Program Apollo był próbą realizacji oświadczenia prezydenta USA J. F. Kennedy'ego z 12 września 1962 roku :cite:`Moon-Speach-Rice-Stadium`.
+Najbardziej ambitnym programem w historii astronautyki był program Apollo. W ciągu niespełna dekady udało się opracować technologię oraz procedury pozwalające człowiekowi stanąć na powierzchni Księżyca i bezpiecznie powrócić na Ziemię. Program Apollo był próbą realizacji oświadczenia prezydenta USA J. F. Kennedy'ego z 12 września 1962 roku :cite:`Kennedy1962`.
 
 .. figure:: ../img/eva-apollo-11-aldrin.jpg
     :scale: 50%
     :align: center
 
-Tabela (:numref:`apollo-astronauts`) przedstawia listę astronautów programu Apollo wraz z przydziałem do misji oraz datami pobytu na Księżycu :cite:`FrenchBurgess2007`, :cite:`AldrinAbraham2009`.
+:numref:`table-apollo-astronauts` przedstawia listę astronautów programu Apollo wraz z przydziałem do misji oraz datami pobytu na Księżycu :cite:`FrenchBurgess2007`, :cite:`AldrinAbraham2009`.
 
 .. _table-apollo-astronauts:
 
@@ -189,11 +204,11 @@ Rys historyczny programów kosmicznych ZSRR i Federacji Rosyjskiej
 Program Wostok
 --------------
 
-.. csv-table:: Lista kosmonautów programu Wostok wraz z wiekiem w czasie selekcji :cite:`Soviet-Union-Space-Race`
+.. csv-table:: Lista kosmonautów programu Wostok wraz z wiekiem w czasie selekcji :cite:`Siddiqi2000`
     :file: ../data/wostok-cosmonauts.csv
     :header-rows: 1
 
-.. csv-table:: Lista lotów programu wostok :cite:`Soviet-Union-Space-Race`
+.. csv-table:: Lista lotów programu wostok :cite:`Siddiqi2000`
     :file: ../data/wostok-flights.csv
     :header-rows: 1
 

@@ -1,17 +1,16 @@
-*************************
-Przygotowanie teoretyczne
-*************************
+********************
+Szkolenie Podstawowe
+********************
 
-    I'm not a techie, I am an operator
-    -- Astronaut Victor Glover
+   I'm not a techie, I am an operator
+    -- Astronaut Victor Glover :cite:`Glover2016`
 
-Po selecji osoba wybrana przez komisję ma za zadanie stawić się na tzw. szkolenie podstawowe. Podczas szkolenia kandydat na astronatę (ang. ASCAN, Astronaut Candidate) będzie przygotowany przez ekspertów oraz starszych stażem astronautów do pełnienia służby i docelowego lotu w kosmos. Szkolenie kandydackie trwa w zależności od agencji półtora do dwóch i pół roku. Po jego ukończe
+Po selecji osoba wybrana przez komisję ma za zadanie stawić się na tzw. szkolenie podstawowe. Podczas szkolenia kandydat na astronatę (ang. *ASCAN, Astronaut Candidate*) będzie przygotowany przez ekspertów oraz starszych stażem astronautów do pełnienia służby i docelowego lotu w kosmos. Szkolenie kandydackie trwa w zależności od agencji półtora do dwóch i pół roku. Po jego ukończeniu osoba ubiegająca się będzie mogła oczekiwać na przydział do misji.
 
 Szkolenie podstawowe astronautów, które  dzieli się na 4 główne części:
 
--
-
 .. todo::
+    - For two years astronauts train solo, 1on1 with Instruktor. Half a year before flight they start to integrate with other crew members.
     - http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/ongoing-training.asp
     - As soon as they are recruited, Canadian astronauts begin learning Russian, and they continue to do so right up to their departure on a space mission.
     - Onboard the ISS, the two official languages are: English, Russian
@@ -63,71 +62,5 @@ Szkolenie podstawowe astronautów, które  dzieli się na 4 główne części:
 
     If your not pushing, you’ll roll backwards.
     Same with fitness and same goes with education.
-    -- Astronaut Victor Glover
+    -- Astronaut Victor Glover :cite:`Glover2016`
 
-
-Przygotowanie podstawowe
-========================
-
-
-Nauka języków obcych i przygotowanie kulturowe
-==============================================
-
-Nauka języka rosyjskiego
-------------------------
-.. todo:: Nauka języka rosyjskiego
-    - 1000h ćwiczeń zanim pojadą na szkolenie do Gwiezdnego Miasteczka w Rosji.
-
-Przygotowanie do pracy w wielokulturowym środowisku
----------------------------------------------------
-
-Przygotowanie teoretyczne z nauk przyrodniczych i technicznych
-==============================================================
-
-Kurs nawigacji kosmicznej i mechaniki orbitalnej
-================================================
-
-Wynoszenie na orbitę
---------------------
-
-Manewry na orbicie
-------------------
-
-Transfer pomiędzy orbitami i zmiany inklinacji
-----------------------------------------------
-- Hohmann transfer
-- Bielliptic tranfer
-
-.. todo:: Bielliptic jest uzywany w Soyuz aby upewnic sie czy predkosc oraz odleglosc jest odpowiednia
-
-
-Operacje Rendezvous i dokowania
--------------------------------
-.. todo::
-    - Fly-around manouvre
-    - Redocking 
-
-Operacja opuszczania orbity i wejścia w atmosferę
--------------------------------------------------
-
-Nawigacja kosmiczna za pomocą gwiazd
-------------------------------------
-
-Proces przygotowania do operacji nietechnicznych i komunikacji
-==============================================================
-.. todo:: Proces przygotowania do operacji nietechnicznych i komunikacji
-
-    communication is a foundation of any good team
-    -- Astronaut Victor Glover
-
-Wykorzystanie mediów społecznościowych do popularyzacji nauki i misji
----------------------------------------------------------------------
-
-Przemówienia publiczne i "Space Advocacy"
------------------------------------------
-
-Fotografia
-----------
-
-Amatorskie radio krótkofalowe
------------------------------
