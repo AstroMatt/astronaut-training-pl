@@ -169,7 +169,7 @@ Program Space Shuttle
 ---------------------
 Jendym z najbardziej ikoninych programów kosmicznych jest *Space Transportation System* czyli tzw. prom kosmiczny (ang. *Space Shuttle*). Podczas tego programu stworzono reużywalny statek kosmiczny w kształcie przypominający samolot, który był w stanie wynosić na orbitę 27,5 metrycznej tony ładunku oraz załogą do 8 osób (misja *STS-61A*).
 
-W trakcie programu Space Shuttle stworzono orbitery:
+W trakcie programu Space Shuttle stworzono orbitery :cite:`NASASpaceShuttle`:
 
 - Enterprise (1976) używany do testów podejścia i lądowania, nigdy nie osiągnął orbity,
 - Columbia (1981) pierwszy prom, który osiągnął orbitę Ziemii, uległ zniszczeniu w 2003 roku przy wejściu w atmosferę, cała siedmioosobowa załoga została utracona,
