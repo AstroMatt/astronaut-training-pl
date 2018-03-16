@@ -63,7 +63,6 @@ Astronaut Close Family Escort
 -----------------------------
 .. todo:: Family Escort, dwóch astronautów obecnie nie trenujących do misji. Jeden odpowiedzialny za bezpośrednią rodzine, drugi za extended family i przyjaciele podczas startu. Ten od rodziny pomaga później podczas nieobecności. Od liczenia znajomych w autobusie, załatwiania biletow do muzeum i wysłuchiwania narzekań o za zimno za ciepło w hotelu, przez pomoc w zakładaniu kont oszczędnościowych na studia dla dzieci, organixację pogrzebu i byciem advocate rodziny przy komisji badania wypadku. Pomaga zrozumieć jak start i misja wyglada z oczu rodziny.
 
-
 Tworzenie insygnii misji
 ------------------------
 Zgodnie z tradycją zapoczątkowaną wraz z pierwszymi lotami załogowymi zespoły udające się w kosmos projektują swoje "mission patch" (ang. odznaki misji). Najczęstszym formatem loga misji jest okrąg, w którego obramowanie wkomponowane są nazwiska astronautów. Wyjątkiem od reguły umieszczania nazwisk jest misja Apollo 11, podczas której ze względu na międzynarodowy charakter pierwszego lądowania na księżycu zrezygnowno z tej tradycji (misja Apollo 11 miała być misją całej ludzkości ang. "for all mankind").
