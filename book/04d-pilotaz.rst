@@ -67,7 +67,7 @@ Pilotaż oraz wykorzystanie systemów statku kosmicznego Soyuz
     Steering
     Propellant flow
 ​
-    Na orbicie:
+.. todo:: Na orbicie:
         Sprawdzanie ciśnienia (pierwsze i najważniejsze)
         Upewnienie się czy systemy automatyczne działają
         Czy RCS Fuel lines są pełne
@@ -77,14 +77,12 @@ Pilotaż oraz wykorzystanie systemów statku kosmicznego Soyuz
         Ściągnięcie pieluchy
         Zostają tylko w underwear 100% cotton, bo w przypadku pożaru nie płonie ani się nie topi tylko zwegla
 
-​
-    Soyuz:
+.. todo:: Soyuz:
         explosion
         Computer meltdown
         Engine problem
     ​
-    Dwie minuty po starcie, jest najgorszy moment. Jak coś się stanie, to mają za mała prędkość i zaczną spadać. W przy takim spadku mogą mieć nawet do 24g, przeżywalne ale bardzo niedobre dla ludzi i sprzętu. Dowódca może w ciągu 4 sekund wcisnąć przyciski które zmienia ustawienie kapsuły i trajektorię, co może obniżyć load nawet o 8-9g.
-
+.. todo:: Dwie minuty po starcie, jest najgorszy moment. Jak coś się stanie, to mają za mała prędkość i zaczną spadać. W przy takim spadku mogą mieć nawet do 24g, przeżywalne ale bardzo niedobre dla ludzi i sprzętu. Dowódca może w ciągu 4 sekund wcisnąć przyciski które zmienia ustawienie kapsuły i trajektorię, co może obniżyć load nawet o 8-9g.
 
 Na chwilę obecną jednym z najważniejszych aspektów szkolenia astronautów przed lotem kosmicznym jest szkolenie z wykorzystywania systemów rosyjskiego statku kosmicznego Soyuz. Operacje wykonywane przez ten statek są w pełni zautomatyzowane, ale w sytuacjach awaryjnych istnieje możliwość przejścia na tzw. ręczny tryb i samodzielne przejęcie kontroli nad kapsułą. Z tego też powodu zarówno astronautów jak i kosmonautów poddaje się szkoleniu, które trwa około 790h i obejmuje aspekty:
 

@@ -61,11 +61,7 @@ Na ostani posiłek przed lotem wielu amerykańskich astronautów wzorem Alana Sh
 
 Astronaut Close Family Escort
 -----------------------------
-.. todo::
-​
-    Family Escort, dwóch astronautów obecnie nie trenujących do misji. Jeden odpowiedzialny za bezpośrednią rodzine, drugi za extended family i przyjaciele podczas startu. Ten od rodziny pomaga później podczas nieobecności.
-    Od liczenia znajomych w autobusie, załatwiania biletow do muzeum i wysłuchiwania narzekań o za zimno za ciepło w hotelu, przez pomoc w zakładaniu kont oszczędnościowych na studia dla dzieci, organixację pogrzebu i byciem advocate rodziny przy komisji badania wypadku.
-    Pomaga zrozumieć jak start i misja wyglada z oczu rodziny.
+.. todo:: Family Escort, dwóch astronautów obecnie nie trenujących do misji. Jeden odpowiedzialny za bezpośrednią rodzine, drugi za extended family i przyjaciele podczas startu. Ten od rodziny pomaga później podczas nieobecności. Od liczenia znajomych w autobusie, załatwiania biletow do muzeum i wysłuchiwania narzekań o za zimno za ciepło w hotelu, przez pomoc w zakładaniu kont oszczędnościowych na studia dla dzieci, organixację pogrzebu i byciem advocate rodziny przy komisji badania wypadku. Pomaga zrozumieć jak start i misja wyglada z oczu rodziny.
 
 
 Tworzenie insygnii misji
@@ -189,8 +185,9 @@ Odprawa i ewaluacja astronauty po locie
     - Każda osoba biorąca udział w symulacji może się wypowiedzieć na debriefingu
     - Po 4h simie, debriefują przez godzinę
     - Po Spaceflight debriefują przez cały dzień, Evert day, for a month. One system at a time:
-    - communication systems
-    - Biology experiments
-    - Spacesuits
-    - Food (czy było Ok, smaczne, jak pakowanie, czy było dużo)
-    - Z ludźmi odpowiedzialnymi za każdy z systemów. Seniorzy siedzą przy owalnym stole, juniorzy pod ściana
+
+        - communication systems
+        - Biology experiments
+        - Spacesuits
+        - Food (czy było Ok, smaczne, jak pakowanie, czy było dużo)
+        - Z ludźmi odpowiedzialnymi za każdy z systemów. Seniorzy siedzą przy owalnym stole, juniorzy pod ściana

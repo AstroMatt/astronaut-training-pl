@@ -243,30 +243,31 @@ Charakterystyka skafandra Orlan MKS
 
 Charakterystyka skafandra ACES i MACES
 --------------------------------------
+.. todo:: The Advanced Crew Escape Suit (ACES) or "pumpkin suit" :cite:`AstronautTrainingJournals2005`, was a full pressure suit that began to be worn by Space Shuttle crews after STS-65, for the ascent and entry portions of flight. The suit is a direct descendant of the U.S. Air Force high-altitude pressure suits worn by the two-man crews of the SR-71 Blackbird, pilots of the U-2 and X-15, and Gemini pilot-astronauts, and the Launch Entry Suits (LES) worn by NASA astronauts starting on the STS-26 flight, the first flight after the Challenger disaster. The suit is manufactured by the David Clark Company of Worcester, Massachusetts. Cosmetically the suit is very similar to the LES. ACES was first used in 1994.
+
+.. todo:: Underneath the suits, astronauts wear "Maximum Absorbency Garment" (MAGs) urine-containment trunks (resembling "Depends" incontinence shorts) and blue-colored thermal underwear, which has plastic tubing woven into the garments allowing for liquid cooling and ventilation, the latter being handled by a connector located on the astronaut's left waist.
+
+.. todo:: MACES (Modified Advanced Crew Escape Suit) is a work in progress. It is a suit intended for use in Orion. Because of mass and volume constraints, NASA wanted to be able to use ACES (the suit intended for ascent and entry during Space Shuttle missions) both for ascent/entry periods of Orion missions and also for EVA (space walks). MACES, therefore, is a hybrid of the orange Space Shuttle escape suit and the white ISS EVA suit.
+
+.. todo:: The suit has a new cooling garment and new bearings in the joints. It also uses the gloves and boots from the ISS EVA suit (EMU). It looks like it will be suitable for EVAs up to about four hours. And, since that is a much longer period that the crew have to keep the visor closed while in the vehicle, a drink bag has also been added.
+
+.. todo:: Initially, ACES was intended to be retired after the Space Shuttle Program and be replaced by the Constellation Space Suit :cite:`STSTransitionAndRetirement`. The Orion missions are now instead planned to use a modified ACES (MACES). This suit would have increased mobility in comparison to its Space Shuttle counterpart and would use a closed-loop system to preserve resources :cite:`Zero-Gravity-Suit-Tests`. NASA is also considering using it for contingency and possibly limited capacity EVAs, such as those carried out during the Gemini program.:cite:`Gohmert2013` Simulated microgravity testing has occurred on parabolic flights and in the Neutral Buoyancy Laboratory, in order to better characterise the suit's mobility :cite:`Gohmert2013` :cite:`Zero-Gravity-Suit-Tests`.
+
 .. todo::
-    - The Advanced Crew Escape Suit (ACES) or "pumpkin suit",[1] was a full pressure suit that began to be worn by Space Shuttle crews after STS-65, for the ascent and entry portions of flight. The suit is a direct descendant of the U.S. Air Force high-altitude pressure suits worn by the two-man crews of the SR-71 Blackbird, pilots of the U-2 and X-15, and Gemini pilot-astronauts, and the Launch Entry Suits (LES) worn by NASA astronauts starting on the STS-26 flight, the first flight after the Challenger disaster. The suit is manufactured by the David Clark Company of Worcester, Massachusetts. Cosmetically the suit is very similar to the LES. ACES was first used in 1994.
-    - Underneath the suits, astronauts wear "Maximum Absorbency Garment" (MAGs) urine-containment trunks (resembling "Depends" incontinence shorts) and blue-colored thermal underwear, which has plastic tubing woven into the garments allowing for liquid cooling and ventilation, the latter being handled by a connector located on the astronaut's left waist.
-    - MACES (Modified Advanced Crew Escape Suit) is a work in progress. It is a suit intended for use in Orion. Because of mass and volume constraints, NASA wanted to be able to use ACES (the suit intended for ascent and entry during Space Shuttle missions) both for ascent/entry periods of Orion missions and also for EVA (space walks). MACES, therefore, is a hybrid of the orange Space Shuttle escape suit and the white ISS EVA suit.
-    - The suit has a new cooling garment and new bearings in the joints. It also uses the gloves and boots from the ISS EVA suit (EMU). It looks like it will be suitable for EVAs up to about four hours. And, since that is a much longer period that the crew have to keep the visor closed while in the vehicle, a drink bag has also been added.
-    - Initially, ACES was intended to be retired after the Space Shuttle Program and be replaced by the Constellation Space Suit.[8] The Orion missions are now instead planned to use a modified ACES (MACES). This suit would have increased mobility in comparison to its Space Shuttle counterpart and would use a closed-loop system to preserve resources.[9] NASA is also considering using it for contingency and possibly limited capacity EVAs, such as those carried out during the Gemini program.[10] Simulated microgravity testing has occurred on parabolic flights and in the Neutral Buoyancy Laboratory, in order to better characterise the suit's mobility.[10][11]
     - ACES Specifications
-    - Name: Advanced Crew Escape Suit (S1035)[3]
-    - Derived from: USAF Model S1034[3]
-    - Manufacturer: David Clark Company[3]
-    - Missions: STS-64[6] to STS-135
-    - Function: Intra-vehicular activity (IVA)[3]
-    - Pressure Type: Full[3][2]
-    - Operating Pressure: 3.5 psi (24.1 kPa)[3]
-    - Suit Weight: 28 lb (12.7 kg)[3]
-    - Parachute and Survival Systems Weight: 64 lb (29 kg)[3]
-    - Total Weight: 92 lb (41.7 kg)[3]
-    - Useful Altitude: 30 km (100,000 ft)[7]
-    - Primary Life Support: Vehicle Provided[3]
-    - Backup Life Support: 10 minutes[3]
-    - [2] Daniel M.Barry; John W. Bassick (July 1995). "25th International Conference on Environmental Systems: NASA Space Shuttle Advanced Crew Escape Suit Development". San Diego, California: David Clark Company/SAE International. Retrieved 6 October 2014.
-    - [3] Kenneth S. Thomas; Harold J. McMann (2006). US Spacesuits. Chichester, UK: Praxis Publishing Ltd. p. 374. ISBN 0-387-27919-9. https://books.google.com/books?id=cdO2-4szcdgC&source=gbs_navlinks_s
-    - [7] http://www.nasa.gov/centers/johnson/pdf/383443main_crew_escape_workbook.pdf
-    - [10] "Space Station Live: Orion Spacesuits with Dustin Gohmert". NASA. 20 June 2013. Retrieved 10 August 2013. https://www.youtube.com/watch?v=Uvn3BM7aOeY
+    - Name: Advanced Crew Escape Suit (S1035) :cite:`Thomas2006`
+    - Derived from: USAF Model S1034 :cite:`Thomas2006`
+    - Manufacturer: David Clark Company :cite:`Thomas2006`
+    - Missions: STS-64 to STS-135
+    - Function: Intra-vehicular activity (IVA) :cite:`Thomas2006`
+    - Pressure Type: Full :cite:`Thomas2006`, :cite:`Barry1995`
+    - Operating Pressure: 3.5 psi (24.1 kPa) :cite:`Thomas2006`
+    - Suit Weight: 28 lb (12.7 kg) :cite:`Thomas2006`
+    - Parachute and Survival Systems Weight: 64 lb (29 kg) :cite:`Thomas2006`
+    - Total Weight: 92 lb (41.7 kg) :cite:`Thomas2006`
+    - Useful Altitude: 30 km (100,000 ft):cite:`NASACrewEscapeWorkbook`
+    - Primary Life Support: Vehicle Provided :cite:`Thomas2006`
+    - Backup Life Support: 10 minutes :cite:`Thomas2006`
 
 Charakterystyka skafandra EMU
 -----------------------------

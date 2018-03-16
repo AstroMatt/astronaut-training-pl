@@ -17,10 +17,6 @@
     book/07-praca-na-ziemii.rst
     book/08-zakonczenie.rst
 
-    appendix/01-european-astronauts-charter.rst
-    appendix/02-astronaut-stats.rst
-    appendix/03-szkolenie-turystow-kosmicznych.rst
-
 
 Bibliografia
 ============

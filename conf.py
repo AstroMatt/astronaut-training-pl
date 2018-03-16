@@ -50,3 +50,5 @@ latex_elements = {
      \AtBeginEnvironment{figure}{\renewcommand{\phantomsection}{}}
  '''
 }
+
+exclude_patterns = ['not-used/*.rst']

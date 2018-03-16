@@ -325,8 +325,7 @@ Problemy medyczne członków załogi
 Śmierć członka załogi
 ---------------------
 ​
-.. todo::
-    Contingency sim (death sim)
+.. todo:: Contingency sim (death sim)
     in a board room (some people can call in on a speaker)
     Starting scenario: Chris on the ISS isn’t feeling well
     Every 5 to 10 minutes, person who runs the experiment tosses green card (new wrinkle)
@@ -361,8 +360,6 @@ Śmierć członka załogi
     Which astronaut to recruit to help family?
     Is your finances and paperwork in order?
     It is because when you start, you have to think only about flying to space, and not to consider anything else
-
-
 
 Rozszczelnienie stacji
 ----------------------
