@@ -27,12 +27,13 @@ Osoby biorące udział w rekrutacji poddawane są skrupulatnym badaniom mającym
 - wytrzymałość na przeciążenia,
 - umiejętność kojarzenia i przewidywania.
 
+
+Kryteria doboru kandydatów
+==========================
 Sam proces podstawowego szkolenia astronautów trwa około dwa lata. Głównym celem szkolenia jest wyrównanie poziomu wiedzy i umijejętności kandydatów pochodzących z różnych specjalizacji i dziedzin i wprowadzenie spójnego zasobu wiedzy, który stanowi podstawę do dalszego szkolenia. Ukończenie kursu podstawowego pozwala na zmianę tytułu z "kandydat na astronautę" na "astronauta" :cite:`NASA-Astronaut-Candidate-Program`. Jest to proces wymagający wielu poświęceń z życia prywatnego, który determinuje zasadność dalszych inwestycji przez agencję kosmiczną. W trakcie zbierania materiałów autor dotarł źródła pragnącego zachować anonimowość, które przekazało informację, że tylko 60% astronautów nadaje się do przydziałów do dalszych misji. Zgodnie z wywiadem pozostali "osiadają na laurach i przestają się uczyć", a ciągłe kształcenie jest podstawą specyfiki tego zawodu. Ze względu na dużą ilość osób i zasobów zaangażowanych w przygotowanie kandydata proces ten jest bardzo kosztowny. Wsparcie jakiego wymaga przygotowanie do i po misji jest ogromne. Z tego powodu agencje kosmiczne wybierają najbardziej odpowiednie osoby na to stanowisko, a proces szkolenia kandydackiego stanowi jeden z etapów późnej selekcji.
 
 Aby przygotować misję kosmiczną wymagane są lata pracy wielu zespołów profesjonalistów. I choć pozycja astronauty jest jedną z najbardziej prestiżowych na świecie to ich sukces zbudowany jest przez tych co pozostali na Ziemi :cite:`How-to-Become-an-ESA-Astronaut`. Ograniczone możliwości w zakresie wysyłania ludzi w przestrzeń kosmiczną i koszt tego przedsięwzięcia wymaga starannego doboru kandydatów. Z tego powodu proces selekcji astronautów i kosmonautów jest zadaniem trudnym. Wymaga od ubiegających się o to stanowisko umiejętności multidyscyplinarnych oraz wysokiego poziomu przyswajania wiedzy z zakresu wielu dziedzin naukowych. W poniższym rozdziale przedstawione zostaną kryteria oraz proces wyboru najlepszych kandydatów.
 
-Kryteria doboru kandydatów
-==========================
 :numref:`table-astronaut-requirements` Przedstawia zestawienie minimalnych umiejętności i porządanych cech kandydatów na astronautów w różnych agencjach kosmicznych.
 
 .. _table-astronaut-requirements:
@@ -40,7 +41,6 @@ Kryteria doboru kandydatów
 .. csv-table:: Wymagania dla kandydatów na astronautów i kosmonautów :cite:`NASA-Astronaut-Requirements`, :cite:`ESA-Astronaut-Training-Requirements`, :cite:`Roscosmos-Cosmonaus-Requirements`
     :file: ../data/astronaut-requirements.csv
     :header-rows: 1
-
 
 Selekcja kondycyjna
 -------------------
@@ -50,27 +50,20 @@ Jednorazowe wejście do basenu neutralnej pływalności w celu ćwiczenia spacer
 
 Kandydaci którzy biorą udział w rekrutacji muszą być zdolni do wytrzymywania zadanych obciążeń i dużego wysiłku fizycznego. Umiejętności te wymagają wieloletniego przygotowania kondycyjno-wytrzymałościowego i są oceniane przez komisję rekrutacyjną.
 
-Podczas rekrutacji oceniane są:
+Podczas rekrutacji oceniane są między innymi :cite:`CSAAstronautsFAQ`:
 
-- umiejętność pływania,
-- umiejętność utrzymywania się na powierzchni wody bez użycia rąk,
-- umiejętność pływania pod wodą,
-
-
-.. todo::
-    - http://www.asc-csa.gc.ca/eng/astronauts/faq.asp
-    - During their basic training, astronauts participate in training to prepare them for spacewalks and space missions. As this training often takes place underwater, scuba diving certification is necessary.
-    - In addition, astronauts in training are required to fly jets. To do so, they must successfully complete a military aquatic survival course.
-    - During the recruitment campaign evaluations, applicants will be required to take a swimming test and demonstrate the following abilities:
-        - Swim at least 250 metres in 10 minutes;
-        - Tread water for at least 10 minutes;
-        - Swim at least 15 metres underwater.
+- umiejętność pływania (przepłynięcie 250m w 10 minut),
+- umiejętność utrzymywania się na powierzchni wody bez użycia rąk (ang. *tread water*) 10 minut,
+- umiejętność pływania pod wodą (minimum 15m),
+- bieg po tzw. kopercie,
+- bieg długodystansowy ze zwiększającym się tempem,
+- podnoszenie ciężarów i ocena siły górnej partii ciała.
 
 Selekcja medyczna
 -----------------
 Zdrowie kandydata jest jednym z najważniejszych kryteriów doboru. Osoby rekrutowane muszą się wykazać niezwykłą adaptacją do warunków panujących w stanie nieważkości. Jest to podyktowane głównie ogromnym kosztem wyszkolenia astronautów i chęcią zmniejszenia możliwości zaistnienia problemów podczas misji ze względu na stan zdrowia pracującego operatora. Sprawność układu ruchu, krążenia oraz równowagi ma ogromne znaczenie dla późniejszej pracy kandydata.
 
-Ponadto jednym z kluczowych wskaźników jest także wzrost. Osoby niższe są bardziej predestynowane do wytrzymywania większych przeciążeń ze względu na niższą odległość pomiędzy sercem a mózgiem. Poza samą predyspozycją ze względów medycznych wzrost ma znaczenie ze względów konstrukcyjnych statków kosmicznych. Na chwilę obecną (maj 2016) jedynym sposobem dostarczania astronautów na Międzynarodową Stację Kosmiczną jest rosyjski statek Soyuz, który jest przewidziany dla osób ze wzrostem z zakresu 150 do 190 cm :cite:`ISS-Spacecraft-Soyuz-TM` (wersje TM przed czerwcem 1999 miały ograniczenie od 164 do 182 cm). Z tego samego powodu do amerykańskiego korpusu astronautów przyjmowani są kandydaci o wzroście pomiędzy 62 i 75 cali :cite:`NASA-Astronaut-Requirements` co odpowiada 157,5 i 190,5 cm. Wymaganiem Europejskiej Agencji Kosmicznej w tej dziedzinie jest wzrost pomiędzy 153 a 190 cm :cite:`ESA-Astronaut-Training-Requirements`.
+Ponadto jednym z kluczowych wskaźników jest także wzrost. Osoby niższe są bardziej predestynowane do wytrzymywania większych przeciążeń ze względu na niższą odległość pomiędzy sercem a mózgiem. Poza samą predyspozycją ze względów medycznych wzrost ma znaczenie ze względów konstrukcyjnych statków kosmicznych. Na chwilę obecną (marzec 2018) jedynym sposobem dostarczania astronautów na Międzynarodową Stację Kosmiczną jest rosyjski statek *Soyuz TMA*, który jest przewidziany dla osób ze wzrostem z zakresu 150 do 190 cm :cite:`ISS-Spacecraft-Soyuz-TM` (wersje TM przed czerwcem 1999 miały ograniczenie od 164 do 182 cm). Z tego samego powodu do amerykańskiego korpusu astronautów przyjmowani są kandydaci o wzroście pomiędzy 62 i 75 cali :cite:`NASA-Astronaut-Requirements` co odpowiada 157,5 i 190,5 cm. Wymaganiem Europejskiej Agencji Kosmicznej w tej dziedzinie jest wzrost pomiędzy 153 a 190 cm :cite:`ESA-Astronaut-Training-Requirements`.
 
 .. csv-table:: Wybrane parametry członków załogi statku kosmicznego Soyuz TM (zmodyfikowany po czerwcu 1999) :cite:`Soyuz-A-Universal-Spacecraft`
     :file: ../data/soyuz-requirements.csv
@@ -81,8 +74,34 @@ Powyższe parametry są weryfikowane podczas badań medycznych w procesie selekc
 - koło reńskie - MAT (Multi-Axis Tool),
 - krzesła obrotowe,
 - komory ciśnień,
-- wirówka (centrifuge),
-- lot samolotem.
+- wirówki przeciążeniowe (centrifuge),
+- lot samolotem naddźwiękowym,
+- loty w środowisku braku grawitacji.
+
+Ponadto podczas treningu operacyjnego astronauci latają samolotami naddźwiękowymi, więc muszą posiadać zdolności medyczne na poziomie pilota wojskowego. Wśród badań można wymienić:
+
+- ​RTG Klatki Piersiowej,
+- ​pantomogram,
+- ​RTG zatok,
+- ​USG Jamy brzusznej,
+- ​próba wysiłkowa na bieżni,
+- analiza zapisu badania Holtera,
+- echo serca,
+- analiza zapisu EEG,
+- analiza ENG oraz odpowiedzi układu równowagi na stymulacje błędnika,
+- spirometria,
+- zapis EKG,
+- badanie okulistyczne,
+- badanie internistyczne,
+- badanie neurologiczne,
+- badanie chirurgii-ortopedycznej,
+- badanie laryngologiczne,
+- audiogram i kontrola słuchu,
+- pomiary antropometryczne,
+- próba Komory Niskich Ciśnień,
+- rezonans magnetyczny,
+- badanie stomatologiczne,
+- próba w wirówce przeciążeniowej.
 
 Selekcja psychologiczna
 -----------------------
@@ -90,7 +109,7 @@ Jednym z kluczowych elementów branych pod uwagę jest odporność na stres i um
 
 Ponadto cechą pracy w warunkach kosmicznych jest przebywanie w małych pomieszczeniach pozbawionych okien (z wyjątkiem miejsc widokowych) w rzadko zmieniającym się towarzystwie. Kandydaci muszą umieć współistnieć w międzynarodowym środowisku, prowadzić badania i interakcje oraz komunikować się. Od kandydatów wymaga się stabilności psychicznej, braku uprzedzeń i dojrzałości emocjonalnej :cite:`FrenchBurgess2007`.
 
-Jednym z kluczowych elementów szkolenia astronautów jest pobyt w różnych centrach szkolenia na świecie. Jest to związane z długim przebywaniem poza miejscem zamieszkania i w ciągłej separacji z rodziną. Sam pobyt na międzynarodowej stacji kosmicznej na chwilę obecną trwa zwykle do sześciu miesięcy, ale te czasy zdecydowanie się wydłużą ze względu na konieczność przygotowania do długotrwałych misji kosmicznych na Księżyc i Marsa :cite:`Kelly2017`, :cite:`Massimino2016`.
+Jednym z kluczowych elementów szkolenia astronautów jest pobyt w różnych centrach szkolenia na świecie. Jest to związane z długim przebywaniem poza miejscem zamieszkania i w ciągłej separacji z rodziną. Sam pobyt na Międzynarodowej Stacji Kosmicznej na chwilę obecną trwa zwykle do sześciu miesięcy, ale te czasy zdecydowanie się wydłużą ze względu na konieczność przygotowania do długotrwałych misji kosmicznych na Księżyc i Marsa :cite:`Kelly2017`, :cite:`Massimino2016`.
 
 Ponadto dużą uwagę zwraca się na :cite:`ESA-Astronaut-Training-Requirements`:
 
@@ -105,7 +124,7 @@ Idealny kandydat posiada :cite:`ESA-Astronaut-Training-Requirements`:
 - wysoką motywację,
 - elastyczność,
 - towarzyskość,
-- empatia,
+- empatię,
 - niski poziom agresji,
 - stabilność emocjonalna,
 - umiejętność długotrwałej współpracy w międzykulturowym środowisku,
@@ -177,6 +196,22 @@ Zwiększone kryteria wzrostu:
 
 - Minimalnie 58,5 cala (148,59 cm)
 - Maksymalnie 76 cali (193,04 cm)
+
+Dodatkowe, aktywności, uprawnienia i licencje wpływające na selekcję
+--------------------------------------------------------------------
+Agencje kosmiczne podczas selekcji cenią wiele uprawnień, aktywności i licencji. Ponadto licencje i uprawnienia liczą się wyłącznie jeżeli są aktywne i w pełni ukończone w dniu selekcji. :cite:`CSAAstronautsFAQ`
+
+Wśród dodatkowych elementów można wyłonić te najbardziej pożądane:
+
+- uprawnienia lotnicze, tj. licencje PPL(A), CPL(A),
+- uprawnienia instruktorskie w dziedzinie lotnictwa,
+- uprawnienia nurkowe akredytowanych instytucji tj. PADI, CMAS,
+- uprawnienia speleologiczne,
+- uprawnienia wspinaczkowe i alpinistyczne,
+- kursy survivalowe i obozy przetrwania,
+- szkolenia survivalu morskiego,
+- nagrody i wyróżnienia w wyżej wymienionych dziedzinach.
+
 
 Selekcja astronautów w agencjach i organizacjach rządowych
 ==========================================================
