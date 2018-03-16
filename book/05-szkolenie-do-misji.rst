@@ -324,7 +324,8 @@ Problemy medyczne członków załogi
 
 Śmierć członka załogi
 ---------------------
-​
+​.. todo:: Death sims usually operate as a roundtable discussion in which one astronaut is announced as having died and whoever is leading the exercise will throw curveballs into the hypothetical scenario that plays out. In his book, Hadfield explains what it was like listening to his own death sim played out: "We've just received word from the Station: Chris is dead." Immediately, people start working the problem. Okay, what are we going to do with his corpse? There are no body bags on Station, so should we shove it in a spacesuit and stick it in a locker? But what about the smell? Should we send it back to Earth on a resupply ship and let it burn up with the rest of the garbage on re-entry? Jettison it during a spacewalk and let it float away into space? The death sims force the astronauts to really think through how they should respond, Hadfield writes: "Who should tell my parents their son is dead? By phone or in person? Where will they even be - at the farm or at the cottage? Do we need two plans, then, depending on where my mom and dad are?" I'm guessing a similar sim might have been done for the Apollo astronauts.
+
 .. todo:: Contingency sim (death sim)
     in a board room (some people can call in on a speaker)
     Starting scenario: Chris on the ISS isn’t feeling well

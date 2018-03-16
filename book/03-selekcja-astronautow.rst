@@ -287,7 +287,7 @@ Podczas jednej z selekcji kandydatów obserwowano bardzo wnikliwie, śledząc ic
 Na chwilę obecną nie są znane dalsze plany na temat rekrutacji kolejnych astronautów JAXA.
 
 .. figure:: ../img/selection-jaxa.jpg
-    :scale: 50%
+    :scale: 100%
     :align: center
 
     Chiaki Mukai, Koichi Wakata, Takao Doi, Soichi Noguchi, Akihiko Hoshide, Naoko Yamazaki, and Satoshi Furukawa
@@ -317,3 +317,9 @@ Na szczególną uwagę zasługuje zadanie podczas którego osoby uczestniczące 
 Podczas powyższego zadania komisja brała pod uwagę dziąłanie pod presją czasu, efektywność komunikacji, zwięzłość wypowiedzi i umiejętność przekazania niezbędnych danych oraz wizualizajcę problemu.
 
 Całość procesu rekrutacji jest dobrze udokumentowana i przedstawiona na kanale *YouTube* Kanadyjskiej Agencji Kosmicznej :cite:`CSAAstronautSelectionVideo`.
+
+.. figure:: ../img/selection-csa.jpg
+    :scale: 50%
+    :align: center
+
+    Aktywni kanadyjscy astronauci (od lewej): Joshua Kutryk, Jennifer Sidey, David Saint-Jacques, Jeremy Hansen

@@ -56,9 +56,10 @@ Pilotaż oraz wykorzystanie systemów statku kosmicznego Soyuz
     24 immediate action buttons. Cover with flip lids, to prevent accidental pushes:
     switch main engine off
     Turn the backup thrusters
-    Motto astronautów: nic nie jest ważniejsze niż to co robisz teraz
+    Motto astronautów "nic nie jest ważniejsze niż to co robisz teraz"
     Aby utrzymać panele słoneczne skierowane na słońce Soyuz kręci się jak kurczak na rożnie
-    Oprogramowanoe Soyuza ma okolo 50 displays:
+
+.. todo:: Oprogramowanoe Soyuza ma okolo 50 displays:
     Speed
     Altitude
     Ships oxygen system
@@ -68,19 +69,19 @@ Pilotaż oraz wykorzystanie systemów statku kosmicznego Soyuz
     Propellant flow
 ​
 .. todo:: Na orbicie:
-        Sprawdzanie ciśnienia (pierwsze i najważniejsze)
-        Upewnienie się czy systemy automatyczne działają
-        Czy RCS Fuel lines są pełne
-        Wyłączenie Oxygen supply
-        Measure the pressure in reentry vehicle and orbital capsules for an hour. Jeżeli choćby trochę przecieka, to trzeba szykować powrót awaryjny na backupowe miejsca lądowania.
-        Ściągnięcie skafandra
-        Ściągnięcie pieluchy
-        Zostają tylko w underwear 100% cotton, bo w przypadku pożaru nie płonie ani się nie topi tylko zwegla
+    Sprawdzanie ciśnienia (pierwsze i najważniejsze)
+    Upewnienie się czy systemy automatyczne działają
+    Czy RCS Fuel lines są pełne
+    Wyłączenie Oxygen supply
+    Measure the pressure in reentry vehicle and orbital capsules for an hour. Jeżeli choćby trochę przecieka, to trzeba szykować powrót awaryjny na backupowe miejsca lądowania.
+    Ściągnięcie skafandra
+    Ściągnięcie pieluchy
+    Zostają tylko w underwear 100% cotton, bo w przypadku pożaru nie płonie ani się nie topi tylko zwegla
 
 .. todo:: Soyuz:
-        explosion
-        Computer meltdown
-        Engine problem
+    explosion
+    Computer meltdown
+    Engine problem
     ​
 .. todo:: Dwie minuty po starcie, jest najgorszy moment. Jak coś się stanie, to mają za mała prędkość i zaczną spadać. W przy takim spadku mogą mieć nawet do 24g, przeżywalne ale bardzo niedobre dla ludzi i sprzętu. Dowódca może w ciągu 4 sekund wcisnąć przyciski które zmienia ustawienie kapsuły i trajektorię, co może obniżyć load nawet o 8-9g.
 
@@ -204,8 +205,7 @@ Problemy przy lądowaniu
 
 Sytuacje awaryjne
 =================
-.. todo:: Sytuacje awaryjne
-    - In his book, An Astronaut's Guide to Life on Earth, astronaut Chris Hadfield explains a chilling training exercise called a 'death sim'. It's designed to help prepare astronauts for what they should do in the event of the death of one of their colleagues. Death sims usually operate as a roundtable discussion in which one astronaut is announced as having died and whoever is leading the exercise will throw curveballs into the hypothetical scenario that plays out. In his book, Hadfield explains what it was like listening to his own death sim played out: "We've just received word from the Station: Chris is dead." Immediately, people start working the problem. Okay, what are we going to do with his corpse? There are no body bags on Station, so should we shove it in a spacesuit and stick it in a locker? But what about the smell? Should we send it back to Earth on a resupply ship and let it burn up with the rest of the garbage on re-entry? Jettison it during a spacewalk and let it float away into space? The death sims force the astronauts to really think through how they should respond, Hadfield writes: "Who should tell my parents their son is dead? By phone or in person? Where will they even be - at the farm or at the cottage? Do we need two plans, then, depending on where my mom and dad are?" I'm guessing a similar sim might have been done for the Apollo astronauts.
+.. todo:: :cite:`NASACrewEscapeWorkbook`
 
 Przygotowanie do wyławiania z oceanu
 ------------------------------------
