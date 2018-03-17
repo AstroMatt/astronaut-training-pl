@@ -17,7 +17,6 @@
     book/07-praca-na-ziemii.rst
     book/08-zakonczenie.rst
 
-
 Bibliografia
 ============
 

@@ -59,9 +59,8 @@ Za wyjątkiem *STS-1* loty amerykańskich promów kosmicznych zabierały na pok�
 
 Ze względu na dobre przyleganie i całkowitą izolację orgranizm astronauty narażony jest na przegrzanie. Charakterystyczne dla skafandrów *IVA* jest noszenie systemów klimatyzacji i wymuszonego obiegu powietrza w walizkach przez astronautów, co można zaobserwować na zdjęciach załóg idących na kosmodrom lub platformę startową.
 
-.. _table-spacesuits-iva:
-
 .. csv-table:: Zestawienie skafandrów do czynności podczas startu i lądowania *IVA* (ang. *Intravehicular Activity*)
+    :name: table-spacesuits-iva
     :file: ../data/spacesuits-iva.csv
     :header-rows: 1
 
@@ -80,9 +79,8 @@ Skafandry, które wykorzystuje się do wyjść w przestrzeń kosmiczna, tj. do p
 
 Na uwagę zasługuje fakt, że podobnie jak w skafandrach *IVA* tak przy *EVA* część skafandrów tworzona jest iteracyjnie, tzn. poprzednie modele z wcześniejszych programów są poddawane modyfikacją i wykorzystywane w nowym środowisku. Przykładem jest skafander obecny *EMU*, który wyewoluował ze skafandra wykorzystywanego podczas lotów wahadłowców.
 
-.. _table-spacesuits-eva:
-
 .. csv-table:: Zestawienie skafandrów do spacerów kosmicznych *EVA* (ang. *Extravehicular Activity*)
+    :name: table-spacesuits-eva
     :file: ../data/spacesuits-eva.csv
     :header-rows: 1
 
@@ -91,7 +89,15 @@ Zaznajomienie się ze skafandrem
 ===============================
 Szkolenie przygotowujące do spacerów kosmicznych zaczyna się od zapoznania ze skafandrem. Astronauci są następnie przygotowywani do egzaminów z wykorzystania strojów *EMU* oraz *Orlan*. Ze względu na różnice w budowie, zakładaniu i zdejmowaniu skafandra, ciśnieniu operacyjnym oraz systemach awaryjnych astronauci muszą przejść ścieżkę certyfikacyjną z każdego stroju na międzynarodowej stacji kosmicznej. Po takiej certyfikacji astronauta powinien wykazać się dużą wiedzą na temat nie tylko posługiwania się wysoko wyspecjalizowanym ubiorem ale również w jego systemach awaryjnych. Każde ze szkoleń jest oceniane przez instruktorów z centrum kontroli misji.
 
-Po pozytywnym zaliczeniu egzaminów teoretycznych astronauta jest dopuszczany do możliwości wykorzystania stroju w symulacjach w basenie neutralnej pływalności.
+Po pozytywnym zaliczeniu egzaminów teoretycznych z przedmiotu zaznajomienia się ze skfandrem (ang. *Suit Familiarization*) astronauta jest dopuszczany do możliwości wykorzystania stroju w symulacjach w basenie neutralnej pływalności.
+
+.. figure:: ../img/spacesuit-a7l-schematics.jpg
+    :name: figure-spacesuit-a7l-schematics
+    :scale: 50%
+    :align: center
+
+    Warstwy skafandra na przykładzie amerykańskiego *A7L*.
+
 
 Generalna charakterystyka skafandrów kosmicznych
 ------------------------------------------------
@@ -102,7 +108,8 @@ Większość skafandrów działa w podobny sposób i składa się z 4 podstawowy
 - warstwa ochronna (ang. *Thermal Micrometeoroid Garment*),
 - warstwa zewnętrzna.
 
-.. figure:: img/spacesuit-emu-layers.png
+.. figure:: ../img/spacesuit-emu-layers.png
+    :name: figure-spacesuit-emu-layers
     :scale: 100%
     :align: center
 
@@ -162,7 +169,7 @@ Niezależnie od rozwiązania warstwa *LCVG*, która pozwala na regulowanie tempe
     - https://youtu.be/Z5Bz6L93Gwo
 
 Strój wewnątrz skafandra
-~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^
 .. todo::
     - Cotton Long Jons (zwykła off-the shelf bielizna bawełniana)
         - ma wsiąknąć w nią pot
@@ -179,7 +186,7 @@ Strój wewnątrz skafandra
     - pielucha dla dorosłych
 
 Systemy biomedyczne skafandra
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. todo::
     - Astronauci podczas EVA na ISS nie korzystają z radiation decimeter bo boją się, że zostanie nagrane i następnym razem ich nie puszczą.
     - Astronauci nie zawsze chcą wszystko raportować, na wszelki wypadek, bo nie są pewni czy wszystko zrobili perfekt.
@@ -207,7 +214,7 @@ Systemy biomedyczne skafandra
         - LCVG (Liquid Cooling and Ventilation Groumet)
 
 Hełm
-~~~~
+^^^^
 .. todo::
     - kamery na hełmie
     - oświtlenie nocne
@@ -224,7 +231,7 @@ Hełm
     - szyba jest zrobiona ze zwykłego polycarbonate lexan plastic
 
 Tors
-~~~~
+^^^^
 .. todo::
     - Upper Torso i Lower Torso jest w trzech rozmiarach
         - Small
@@ -232,7 +239,7 @@ Tors
         - Large
 
 Ramiona i Rękawice
-~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^
 .. todo::
     - rękawice i obniżona zręczność
     - checklista naramienna
@@ -244,12 +251,11 @@ Ramiona i Rękawice
     - każdy ma swoje rękawiczki
 
 Nogi i Buty
-~~~~~~~~~~~
+^^^^^^^^^^^
 Są jednym z najmniej wykorzystywanych elementów skafandrów dla wyjść w przestrzeń kosmiczną. Jednocześnie podczas *EVA* na innych ciałach niebieskich tj. księżyce, inne planety lub asteroidy stają się jednym z jego najważniejszych części.
 
-.. _figure-spacesuit-a7l-boots:
-
 .. figure:: /img/spacesuit-a7l-boots.jpg
+    :name: figure-spacesuit-a7l-boots
     :scale: 75%
     :align: center
 
@@ -260,12 +266,12 @@ Na :numref:`figure-spacesuit-a7l-boots` przedstawiono tzw. *Lunar Overshoe*, czy
 W obecnych skafandrach *EMU* oraz *Orlan* buty nie są wzmacniane w taki sposób. Podczas spacerów kosmicznych w ramach budowy *ISS* astronauci nie korzystają z nóg i ta część skafandra jest mniej skąplikowana.
 
 Plecak z systemem podtrzymywania życia
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. todo::
     - Portable Life Support System
 
 Zaczepy na narzędzia
-~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^
 .. todo::
     - Mini workstation dołączany bezpośrednio do Hard Upper Torso
     - narzędzia są dobierane w zależności od zadań które trzeba wykonać przy EVA
@@ -276,7 +282,7 @@ Zaczepy na narzędzia
         - ze względu na różną wielkość gniazd i śrub są także przejściówki, które nakłada się na klucz, przejściówki również są podpięte do mniejszego Equipment Theater (socket catty) z zatyczką aby przy zakładaniu nie odleciały
 
 Ciśnienie operacyjne
-~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^
 .. todo::
     - 3.7 psi (Apollo),
     - 4.3 psi (EMU)
@@ -290,23 +296,81 @@ Ciśnienie operacyjne
     - szczelność
 
 Insygnia oraz naszywki
-~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^
 .. todo::
     - That is the EVA insignia patch.  It is the symbol used by the team responsible for the suits.  It is a space age representation of Leonardo daVinci's Vitruvian man.  The five stars represent the five NASA programs that have utilized EVA (Extravehicular Activity).
+
+Utrzymywanie sprawności skafandra
+---------------------------------
+.. todo::
+    - nie są przystosowane do naprawy w nieważkości
+    - Suit "Surgery", fan, pump, water-gas separator failure
+    - Day and a half procedure
+    - Knots and bolts
+    - Twizzers, vacuum cleaner with mash Net do zasysania śrubek i ręcznik z drugiej strony aby upewnić się czy śrubki nie wpadają do środka
+    - Wszystkie rzeczy w rękawiczkach, wszystko nagrywane na kamerach i monitorowane z ziemi przez inżynierów, mają specjalne narzędzia do space suitów które nie są nigdzie wykorzystywane, space suity działają w środowisku 100% oxygen
+
+Sprawdzenie szczelności skafandra
+---------------------------------
+Przed wykonywaniem zadań w basenie astronauci wykonują tzw. sprawdzenie szczelności skafandra. Podczas tego testu astronauta ubrany w strój do wyjść EVA jest zamykany w pomieszczeniu, w którym odpompowywane jest powietrze do uzyskania ciśnienia zbliżonego do próżni. W trakcie trwania testu astronauci zapoznają się z zachowaniem skafandra i materiału, który sztywnieje i się napręża dając uczucie nadmuchania. Z tego względu praca w warunkach braku ciśnienia panujących poza statkiem kosmicznym jest znacznie trudniejsza od symulacji prowadzonych w basenie doskonałej pływalności.
+
+Systemy biomedyczne stosowane podczas EVA
+-----------------------------------------
+Każdy skafander kosmiczny posiada inny zestaw sensorów i urządzeń kontrolujących organizm i pracę astronautów. Szczegółowe informacje na temat systemów biomedycznych skafandrów zostały przedstawione w osobnym rozdziale. Podczas podstawowego zapoznania się ze skafandrem astronauta poznaje systemy wspierające i monitorujące:
+
+- promieniowanie,
+- działanie układu krwionośnego,
+- działanie układu oddechowego,
+- systemy biometryczne,
+- systemy podtrzymania życia.
+
+Układ krwionośny monitorowany jest za pomocą trzypunktowych elektrod EKG (Elektrokardiografu). Informacje na temat układu oddechowego stanowią dane odnośnie ilości wdychania tlenu i wydychania dwutlenku węgla, dzięki czemu lekarze i biomedycy mogą wyliczyć metabolizm oraz przemianę anaerobową w trakcie wykonywania prac.
+
+Każdy z systemów pobiera informacje i przekazuje je do centrum kontroli misji gdzie inżynierowie skafandra, inżynierowie biomedyczni oraz lekarz lotu (ang. flight surgeon) asystują astronautom podczas wyjścia w przestrzeń kosmiczną.
+
+Ze względu na niedoskonałość materiału każdy strój posiada tzw. przecieki, które są również monitorowane. W przypadku zbyt dużego tempa wycieku powietrza uruchamiane są systemy awaryjne a astronauta natychmiast musi przerwać pracę na zewnątrz i udać się do śluzy pojazdu. Więcej na temat procedur oraz systemów awaryjnych w osobnym podrozdziale.
+
+Wykorzystywanie specjalistycznych narzędzi do pracy
+---------------------------------------------------
+Prace w przestrzeni kosmicznej wymagają znajomości wysokospecjalistycznych narzędzi. Ich rolą jest nie tylko pomoc astronaucie w dokonaniu naprawy czy montażu sprzętu ale również zachowanie pozycji czy bezpiecznego poruszania się w obrębie stacji kosmicznej.
+
+Urządzenia wykorzystywane w pracy w przestrzeni kosmicznej możemy podzielić na:
+
+- śrubokręty (ang. hex screwdriver),
+- klucze dynamometryczne (ang. ratchet wrench),
+- wiertarki i wkrętarki (ang. pistol grip tool),
+- urządzenia do spawania.
+
+Prowadzenie prac w środowisku mikrograwitacji przy wykorzystaniu urządzeń tj. śrubokręty, wiertarki i wkrętarki nie jest tak proste jak na Ziemi. Brak oporu i bardzo zmniejszone przyciąganie ziemskie powoduje wytworzenie niezbilansowanego momentu skręcającego działającego na astronautę a to w konsekwencji prowadzi do zmiany jego pozycji względem stacji. Astronauta używając klucza czy wkrętarki musi być przymocowany aby móc przyłożyć odpowiednią siłę.
+
+Wykorzystanie urządzeń wspierających pracę w przestrzeni kosmicznej
+-------------------------------------------------------------------
+Urządzenia wspierające pozwalają na zachowanie pozycji względem stacji kosmicznej oraz na łatwiejsze posługiwanie się narzędziami. Do głównych urządzeń wspierających czynności podczas spacerów kosmicznych można zaliczyć:
+
+- przedłużki zmieniające ramię narzędzi,
+- liny stalowe (ang. tethering),
+- przymocowania stóp (ang. foot restraints).
+
+Do zadania przedłużek należy zwiększenie długości ramienia klucza. Urządzenia te usadza się na końcu klucza przedłużając jego rączkę. Dzięki ich zastosowaniu astronauta może zwiększyć moment obrotowy działający na śrubę i dzięki temu przykręcić lub odkręcić śruby z większą siłą i precyzją.
+
+Urządzenia przymocowywania stóp były głownie wykorzystywane podczas misji amerykańskich promów kosmicznych, gdzie astronauta przymocowany nogami do specjalnego panelu zamontowanego na ramieniu robotycznym mógł być bezpiecznie i stabilnie być wspierany przy wykonywaniu prac w stanie nieważkości.
+
+Obecnie podstawowym elementem wyposażenia każdego stroju astronauty są tzw. uprzęże z bloczkami stalowych lin. Każdy strój do wyjść w przestrzeń kosmiczną posiada dwie takie uprzęże. Podczas spaceru kosmicznego astronauci muszą być przymocowani za pomocą przynajmniej jednej liny z klamrą do stacji kosmicznej aby nie odlecieć w przestrzeń. W celu przemieszczenia się astronauta zaczepia drugą klamrę do następnego punktu przymocowania i po upewnieniu się pewności zaczepu odczepia pierwszą przechodząc w dalsze miejsce.
+
 
 Krótka charakterystyka wybranych skafandrów kosmicznych
 =======================================================
 
 Charakterystyka skafandra Sokol
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------------
 
 Charakterystyka skafandra Orlan MKS
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------------
 .. todo::
     - 5.7 PSI
 
 Charakterystyka skafandra ACES i MACES
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------------------
 .. todo:: The Advanced Crew Escape Suit (ACES) or "pumpkin suit" :cite:`AstronautTrainingJournals2005`, was a full pressure suit that began to be worn by Space Shuttle crews after STS-65, for the ascent and entry portions of flight. The suit is a direct descendant of the U.S. Air Force high-altitude pressure suits worn by the two-man crews of the SR-71 Blackbird, pilots of the U-2 and X-15, and Gemini pilot-astronauts, and the Launch Entry Suits (LES) worn by NASA astronauts starting on the STS-26 flight, the first flight after the Challenger disaster. The suit is manufactured by the David Clark Company of Worcester, Massachusetts. Cosmetically the suit is very similar to the LES. ACES was first used in 1994.
 
 .. todo:: Underneath the suits, astronauts wear "Maximum Absorbency Garment" (MAGs) urine-containment trunks (resembling "Depends" incontinence shorts) and blue-colored thermal underwear, which has plastic tubing woven into the garments allowing for liquid cooling and ventilation, the latter being handled by a connector located on the astronaut's left waist.
@@ -334,10 +398,8 @@ Charakterystyka skafandra ACES i MACES
     - Backup Life Support: 10 minutes :cite:`Thomas2006`
 
 Charakterystyka skafandra EMU
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------
 .. todo::
-    - Donning - zakładanie stroju EMU
-    - Doffing - ściąganie stroju EMU
     - total suit weighs about 275 lbs
     - 4.3 PSI
     - Extravehicular Mobility Unit
@@ -354,20 +416,11 @@ Charakterystyka skafandra EMU
     - SAFER
 
 .. figure:: ../img/spacesuit-emu-dcm.jpg
+    :name: figure-spacesuit-emu-dcm
     :scale: 50%
     :align: center
 
     Moduł kontrolny z wyświetlaczem amerykańskiego skafandra EMU (ang. *EMU DCM - Display and Control Module*)
-
-Utrzymywanie sprawności skafandra
----------------------------------
-.. todo::
-    - nie są przystosowane do naprawy w nieważkości
-    - Suit "Surgery", fan, pump, water-gas separator failure
-    - Day and a half procedure
-    - Knots and bolts
-    - Twizzers, vacuum cleaner with mash Net do zasysania śrubek i ręcznik z drugiej strony aby upewnić się czy śrubki nie wpadają do środka
-    - Wszystkie rzeczy w rękawiczkach, wszystko nagrywane na kamerach i monitorowane z ziemi przez inżynierów, mają specjalne narzędzia do space suitów które nie są nigdzie wykorzystywane, space suity działają w środowisku 100% oxygen
 
 Systemy awaryjne skafandrów EVA
 ===============================
@@ -380,8 +433,13 @@ SAFER
 .. todo::
     - Augument Reality i możliwość zdalnego aktualizowania procedur
 
+
+Symulacje wykorzystujące komputery i wirtualną rzeczywistość
+============================================================
+Z uwagi na koszt, stopień skomplikowania i czasochłonność operacji w basenie neutralnej pływalności astronauci najpierw przechodzą szkolenie zapoznawcze w laboratorium wirtualnej rzeczywistości (ang. VR - Virtual Reality Lab) wykorzystując symulacje komputerowe tj. Oculus Rift czy HoloLens firmy Microsoft. W specjalnie napisanych w tym celu aplikacjach mają możliwość przećwiczenia manewrów, zapoznania się z segmentem stacji, której dotyczy praca czy praktykowaniem umiejętności poruszania się i odnajdywania na zewnątrz międzynarodowej stacji kosmicznej.
+
 Augmentacja
-===========
+-----------
 .. todo::
     - mobiPV
     - Google Glass
@@ -391,70 +449,6 @@ Augmentacja
         - Nawigowanie alternatywne
         - Geografia terenu
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-Sprawdzenie szczelności skafandra
----------------------------------
-Przed wykonywaniem zadań w basenie astronauci wykonują tzw. sprawdzenie szczelności skafandra. Podczas tego testu astronauta ubrany w strój do wyjść EVA jest zamykany w pomieszczeniu, w którym odpompowywane jest powietrze do uzyskania ciśnienia zbliżonego do próżni. W trakcie trwania testu astronauci zapoznają się z zachowaniem skafandra i materiału, który sztywnieje i się napręża dając uczucie nadmuchania. Z tego względu praca w warunkach braku ciśnienia panujących poza statkiem kosmicznym jest znacznie trudniejsza od symulacji prowadzonych w basenie doskonałej pływalności.
-
-Systemy biomedyczne stosowane podczas EVA
------------------------------------------
-Każdy skafander kosmiczny posiada inny zestaw sensorów i urządzeń kontrolujących organizm i pracę astronautów. Szczegółowe informacje na temat systemów biomedycznych skafandrów zostały przedstawione w osobnym rozdziale. Podczas podstawowego zapoznania się ze skafandrem astronauta poznaje systemy wspierające i monitorujące:
-
-- promieniowanie,
-- działanie układu krwionośnego,
-- działanie układu oddechowego,
-- systemy biometryczne,
-- systemy podtrzymania życia.
-
-Układ krwionośny monitorowany jest za pomocą trzypunktowych elektrod EKG (Elektrokardiografu). Informacje na temat układu oddechowego stanowią dane odnośnie ilości wdychania tlenu i wydychania dwutlenku węgla, dzięki czemu lekarze i biomedycy mogą wyliczyć metabolizm oraz przemianę anaerobową w trakcie wykonywania prac.
-
-Każdy z systemów pobiera informacje i przekazuje je do centrum kontroli misji gdzie inżynierowie skafandra, inżynierowie biomedyczni oraz lekarz lotu (ang. flight surgeon) asystują astronautom podczas wyjścia w przestrzeń kosmiczną.
-
-Ze względu na niedoskonałość materiału każdy strój posiada tzw. przecieki, które są również monitorowane. W przypadku zbyt dużego tempa wycieku powietrza uruchamiane są systemy awaryjne a astronauta natychmiast musi przerwać pracę na zewnątrz i udać się do śluzy pojazdu. Więcej na temat procedur oraz systemów awaryjnych w osobnym podrozdziale.
-
-Wykorzystywanie specjalistycznych narzędzi do pracy
----------------------------------------------------
-
-Prace w przestrzeni kosmicznej wymagają znajomości wysokospecjalistycznych narzędzi. Ich rolą jest nie tylko pomoc astronaucie w dokonaniu naprawy czy montażu sprzętu ale również zachowanie pozycji czy bezpiecznego poruszania się w obrębie stacji kosmicznej.
-
-Urządzenia wykorzystywane w pracy w przestrzeni kosmicznej możemy podzielić na:
-
-- śrubokręty (ang. hex screwdriver),
-- klucze dynamometryczne (ang. ratchet wrench),
-- wiertarki i wkrętarki (ang. pistol grip tool),
-- urządzenia do spawania.
-
-Prowadzenie prac w środowisku mikrograwitacji przy wykorzystaniu urządzeń tj. śrubokręty, wiertarki i wkrętarki nie jest tak proste jak na Ziemi. Brak oporu i bardzo zmniejszone przyciąganie ziemskie powoduje wytworzenie niezbilansowanego momentu skręcającego działającego na astronautę a to w konsekwencji prowadzi do zmiany jego pozycji względem stacji. Astronauta używając klucza czy wkrętarki musi być przymocowany aby móc przyłożyć odpowiednią siłę.
-
-Wykorzystanie urządzeń wspierających pracę w przestrzeni kosmicznej
--------------------------------------------------------------------
-Urządzenia wspierające pozwalają na zachowanie pozycji względem stacji kosmicznej oraz na łatwiejsze posługiwanie się narzędziami. Do głównych urządzeń wspierających czynności podczas spacerów kosmicznych można zaliczyć:
-
-- przedłużki zmieniające ramię narzędzi,
-- liny stalowe (ang. tethering),
-- przymocowania stóp (ang. foot restraints).
-
-Do zadania przedłużek należy zwiększenie długości ramienia klucza. Urządzenia te usadza się na końcu klucza przedłużając jego rączkę. Dzięki ich zastosowaniu astronauta może zwiększyć moment obrotowy działający na śrubę i dzięki temu przykręcić lub odkręcić śruby z większą siłą i precyzją.
-
-Urządzenia przymocowywania stóp były głownie wykorzystywane podczas misji amerykańskich promów kosmicznych, gdzie astronauta przymocowany nogami do specjalnego panelu zamontowanego na ramieniu robotycznym mógł być bezpiecznie i stabilnie być wspierany przy wykonywaniu prac w stanie nieważkości.
-
-Obecnie podstawowym elementem wyposażenia każdego stroju astronauty są tzw. uprzęże z bloczkami stalowych lin. Każdy strój do wyjść w przestrzeń kosmiczną posiada dwie takie uprzęże. Podczas spaceru kosmicznego astronauci muszą być przymocowani za pomocą przynajmniej jednej liny z klamrą do stacji kosmicznej aby nie odlecieć w przestrzeń. W celu przemieszczenia się astronauta zaczepia drugą klamrę do następnego punktu przymocowania i po upewnieniu się pewności zaczepu odczepia pierwszą przechodząc w dalsze miejsce.
-
-Symulacje wykorzystujące komputery i wirtualną rzeczywistość
-============================================================
-Z uwagi na koszt, stopień skomplikowania i czasochłonność operacji w basenie neutralnej pływalności astronauci najpierw przechodzą szkolenie zapoznawcze w laboratorium wirtualnej rzeczywistości (ang. VR - Virtual Reality Lab) wykorzystując symulacje komputerowe tj. Oculus Rift czy HoloLens firmy Microsoft. W specjalnie napisanych w tym celu aplikacjach mają możliwość przećwiczenia manewrów, zapoznania się z segmentem stacji, której dotyczy praca czy praktykowaniem umiejętności poruszania się i odnajdywania na zewnątrz międzynarodowej stacji kosmicznej.
 
 Symulacja prac w basenie doskonałej pływalności
 ===============================================
@@ -497,6 +491,7 @@ Symulacja prac w basenie doskonałej pływalności
 
 
 .. csv-table:: Lista basenów neutralnej pływalności
+    :name: table-neutral-buoyancy-pools
     :file: ../data/neutral-buoyancy-pools.csv
     :header-rows: 1
 
@@ -527,6 +522,7 @@ JAXA - Weightlessness Environment Test System
 
 University of Maryland - Buoyancy Research Facility
 ---------------------------------------------------
+
 
 Komunikacja i podział ról podczas symulacji oraz wyjścia w przestrzeń kosmiczną
 ===============================================================================
@@ -659,8 +655,12 @@ EVA na powierzchni Księżyca
 EVA na powierzchni planet
 -------------------------
 
-EVA na powierzchni asteroid
----------------------------
+EVA na powierzchni asteroid i księżyców o niskim przyciąganiu grawitacyjnym
+---------------------------------------------------------------------------
+W chwili obecnej NASA prowadzi badania nad wykonywaniem *EVA* na powierzchni asteroid i księżyców o niskim przyciąganiu grawitacyjnym. Dwoma głównymi celami gdzie tego typu procedury miały by zastosowanie są ciała niebieskie w ramach anulowanego programu ARM (ang. *Asteroid Redirect Mission*) oraz powierzchnia Deimosa i Fobosa, księżyców planety Mars.
+
+Lądowanie na powierzchni naturalnych satelitów Marsa ma swoje zalety w postaci ekstremalnie niskiej grawitacji. Astronauci po roku lotu z Ziemi mogliby przetestować systemy oraz procedury na tych niewielkich ciałach niebieskich, a jeden z konceptów mówi, aby w tym miejscu w pierwszej kolejności zbudować osadę przed lądowaniem na "czerwonej planecie". Ze względu na bardzo niskie przyciąganie grawitacyjne
+NASA ewaluuje na chwilę obecną systemy harpunów oraz sieci po których mogliby poruszać się astronauci, ze względu na fakt, że mocniejszy skok potrafi "wystrzelić" astronautę na kilkadziesiąt minut w przestrzeń, zanim opadnie i będzie mógł kontynuować poruszanie się.
 
 Wykorzystywanie pojazdów
 ========================
@@ -727,10 +727,13 @@ Procedury bezpieczeństwa
 Przykładowe zadania wykonywane podczas spacerów kosmicznych
 ===========================================================
 
+Prosuszanie się po powierzchni Księżyca w trakcie EVA w ramach *Apollo*
+-----------------------------------------------------------------------
+
 Dekonstrukcja kamer i aparatu fotograficznego podczas misji Apollo
 ------------------------------------------------------------------
 
-Demonstracja poruszania się w przestrzeni kosmicznej w programach Wostok, Gemini
+Demonstracja poruszania się w przestrzeni kosmicznej w programach Woshod, Gemini
 --------------------------------------------------------------------------------
 
 Instalacja systemów ISS

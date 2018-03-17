@@ -34,6 +34,7 @@ Pierwszym zwierzęciem, które przekroczyło linię graniczną kosmosu był pies
 
 Pierwszym człowiekiem w kosmosie był major Yuri Gagarin (awansowany później na pułkownika). Został wystrzelony przez Związek Radziecki 12 kwietnia 1961 w 108 minutowy orbitalny wokół Ziemi na pokładzie *Vostok 1*. Gagarin był jednym z 20 osób, które zostały wybrane wśród pilotów wojskowych Związku Radzieckiego :cite:`Siddiqi2000`. Wg. podań świadków major wyróżniał się wytrzymałością, duchem oraz doświadczeniem. Wśród wszyskich rekrutowanych kosmonautów przeprowadzono ankietę, w której zadano pytanie "kogo wytypowałbyś na pierwszy lot". Osiemnaście na dwadzieścia osób z załogi wybrało Gagarina. Major po okrążeniu Ziemi wszedł ponownie w atmosferę w tzw. krzywej balistycznej cechującej się wysokim poziomem przeciążeń działających na ciało kosmonauty. Ze względu na fakt, iż Radzieccy konstruktorzy nie dysponowali jeszcze techniką aby bezpiecznie wylądować statekiem kosmicznym na ziemi zdecydowano się na użycie fotela katapultowego i spadochronu. Na poziomie 20 000 stóp nad poziomem morza (ok. 6 tys. metrów) Gagarin katapultował się z kapsuły i bezpiecznie wrócił na powierzchnię :cite:`Why-Yuri-Gagarin-Remains-the-First-Man-in-Space`.
 
+
 Rys historyczny programów kosmicznych NASA
 ==========================================
 Amerykańską odpowiedzią na wydarzenie wysłania Gagarina w kosmos był program *Mercury*. W trakcie programu wybrano siedmiu astronautów. 12 września 1962 - pół roku po locie Alana Sheparda, pierwszego amerykańskiego astronauty, aby zażegnać widmo porażki w kosmicznym wyścigu prezydent Stanów Zjednoczonych Ameryki J. F. Kennedy wygłosił mowę na Uniwersytecie Rice :cite:`Kennedy1962`, w której zmobilizował naród i postawił cel, aby "do końca dekady człowiek postawił nogę na Księżycu i bezpiecznie wrócił na Ziemię". Cel ten udało się zrealizować w 1969 roku, gdy amerykański astronauta Neil Armstrong stanął na naturalnym satelicie Ziemi.
@@ -57,15 +58,13 @@ Program Mercury zakładał wysłanie zwierzęcia przed pierwszym lotem człowiek
 
 W dniu 9 kwietnia 1959, NASA przedstawiła pierwszą grupę astronautów tzw. *Mercury 7* (:numref:`figure-selection-mercury`). Nazwiska astronautów, znak wywoławczy oraz datę wystrzelenia przedstawia tabela :numref:`table-mercury-astronauts`:
 
-.. _table-mercury-astronauts:
-
 .. csv-table:: Astronauci programu Mercury wraz z czasem lotu oraz znakiem wywoławczym kapsuły :cite:`Manned-Space-from-Mercury-to-the-Shuttle`
+    :name: table-mercury-astronauts
     :file: ../data/selection-mercury.csv
     :header-rows: 1
 
-.. _figure-selection-mercury:
-
 .. figure:: ../img/selection-mercury.jpg
+    :name: figure-selection-mercury
     :scale: 33%
     :align: center
 
@@ -85,20 +84,19 @@ W celu sprostania wymaganiom postawionym przez prezydenta J. F. Kennedy'ego doty
 Amerykańska agencja kosmiczna NASA podczas projektu Gemini przeprowadziła dwa nabory na astronautów (:numref:`figure-selection-gemini-1`, :numref:`figure-selection-gemini-2`).
 
 .. csv-table:: Astronauci programu Gemini :cite:`Manned-Space-from-Mercury-to-the-Shuttle`
+    :name: table-selection-gemini
     :file: ../data/selection-gemini.csv
     :header-rows: 1
 
-.. _figure-selection-gemini-1:
-
 .. figure:: ../img/selection-gemini-1.jpg
+    :name: figure-selection-gemini-1
     :scale: 33%
     :align: center
 
     Astronauci pierwszego naboru do programu *Gemini*. Rząd z tyłu, od lewej: See, McDivitt, Lovell, White, Stafford. Rząd z przodu: Conrad, Borman, Armstrong, Young.
 
-.. _figure-selection-gemini-2:
-
 .. figure:: ../img/selection-gemini-2.jpg
+    :name: figure-selection-gemini-2
     :scale: 33%
     :align: center
 
@@ -110,13 +108,13 @@ Program Apollo
 --------------
 Najbardziej ambitnym programem w historii astronautyki był program *Apollo*. W ciągu niespełna dekady udało się opracować technologię oraz procedury pozwalające człowiekowi stanąć na powierzchni Księżyca i bezpiecznie powrócić na Ziemię. Program *Apollo* był próbą realizacji oświadczenia prezydenta USA J. F. Kennedy'ego z 12 września 1962 roku :cite:`Kennedy1962`.
 
-.. _table-selection-apollo:
-
 .. csv-table:: Astronauci programu Apollo :cite:`Manned-Space-from-Mercury-to-the-Shuttle`
+    :name: table-selection-apollo
     :file: ../data/selection-apollo.csv
     :header-rows: 1
 
 .. figure:: ../img/selection-apollo.jpg
+    :name: figure-selection-apollo
     :scale: 50%
     :align: center
 
@@ -126,9 +124,8 @@ Najbardziej ambitnym programem w historii astronautyki był program *Apollo*. W 
 
 Każda z misji programu Apollo cechowała się innym zadaniem w zależności od kategorii do której była przydzielona :cite:`ApolloChronology2007`. :numref:`table-apollo-mission-types` przedstawia typy misji oraz opis każdej z kategorii.
 
-.. _table-apollo-mission-types:
-
 .. csv-table:: Typy misji w ramach programu Apollo :cite:`ApolloChronology2007`
+    :name: table-apollo-mission-types
     :file: ../data/apollo-mission-types.csv
     :header-rows: 1
     :widths: 10, 90
@@ -147,7 +144,6 @@ Krótka charakterystyka misji *Apollo*:
 - Apollo 16 - pierwsza misjia trzydniowa na Księżycu (typ *J*)
 - Apollo 17 - ostatnie lądowanie na Księżycu (pierwsza misja w której brał udział naukowiec - geolog), ikoniczne zdjęcie Ziemii z daleka (ang. *Blue Marble*) :cite:`Cernan2000`,
 - Apollo-Soyuz Test Project - ostatnia misja programu, podczas której doszło do dokowania na orbicie statków *Apollo* oraz *Soyuz* i historycznego uścisku dłoni między reprezentatmi dwóch mocarstw.
-
 
 Program Skylab
 --------------
@@ -178,9 +174,8 @@ W trakcie programu Space Shuttle stworzono orbitery :cite:`NASASpaceShuttle`:
 - Atlantis (1985), czwarty orbiter, 33 misje, 4848 orbit, 203 mln km,
 - Endeavour (1992), ostatni orbiter, 25 misji, 4671 orbit, 198 mln km.
 
-.. _figure-vehicle-sts-and-soyuz:
-
 .. figure:: ../img/spacecraft-space-shuttle-and-soyuz.png
+    :name: figure-spacecraft-space-shuttle-and-soyuz
     :scale: 50%
     :align: center
 
@@ -198,12 +193,17 @@ Program Wostok
 --------------
 
 .. csv-table:: Lista kosmonautów programu Wostok wraz z wiekiem w czasie selekcji :cite:`Siddiqi2000`
+    :name: table-wostok-cosmonauts
     :file: ../data/wostok-cosmonauts.csv
     :header-rows: 1
 
 .. csv-table:: Lista lotów programu wostok :cite:`Siddiqi2000`
+    :name: table-wostok-flights
     :file: ../data/wostok-flights.csv
     :header-rows: 1
+
+Program Woshod
+--------------
 
 Program Soyuz
 -------------
@@ -220,6 +220,9 @@ Program Interkosmos i lot generała Hermaszewskiego
 
 Stacja kosmiczna Mir
 --------------------
+
+Międzynarodowa Stacja Kosmiczna
+===============================
 
 Najdłuższy pobyt w przestrzeni kosmicznej
 =========================================

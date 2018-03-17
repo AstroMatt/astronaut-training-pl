@@ -98,7 +98,7 @@ Przygotowanie dentystyczne
 ---------------------------------------------------
 
 .. figure:: /img/training-fitness.jpg
-    :name: cwiczenia-kondycyjne
+    :name: figure-training-fitness
     :scale: 50%
     :align: center
 

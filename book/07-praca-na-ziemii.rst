@@ -66,25 +66,29 @@ Rozwiązywanie sytuacje awaryjnych na orbicie wymagaja wielu prób w symulatorac
 
 Praca jako Head of ISS Operations
 =================================
-    selection
-    Training
-    Certification
-    Support
-    Recovery
-    Rehabilitation
-    Reintegration
-    Interacting on International partners
+Jednym z zadań jakie może otrzymać astronauta oczekujący na przydział jest stanowisko dyrektora ds. operacyjnych *ISS* (ang. *Head of ISS Operations*) :cite:`Hadfield2013`. Jest to stanowisko zarządcze. Osoba na takiej pozycji ma wpływ na:
+
+- selekcję osób lecących na *ISS*,
+- planowanie zakresu treningów,
+- certyfikację personelu latającego,
+- wsparcie misji obecnie trwających,
+- pomoc w przywracaniu astronautów do sprawności po locie,
+- rehabilitacja powracających astronautów,
+- ponowna integracja załogi wracającej z pozostałą częścią *Astronauts Office*,
+- współpraca z międzynarodowymi partnerami.
+
 
 Praca jako Capsule Communicator (CAPCOM)
 ========================================
-.. todo::
-    - Luca Parmitano dla Thomasa Pasqueta podczas EVA w styczniu 2017
-
 Obszerną cześć zadań astronauty na Ziemii stanowi praca jako tzw. CAPCOM (ang. Capsule Communicator). To stanowisko w ramach kontroli misji jest zarezerwowane dla jedynej osoby prowadzącej korespondencję z astronautami na orbicie. Instytucję CAPCOMa wprowadzono aby ograniczyć chaos komnikacyjny i ilość sprzecznych informacji, które docierają na orbitę. Tradycyjnie od czasów programu Mercury w strukturach kontroli misji tę rolę pełni jedynie astronauta, gdyż "tylko astronauta posiadający takie samo przeszkolenie i doświadczenie jest w stanie najlepiej komunikować w sytuacji kryzysowej".
+
+Przykładem dobrej komunikacji i efektywnego wykorzystania doświadczenia załogi może być praca astronautów Europejskiej Agencji Kosmicznej podczas *EVA*, które odbyło się w styczniu 2017 roku. Podczas tego wydarzenia astronauta Luca Parmitano wspierał Thomasa Pasqueta w wypełnieniu zadań, a dzięki temu udało się osiągnąć wszystkie założone cele dla tego *EVA* na dużo przed czasem.
+
 
 Popularyzacja nauki i obszaru S.T.E.M.
 ======================================
 Astronauci są rozpoznawanymi osobami publicznymi, które najsilniej reprezentują agencje kosmiczne i z tego powodu stają się ich ambasadorami. Jednym z najważniejszych i zajmujących najwięcej czasu zadań astronautów podcas pobutu na Ziemii jest popularyzacja nauki w ramach obszaru S.T.E.M. (Science, Technology, Engineering, Mathematics - ang. Nauka, Technologia, Inżynieria, Matematyka). Członkowie misji przemawiają publicznie na konferencjach, podczas pikników technologicznych oraz w szkołach zwiększając świadomość wykorzystywania rzeczy opracowanych dla przemysłu kosmicznego, które znalazły zastosowanie na codzień. Ponadto do ich zadań należy również uzasadnianie wysokich wydatków agencji kosmicznych na projekty badania i rozwoju.
+
 
 Czynności astronautów programu Mercury, Gemini, Apollo i Apollo Applications
 ============================================================================

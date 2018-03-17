@@ -297,6 +297,7 @@ Sytuacje awaryjne na międzynarodowej stacji kosmicznej
     - https://www.quora.com/Has-Mission-Control-ever-had-to-deliver-very-bad-news-to-an-astronaut-while-they-were-in-space
 
 .. figure:: /img/iss-emergency-procedures-handbook.png
+    :name: figure-iss-emergency-procedures-handbook
     :scale: 50%
     :align: center
 
@@ -314,6 +315,7 @@ Pożar
         Warn, Geather, work protocol. Nie chwytanie się za gaśnice od razu
 
 .. figure:: /img/iss-emergency-training.jpg
+    :name: figure-iss-emergency-training
     :scale: 50%
     :align: center
 

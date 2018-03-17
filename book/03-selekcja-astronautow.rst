@@ -36,9 +36,8 @@ Aby przygotować misję kosmiczną wymagane są lata pracy wielu zespołów pro
 
 :numref:`table-astronaut-requirements` Przedstawia zestawienie minimalnych umiejętności i porządanych cech kandydatów na astronautów w różnych agencjach kosmicznych.
 
-.. _table-astronaut-requirements:
-
 .. csv-table:: Wymagania dla kandydatów na astronautów i kosmonautów :cite:`NASA-Astronaut-Requirements`, :cite:`ESA-Astronaut-Training-Requirements`, :cite:`Roscosmos-Cosmonaus-Requirements`
+    :name: table-astronaut-requirements
     :file: ../data/astronaut-requirements.csv
     :header-rows: 1
 
@@ -66,6 +65,7 @@ Zdrowie kandydata jest jednym z najważniejszych kryteriów doboru. Osoby rekrut
 Ponadto jednym z kluczowych wskaźników jest także wzrost. Osoby niższe są bardziej predestynowane do wytrzymywania większych przeciążeń ze względu na niższą odległość pomiędzy sercem a mózgiem. Poza samą predyspozycją ze względów medycznych wzrost ma znaczenie ze względów konstrukcyjnych statków kosmicznych. Na chwilę obecną (marzec 2018) jedynym sposobem dostarczania astronautów na Międzynarodową Stację Kosmiczną jest rosyjski statek *Soyuz TMA*, który jest przewidziany dla osób ze wzrostem z zakresu 150 do 190 cm :cite:`ISS-Spacecraft-Soyuz-TM` (wersje TM przed czerwcem 1999 miały ograniczenie od 164 do 182 cm). Z tego samego powodu do amerykańskiego korpusu astronautów przyjmowani są kandydaci o wzroście pomiędzy 62 i 75 cali :cite:`NASA-Astronaut-Requirements` co odpowiada 157,5 i 190,5 cm. Wymaganiem Europejskiej Agencji Kosmicznej w tej dziedzinie jest wzrost pomiędzy 153 a 190 cm :cite:`ESA-Astronaut-Training-Requirements`.
 
 .. csv-table:: Wybrane parametry członków załogi statku kosmicznego Soyuz TM (zmodyfikowany po czerwcu 1999) :cite:`Soyuz-A-Universal-Spacecraft`
+    :name: table-soyuz-requirements
     :file: ../data/soyuz-requirements.csv
     :header-rows: 1
 
@@ -245,16 +245,19 @@ NASA - Narodowa Agencja Aeronautyki i Astronautyki (USA)
 Amerykańska agencja kosmiczna NASA organizuje rekrutację na kandydata na astronautę (ang. *ASCAN - Astronaut Candidate*) regularnie co dwa lata. Ostania tego typu rekrutacja miała miejsce na przełomie 2015/2016 roku i zakończyła się 15 lutego 2016 :cite:`NASA-Astronaut-Selection-Proces`. Dzięki zaangażowaniu mediów społecznościowych oraz innych środków masowego przekazu swoje aplikacje złożyło rekordowo dużo osób. Komisja rekrutacyjna będzie musiała rozpatrzyć 18000 podań i z tego grona wybrać 12 najlepszych kandydatów, którzy rozpoczęli przygotowanie wstępne :cite:`NASA-Astronaut-Selection`.
 
 .. figure:: ../img/selection-nasa-2017.jpg
+    :name: figure-selection-nasa-2017
     :scale: 50%
     :align: center
 
     Selekcja astronautów NASA rozpoczynających szkolenie w 2017 roku (ang. *2017 NASA Astronaut Class*): (od lewej) Zena Cardman, Jasmin Moghbeli, Jonny Kim, Frank Rubio, Matthew Dominick, Warren Hoburg, Robb Kulin, Kayla Barron, Bob Hines, Raja Chari, Loral O' Hara and Jessica Watkins. Źródło: NASA/Robert Markowitz
 
 .. csv-table:: Dotychczasowe selekcje astronautów NASA :cite:`Active-NASA-Astronauts`, :cite:`Inactive-NASA-Astronauts`
+    :name: table-selection-nasa
     :file: ../data/selection-nasa.csv
     :header-rows: 1
 
 .. csv-table:: Lista aktywnych astronautów NASA :cite:`Active-NASA-Astronauts`
+    :name: table-astronauts-nasa
     :file: ../data/astronauts-nasa.csv
     :header-rows: 1
 
@@ -269,10 +272,12 @@ ESA - Europejska Agencja Kosmiczna
 Jednym z warunków bycia astronautą ESA jest aby państwo narodowości kandydata było oficjalnym członkiem tej agencji. Ostatni proces rekrutacji Europejskiej Agencji Kosmicznej rozpoczął się w maju 2008 a zakończył rok później w maju 2009 roku. Przedsięwzięcie prowadziła jednostka EAC (ang. *European Astronaut Centre*) w Kolonii w Niemczech. Wzięło w nim udział 8413 kandydatów. 20 maja 2009 sześciu nowych kandydatów na astronautów zostało przedstawionych na konferencji prasowej w siedzibie ESA w Paryżu. Kandydaci rozpoczęli swoje wstępne przeszkolenie 1 września 2009 roku. W tej selekcji wybrano następujących kandydatów :cite:`How-to-Become-an-ESA-Astronaut`, :cite:`International-Astronauts`:
 
 .. csv-table:: Lista aktywnych astronautów ESA :cite:`European-Astronaut-Corps`
+    :name: table-astronauts-esa
     :file: ../data/astronauts-esa.csv
     :header-rows: 1
 
 .. figure:: ../img/selection-esa-2009.jpg
+    :name: figure-selection-esa-2009
     :scale: 50%
     :align: center
 
@@ -287,12 +292,14 @@ Podczas jednej z selekcji kandydatów obserwowano bardzo wnikliwie, śledząc ic
 Na chwilę obecną nie są znane dalsze plany na temat rekrutacji kolejnych astronautów JAXA.
 
 .. figure:: ../img/selection-jaxa.jpg
+    :name: figure-selection-jaxa
     :scale: 100%
     :align: center
 
     Chiaki Mukai, Koichi Wakata, Takao Doi, Soichi Noguchi, Akihiko Hoshide, Naoko Yamazaki, and Satoshi Furukawa
 
 .. csv-table:: Lista aktywnych astronautów JAXA
+    :name: table-astronauts-jaxa
     :file: ../data/astronauts-jaxa.csv
     :header-rows: 1
 
@@ -319,6 +326,7 @@ Podczas powyższego zadania komisja brała pod uwagę dziąłanie pod presją cz
 Całość procesu rekrutacji jest dobrze udokumentowana i przedstawiona na kanale *YouTube* Kanadyjskiej Agencji Kosmicznej :cite:`CSAAstronautSelectionVideo`.
 
 .. figure:: ../img/selection-csa.jpg
+    :name: figure-selection-csa
     :scale: 50%
     :align: center
 

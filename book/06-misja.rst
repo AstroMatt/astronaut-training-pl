@@ -69,13 +69,15 @@ Zgodnie z tradycją zapoczątkowaną wraz z pierwszymi lotami załogowymi zespo�
 
 Do stworzenia insygniów misji dowódca załogi wyznacza kilka osób, które współpracują z grafikiem i jest to jedna z pierwszych rzeczy jaką robią załogi po uzyskaniu przypisania do misji. Niektóre załogi korzystają z profesjonalnych firm, które zajmują się projektowaniem oraz wykonywaniem insygniów misji :cite:`Anderson2015`, :cite:`Beta-Cloth-Patches`.
 
-.. figure: /img/mission-patch-soyuz-30.png
+.. figure:: ../img/mission-patch-soyuz-30.png
+    :name: figure-mission-patch-soyuz-30
     :scale: 50%
     :align: center
 
     Insygnia misji Soyuz 30 w ramach programu Interkosmos. W misji wzięli udział gen. Hermaszewski oraz gen. Klimuk
 
-.. figure: /img/mission-patch-multiple.jpg
+.. figure:: ../img/mission-patch-multiple.jpg
+    :name: figure-mission-patch-multiple
     :scale: 50%
     :align: center
 
@@ -177,16 +179,13 @@ Powrót
 
 Odprawa i ewaluacja astronauty po locie
 ---------------------------------------
-.. todo::
-    - Tzw. Post-flight evaluation
-    - Mission review
-    ​​- Debriefing purpose is to create Flight Rules. Step by step guide gathered in manuals with what if scenarios. Extremely detailed operations procedures.
-    - Każda osoba biorąca udział w symulacji może się wypowiedzieć na debriefingu
-    - Po 4h simie, debriefują przez godzinę
-    - Po Spaceflight debriefują przez cały dzień, Evert day, for a month. One system at a time:
+Po przylocie odbywa się podsumowanie misji (ang. *mission review*). Podczas tego spotkania astronauci oraz osoby zaangażowane tj. kontrolerzy lotu podsumowują wydarzenia z ekspedycji. Głównym celemn odprawy (ang. *debriefing*) po misji jest stworzenie zbioru zasad lotu (ang. *Flight Rules*). Jest to zestawienie problemów wraz z rozwiązaniami na podstawie wydarzeń, które zdarzyły się podczas misji oraz akcji podjętych przez załogę. Każde z wydarzeń jest skrupulatnie omawiane a wyniki grupowane sa w wyżej wymieniony dokument, kóry zawiera bardzo szczegółowy opis. Spotkania podsumowujące trwają po jednym dniu dla każdego systemu a takie cykle mogą trwać trwać miesiącami :cite:`Hadfield2013`. Wśród omawianych komponentów znajdują się m.in.:
 
-        - communication systems
-        - Biology experiments
-        - Spacesuits
-        - Food (czy było Ok, smaczne, jak pakowanie, czy było dużo)
-        - Z ludźmi odpowiedzialnymi za każdy z systemów. Seniorzy siedzą przy owalnym stole, juniorzy pod ściana
+- systemy komunikacji,
+- eksperymenty biologiczne,
+- skafandry kosmiczne,
+- jedzenie (czy była odpowiednia ilość, czy smakowało, jak sprawdziło się pakowanie).
+
+Spotkanie odbywa się z astronautami, którzy brali udział w misji oraz z osobami odpowiedzialnymi za poszczególne podsystemy. Obrady mają charakter dyskusji. Osoby starsze stażem zajmują miejsca przy stole a mniej doświadczeni astronauci pod ścianą :cite:`Hadfield2013`.
+
+W następnej kolejności kadra zarządzająca dokonuje ewaluacji astronauty (ang. post-flight evaluation) na podstawie, której podejmowane są później decyzje odnośnie kolejnych przydziałów.

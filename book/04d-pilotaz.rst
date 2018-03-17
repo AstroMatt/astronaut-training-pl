@@ -59,7 +59,7 @@ Pilotaż oraz wykorzystanie systemów statku kosmicznego Soyuz
     Motto astronautów "nic nie jest ważniejsze niż to co robisz teraz"
     Aby utrzymać panele słoneczne skierowane na słońce Soyuz kręci się jak kurczak na rożnie
 
-.. todo:: Oprogramowanoe Soyuza ma okolo 50 displays:
+.. todo:: Oprogramowanoe Soyuza ma okolo 50 displays
     Speed
     Altitude
     Ships oxygen system
@@ -68,7 +68,7 @@ Pilotaż oraz wykorzystanie systemów statku kosmicznego Soyuz
     Steering
     Propellant flow
 ​
-.. todo:: Na orbicie:
+.. todo:: Na orbicie
     Sprawdzanie ciśnienia (pierwsze i najważniejsze)
     Upewnienie się czy systemy automatyczne działają
     Czy RCS Fuel lines są pełne
@@ -78,7 +78,7 @@ Pilotaż oraz wykorzystanie systemów statku kosmicznego Soyuz
     Ściągnięcie pieluchy
     Zostają tylko w underwear 100% cotton, bo w przypadku pożaru nie płonie ani się nie topi tylko zwegla
 
-.. todo:: Soyuz:
+.. todo:: Soyuz
     explosion
     Computer meltdown
     Engine problem
@@ -223,3 +223,10 @@ Awaryjne opuszczanie platformy startowej
 
 Systemy przerywania startu
 --------------------------
+
+Odprawa po symulacjach
+======================
+.. todo::
+    - debriefing
+    - Każda osoba biorąca udział w symulacji może się wypowiedzieć na debriefingu
+    - Po 4h simie, debriefują przez godzinę

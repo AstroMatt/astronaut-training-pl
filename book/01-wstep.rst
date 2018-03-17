@@ -36,18 +36,17 @@ Kluczowym aspektem eksploracji kosmosu są załogowe loty kosmiczne. Aby skutecz
 
 :numref:`figure-astronaut-career-lifecycle` prezentuje cykl kariery astronauty od jego selekcji, treningu podstawowego, wsparcia obecnie trwających misji po tzw. Mission Specific trainig, czyli szkolenie do przydzielonej misji.
 
-.. _figure-astronaut-career-lifecycle:
-
 .. figure:: /img/astronaut-career-lifecycle.png
+    :name: figure-astronaut-career-lifecycle
     :align: center
+    :scale: 100%
 
     Cykl kariery i szkoleń astronautów.
 
 Poszczególne agencje kosmiczne nazywają osoby wysyłane w kosmos w inny sposób. W większości przypadków jest to tłumaczenie lub analogia to frazy "osoba nawigująca w kosmosie (lub między gwiazdami)". W celu uproszczenia w poniższej pracy przyjmuję konwencję stosowania nazewnictwa w języku polskim dla wszystkich profesji. Ponadto słowo astronauta będzie wykorzystane jako zamiennik pozostałych. :numref:`table-spaceman-names` prezentuje konwencje przyjęte przez poszczególne agencje.
 
-.. _table-spaceman-names:
-
 .. csv-table:: Konwencje nazewnicze stanowiska osoby lecącej w kosmos w wybrancyh agencjach kosmicznych
+    :name: table-spaceman-names
     :file: ../data/spaceman-names.csv
     :header-rows: 1
 
