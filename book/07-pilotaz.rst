@@ -165,8 +165,8 @@ Do rozszczelnienia kapsuły może dość na skutek kolizji z mikrometeorytem, k
 
 Podobny incydent zdarzył się podczas lotu Apollo-Soyuz gdy do amerykańskiej kapsuły Apollo podczas wejścia w atmosferę zaczął wdzierać się toksyczny gaz Tetratlenek diazotu :math:`N_2O_4` :cite:`Kranz2001`, :cite:`Manned-Space-from-Mercury-to-the-Shuttle`. Tylko dzięki szybkiej reakcji astronautów udało się uniknąć ich śmierci.
 
-Pożar
------
+Pożar na pokładzie statku kosmicznego
+-------------------------------------
 Podczas treningu w statku kosmicznym Sojuz gdy astronauta zauważy dym lub ogień powinien natychmiast zamknąć szybę w skafandrze by uniknąć inhalacji potencjalnie szkodliwym dla zdrowia dymem :cite:`Fire-in-the-Soyuz`. Po wykonaniu tej czynności przystępuje do gaszenia ognia. Ze względu na brak gaśnic oraz urządzeń do walki z ogniem na pokładzie statku kosmicznego astronauci mają następujące możliwości powstrzymania rozprzestrzeniania się ognia:
 
 - wyłączenie wentylatorów i urządzeń cyrkulacji powietrza,

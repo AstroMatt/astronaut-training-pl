@@ -745,8 +745,8 @@ Wykorzystywanie pojazdów
         - Gripper or drill stuck
         - in-blind rover control
 
-Sytuacje awaryjne
-=================
+Sytuacje awaryjne podczas spacerów kosmicznych
+==============================================
 
 Systemy awaryjne skafandra
 --------------------------

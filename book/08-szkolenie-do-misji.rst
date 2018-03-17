@@ -166,7 +166,7 @@ Crew Medical Officer
 Educator Mission Specialist
 ---------------------------
 
-
+.. _iss:
 
 *************************************************************************
 Przygotowanie do wykorzystania systemów Międzynarodowej Stacji Kosmicznej
@@ -304,10 +304,9 @@ Sytuacje awaryjne na międzynarodowej stacji kosmicznej
 
     Wizualnie wyróżniona książka zawierająca procedury awaryjne ISS. Źródło: ESA/Thomas Pesquet
 
-Pożar
------
+Pożar na ISS
+------------
 .. todo::
-
     Protokół na gaszenie:
         Warn (może inni nie wiedza, sprawdzić które czujniki wskazują)
         Geather (check with MCC What might the problem, and if they confirm)

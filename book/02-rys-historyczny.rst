@@ -1,3 +1,7 @@
+\usepackage{ulem}
+
+\usepackage{ulem}
+
 *********************************
 Rys historyczny lotów kosmicznych
 *********************************
@@ -154,7 +158,7 @@ Astronauci do stacji *Skylab* byli wynoszeni w *Apollo Command/Service Module* (
 
 Wśród najważniejszych osągnięć programu *Skylab* można zaliczyć:
 
-- rozwinięcie technologii i procedur spacerów kosmicznych (EVA),
+- rozwinięcie technologii i procedur spacerów kosmicznych (*EVA*),
 - dopracowanie konstrukcji skafandra kosmicznego,
 - badanie długotrwałego wpływu środowiska mikrograwitacji na organizm człowieka,
 - obserwacja słońca za pomocą *Apollo Telescope Mount* (wielospektralne słoneczne obserwatorium,
@@ -177,10 +181,10 @@ W trakcie programu Space Shuttle stworzono orbitery :cite:`NASASpaceShuttle`:
 
 .. figure:: ../img/spacecraft-space-shuttle-and-soyuz.png
     :name: figure-spacecraft-space-shuttle-and-soyuz
-    :scale: 15%
+    :scale: 10%
     :align: center
 
-    Rysunenk przedstawia skalę amerykańskiego promu kosmicznego Space Shuttle oraz rosyjskiego statku Soyuz TM :cite:`Portree1995`
+    Rysunenk przedstawia skalę amerykańskiego promu kosmicznego *Space Shuttle* oraz rosyjskiego statku *Soyuz TMA* :cite:`Portree1995`
 
 Program Space Shuttle pozwolił na zwiększenie częstotliwości lotów załogowych na niską orbitę okołoziemską. Dzięki promom kosmicznym i misjom *STS* stany zjednoczone osiągnęły bardzo wysoki poziom sprawności operacyjnej oraz ogromną przewagę w ilości wyszkolonych astronautów oraz osób, które odbyły lot w kosmos. Promy przyczyniły się również do budowy Międzynarodowej Stacji Kosmicznej oraz wyniesieniu i późniejszemu serwisowaniu teleskopu Hubble.
 
@@ -191,15 +195,15 @@ Krótki rys historyczny programów kosmicznych ZSRR i Federacji Rosyjskiej
 ========================================================================
 *Związek Socjalistycznych Republik Radzieckich* wiódł prym w tematach kosmicznych i do czasu pierwszych kroków Neila Armstonga technologia radziecka była uważana za dominującą. Wśród najważniejszych programów *ZSRR* i późniejszej Federacji Rosyjskiej można wymienić:
 
-- program Wostok,
-- program Woshod,
-- program Soyuz,
-- program Księżycowy (N1-LK),
-- program Salyut,
-- program Interkosmos,
-- program Buran,
-- stacja kosmiczna Mir,
-- uczestnictwo w programie ISS.
+- program *Wostok*,
+- program *Woshod*,
+- program *Soyuz* i *Progress*,
+- program Księżycowy (*N1-LK*),
+- program *Salyut*,
+- program *Interkosmos*,
+- program *Buran*,
+- stacja kosmiczna *Mir*,
+- uczestnictwo w programie *ISS*.
 
 Program Wostok
 --------------
@@ -207,12 +211,12 @@ Wostok był pierwszym załogowym programem kosmonautycznym w *Związku Socjalist
 
 W trakcie trwania programu 1961 do 1963 roku odbyło się 6 lotów załogowych a najdłuższy trwał 5 dni. Cztery ostatnie loty były wystrzeliwane parami w odstępie jednego dnia od siebie.
 
-.. figure:: ../img/spacecraft-vostok.png
-    :name: figure-vostok
-    :scale: 25%
+.. figure:: ../img/spacecraft-comparision-mercury-gemini-vostok-voshod.jpg
+    :name: spacecraft-comparision-mercury-gemini-vostok-voshod
+    :scale: 75%
     :align: center
 
-    Schemat statku Vostok. Źródło: Wikipedia
+    Schemat porównawczy statków *Mercury*, *Gemini*, *Wostok* i *Woshod*. Źródło: Wikipedia
 
 .. csv-table:: Lista kosmonautów programu Wostok wraz z wiekiem w czasie selekcji :cite:`Siddiqi2000`
     :name: table-wostok-cosmonauts
@@ -231,53 +235,91 @@ Program *Woshod* był kontunuatorem programu *Wostok*. Wprowadzał modyfikację 
 Największym dokonaniem podczas programu *Woshod* było pierwsze wyjście człowieka w otwarty kosmos, tzw. *EVA*. Dokonał tego rosyjski kosmonauta Alexey Leonov 18 marca 1965 roku. Pierwsze wyjście trwało 12 minut i niemalże zakończyło się śmiercią kosmonauty, gdyż jego skafander ze względu na różnicę ciśnień spuchł do rozmarów niepozwalających na powrót do śluzy. Leonov rozhermetyzował skafander i upuścił powietrze w skutek czego nabrał możliwości wejścia do kapsuły.
 
 .. csv-table:: Lista lotów programu Woshod :cite:`Siddiqi2000`
-    :name: table-wosohd-flights
+    :name: table-wosohod-flights
     :file: ../data/woshod-flights.csv
     :header-rows: 1
 
-.. figure:: ../img/spacecraft-voshod.png
-    :name: figure-voshod
-    :scale: 50%
+.. figure:: ../img/spacecraft-voshod-2.png
+    :name: figure-voshod-2
+    :scale: 75%
     :align: center
 
     Schemat statku Voshod. Źródło: Wikipedia
 
-Program Soyuz
--------------
+Program Soyuz i Progress
+------------------------
 Program *Soyuz* jest jednym z najdłużej trwających programów kosmicznych. Był bezpośrednim następcą programu *Woshod* i rozpoczął się w połowie lat sześćdziesiątych XX wieku. Pierwotnie celem programu miało być stworzenie podstaw do lotów Księżycowych, ale później wymagania zostały zmienione.
 
 Program *Soyuz* w swoich kolejnych modyfikacjach trwa do dziś. Jest najbardziej niezawodnym statkiem kosmicznym, a od czasu wycofania z użycia ameryksńskich promów *Space Shuttle* jest jedynym środkiem transportu do i z *Międzynarodowej Stacji Kosmicznej*. Więcej na temat programu w rozdziale poświęconym :ref:`szkoleniu w pilotowaniu statku kosmicznego Soyuz <pilotaz>`.
+
+Równocześnie z kapsułą załogową *Soyuz* tworzona była jej bezzałogowa wersja *Progress*. Podobnie jak *Soyuz* tak i *Progress* jest wciąż użytkowany i stanowi główne źródło zaopatrzenia dla *ISS*.
 
 Program Księżycowy
 ------------------
 *ZSRR* konkurował ze stanami zjednoczonymi w ramach wyścigu kosmicznego. Apogeum całego *Space Race* miał być załogowy lot na Księżyc. W tym celu Główny Konstruktor Siergiej Pawłowicz Korolew rozpoczął pracę nad rakietą *N1*. Rakieta ta w przeciwieństwie do podejścia amerykańskiego składała się z 5 segmentów (ang. *stage*) oraz 30 silników pierwszego poziomu. Ze względu na złożoność systemu rakieta eksplodowała przy starcie. Po czwartym podejściu i utracie nosiciela, zmianie geopolitycznej, przegraniu wyścigu kosmicznego Komitet Centralny Partii postanowił zamknąć program.
 
-W ramach programu stworzony został lądownik LK przedstawiony na obrazku :numref:`figure-spacecraft-lk-schematics`.
+W ramach programu stworzony został lądownik LK przedstawiony na obrazku :numref:`figure-spacecraft-lk-models`.
 
 .. csv-table:: Lista kosmonautów przypisanych do grup szkoleniowych w ramach programu księżycowego :cite:`Kamanin-Diaries`
     :name: table-lk-astronauts
     :file: ../data/lk-astronauts.csv
     :header-rows: 1
+    :widths: 10, 90
 
-.. figure:: ../img/spacecraft-lk-schematics.png
-    :name: figure-spacecraft-lk-schematics
-    :scale: 20%
+.. figure:: ../img/spacecraft-lk-models.jpg
+    :name: figure-spacecraft-lk-models
+    :scale: 100%
     :align: center
 
-    Schemat Lądownika LK. Źródło: NASA/JSC
+    Różne prototypy lądowników księżycowych w ramach programu załogowego *ZSRR*. Źródło: Astronautics/Mark Wade :cite:`SovietMannedLunarProjects`
 
 Program Salyut
 --------------
-.. figure:: ../img/spacestation-salyut-6.png
+Pierwszym w historii programem orbitalnej stacji kosmicznej był *Salyut*. Konstrukcja stacji była jednomodułowa i wynoszona na orbitę za pomocą rakiety nośnej. Kosmonaucji za pomocą statków *Soyuz* dokowali do stacji, gdzie prowadzili badania nad efektami długotrwałego pobytu w stanie mikrograwitacji na organizm człowieka. Program również nosił nazwę Długoczasowa Stacja Orbitalna (ros. *DOS - Dołgowriemiennaja Orbitalnaja Stancija*) a równcześnie z nim był tworzony wojskowy program *Ałmaz* (ros. *Diament*).
+
+Stacje wyposażone były w port dokowania dzięki, któremu zarówno załogowe jak i bezzałogowe statki *Progress* mogły dołączać do stacji i zaopatrywać ją w paliwo, tlen i inne zasoby.
+
+.. figure:: ../img/spacestation-salyut-6.svg
     :name: figure-spacestation-salyut-6
-    :scale: 40%
+    :scale: 100%
     :align: center
 
-    Schemat stacji kosmicznej Salyut 6. Źródło: NASA/JSC
+    Schemat stacji kosmicznej Salyut 6. Źródło: Wikipedia
+
+.. csv-table:: Lista stacji kosmicznych w ramach programu Salyut/Ałmaz/Mir. Źródło: Wikipedia
+    :name: table-salyut-timeline
+    :file: ../data/salyut-timeline.csv
+    :header-rows: 1
 
 Program Interkosmos i lot generała Hermaszewskiego
 --------------------------------------------------
+W ramach zjazdu przedstaicieli krajów socjalistycznych w Moskwie 5-13 kwietnia 1967 roku przyjęto program współpracy w zakresie eksploracji kosmosu - *Interkosmos*. W ramach programu odbywały się loty zarówno załogowe jak i bezzałogowe. Głównym założeniem współpracy było korzystanie z infrastruktury naziemnej oraz  rakiet radzieckiego programu kosmonautycznego. Międzynarodowa współpraca miała dotyczyć badań naukowych oraz lotów załóg. Prawną stronę porozumienia i działania państw członkowskich regulował dokument zawarty 13 lipca 1976 roku. Porozumienie obowiązywało od 25 marca 1977 roku.
+
+Głównym celem programu *Interkosmos* były badania naukowe w obszarach:
+
+- fizyki kosmicznej,
+- meteorologii,
+- łączności,
+- biologii,
+- medycyny kosmicznej
+
+W ramach programu odbywały się międzynarodowe loty załogowe, które umożliwiły kosmonautom z poza *ZSRR* oraz *USA* lot w kosmos. Pierwszym kosmonautom nie będącym obywatelem powyższych państw był czech Vladimír Remek, który poleciał 2 marca 1978 roku. Drugą osobą był generał Mirosław Hermaszewski (27 czerwca 1978). :numref:`table-selection-interkosmos` przedstawia listę kosmonautów programu *Interkosmos*.
+
+
+
 .. todo:: http://www.spacepatches.nl/salyut_frame.html
+
+.. figure:: ../img/map-interkosmos.png
+    :name: figure-map-interkosmos
+    :scale: 40%
+    :align: center
+
+    Państwa uczestniczące w ramach programu *Interkosmos*. Źródło: Wikipedia
+
+.. csv-table:: Lista kosmonautów w ramach programu *Interkosmos*. Źródło: Wikipedia
+    :name: table-selection-interkosmos
+    :file: ../data/selection-interkosmos.csv
+    :header-rows: 1
 
 Program Buran
 -------------
@@ -285,17 +327,38 @@ Program *Buran* był odpwiedzią na amerykański program *Space Shuttle*. Pojazd
 
 Ze względów geopolitycznych program został zamknięty, a odbitery trafiły do hangaru na kosmodromie Bajkonur oraz do muzeum techniki w niemieckim mieście Speyer. W maju 2002 ze względu na obciążenia dachu wywołane potężną burzą dach hangaru, w którym przebywał *Buran* oraz rakieta nosiciel *Energia* zawalił się niszcząc prom.
 
+.. figure:: ../img/spacecraft-buran-vs-shuttle.png
+    :name: figure-spacecraft-buran-vs-shuttle
+    :scale: 25%
+    :align: center
+
+    Zestawienie porównawcze rakiety *Soyuz*, *Space Shuttle* oraz *Energia-Buran*. Źródło: Wikipedia
+
 Stacja kosmiczna Mir
 --------------------
-.. figure:: ../img/spacestation-mir-architecture-1990.png
-    :name: figure-spacestation-mir-architecture-1990
+Stacja kosmiczna *Mir* (ros. *Pokój*) była bezpośrednim kontynuatorem programu *Salyut* i pierwowzorem dla *ISS*. Początkowo służyła wyłącznie kosmonautom *ZSRR* oraz w ramach programu *Interkosmos*. Po upadku Związku Radzieckiego umożliwiono loty międzynarodowych załóg. Podczas ponad 15 lat pracy na orbicie gościła 28 stałych załóg i wiele tymczasowych pobytów amerykańskich promów *Space Shuttle*.
+
+Jej konstrukcja rozpoczęła się od przeniesienia zasobów dostarczonych przez *Progress 25* i *Progress 26*. Zadanie wykonała załoga *Soyuz T-15* (Leonid Kizim, Władimir Sołowjow). Ponadto podczas 50 dniowego pobytu załoga również odwiedziła stację *Salyut 7* w celu przewiezienia części wyposażenia na *Mir*. Na chwilę obecną jest to jedyny przypadek w historii aby astronauci podczas jednego lotu odwiedzili dwie stacje.
+
+.. figure:: ../img/spacestation-mir.svg
+    :name: figure-spacestation-mir
     :scale: 50%
     :align: center
 
-    Schemat stacji kosmicznej MIR w 1989/1990 roku. Źródło: NASA/JSC
+    Schemat stacji kosmicznej *Mir*. Źródło: Wikipedia
+
 
 Międzynarodowa Stacja Kosmiczna
 ===============================
+Program międzynarodowej stacji rozpoczął się od połączenia konceptu projektów *Freedom* (ang. wolność) oraz *Mir-2* (*DOS-8*). Następnie przekształcił się w pierwszą międzynarodową stację badawczą o nazwie *Internationl Space Station*. Budowa rozpoczęła się od umieszczenia rosyjskich modułów w 1998 roku. Pierwsza załoga przyleciała 2 listopada 2000 roku. Od tego czasu stacja jest stale zamieszkiwana przez załogi 3 lub 6 osobowe w ramach tzw. ekspedycji. Temat *ISS* szczegółowo przedstawiono w części dotyczącej :ref:`przygotowania załóg do lotów na jej pokład <iss>`.
+
+.. figure:: ../img/spacestation-iss.svg
+    :name: figure-spacestation-iss
+    :scale: 66%
+    :align: center
+
+    Schemat stacji kosmicznej *ISS*. Źródło: Wikipedia
+
 
 Najdłuższy pobyt w przestrzeni kosmicznej
 =========================================

@@ -14,6 +14,7 @@ author = 'Matt Harasymczuk'
 extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.imgmath',
+    'sphinx.ext.autosectionlabel',
     'sphinxcontrib.bibtex',
 ]
 
