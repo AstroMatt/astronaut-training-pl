@@ -87,7 +87,7 @@ Praca jako Capsule Communicator (CAPCOM)
 ========================================
 Obszerną cześć zadań astronauty na Ziemii stanowi praca jako tzw. CAPCOM (ang. Capsule Communicator). To stanowisko w ramach kontroli misji jest zarezerwowane dla jedynej osoby prowadzącej korespondencję z astronautami na orbicie. Instytucję CAPCOMa wprowadzono aby ograniczyć chaos komnikacyjny i ilość sprzecznych informacji, które docierają na orbitę. Tradycyjnie od czasów programu Mercury w strukturach kontroli misji tę rolę pełni jedynie astronauta, gdyż "tylko astronauta posiadający takie samo przeszkolenie i doświadczenie jest w stanie najlepiej komunikować w sytuacji kryzysowej".
 
-Przykładem dobrej komunikacji i efektywnego wykorzystania doświadczenia załogi może być praca astronautów Europejskiej Agencji Kosmicznej podczas *EVA*, które odbyło się w styczniu 2017 roku. Podczas tego wydarzenia astronauta Luca Parmitano wspierał Thomasa Pasqueta w wypełnieniu zadań, a dzięki temu udało się osiągnąć wszystkie założone cele dla tego *EVA* na dużo przed czasem.
+Przykładem dobrej komunikacji i efektywnego wykorzystania doświadczenia załogi może być praca astronautów Europejskiej Agencji Kosmicznej podczas EVA, które odbyło się w styczniu 2017 roku. Podczas tego wydarzenia astronauta Luca Parmitano wspierał Thomasa Pasqueta w wypełnieniu zadań, a dzięki temu udało się osiągnąć wszystkie założone cele dla tego EVA na dużo przed czasem.
 
 
 Popularyzacja nauki i obszaru S.T.E.M.

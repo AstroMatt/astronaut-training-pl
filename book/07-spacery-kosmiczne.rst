@@ -15,7 +15,7 @@ Astronauci podczas szkolenia podstawowego, a później dla utrzymania sprawnośc
 
 Spacery kosmiczne wymagają wysokiej sprawności oraz dużej siły fizycznej. Z tego względu nie wszyscy astronauci mają możliwość wykorzystania w kosmosie wyuczonych uprzednio umiejętności. Ay astronauta mógł wyjść w przestrzeń kosmiczną musi udowodnić znajomość stroju przechodząc stosowny egzamin jak również musi mieć odpowiednią kondycję i formę.
 
-Na chwilę obecną wyjścia w przestrzeń kosmiczną skupiają się głównie na pracach na orbicie przy konstrukcji i naprawy międzynarodowej stacji kosmicznej. Przed erą ISS astronauci wychodzili aby naprawiać MIR czy Skylab, podczas programu Apollo w celu demontażu kamery oraz w programie STS, Gemini i *Wostok*. Dotychczas *EVA* na obcych planetach lub satelitach doświadczyło tylko i wyłącznie dwanaście osób. Jednym z najbardziej podstawowych podziałów spacerów kosmicznych są wyjścia:
+Na chwilę obecną wyjścia w przestrzeń kosmiczną skupiają się głównie na pracach na orbicie przy konstrukcji i naprawy międzynarodowej stacji kosmicznej. Przed erą ISS astronauci wychodzili aby naprawiać MIR czy Skylab, podczas programu Apollo w celu demontażu kamery oraz w programie STS, Gemini i Wostok. Dotychczas EVA na obcych planetach lub satelitach doświadczyło tylko i wyłącznie dwanaście osób. Jednym z najbardziej podstawowych podziałów spacerów kosmicznych są wyjścia:
 
 - zaplanowane,
 - awaryjne,
@@ -26,7 +26,7 @@ Na chwilę obecną wyjścia w przestrzeń kosmiczną skupiają się głównie na
     :scale: 66%
     :align: center
 
-    Podział systemów oraz infrastruktury *EVA*. Zródło: NASA/JSC
+    Podział systemów oraz infrastruktury EVA. Zródło: NASA/JSC
 
 Podział skafandrów kosmicznych
 ==============================
@@ -50,9 +50,9 @@ Od czasów śmierci załogi *Soyuz 11*, którego załogę stanowili:
 - Vladislav Volkov (Flight Engineer),
 - Viktor Patsayev (Test Engineer),
 
-w skutek rozszczelnienia kapsuły i utraty powietrza wszystkie loty kosmiczne odbywają się w skafandrach do użycia wewnątrz pojazdu (ang. *IVA - Intravehicular Activity*). Skafandry te są lżejsze od skafandrów *EVA* i nie posiadają własnego systemu podtrzymywania życia (*PLSS*), co czynie je zależne od statku kosmicznego do którego zostały przystosowane. :numref:`table-spacesuits-iva` przedstawia zestawienie historyczne skafandrów *IVA*. Głównymi skafandrami wykorzystywanymi obecnie w lotach załogowych są skafandry *Sokol*.
+w skutek rozszczelnienia kapsuły i utraty powietrza wszystkie loty kosmiczne odbywają się w skafandrach do użycia wewnątrz pojazdu (ang. *IVA - Intravehicular Activity*). Skafandry te są lżejsze od skafandrów EVA i nie posiadają własnego systemu podtrzymywania życia (*PLSS*), co czynie je zależne od statku kosmicznego do którego zostały przystosowane. :numref:`table-spacesuits-iva` przedstawia zestawienie historyczne skafandrów *IVA*. Głównymi skafandrami wykorzystywanymi obecnie w lotach załogowych są skafandry *Sokol*.
 
-Na uwagę zasługuje fakt, iż wcześniejsze loty w ramach programów *Wostok*, *Woskhod* oraz Soyuz odbywały się przy załodze ubranej w skafandry *IVA*. Jednakże zwiększenie załogi z jednego, później do dwóch i docelowo trzech astronautów spowodowało brak miejsca w kapsule i decyzję o nieużywaniu skafandrów.
+Na uwagę zasługuje fakt, iż wcześniejsze loty w ramach programów Wostok, *Woskhod* oraz Soyuz odbywały się przy załodze ubranej w skafandry *IVA*. Jednakże zwiększenie załogi z jednego, później do dwóch i docelowo trzech astronautów spowodowało brak miejsca w kapsule i decyzję o nieużywaniu skafandrów.
 
 W amerykańskim programie załogowym również zdarzył się przypadek gdzie niemalże nie doszło do katastrofy i utraty załogi. Podczas powrotu z misji "*Apollo-Soyuz*" załoga:
 
@@ -73,7 +73,7 @@ Ze względu na dobre przyleganie i całkowitą izolację orgranizm astronauty na
 
 Skafandry kosmiczne wykorzystywane podczas wyjść w przestrzeń kosmiczną
 -----------------------------------------------------------------------
-Skafandry, które wykorzystuje się do wyjść w przestrzeń kosmiczna, tj. do pracy poza statkiem, nazywa się skafandrami *EVA* (ang. *Extravehicular Activity*). Do podstawowych zadań skafandra należą:
+Skafandry, które wykorzystuje się do wyjść w przestrzeń kosmiczna, tj. do pracy poza statkiem, nazywa się skafandrami EVA (ang. *Extravehicular Activity*). Do podstawowych zadań skafandra należą:
 
 - ochrona przed ekstremalnym środowiskiem kosmosu,
 - ochrona przed brakiem ciśnienia (próżnią),
@@ -84,9 +84,9 @@ Skafandry, które wykorzystuje się do wyjść w przestrzeń kosmiczna, tj. do p
 
 :numref:`table-spacesuits-eva` przedstawia listę skafandrów kosmicznych wykorzystywanych do wyjść w przestrzeń.
 
-Na uwagę zasługuje fakt, że podobnie jak w skafandrach *IVA* tak przy *EVA* część skafandrów tworzona jest iteracyjnie, tzn. poprzednie modele z wcześniejszych programów są poddawane modyfikacją i wykorzystywane w nowym środowisku. Przykładem jest skafander obecny *EMU*, który wyewoluował ze skafandra wykorzystywanego podczas lotów wahadłowców.
+Na uwagę zasługuje fakt, że podobnie jak w skafandrach *IVA* tak przy EVA część skafandrów tworzona jest iteracyjnie, tzn. poprzednie modele z wcześniejszych programów są poddawane modyfikacją i wykorzystywane w nowym środowisku. Przykładem jest skafander obecny *EMU*, który wyewoluował ze skafandra wykorzystywanego podczas lotów wahadłowców.
 
-.. csv-table:: Zestawienie skafandrów do spacerów kosmicznych *EVA* (ang. *Extravehicular Activity*)
+.. csv-table:: Zestawienie skafandrów do spacerów kosmicznych EVA (ang. *Extravehicular Activity*)
     :name: table-spacesuits-eva
     :file: ../data/spacesuits-eva.csv
     :header-rows: 1
@@ -131,7 +131,7 @@ Amerykańskie *EMU* przywdziewa się składając z kilku cześci, tj.:
 - rękawice,
 - spodnie z butami.
 
-Niezależnie od rozwiązania warstwa *LCVG*, która pozwala na regulowanie temperatury jest zakładana przez astronautę przed wejściem do skafandra *EVA*.
+Niezależnie od rozwiązania warstwa *LCVG*, która pozwala na regulowanie temperatury jest zakładana przez astronautę przed wejściem do skafandra EVA.
 
 .. todo::
     - Rosjanie mają jednoczęściowe stroje do których wchodzi się przez plecak
@@ -259,14 +259,14 @@ Ramiona i Rękawice
 
 Nogi i Buty
 ^^^^^^^^^^^
-Są jednym z najmniej wykorzystywanych elementów skafandrów dla wyjść w przestrzeń kosmiczną. Jednocześnie podczas *EVA* na innych ciałach niebieskich tj. księżyce, inne planety lub asteroidy stają się jednym z jego najważniejszych części.
+Są jednym z najmniej wykorzystywanych elementów skafandrów dla wyjść w przestrzeń kosmiczną. Jednocześnie podczas EVA na innych ciałach niebieskich tj. księżyce, inne planety lub asteroidy stają się jednym z jego najważniejszych części.
 
 .. figure:: /img/spacesuit-a7l-boots.jpg
     :name: figure-spacesuit-a7l-boots
     :scale: 45%
     :align: center
 
-    Buty astronauty stanowiące część skafandra *A7L* wykorzystywanego w programie *Apollo* podczas *EVA* na Księżycu. Źródło: NASA/JSC
+    Buty astronauty stanowiące część skafandra *A7L* wykorzystywanego w programie Apollo podczas EVA na Księżycu. Źródło: NASA/JSC
 
 Na :numref:`figure-spacesuit-a7l-boots` przedstawiono tzw. *Lunar Overshoe*, czyli część, która jest nakładana na skarpetę stanowiącą integralny element skafandra. Za wyjątkiem ożebrowanych elementów z gumy sylikonowej (ang. *ribbed silicone rubber sole*) zewnętrzna część buta była zrobiona z wzmacnianej metalem tkanicy *Chromel R* (ang. *metal-woven fabric*). Zastosowanie takiej technologi miało na celu ochronę przed przetarciem. Wewnętrzna część buta była stworzona z płutna pokrytej Teflonem warstwy włukna szklanego (ang. *Teflon-coated fiber-glass*). Zastosowanie składającego się z 25 przekładających się warstw Kaptonu oraz włukna szklanego materiału miało na celu zwięszenie wytrzymałości, zmniejszenie wagi oraz izolację terminczną. Buty były wyprodukowane przez General Electric i ILC Industries Inc.
 
@@ -346,7 +346,7 @@ Prace w przestrzeni kosmicznej wymagają znajomości wysokospecjalistycznych nar
     :scale: 85%
     :align: center
 
-    Narzędzia wykorzystywane podczas *EVA*. Źródło: NASA/JSC
+    Narzędzia wykorzystywane podczas EVA. Źródło: NASA/JSC
 
 Urządzenia wykorzystywane w pracy w przestrzeni kosmicznej możemy podzielić na:
 
@@ -690,7 +690,7 @@ EVA na powierzchni planet
 
 EVA na powierzchni asteroid i księżyców o niskim przyciąganiu grawitacyjnym
 ---------------------------------------------------------------------------
-W chwili obecnej NASA prowadzi badania nad wykonywaniem *EVA* na powierzchni asteroid i księżyców o niskim przyciąganiu grawitacyjnym. Dwoma głównymi celami gdzie tego typu procedury miały by zastosowanie są ciała niebieskie w ramach anulowanego programu ARM (ang. *Asteroid Redirect Mission*) oraz powierzchnia Deimosa i Fobosa, księżyców planety Mars.
+W chwili obecnej NASA prowadzi badania nad wykonywaniem EVA na powierzchni asteroid i księżyców o niskim przyciąganiu grawitacyjnym. Dwoma głównymi celami gdzie tego typu procedury miały by zastosowanie są ciała niebieskie w ramach anulowanego programu ARM (ang. *Asteroid Redirect Mission*) oraz powierzchnia Deimosa i Fobosa, księżyców planety Mars.
 
 Lądowanie na powierzchni naturalnych satelitów Marsa ma swoje zalety w postaci ekstremalnie niskiej grawitacji. Astronauci po roku lotu z Ziemi mogliby przetestować systemy oraz procedury na tych niewielkich ciałach niebieskich, a jeden z konceptów mówi, aby w tym miejscu w pierwszej kolejności zbudować osadę przed lądowaniem na "czerwonej planecie". Ze względu na bardzo niskie przyciąganie grawitacyjne
 NASA ewaluuje na chwilę obecną systemy harpunów oraz sieci po których mogliby poruszać się astronauci, ze względu na fakt, że mocniejszy skok potrafi "wystrzelić" astronautę na kilkadziesiąt minut w przestrzeń, zanim opadnie i będzie mógł kontynuować poruszanie się.
@@ -760,7 +760,7 @@ Procedury bezpieczeństwa
 Przykładowe zadania wykonywane podczas spacerów kosmicznych
 ===========================================================
 
-Prosuszanie się po powierzchni Księżyca w trakcie EVA w ramach *Apollo*
+Prosuszanie się po powierzchni Księżyca w trakcie EVA w ramach Apollo
 -----------------------------------------------------------------------
 
 Dekonstrukcja kamer i aparatu fotograficznego podczas misji Apollo

@@ -41,7 +41,6 @@ Baseny doskonałej pływalności
 =============================
 Od czasów Gemini
 
-
 NASA - Neutral Buoyancy Laboratory
 ----------------------------------
 
