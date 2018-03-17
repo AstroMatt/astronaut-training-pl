@@ -291,8 +291,8 @@ Stacje wyposażone były w port dokowania dzięki, któremu zarówno załogowe j
     :file: ../data/salyut-timeline.csv
     :header-rows: 1
 
-Program Interkosmos i lot generała Hermaszewskiego
---------------------------------------------------
+Program Interkosmos
+-------------------
 W ramach zjazdu przedstaicieli krajów socjalistycznych w Moskwie 5-13 kwietnia 1967 roku przyjęto program współpracy w zakresie eksploracji kosmosu - *Interkosmos*. W ramach programu odbywały się loty zarówno załogowe jak i bezzałogowe. Głównym założeniem współpracy było korzystanie z infrastruktury naziemnej oraz  rakiet radzieckiego programu kosmonautycznego. Międzynarodowa współpraca miała dotyczyć badań naukowych oraz lotów załóg. Prawną stronę porozumienia i działania państw członkowskich regulował dokument zawarty 13 lipca 1976 roku. Porozumienie obowiązywało od 25 marca 1977 roku.
 
 Głównym celem programu *Interkosmos* były badania naukowe w obszarach:
@@ -304,10 +304,6 @@ Głównym celem programu *Interkosmos* były badania naukowe w obszarach:
 - medycyny kosmicznej
 
 W ramach programu odbywały się międzynarodowe loty załogowe, które umożliwiły kosmonautom z poza *ZSRR* oraz *USA* lot w kosmos. Pierwszym kosmonautom nie będącym obywatelem powyższych państw był czech Vladimír Remek, który poleciał 2 marca 1978 roku. Drugą osobą był generał Mirosław Hermaszewski (27 czerwca 1978). :numref:`table-selection-interkosmos` przedstawia listę kosmonautów programu *Interkosmos*.
-
-
-
-.. todo:: http://www.spacepatches.nl/salyut_frame.html
 
 .. figure:: ../img/map-interkosmos.png
     :name: figure-map-interkosmos
@@ -367,3 +363,29 @@ Najdłuższy pobyt w przestrzeni kosmicznej zanotował kosmonauta Roscosmos Dr. 
 Największy kumulacyjny nalot zgdomadził kosmonauta Roscosmos Gennady Padalka, który przybywał łącznie 879 dni na orbicie podczas 5 lotów kosmicznycj.
 
 Największy kumulacyjnie czas spędzony podczas *EVA* zanotował kosmonauta Roscosmos Anatoly Solovyev, który przebywał łącznie 82 godziny 22 minuty w trakcie 16 spacerów kosmicznych. Kosmonauta ten jest również osobą, która wykonała najwięcej spacerów kosmicznych w historii.
+
+Lot generała Hermaszewskiego
+============================
+Lot *Soyuz 30* miał miejsce w dniach 27 czerwca – 5 lipca 1978. Skład głównej załogi stanowił zespół: Mirosław Hermaszewski (promotor pomocniczego tej pracy) oraz Piotr Iljicz Klimuk. W zespole rezerwowym byli Walerij Nikołajewicz Kubasow oraz Zenon Jankowski.
+
+Głównym zadaniem *Soyuz 30* było dokowanie do stacji *Salyut 6* oraz wykonanie badań naukowych i biomedycznych dla jednostek badawczych, tj. :cite:`Hermaszewski2013`:
+
+- Wojskowy Instytut Medycyny Lotniczej (WIML),
+- Instytut Fizyki PAN,
+- Instytut Geodezji i Kartografii (IGiK),
+- Centrum Badań Kosmicznych PAN (CBK),
+- dla zagranicznych jednostek badawczych w ramach porozumienia *Interkosmos*.
+
+.. csv-table:: Lista badań w ramach misji *Soyuz 30*/*Salyut 6*.
+    :name: table-soyuz-30-experiments
+    :file: ../data/soyuz-30-experiments.csv
+    :header-rows: 1
+
+Misja zakończyła się sukcesem a zadania założone zostały wykonane. :ref:`table-soyuz-30-timeline` przedstawia listę najważniejszych wydarzeń w trakcie lotu *Soyuz 30*.
+
+.. csv-table:: Zestawienie najważniejszych wydarzeń w trakcie lotu *Soyuz 30*/*Salyut 6*.
+    :name: table-soyuz-30-timeline
+    :file: ../data/soyuz-30-timeline.csv
+    :header-rows: 1
+
+Dla upamiętnienia lotu pierwszego Polaka załoga zabrała na pokład flagę i godło pańswowe. Generał Hermaszewski na chwilę obecną pozostaje jedynym Polakiem w kosmosie. Trening do misji, szczegóły lotu, zakres badań prowadzonych na orbicie jak również wydarzenia po powrocie z misji można przeczytać w opracowaniu generała Hermaszewskiego :cite:`Hermaszewski2013`.

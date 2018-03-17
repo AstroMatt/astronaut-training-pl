@@ -1,12 +1,19 @@
+#first-page #university      {font-size: 1.7rem;}
+#first-page #faculty         {font-size: 1.5rem;}
+#first-page #title #main     {font-size: 2.2rem;}
+#first-page #title #subtitle {font-size: 1.5rem;}
+#first-page #author          {font-size: 1.3rem;}
+#first-page #supervisor      {font-size: 1.3rem;}
+#first-page footer           {font-size: 1.3rem;}
+
+
 #first-page {
     text-align: center;
     padding-top: 5rem;
     page-break-after: always;
-    font-size: 1.2rem;
 }
 
 #first-page h1 {
-    font-size: 2rem;
     text-align: center;
     page-break-before: avoid;
     page-break-after: avoid;
@@ -15,7 +22,6 @@
 }
 
 #first-page h2 {
-    font-size: 1.5rem;
     font-weight: normal;
     text-align: center;
     page-break-before: avoid;
@@ -29,11 +35,11 @@
 }
 
 #first-page #title {
-    margin-top: 14rem;
+    margin-top: 18rem;
 }
 
-#first-page #about {
-    margin-top: 11rem;
+#first-page #supervisor {
+    margin-top: 16rem;
     text-align: left;
     padding-left: 40%;
     word-break: keep-all;
@@ -41,5 +47,5 @@
 
 #first-page footer {
     page-break-before: avoid;
-    margin-top: 11rem;
+    margin-top: 16rem;
 }
