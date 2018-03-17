@@ -15,7 +15,7 @@ Astronauci podczas szkolenia podstawowego, a później dla utrzymania sprawnośc
 
 Spacery kosmiczne wymagają wysokiej sprawności oraz dużej siły fizycznej. Z tego względu nie wszyscy astronauci mają możliwość wykorzystania w kosmosie wyuczonych uprzednio umiejętności. Ay astronauta mógł wyjść w przestrzeń kosmiczną musi udowodnić znajomość stroju przechodząc stosowny egzamin jak również musi mieć odpowiednią kondycję i formę.
 
-Na chwilę obecną wyjścia w przestrzeń kosmiczną skupiają się głównie na pracach na orbicie przy konstrukcji i naprawy międzynarodowej stacji kosmicznej. Przed erą *ISS* astronauci wychodzili aby naprawiać *MIR* czy *Skylab*, podczas programu *Apollo* w celu demontażu kamery oraz w programie *STS*, *Gemini* i *Wostok*. Dotychczas *EVA* na obcych planetach lub satelitach doświadczyło tylko i wyłącznie dwanaście osób. Jednym z najbardziej podstawowych podziałów spacerów kosmicznych są wyjścia:
+Na chwilę obecną wyjścia w przestrzeń kosmiczną skupiają się głównie na pracach na orbicie przy konstrukcji i naprawy międzynarodowej stacji kosmicznej. Przed erą ISS astronauci wychodzili aby naprawiać MIR czy Skylab, podczas programu Apollo w celu demontażu kamery oraz w programie STS, Gemini i *Wostok*. Dotychczas *EVA* na obcych planetach lub satelitach doświadczyło tylko i wyłącznie dwanaście osób. Jednym z najbardziej podstawowych podziałów spacerów kosmicznych są wyjścia:
 
 - zaplanowane,
 - awaryjne,
@@ -270,7 +270,7 @@ Są jednym z najmniej wykorzystywanych elementów skafandrów dla wyjść w prze
 
 Na :numref:`figure-spacesuit-a7l-boots` przedstawiono tzw. *Lunar Overshoe*, czyli część, która jest nakładana na skarpetę stanowiącą integralny element skafandra. Za wyjątkiem ożebrowanych elementów z gumy sylikonowej (ang. *ribbed silicone rubber sole*) zewnętrzna część buta była zrobiona z wzmacnianej metalem tkanicy *Chromel R* (ang. *metal-woven fabric*). Zastosowanie takiej technologi miało na celu ochronę przed przetarciem. Wewnętrzna część buta była stworzona z płutna pokrytej Teflonem warstwy włukna szklanego (ang. *Teflon-coated fiber-glass*). Zastosowanie składającego się z 25 przekładających się warstw Kaptonu oraz włukna szklanego materiału miało na celu zwięszenie wytrzymałości, zmniejszenie wagi oraz izolację terminczną. Buty były wyprodukowane przez General Electric i ILC Industries Inc.
 
-W obecnych skafandrach *EMU* oraz *Orlan* buty nie są wzmacniane w taki sposób. Podczas spacerów kosmicznych w ramach budowy *ISS* astronauci nie korzystają z nóg i ta część skafandra jest mniej skąplikowana.
+W obecnych skafandrach *EMU* oraz *Orlan* buty nie są wzmacniane w taki sposób. Podczas spacerów kosmicznych w ramach budowy ISS astronauci nie korzystają z nóg i ta część skafandra jest mniej skąplikowana.
 
 Plecak z systemem podtrzymywania życia
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

@@ -255,6 +255,7 @@ Amerykańska agencja kosmiczna NASA organizuje rekrutację na kandydata na astro
     :name: table-selection-nasa
     :file: ../data/selection-nasa.csv
     :header-rows: 1
+    :widths: 10, 10, 30, 50
 
 .. csv-table:: Lista aktywnych astronautów NASA :cite:`Active-NASA-Astronauts`
     :name: table-astronauts-nasa
@@ -275,6 +276,7 @@ Jednym z warunków bycia astronautą ESA jest aby państwo narodowości kandydat
     :name: table-astronauts-esa
     :file: ../data/astronauts-esa.csv
     :header-rows: 1
+    :widths: 20, 10, 10, 10, 50
 
 .. figure:: ../img/selection-esa-2009.jpg
     :name: figure-selection-esa-2009

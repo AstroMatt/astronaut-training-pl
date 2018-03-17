@@ -1,7 +1,3 @@
-\usepackage{ulem}
-
-\usepackage{ulem}
-
 *********************************
 Rys historyczny lotów kosmicznych
 *********************************
@@ -37,7 +33,7 @@ Wystrzelony 4 października 1957 należący do ZSSR Sputnik został pierwszym sz
 
 Pierwszym zwierzęciem, które przekroczyło linię graniczną kosmosu był pies Łajka wystrzelony za pomocą rakiety *Sputnik 8K71PS* w kapsule *Sputnik 2* :cite:`Siddiqi2000`. Ze względu na wysoką temperaturę spowodowaną uszkodzeniem i niepełnym rozczepieniem członu rakiety od satelity zwierze zdechło po kilku godzinach od startu. Pies planowo miał żyć na orbicie 10 dni. Po około 2000 orbit w ciągu 162 dni kapsuła z martwym ciałem weszła w atmosferę i spłonęła :cite:`Harford1997`.
 
-Pierwszym człowiekiem w kosmosie był major Yuri Gagarin (awansowany później na pułkownika). Został wystrzelony przez Związek Radziecki 12 kwietnia 1961 w 108 minutowy orbitalny wokół Ziemi na pokładzie *Vostok 1*. Gagarin był jednym z 20 osób, które zostały wybrane wśród pilotów wojskowych Związku Radzieckiego :cite:`Siddiqi2000`. Wg. podań świadków major wyróżniał się wytrzymałością, duchem oraz doświadczeniem. Wśród wszyskich rekrutowanych kosmonautów przeprowadzono ankietę, w której zadano pytanie "kogo wytypowałbyś na pierwszy lot". Osiemnaście na dwadzieścia osób z załogi wybrało Gagarina. Major po okrążeniu Ziemi wszedł ponownie w atmosferę w tzw. krzywej balistycznej cechującej się wysokim poziomem przeciążeń działających na ciało kosmonauty. Ze względu na fakt, iż Radzieccy konstruktorzy nie dysponowali jeszcze techniką aby bezpiecznie wylądować statekiem kosmicznym na ziemi zdecydowano się na użycie fotela katapultowego i spadochronu. Na poziomie 20 000 stóp nad poziomem morza (ok. 6 tys. metrów) Gagarin katapultował się z kapsuły i bezpiecznie wrócił na powierzchnię :cite:`Why-Yuri-Gagarin-Remains-the-First-Man-in-Space`.
+Pierwszym człowiekiem w kosmosie był major Yuri Gagarin (awansowany później na pułkownika). Został wystrzelony przez Związek Radziecki 12 kwietnia 1961 w 108 minutowy orbitalny wokół Ziemi na pokładzie *Vostok-1*. Gagarin był jednym z 20 osób, które zostały wybrane wśród pilotów wojskowych Związku Radzieckiego :cite:`Siddiqi2000`. Wg. podań świadków major wyróżniał się wytrzymałością, duchem oraz doświadczeniem. Wśród wszyskich rekrutowanych kosmonautów przeprowadzono ankietę, w której zadano pytanie "kogo wytypowałbyś na pierwszy lot". Osiemnaście na dwadzieścia osób z załogi wybrało Gagarina. Major po okrążeniu Ziemi wszedł ponownie w atmosferę w tzw. krzywej balistycznej cechującej się wysokim poziomem przeciążeń działających na ciało kosmonauty. Ze względu na fakt, iż Radzieccy konstruktorzy nie dysponowali jeszcze techniką aby bezpiecznie wylądować statekiem kosmicznym na ziemi zdecydowano się na użycie fotela katapultowego i spadochronu. Na poziomie 20 000 stóp nad poziomem morza (ok. 6 tys. metrów) Gagarin katapultował się z kapsuły i bezpiecznie wrócił na powierzchnię :cite:`Why-Yuri-Gagarin-Remains-the-First-Man-in-Space`.
 
 
 Krótki rys historyczny programów kosmicznych NASA
@@ -75,7 +71,7 @@ W dniu 9 kwietnia 1959, NASA przedstawiła pierwszą grupę astronautów tzw. *M
 
     Astronauci programu *Mercury* tzw. *Original Seven*. Pierwszy rząd, od lewej do prawej: Walter M. Schirra, Jr., Donald K. "Deke" Slayton, John H. Glenn, Jr., and M. Scott Carpenter; tylny rząd, Alan B. Shepard, Jr., Virgil I. "Gus" Grissom, L. Gordon Cooper, Jr. źródło: NASA :cite:`Mercury7`.
 
-Z przyczyn zdrowotnych Deke Slayton został zdyskwalifikowany z udziału w programie *Mercury* i uziemiony. Przez trzynaście lat od czasu pierwszego lotu Sheparda, Deke Slayton kierował *Astronauts Office* (ang. biurem astronautów i przydziału do misji), które zostało przemianowane później na *Flight Crew Operations Office* (ang. biuro operacji personelu latającego). Slayton po ostatecznym przejściu badań medycznych wziął udział w ostatnim locie programu *Apollo* tj. *Apollo-Souyz*. W tym locie doszło do historycznego dokowania na orbicie okołoziemskiej statków *Apollo* i *Soyuz* oraz do symbolicznego uściśnięcia dłoni przedstawicieli USA i ZSSR :cite:`MercuryChronology2014`, :cite:`History-of-Project-Mercury`.
+Z przyczyn zdrowotnych Deke Slayton został zdyskwalifikowany z udziału w programie Mercury i uziemiony. Przez trzynaście lat od czasu pierwszego lotu Sheparda, Deke Slayton kierował biurem astronautów i przydziału do misji (ang. *Astronauts Office*), które zostało przemianowane później na *Flight Crew Operations Office* (ang. biuro operacji personelu latającego). Slayton po ostatecznym przejściu badań medycznych wziął udział w ostatnim locie programu *Apollo* tj. *Apollo-Souyz*. W tym locie doszło do historycznego dokowania na orbicie okołoziemskiej statków *Apollo* i *Soyuz* oraz do symbolicznego uściśnięcia dłoni przedstawicieli USA i ZSSR :cite:`MercuryChronology2014`, :cite:`History-of-Project-Mercury`.
 
 Projekt Gemini
 --------------
@@ -98,14 +94,14 @@ Amerykańska agencja kosmiczna NASA podczas projektu Gemini przeprowadziła dwa 
     :scale: 20%
     :align: center
 
-    Astronauci pierwszego naboru do programu *Gemini*. Rząd z tyłu, od lewej: See, McDivitt, Lovell, White, Stafford. Rząd z przodu: Conrad, Borman, Armstrong, Young. Źródło: NASA/JSC
+    Astronauci pierwszego naboru do programu Gemini. Rząd z tyłu, od lewej: See, McDivitt, Lovell, White, Stafford. Rząd z przodu: Conrad, Borman, Armstrong, Young. Źródło: NASA/JSC
 
 .. figure:: ../img/selection-gemini-2.jpg
     :name: figure-selection-gemini-2
     :scale: 7%
     :align: center
 
-    Astronauci drugiego naboru do programu *Gemini*. Rząd z tyłu, od lewej: Collins, Cunningham, Eisele, Freeman, Gordon, Schweickart, Scott, Williams. Rząd z przodu: Aldrin, Anders, Bassett, Bean, Cernan, Chaffee. Źródło: NASA/JSC
+    Astronauci drugiego naboru do programu Gemini. Rząd z tyłu, od lewej: Collins, Cunningham, Eisele, Freeman, Gordon, Schweickart, Scott, Williams. Rząd z przodu: Aldrin, Anders, Bassett, Bean, Cernan, Chaffee. Źródło: NASA/JSC
 
 Podczas przygotowań do misji *Gemini 12* amerynański astronauta Buzz Aldrin jako pierwszy wykorzystał techiniki nurkowania w celu symulacji spacerów kosmicznych co zapoczątkowało rozpoczęcie badań i stworzenie ośrodków pływalności neutralnej (ang. *NBL - Neutral Buoyancy Laboratory*).
 
@@ -195,15 +191,15 @@ Krótki rys historyczny programów kosmicznych ZSRR i Federacji Rosyjskiej
 ========================================================================
 *Związek Socjalistycznych Republik Radzieckich* wiódł prym w tematach kosmicznych i do czasu pierwszych kroków Neila Armstonga technologia radziecka była uważana za dominującą. Wśród najważniejszych programów *ZSRR* i późniejszej Federacji Rosyjskiej można wymienić:
 
-- program *Wostok*,
-- program *Woshod*,
-- program *Soyuz* i *Progress*,
-- program Księżycowy (*N1-LK*),
-- program *Salyut*,
-- program *Interkosmos*,
-- program *Buran*,
-- stacja kosmiczna *Mir*,
-- uczestnictwo w programie *ISS*.
+- program Wostok,
+- program Woshod,
+- program Soyuz i Progress,
+- program Księżycowy (N1-LK),
+- program Salyut,
+- program Interkosmos,
+- program Buran,
+- stacja kosmiczna Mir,
+- uczestnictwo w programie ISS.
 
 Program Wostok
 --------------
@@ -216,7 +212,7 @@ W trakcie trwania programu 1961 do 1963 roku odbyło się 6 lotów załogowych a
     :scale: 75%
     :align: center
 
-    Schemat porównawczy statków *Mercury*, *Gemini*, *Wostok* i *Woshod*. Źródło: Wikipedia
+    Schemat porównawczy statków Mercury, Gemini, Wostok i Woshod. Źródło: Wikipedia
 
 .. csv-table:: Lista kosmonautów programu Wostok wraz z wiekiem w czasie selekcji :cite:`Siddiqi2000`
     :name: table-wostok-cosmonauts
@@ -252,7 +248,7 @@ Program *Soyuz* jest jednym z najdłużej trwających programów kosmicznych. By
 
 Program *Soyuz* w swoich kolejnych modyfikacjach trwa do dziś. Jest najbardziej niezawodnym statkiem kosmicznym, a od czasu wycofania z użycia ameryksńskich promów *Space Shuttle* jest jedynym środkiem transportu do i z *Międzynarodowej Stacji Kosmicznej*. Więcej na temat programu w rozdziale poświęconym :ref:`szkoleniu w pilotowaniu statku kosmicznego Soyuz <pilotaz>`.
 
-Równocześnie z kapsułą załogową *Soyuz* tworzona była jej bezzałogowa wersja *Progress*. Podobnie jak *Soyuz* tak i *Progress* jest wciąż użytkowany i stanowi główne źródło zaopatrzenia dla *ISS*.
+Równocześnie z kapsułą załogową *Soyuz* tworzona była jej bezzałogowa wersja *Progress*. Podobnie jak *Soyuz* tak i *Progress* jest wciąż użytkowany i stanowi główne źródło zaopatrzenia dla ISS.
 
 Program Księżycowy
 ------------------
@@ -338,33 +334,33 @@ Ze względów geopolitycznych program został zamknięty, a odbitery trafiły do
 
 Stacja kosmiczna Mir
 --------------------
-Stacja kosmiczna *Mir* (ros. *Pokój*) była bezpośrednim kontynuatorem programu *Salyut* i pierwowzorem dla *ISS*. Początkowo służyła wyłącznie kosmonautom *ZSRR* oraz w ramach programu *Interkosmos*. Po upadku Związku Radzieckiego umożliwiono loty międzynarodowych załóg. Podczas ponad 15 lat pracy na orbicie gościła 28 stałych załóg i wiele tymczasowych pobytów amerykańskich promów *Space Shuttle*.
+Stacja kosmiczna Mir (ros. pokój) była bezpośrednim kontynuatorem programu Salyut i pierwowzorem dla ISS. Początkowo służyła wyłącznie kosmonautom *ZSRR* oraz w ramach programu *Interkosmos*. Po upadku Związku Radzieckiego umożliwiono loty międzynarodowych załóg. Podczas ponad 15 lat pracy na orbicie gościła 28 stałych załóg i wiele tymczasowych pobytów amerykańskich promów *Space Shuttle*.
 
-Jej konstrukcja rozpoczęła się od przeniesienia zasobów dostarczonych przez *Progress 25* i *Progress 26*. Zadanie wykonała załoga *Soyuz T-15* (Leonid Kizim, Władimir Sołowjow). Ponadto podczas 50 dniowego pobytu załoga również odwiedziła stację *Salyut 7* w celu przewiezienia części wyposażenia na *Mir*. Na chwilę obecną jest to jedyny przypadek w historii aby astronauci podczas jednego lotu odwiedzili dwie stacje.
+Jej konstrukcja rozpoczęła się od przeniesienia zasobów dostarczonych przez Progress-25 i Progress-26. Zadanie wykonała załoga Soyuz T-15 (Leonid Kizim, Władimir Sołowjow). Ponadto podczas 50 dniowego pobytu załoga również odwiedziła stację Salyut-7 w celu przewiezienia części wyposażenia na Mir. Na chwilę obecną jest to jedyny przypadek w historii aby astronauci podczas jednego lotu odwiedzili dwie stacje.
 
 .. figure:: ../img/spacestation-mir.svg
     :name: figure-spacestation-mir
     :scale: 50%
     :align: center
 
-    Schemat stacji kosmicznej *Mir*. Źródło: Wikipedia
+    Schemat stacji kosmicznej Mir. Źródło: Wikipedia
 
 
 Międzynarodowa Stacja Kosmiczna
 ===============================
-Program międzynarodowej stacji rozpoczął się od połączenia konceptu projektów *Freedom* (ang. wolność) oraz *Mir-2* (*DOS-8*). Następnie przekształcił się w pierwszą międzynarodową stację badawczą o nazwie *Internationl Space Station*. Budowa rozpoczęła się od umieszczenia rosyjskich modułów w 1998 roku. Pierwsza załoga przyleciała 2 listopada 2000 roku. Od tego czasu stacja jest stale zamieszkiwana przez załogi 3 lub 6 osobowe w ramach tzw. ekspedycji. Temat *ISS* szczegółowo przedstawiono w części dotyczącej :ref:`przygotowania załóg do lotów na jej pokład <iss>`.
+Program międzynarodowej stacji rozpoczął się od połączenia konceptu projektów *Freedom* (ang. wolność) oraz *Mir-2* (*DOS-8*). Następnie przekształcił się w pierwszą międzynarodową stację badawczą o nazwie *Internationl Space Station*. Budowa rozpoczęła się od umieszczenia rosyjskich modułów w 1998 roku. Pierwsza załoga przyleciała 2 listopada 2000 roku. Od tego czasu stacja jest stale zamieszkiwana przez załogi 3 lub 6 osobowe w ramach tzw. ekspedycji. Temat ISS szczegółowo przedstawiono w części dotyczącej :ref:`przygotowania załóg do lotów na jej pokład <iss>`.
 
 .. figure:: ../img/spacestation-iss.svg
     :name: figure-spacestation-iss
     :scale: 66%
     :align: center
 
-    Schemat stacji kosmicznej *ISS*. Źródło: Wikipedia
+    Schemat stacji kosmicznej ISS. Źródło: Wikipedia
 
 
 Najdłuższy pobyt w przestrzeni kosmicznej
 =========================================
-Najdłuższy pobyt w przestrzeni kosmicznej zanotował kosmonauta Roscosmos Dr. Valeri Polyakov, który spędził jednorazowo 437 dni, 17 godzin i 38 minut (14 miesięcy). Podbyt odbył się na Rosyjskiej stacji *MIR* od stycznia 1994 roku do marca 1995.
+Najdłuższy pobyt w przestrzeni kosmicznej zanotował kosmonauta Roscosmos Dr. Valeri Polyakov, który spędził jednorazowo 437 dni, 17 godzin i 38 minut (14 miesięcy). Podbyt odbył się na Rosyjskiej stacji Mir od stycznia 1994 roku do marca 1995.
 
 Największy kumulacyjny nalot zgdomadził kosmonauta Roscosmos Gennady Padalka, który przybywał łącznie 879 dni na orbicie podczas 5 lotów kosmicznycj.
 
@@ -424,7 +420,7 @@ W ramach treningu do misji kosmonauci odbyli szkolenia, m.in.:
 - symulacje lotu i manewrów dokowania oraz deorbitacji statku *Soyuz-30*,
 - badania medyczne i sprawnościowe.
 
-Za wyjątkiem treningu *EVA* oraz systemów robotycznych i specjalnych *ISS* proces przygotowania kosmonautów do lotu *Soyuz-30* był podobny do procesu szkolenia do długotrwałych lotów kosmicznych na *Międzynarodową Stację Kosmiczną*.
+Za wyjątkiem treningu *EVA* oraz systemów robotycznych i specjalnych ISS proces przygotowania kosmonautów do lotu *Soyuz-30* był podobny do procesu szkolenia do długotrwałych lotów kosmicznych na *Międzynarodową Stację Kosmiczną*.
 
 .. figure:: ../img/soyuz-30-simulator.jpg
     :name: figure-soyuz-30-simulator

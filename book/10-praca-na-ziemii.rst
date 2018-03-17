@@ -70,9 +70,9 @@ Rozwiązywanie sytuacje awaryjnych na orbicie wymagaja wielu prób w symulatorac
 
 Praca jako Head of ISS Operations
 =================================
-Jednym z zadań jakie może otrzymać astronauta oczekujący na przydział jest stanowisko dyrektora ds. operacyjnych *ISS* (ang. *Head of ISS Operations*) :cite:`Hadfield2013`. Jest to stanowisko zarządcze. Osoba na takiej pozycji ma wpływ na:
+Jednym z zadań jakie może otrzymać astronauta oczekujący na przydział jest stanowisko dyrektora ds. operacyjnych ISS (ang. *Head of ISS Operations*) :cite:`Hadfield2013`. Jest to stanowisko zarządcze. Osoba na takiej pozycji ma wpływ na:
 
-- selekcję osób lecących na *ISS*,
+- selekcję osób lecących na ISS,
 - planowanie zakresu treningów,
 - certyfikację personelu latającego,
 - wsparcie misji obecnie trwających,
