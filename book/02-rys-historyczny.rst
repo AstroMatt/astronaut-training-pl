@@ -42,10 +42,10 @@ Amerykańską odpowiedzią na wydarzenie wysłania Gagarina w kosmos był progra
 
 Do najważniejszych amerykańskich programów należą:
 
-- program Mercury,
-- program Gemini,
-- program Apollo,
-- program Skylab (Apollo application),
+- project Mercury,
+- project Gemini,
+- project Apollo,
+- project Skylab (Apollo application),
 - program Space Shuttle,
 - uczestnictwo w programie ISS.
 
@@ -73,13 +73,13 @@ W dniu 9 kwietnia 1959, NASA przedstawiła pierwszą grupę astronautów tzw. "M
 
 Z przyczyn zdrowotnych Deke Slayton został zdyskwalifikowany z udziału w programie Mercury i uziemiony. Przez trzynaście lat od czasu pierwszego lotu Sheparda, Deke Slayton kierował *Astronauts Office* (ang. biurem astronautów i przydziału do misji), które zostało przemianowane później na Flight Crew Operations Office (ang. biuro operacji personelu latającego). Slayton po ostatecznym przejściu badań medycznych wziął udział w ostatnim locie programu Apollo tj. Apollo-Souyz. W tym locie doszło do historycznego dokowania na orbicie okołoziemskiej statków Apollo i Soyuz oraz do symbolicznego uściśnięcia dłoni przedstawicieli USA i ZSSR :cite:`MercuryChronology2014`, :cite:`History-of-Project-Mercury`.
 
-Projekt Gemini
+Project Gemini
 --------------
 W celu sprostania wymaganiom postawionym przez prezydenta J. F. Kennedy'ego dotyczącego wysłania człowieka na Księżyc :cite:`Kennedy1962` konieczne było stworzenie programu pomostowego pomiędzy programami Mercury oraz Apollo. Celem programy miało być stworzenie i przetestowanie technologii umożliwiającej realizację lotu Księżycowego. Głównymi celami programu były:
 
 - demonstracja wytrzymałości człowieka i ekwipunku w lotach kosmicznych trwających minimum 8 dni aż do 14 dni,
 - zbliżenie (ang. *randevouz*) i dokowanie (ang. *docking*) dwóch statków kosmicznych oraz manewrowanie połączonym zespołem na robicie używając system napędowy docelowego pojazdu,
-- demonstracja spacerów kosmicznych (ang. *Extra-Vehicular Activity*, EVA) na zewnątrz pojazdu wraz z pokaaniem możliwości wykonywania operacji przez astronautę w ciśnieniowym skafandrze :cite:`NASAGeminiIV`,
+- demonstracja spacerów kosmicznych (ang. *EVA - Extra-Vehicular Activity*) na zewnątrz pojazdu wraz z pokaaniem możliwości wykonywania operacji przez astronautę w ciśnieniowym skafandrze :cite:`NASAGeminiIV`,
 - udoskonalenie procedury wejścia w atmosferę (ang. *re-entry*) i precyzyjnego lądowania w określonym miejscu :cite:`Kranz2001`.
 
 Amerykańska agencja kosmiczna NASA podczas projektu Gemini przeprowadziła dwa nabory na astronautów (:numref:`figure-selection-gemini-1`, :numref:`figure-selection-gemini-2`).

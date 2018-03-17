@@ -30,7 +30,7 @@ Tsukuba Space Center jest miejscem gdzie astronauci lecący na ISS odbywają szk
 
 Astronaut Centre of China, Pekin, Chiny
 ---------------------------------------
-Ośrodek szkolenia Chińskich Astronautów usytuowany jest w północno wschodniej części Pekinu :cite:`CNSAAstronautSelectionAndTraining`. Jest siedzibą chińskich astronautów i jako, że Chiny nie są państwem kontrybuującym do ISS nie odbywają się tutaj treningi. Chiński korpus astronautów w izolacji od świata szkoli się i przygotowuje do załogowych misji na stacje orbitalne w ramach programu *Tiangong*.
+Ośrodek szkolenia Chińskich Astronautów usytuowany jest w północno wschodniej części Pekinu :cite:`CNSAAstronautSelectionAndTraining`. Jest siedzibą chińskich astronautów i jako, że Chiny nie są państwem kontrybuującym do ISS nie odbywają się tutaj treningi. Chiński korpus astronautów w izolacji od świata szkoli się i przygotowuje do załogowych misji na stacje orbitalne w ramach programu Tiangong.
 
 John H. Chapman Space Centre, Longueuil, QC, Kanada
 ---------------------------------------------------
@@ -39,22 +39,39 @@ John H. Chapman Space Centre jest siedzibą Kanadyjskiej Agencji Kosmicznej oraz
 
 Baseny doskonałej pływalności
 =============================
-Od czasów Gemini
+Od czasów przygotowania do lotu w ramach misji Gemini 12, gdy amerynański astronauta Buzz Aldrin jako pierwszy wykorzystał techiniki nurkowania w celu symulacji spacerów kosmicznych agencje kosmiczne zaczęły wykorzystywać ośrodki neutralnej pływalności (ang. *NBL - Neutral Buoyancy Laboratory*) do szkolenia astronautów.
+
+.. csv-table:: Lista basenów neutralnej pływalności
+    :name: table-ground-neutral-buoyancy-pools
+    :file: ../data/ground-neutral-buoyancy-pools.csv
+    :header-rows: 1
 
 NASA - Neutral Buoyancy Laboratory
 ----------------------------------
+Największym ośrodkiem szkoleniowym neutralnej pływalności jest NBL (Neutral Buoyancy Laboratory), który znajduje się w budynku 29 w Johnson Space Center w Huston, Texas. Jest to jednocześnie największy basen na świecie. Na dnie basenu znajduje się szkielet amerynańskiego segmentu Międzynarodowej Stacji Kosmicznej. Astronauci w trakcie szkolenia podstawowego oraz późniejszego szkolenia przygotowującego przygotowują się do przeprowadzania najbardziej krytycznych zadań utrzymaniowych ISS.
+
+Obecnie gdy ISS jest w pełni operacyjny w basenie NBL odbywa się bardzo dużo symulacji związanych z przygotowaniem do misji. Kalendarz symulacji jest wypełniony w 100% a treningi odbywają się w trzech zmianach ośmiogodzinnych na dobę. Pozostawia to niewielki margines na opracowywanie planów oraz testów dla technologii związanych z przyszłą eksploracją. Z tego powodu astronauci innych agencji szkolą się w swoich centrach w ramach "EVA pre-familiarisation", a następnie udają się do Huston w celu finalnego szkolenia i certyfikacji w wykorzystaniu skafandra EMU.
 
 ESA - Neutral Buoyancy Facility
 -------------------------------
-.. todo::
-    - EVA pre-familiarisation training (w NBF w EAC, ESA)
-    - EVA training (w NBL w Huston, TX) jest prowadzony po ukończeniu pre-familiarisation w Kolonii
-    - In this situation, EAC created a so-called EVA pre-familiarisation training course, which is conducted at EAC's Neutral Buoyancy Facility (NBF). This programme teaches ESA astronauts basic EVA concepts and EVA skills such as tethering to the Station, use of special EVA tools, communication with an EVA crewmate as well as with the control room and how to keep full situational awareness in a complex and challenging environment.
-    - The full spacewalk, or Extra Vehicular Activity (EVA), training for the ISS is traditionally done at NASA’s Neutral Buoyancy Laboratory (NBL) at the Johnson Space Center, Houston, Texas, and at the Gagarin Cosmonaut Training Center, in Russia.
-    - For each specific spacewalk, there are several training units to be completed. One EVA run lasts around 5 hours, and the standard right now is that you spend five to seven times as long in the NBL at Houston for each EVA, depending on the difficulty. In addition to that you train a lot of contingency scenarios.
-    - With the assembly of the ISS in full swing, the EVA training schedule in the NBL is tight, the facility itself overbooked with operational and mission-related EVA training so the training schedule is compressed into three shifts a day. In addition, it will in future also be used for exploration related testing, which leaves little time for providing EVA skills training to ESA astronauts.
-    - An assignment to take part in a spacewalk during a space mission depends on an EVA skills evaluation, which takes place at a very early stage of the EVA training programme in Houston. Those astronauts who handle their very first neutral buoyancy experiences in Houston well will be chosen to perform EVAs and receive the full-blown EVA training.
-    - 3-4 trenują w NBF pod wodą
+Basen neutralnej pływalności, który znajduje się w ośrodku EAC w Kolonii służy astronautom ESA do tzw. "EVA pre-familiarisation", czyli do szkolenia zapoznawczego EVA. Ze względu na stałe obłożenie basenu NBL w Stanach Zjednoczonych i brak możliwości swobodnego treningu zdecydowano się na wybudowanie ośrodka w Europie. Kurs przygotowawczy ma na celu wstępne wyszkolenie Europejskich astronautów do treningów i certyfikacji, które będą odbywali w ośrodku NBL w Huston.
+
+Najbardziej istotnymi elementami szkolenia w NBF są:
+
+- procedury operacyjne EVA,
+- zapoznanie się z protokołem zaczepów do stacji,
+- praktyka transferów między modułami,
+- używanie speclistycznych narzędzi,
+- komunikacja z pozostałymi członkami załogi (IVA oraz EVA),
+- umiejętność pracy w środowisku neutralnej pływalności,
+- szkolenie scenariuszy awaryjnych,
+- utrzymywanie świadomości sytuacyjnej w złożonym i zmieniającym się środowisku.
+
+Dla każdego EVA jest kilka jednostek treningowych, które muszą zostać ukończone. Każde wejście do basenu trwa około 5 godzin. Obecnie standardem jest trening 5-7 krotny każdej czynności certyfikowanej w NBL. Ilość zależy od stopnia skomplikowania jednostki szkoleniowej.
+
+Późniejszy przydział do spacerów kosmicznych podczas misji bazuje na ewaluacji umiejętności EVA (która jest robiona na wczesnym etapie szkolenia w ośrodku NBL w USA). Ci astronauci, którzy zaprezentują najwyższy poziom umiejętności zostaną skierowani na dodatkowe szkolenie. Późniejszy przydział uwarunkowany jest również ze względu na zapotrzebowanie.
+
+Ponadto ośrodek wykorzystywany jest również jako miejsce testowania narzędzi i procedur opracowywanych dla przyszłych misji.
 
 Roscosmos - Hydro Lab
 ---------------------

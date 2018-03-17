@@ -513,11 +513,6 @@ Symulacja prac w basenie doskonałej pływalności
         - NBL: dwóch nurków (EV1, EV2) na jednego astronautę Safety Diver + jeden (Float Diver) z kamerą i zmieniają się co dwie godziny, video jest do prezentacji i do analizowania szkoleń
         - Na dwie osoby trenujące EVA jest około 40 osób, które upewniają się, że wszystko jest bezpiecznie
 
-.. csv-table:: Lista basenów neutralnej pływalności
-    :name: table-neutral-buoyancy-pools
-    :file: ../data/neutral-buoyancy-pools.csv
-    :header-rows: 1
-
 Komory ciśnieniowe
 ==================
 (ang. *vacuum chamber*)
