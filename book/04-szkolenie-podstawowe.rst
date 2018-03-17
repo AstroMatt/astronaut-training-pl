@@ -10,6 +10,14 @@ Po selecji osoba wybrana przez komisję ma za zadanie stawić się na tzw. szkol
 
 Szkolenie podstawowe astronautów, które  dzieli się na 4 główne części:
 
+- wiedza ogólna,
+- robotyka i systemy *ISS*,
+- trening spacerów kosmincznych,
+- pilotaż.
+
+W następnych rozdziałach autor przybliży każdy z powyższych tematów.
+
+
 .. todo::
     - For two years astronauts train solo, 1on1 with Instruktor. Half a year before flight they start to integrate with other crew members.
     - http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/ongoing-training.asp

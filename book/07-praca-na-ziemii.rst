@@ -36,6 +36,7 @@ Praca astronautów na Ziemii
 
 Czas astronauty na Ziemi jest wykorzystywany zarówno na treningi i przygotowania oraz na popularyzację nauki i eksploracji kosmos.
 
+
 Testowanie sprzętu
 ==================
 Ze względu na bardzo obszerne przeszkolenie i doświadczenie zdobyte na orbicie astronauci, którzy powrócili z misji a nie zostali przypisani do następnej zwykle zajmują się testowaniem sprzętu. Agencje kosmiczne dzięki ich sugestiom i ekspertyzie są w stanie jeszcze lepiej przygotowywać kolejne przedsięwzięcia. Wśród typowych zadań podczas należących do astronautów można wymienić:
@@ -45,9 +46,11 @@ Ze względu na bardzo obszerne przeszkolenie i doświadczenie zdobyte na orbicie
 - prace przy tworzeniu i testowaniu nowych skafandrów kosmicznych zarówno do zastosowań IVA jak i EVA,
 - uczestnictwo przy opracowywaniu poprawek i ulepszeń do modułów międzynarowej stacji kosmicznej.
 
+
 Pomoc w przygotowaniu innych astronautów
 ========================================
 Starsi stażem astronauci pomagają tym mniej doświadczonym w przygotowaniach do misji. Pomagają im trenować spacery kosmiczne pod wodą oraz przygotowują ich teoretycznie do zadań na orbicie.
+
 
 Misje analogowe
 ===============
@@ -58,6 +61,7 @@ Misja Europejskiej Agencji Kosmicznej CAVES służy astronautom oraz obsłudze w
 Kolejnym przykładem misji analogowej Europejskiej Agencji Kosmicznej jest cykl wypraw "Pangaea", która składa się z dwóch części: jednej na wyspie Lanzarote w archipelagu wysp Kanaryjskich oraz drugiej w pobliżu Bressanone we włoszech. Pierwsze miejsce zostało wybrane ze względu na możliwość prowadzenia badań z zakresu geologii planetarnej na terenie przypominającym pustkowia Marsa :cite:`One-small-step-for-a-geologist`. Miejsce we włoszech wybrano w celu prowadzenia analizy geologicznej i geomorfologicznej jak również poszukiwania śladów życia i pobranych próbkach :cite:`Preparing-astronauts-for-exploring-celestial-bodies`.
 
 Misje NEEMO w habitacie podwodnym Aquarius są projektem amerykańskiej agencji kosmicznej NASA. Poza obywatelami stanów zjednoczonych w mijsach także uczestniczą astronauci z Europy, Kanady, Japonii i Rosji. Program NEEMO ma za zadanie zapoznać astronautów z problemami pobytu w długotrwałej izolacji, specyfiką pracy w trudnych warunkach na dnie oceanu oraz czasowym przestrzeganiem procedur :cite:`Anderson2015`.
+
 
 Praca w symulatorach w przypadku problemów na orbicie
 =====================================================
