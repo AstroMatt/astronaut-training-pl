@@ -85,10 +85,6 @@ Do stworzenia insygniów misji dowódca załogi wyznacza kilka osób, które wsp
 
 Badania medyczne przed wylotem
 ------------------------------
-.. todo::
-    - Badania medyczne z książki ciężar nieważkości
-
-
 Bezpośrednio przed samym wylotem po odbyciu procesu kwarantanny badania medyczne załóg amerykańskiego promu kosmicznego były tyko formalnością :cite:`Anderson2015`. W przypadku startów z kosmodromu w Bajkonurze załoga przechodzi gruntowne testy przedstartowe oraz odbywa proces leżenia z głową w dół aby przyzwyczaić organizm astronauty do stanu nieważkości :cite:`Hermaszewski2013`.
 
 

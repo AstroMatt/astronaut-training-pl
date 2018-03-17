@@ -1,6 +1,7 @@
 ***************************
 Praca astronautów na Ziemii
 ***************************
+
 .. todo::
     Praca na ziemii nazywa się Ground Assignment
     - http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/ongoing-training.asp

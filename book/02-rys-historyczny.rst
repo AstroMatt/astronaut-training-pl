@@ -71,7 +71,7 @@ W dniu 9 kwietnia 1959, NASA przedstawiła pierwszą grupę astronautów tzw. *M
 
     Astronauci programu *Mercury* tzw. *Original Seven*. Pierwszy rząd, od lewej do prawej: Walter M. Schirra, Jr., Donald K. "Deke" Slayton, John H. Glenn, Jr., and M. Scott Carpenter; tylny rząd, Alan B. Shepard, Jr., Virgil I. "Gus" Grissom, L. Gordon Cooper, Jr. źródło: NASA :cite:`Mercury7`.
 
-Z przyczyn zdrowotnych Deke Slayton został zdyskwalifikowany z udziału w programie Mercury i uziemiony. Przez trzynaście lat od czasu pierwszego lotu Sheparda, Deke Slayton kierował biurem astronautów i przydziału do misji (ang. *Astronauts Office*), które zostało przemianowane później na *Flight Crew Operations Office* (ang. biuro operacji personelu latającego). Slayton po ostatecznym przejściu badań medycznych wziął udział w ostatnim locie programu *Apollo* tj. *Apollo-Souyz*. W tym locie doszło do historycznego dokowania na orbicie okołoziemskiej statków *Apollo* i *Soyuz* oraz do symbolicznego uściśnięcia dłoni przedstawicieli USA i ZSSR :cite:`MercuryChronology2014`, :cite:`History-of-Project-Mercury`.
+Z przyczyn zdrowotnych Deke Slayton został zdyskwalifikowany z udziału w programie Mercury i uziemiony. Przez trzynaście lat od czasu pierwszego lotu Sheparda, Deke Slayton kierował biurem astronautów i przydziału do misji (ang. *Astronauts Office*), które zostało przemianowane później na *Flight Crew Operations Office* (ang. biuro operacji personelu latającego). Slayton po ostatecznym przejściu badań medycznych wziął udział w ostatnim locie programu *Apollo* tj. *Apollo-Souyz*. W tym locie doszło do historycznego dokowania na orbicie okołoziemskiej statków *Apollo* i Soyuz oraz do symbolicznego uściśnięcia dłoni przedstawicieli USA i ZSSR :cite:`MercuryChronology2014`, :cite:`History-of-Project-Mercury`.
 
 Projekt Gemini
 --------------
@@ -144,7 +144,7 @@ Krótka charakterystyka misji *Apollo*:
 - Apollo 15 - pierwsze wykorzystanie pojazdu na powierzchni Księżyca,
 - Apollo 16 - pierwsza misjia trzydniowa na Księżycu (typ *J*)
 - Apollo 17 - ostatnie lądowanie na Księżycu (pierwsza misja w której brał udział naukowiec - geolog), ikoniczne zdjęcie Ziemii z daleka (ang. *Blue Marble*) :cite:`Cernan2000`,
-- Apollo-Soyuz Test Project - ostatnia misja programu, podczas której doszło do dokowania na orbicie statków *Apollo* oraz *Soyuz* i historycznego uścisku dłoni między reprezentatmi dwóch mocarstw.
+- Apollo-Soyuz Test Project - ostatnia misja programu, podczas której doszło do dokowania na orbicie statków *Apollo* oraz Soyuz i historycznego uścisku dłoni między reprezentatmi dwóch mocarstw.
 
 Program Skylab
 --------------
@@ -164,7 +164,7 @@ Wśród najważniejszych osągnięć programu *Skylab* można zaliczyć:
 
 Program Space Shuttle
 ---------------------
-Jendym z najbardziej ikoninych programów kosmicznych jest *Space Transportation System* czyli tzw. prom kosmiczny (ang. *Space Shuttle*). Podczas tego programu stworzono reużywalny statek kosmiczny w kształcie przypominający samolot, który był w stanie wynosić na orbitę 27,5 metrycznej tony ładunku oraz załogą do 8 osób (misja *STS-61A*).
+Jendym z najbardziej ikoninych programów kosmicznych jest *Space Transportation System* czyli tzw. prom kosmiczny (ang. Space Shuttle). Podczas tego programu stworzono reużywalny statek kosmiczny w kształcie przypominający samolot, który był w stanie wynosić na orbitę 27,5 metrycznej tony ładunku oraz załogą do 8 osób (misja *STS-61A*).
 
 W trakcie programu Space Shuttle stworzono orbitery :cite:`NASASpaceShuttle`:
 
@@ -180,16 +180,16 @@ W trakcie programu Space Shuttle stworzono orbitery :cite:`NASASpaceShuttle`:
     :scale: 10%
     :align: center
 
-    Rysunenk przedstawia skalę amerykańskiego promu kosmicznego *Space Shuttle* oraz rosyjskiego statku *Soyuz TMA* :cite:`Portree1995`
+    Rysunenk przedstawia skalę amerykańskiego promu kosmicznego Space Shuttle oraz rosyjskiego statku *Soyuz TMA* :cite:`Portree1995`
 
-Program Space Shuttle pozwolił na zwiększenie częstotliwości lotów załogowych na niską orbitę okołoziemską. Dzięki promom kosmicznym i misjom *STS* stany zjednoczone osiągnęły bardzo wysoki poziom sprawności operacyjnej oraz ogromną przewagę w ilości wyszkolonych astronautów oraz osób, które odbyły lot w kosmos. Promy przyczyniły się również do budowy Międzynarodowej Stacji Kosmicznej oraz wyniesieniu i późniejszemu serwisowaniu teleskopu Hubble.
+Program Space Shuttle pozwolił na zwiększenie częstotliwości lotów załogowych na niską orbitę okołoziemską. Dzięki promom kosmicznym i misjom STS stany zjednoczone osiągnęły bardzo wysoki poziom sprawności operacyjnej oraz ogromną przewagę w ilości wyszkolonych astronautów oraz osób, które odbyły lot w kosmos. Promy przyczyniły się również do budowy Międzynarodowej Stacji Kosmicznej oraz wyniesieniu i późniejszemu serwisowaniu teleskopu Hubble.
 
 Podczas lotów promów kosmicznych amerykańska agencja NASA opracowała program szkolenia astronautów, który stał się podstawą dzisiejszych treningów. Opracowano również skafander *EMU - Extravehicular Mobility Unit* (modyfikacja skafandra *A7L* wykorzystywanego w programie *Apollo*), który znajduje zastosowanie w misjach kosmicznych aż po dziś dzień w programie Międzynarodowej Stacji Kosmicznej.
 
 
 Krótki rys historyczny programów kosmicznych ZSRR i Federacji Rosyjskiej
 ========================================================================
-*Związek Socjalistycznych Republik Radzieckich* wiódł prym w tematach kosmicznych i do czasu pierwszych kroków Neila Armstonga technologia radziecka była uważana za dominującą. Wśród najważniejszych programów *ZSRR* i późniejszej Federacji Rosyjskiej można wymienić:
+*Związek Socjalistycznych Republik Radzieckich* wiódł prym w tematach kosmicznych i do czasu pierwszych kroków Neila Armstonga technologia radziecka była uważana za dominującą. Wśród najważniejszych programów ZSRR i późniejszej Federacji Rosyjskiej można wymienić:
 
 - program Wostok,
 - program Woshod,
@@ -244,15 +244,15 @@ Największym dokonaniem podczas programu *Woshod* było pierwsze wyjście człow
 
 Program Soyuz i Progress
 ------------------------
-Program *Soyuz* jest jednym z najdłużej trwających programów kosmicznych. Był bezpośrednim następcą programu *Woshod* i rozpoczął się w połowie lat sześćdziesiątych XX wieku. Pierwotnie celem programu miało być stworzenie podstaw do lotów Księżycowych, ale później wymagania zostały zmienione.
+Program Soyuz jest jednym z najdłużej trwających programów kosmicznych. Był bezpośrednim następcą programu *Woshod* i rozpoczął się w połowie lat sześćdziesiątych XX wieku. Pierwotnie celem programu miało być stworzenie podstaw do lotów Księżycowych, ale później wymagania zostały zmienione.
 
-Program *Soyuz* w swoich kolejnych modyfikacjach trwa do dziś. Jest najbardziej niezawodnym statkiem kosmicznym, a od czasu wycofania z użycia ameryksńskich promów *Space Shuttle* jest jedynym środkiem transportu do i z *Międzynarodowej Stacji Kosmicznej*. Więcej na temat programu w rozdziale poświęconym :ref:`szkoleniu w pilotowaniu statku kosmicznego Soyuz <pilotaz>`.
+Program Soyuz w swoich kolejnych modyfikacjach trwa do dziś. Jest najbardziej niezawodnym statkiem kosmicznym, a od czasu wycofania z użycia ameryksńskich promów Space Shuttle jest jedynym środkiem transportu do i z *Międzynarodowej Stacji Kosmicznej*. Więcej na temat programu w rozdziale poświęconym :ref:`szkoleniu w pilotowaniu statku kosmicznego Soyuz <pilotaz>`.
 
-Równocześnie z kapsułą załogową *Soyuz* tworzona była jej bezzałogowa wersja *Progress*. Podobnie jak *Soyuz* tak i *Progress* jest wciąż użytkowany i stanowi główne źródło zaopatrzenia dla ISS.
+Równocześnie z kapsułą załogową Soyuz tworzona była jej bezzałogowa wersja *Progress*. Podobnie jak Soyuz tak i *Progress* jest wciąż użytkowany i stanowi główne źródło zaopatrzenia dla ISS.
 
 Program Księżycowy
 ------------------
-*ZSRR* konkurował ze stanami zjednoczonymi w ramach wyścigu kosmicznego. Apogeum całego *Space Race* miał być załogowy lot na Księżyc. W tym celu Główny Konstruktor Siergiej Pawłowicz Korolew rozpoczął pracę nad rakietą *N1*. Rakieta ta w przeciwieństwie do podejścia amerykańskiego składała się z 5 segmentów (ang. *stage*) oraz 30 silników pierwszego poziomu. Ze względu na złożoność systemu rakieta eksplodowała przy starcie. Po czwartym podejściu i utracie nosiciela, zmianie geopolitycznej, przegraniu wyścigu kosmicznego Komitet Centralny Partii postanowił zamknąć program.
+ZSRR konkurował ze stanami zjednoczonymi w ramach wyścigu kosmicznego. Apogeum całego *Space Race* miał być załogowy lot na Księżyc. W tym celu Główny Konstruktor Siergiej Pawłowicz Korolew rozpoczął pracę nad rakietą *N1*. Rakieta ta w przeciwieństwie do podejścia amerykańskiego składała się z 5 segmentów (ang. *stage*) oraz 30 silników pierwszego poziomu. Ze względu na złożoność systemu rakieta eksplodowała przy starcie. Po czwartym podejściu i utracie nosiciela, zmianie geopolitycznej, przegraniu wyścigu kosmicznego Komitet Centralny Partii postanowił zamknąć program.
 
 W ramach programu stworzony został lądownik LK przedstawiony na obrazku :numref:`figure-spacecraft-lk-models`.
 
@@ -269,11 +269,11 @@ Kosmonauci przydzieleni do treningów księżycowych byli członkami pierwszego 
     :scale: 100%
     :align: center
 
-    Różne prototypy lądowników księżycowych w ramach programu załogowego *ZSRR*. Źródło: Astronautics/Mark Wade :cite:`SovietMannedLunarProjects`
+    Różne prototypy lądowników księżycowych w ramach programu załogowego ZSRR. Źródło: Astronautics/Mark Wade :cite:`SovietMannedLunarProjects`
 
 Program Salyut
 --------------
-Pierwszym w historii programem orbitalnej stacji kosmicznej był *Salyut*. Konstrukcja stacji była jednomodułowa i wynoszona na orbitę za pomocą rakiety nośnej. Kosmonaucji za pomocą statków *Soyuz* dokowali do stacji, gdzie prowadzili badania nad efektami długotrwałego pobytu w stanie mikrograwitacji na organizm człowieka. Program również nosił nazwę Długoczasowa Stacja Orbitalna (ros. *DOS - Dołgowriemiennaja Orbitalnaja Stancija*) a równcześnie z nim był tworzony wojskowy program *Ałmaz* (ros. *Diament*).
+Pierwszym w historii programem orbitalnej stacji kosmicznej był *Salyut*. Konstrukcja stacji była jednomodułowa i wynoszona na orbitę za pomocą rakiety nośnej. Kosmonaucji za pomocą statków Soyuz dokowali do stacji, gdzie prowadzili badania nad efektami długotrwałego pobytu w stanie mikrograwitacji na organizm człowieka. Program również nosił nazwę Długoczasowa Stacja Orbitalna (ros. *DOS - Dołgowriemiennaja Orbitalnaja Stancija*) a równcześnie z nim był tworzony wojskowy program *Ałmaz* (ros. *Diament*).
 
 Stacje wyposażone były w port dokowania dzięki, któremu zarówno załogowe jak i bezzałogowe statki *Progress* mogły dołączać do stacji i zaopatrywać ją w paliwo, tlen i inne zasoby.
 
@@ -291,9 +291,9 @@ Stacje wyposażone były w port dokowania dzięki, któremu zarówno załogowe j
 
 Program Interkosmos
 -------------------
-W ramach zjazdu przedstaicieli krajów socjalistycznych w Moskwie 5-13 kwietnia 1967 roku przyjęto program współpracy w zakresie eksploracji kosmosu - *Interkosmos*. W ramach programu odbywały się loty zarówno załogowe jak i bezzałogowe. Głównym założeniem współpracy było korzystanie z infrastruktury naziemnej oraz  rakiet radzieckiego programu kosmonautycznego. Międzynarodowa współpraca miała dotyczyć badań naukowych oraz lotów załóg. Prawną stronę porozumienia i działania państw członkowskich regulował dokument zawarty 13 lipca 1976 roku. Porozumienie obowiązywało od 25 marca 1977 roku.
+W ramach zjazdu przedstaicieli krajów socjalistycznych w Moskwie 5-13 kwietnia 1967 roku przyjęto program współpracy w zakresie eksploracji kosmosu - Interkosmos. W ramach programu odbywały się loty zarówno załogowe jak i bezzałogowe. Głównym założeniem współpracy było korzystanie z infrastruktury naziemnej oraz  rakiet radzieckiego programu kosmonautycznego. Międzynarodowa współpraca miała dotyczyć badań naukowych oraz lotów załóg. Prawną stronę porozumienia i działania państw członkowskich regulował dokument zawarty 13 lipca 1976 roku. Porozumienie obowiązywało od 25 marca 1977 roku.
 
-Głównym celem programu *Interkosmos* były badania naukowe w obszarach:
+Głównym celem programu Interkosmos były badania naukowe w obszarach:
 
 - fizyki kosmicznej,
 - meteorologii,
@@ -301,18 +301,18 @@ Głównym celem programu *Interkosmos* były badania naukowe w obszarach:
 - biologii,
 - medycyny kosmicznej
 
-W ramach programu odbywały się międzynarodowe loty załogowe, które umożliwiły kosmonautom z poza *ZSRR* oraz *USA* lot w kosmos. Pierwszym kosmonautom nie będącym obywatelem powyższych państw był czech Vladimír Remek, który poleciał 2 marca 1978 roku. Drugą osobą był generał Mirosław Hermaszewski (27 czerwca 1978). :numref:`table-selection-interkosmos` przedstawia listę kosmonautów programu *Interkosmos*.
+W ramach programu odbywały się międzynarodowe loty załogowe, które umożliwiły kosmonautom z poza ZSRR oraz *USA* lot w kosmos. Pierwszym kosmonautom nie będącym obywatelem powyższych państw był czech Vladimír Remek, który poleciał 2 marca 1978 roku. Drugą osobą był generał Mirosław Hermaszewski (27 czerwca 1978). :numref:`table-selection-interkosmos` przedstawia listę kosmonautów programu Interkosmos.
 
 .. figure:: ../img/map-interkosmos.png
     :name: figure-map-interkosmos
     :scale: 40%
     :align: center
 
-    Państwa uczestniczące w ramach programu *Interkosmos*. Źródło: Wikipedia
+    Państwa uczestniczące w ramach programu Interkosmos. Źródło: Wikipedia
 
-Kosmonautów w ramach programu *Interkosmos* wybierano z najlepszych pilotów w ramach państw, które ratyfikowały porozumienie.
+Kosmonautów w ramach programu Interkosmos wybierano z najlepszych pilotów w ramach państw, które ratyfikowały porozumienie.
 
-.. csv-table:: Lista kosmonautów w ramach programu *Interkosmos*. Źródło: Wikipedia
+.. csv-table:: Lista kosmonautów w ramach programu Interkosmos. Źródło: Wikipedia
     :name: table-selection-interkosmos
     :file: ../data/selection-interkosmos.csv
     :header-rows: 1
@@ -321,20 +321,20 @@ Program Buran
 -------------
 .. todo:: dopisać coś o selekcji
 
-Program *Buran* był odpwiedzią na amerykański program *Space Shuttle*. Pojazd, który został stworzony był podobny wizualnie, ale znacząco się różnił i przewyższał osiągami promy *STS*. W ramach programu została stworzona również rakieta *Energia*, która wykorzystywała zmodyfikowane silniki *RD-170* z programu *N1*.  *Buran* wykonał jeden lot testowy 15 listopada 1988 bez załogi podczas, którego wykonał dwa okrążenia Ziemii i dokonał autonomicznego lądowania na pasie startowym *Site 251* - *Yubileyniy Airfield* otrzymując precyzję lądowania na poziomie 10m w osi pasa.
+Program Buran był odpwiedzią na amerykański program Space Shuttle. Pojazd, który został stworzony był podobny wizualnie, ale znacząco się różnił i przewyższał osiągami promy STS. W ramach programu została stworzona również rakieta Energia, która wykorzystywała zmodyfikowane silniki RD-170 z programu *N1*.  Buran wykonał jeden lot testowy 15 listopada 1988 bez załogi podczas, którego wykonał dwa okrążenia Ziemii i dokonał autonomicznego lądowania na pasie startowym *Site 251* - Yubileyniy Airfield otrzymując precyzję lądowania na poziomie 10m w osi pasa.
 
-Ze względów geopolitycznych program został zamknięty, a odbitery trafiły do hangaru na kosmodromie Bajkonur oraz do muzeum techniki w niemieckim mieście Speyer. W maju 2002 ze względu na obciążenia dachu wywołane potężną burzą dach hangaru, w którym przebywał *Buran* oraz rakieta nosiciel *Energia* zawalił się niszcząc prom.
+Ze względów geopolitycznych program został zamknięty, a odbitery trafiły do hangaru na kosmodromie Bajkonur oraz do muzeum techniki w niemieckim mieście Speyer. W maju 2002 ze względu na obciążenia dachu wywołane potężną burzą dach hangaru, w którym przebywał Buran oraz rakieta nosiciel Energia zawalił się niszcząc prom.
 
 .. figure:: ../img/spacecraft-buran-vs-shuttle.png
     :name: figure-spacecraft-buran-vs-shuttle
     :scale: 25%
     :align: center
 
-    Zestawienie porównawcze rakiety *Soyuz*, *Space Shuttle* oraz *Energia-Buran*. Źródło: Wikipedia
+    Zestawienie porównawcze rakiety Soyuz, Space Shuttle oraz Energia-Buran. Źródło: Wikipedia
 
 Stacja kosmiczna Mir
 --------------------
-Stacja kosmiczna Mir (ros. pokój) była bezpośrednim kontynuatorem programu Salyut i pierwowzorem dla ISS. Początkowo służyła wyłącznie kosmonautom *ZSRR* oraz w ramach programu *Interkosmos*. Po upadku Związku Radzieckiego umożliwiono loty międzynarodowych załóg. Podczas ponad 15 lat pracy na orbicie gościła 28 stałych załóg i wiele tymczasowych pobytów amerykańskich promów *Space Shuttle*.
+Stacja kosmiczna Mir (ros. pokój) była bezpośrednim kontynuatorem programu Salyut i pierwowzorem dla ISS. Początkowo służyła wyłącznie kosmonautom ZSRR oraz w ramach programu Interkosmos. Po upadku Związku Radzieckiego umożliwiono loty międzynarodowych załóg. Podczas ponad 15 lat pracy na orbicie gościła 28 stałych załóg i wiele tymczasowych pobytów amerykańskich promów Space Shuttle.
 
 Jej konstrukcja rozpoczęła się od przeniesienia zasobów dostarczonych przez Progress-25 i Progress-26. Zadanie wykonała załoga Soyuz T-15 (Leonid Kizim, Władimir Sołowjow). Ponadto podczas 50 dniowego pobytu załoga również odwiedziła stację Salyut-7 w celu przewiezienia części wyposażenia na Mir. Na chwilę obecną jest to jedyny przypadek w historii aby astronauci podczas jednego lotu odwiedzili dwie stacje.
 
@@ -348,7 +348,7 @@ Jej konstrukcja rozpoczęła się od przeniesienia zasobów dostarczonych przez 
 
 Międzynarodowa Stacja Kosmiczna
 ===============================
-Program międzynarodowej stacji rozpoczął się od połączenia konceptu projektów *Freedom* (ang. wolność) oraz *Mir-2* (*DOS-8*). Następnie przekształcił się w pierwszą międzynarodową stację badawczą o nazwie *Internationl Space Station*. Budowa rozpoczęła się od umieszczenia rosyjskich modułów w 1998 roku. Pierwsza załoga przyleciała 2 listopada 2000 roku. Od tego czasu stacja jest stale zamieszkiwana przez załogi 3 lub 6 osobowe w ramach tzw. ekspedycji. Temat ISS szczegółowo przedstawiono w części dotyczącej :ref:`przygotowania załóg do lotów na jej pokład <iss>`.
+Program międzynarodowej stacji rozpoczął się od połączenia konceptu projektów Freedom (ang. wolność) oraz Mir-2 (DOS-8). Następnie przekształcił się w pierwszą międzynarodową stację badawczą o nazwie Internationl Space Station. Budowa rozpoczęła się od umieszczenia rosyjskich modułów w 1998 roku. Pierwsza załoga przyleciała 2 listopada 2000 roku. Od tego czasu stacja jest stale zamieszkiwana przez załogi 3 lub 6 osobowe w ramach tzw. ekspedycji. Temat ISS szczegółowo przedstawiono w części dotyczącej :ref:`przygotowania załóg do lotów na jej pokład <iss>`.
 
 .. figure:: ../img/spacestation-iss.svg
     :name: figure-spacestation-iss
@@ -386,7 +386,7 @@ Głównym zadaniem *Soyuz-30* było dokowanie do stacji *Salyut-6* oraz wykonani
 - Instytut Fizyki PAN,
 - Instytut Geodezji i Kartografii (IGiK),
 - Centrum Badań Kosmicznych PAN (CBK),
-- dla zagranicznych jednostek badawczych w ramach porozumienia *Interkosmos*.
+- dla zagranicznych jednostek badawczych w ramach porozumienia Interkosmos.
 
 .. csv-table:: Lista badań w ramach misji *Soyuz-30*/*Salyut-6*.
     :name: table-soyuz-30-experiments
@@ -420,13 +420,13 @@ W ramach treningu do misji kosmonauci odbyli szkolenia, m.in.:
 - symulacje lotu i manewrów dokowania oraz deorbitacji statku *Soyuz-30*,
 - badania medyczne i sprawnościowe.
 
-Za wyjątkiem treningu *EVA* oraz systemów robotycznych i specjalnych ISS proces przygotowania kosmonautów do lotu *Soyuz-30* był podobny do procesu szkolenia do długotrwałych lotów kosmicznych na *Międzynarodową Stację Kosmiczną*.
+Za wyjątkiem treningu *EVA* oraz systemów robotycznych i specjalnych ISS proces przygotowania kosmonautów do lotu *Soyuz-30* był podobny do procesu szkolenia do długotrwałych lotów kosmicznych na Międzynarodową Stację Kosmiczną.
 
 .. figure:: ../img/soyuz-30-simulator.jpg
     :name: figure-soyuz-30-simulator
     :scale: 50%
     :align: center
 
-    Załoga *Soyuz-30* (od lewej): Piotr Iljicz Klimuk oraz Mirosław Hermaszewski w trakcie szkolenia na symulatorze statku *Soyuz*.
+    Załoga *Soyuz-30* (od lewej): Piotr Iljicz Klimuk oraz Mirosław Hermaszewski w trakcie szkolenia na symulatorze statku Soyuz.
 
 Dla upamiętnienia lotu pierwszego Polaka załoga zabrała na pokład flagę i godło pańswowe. Generał Hermaszewski na chwilę obecną pozostaje jedynym Polakiem w kosmosie. Trening do misji, szczegóły lotu, zakres badań prowadzonych na orbicie jak również wydarzenia po powrocie z misji można przeczytać w opracowaniu generała Hermaszewskiego :cite:`Hermaszewski2013`.

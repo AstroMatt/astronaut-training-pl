@@ -18,41 +18,6 @@ Szkolenie podstawowe astronautów, które  dzieli się na 4 główne części:
 W czterech następnych rozdziałach autor przybliży każdy z powyższych tematów.
 
 
-Ośrodki Treningowe
-==================
-Szkolenie astronautów odbywa się w wyspecjalizowanych ośrodkach treningowych. :numref:`table-ground-training-centers` przedstawia listę centrów szkoleniowych.
-
-.. csv-table:: Lista ośrodków szkoleniowych astronautów.
-    :name: table-ground-training-centers
-    :file: ../data/ground-training-centers.csv
-    :header-rows: 1
-    :widths: 10, 20, 40, 10, 10, 10
-
-Centrum Przygotowania Kosmonautów, Gwiezdne Miasteczko, Moskwa, Rosja
----------------------------------------------------------------------
-Jednym z najstarszych miejsc w którym szkoli się astronautów i kosmonautów jest Centrum Przygotowania Kosmonautów znajdujące się na terenie Gwiezdnego Miasteczka w Moskwie. W obiekcie tym trenują obecnie wszyscy astronauci, którzy są przydzieleni do lotów na ISS. Ośrodek posiada basen neutralnej pływalności *Hydro Lab* oraz zestaw symulatorów rosyjskich segmentów ISS i statku kosmicznego *Soyuz*.
-
-Johnson Space Center, Huston, TX, USA
--------------------------------------
-Historycznie centrum kosmiczne Johnsona było kolebką amerykańskiego programu astronautycznego. W tym miejscu mieści się również Astronauts Office (budynek 4-S) oraz Neutral Buoyancy Laboratory i sumulator amerykańskiej części ISS (oba w budynku 29). Podobnie jak w Gwiezdnym Miasteczku, tak w centrum JSC trenują obecnie wszyscy astronauci, którzy są przydzieleni do lotów na ISS.
-
-European Astronaut Centre, Kolonia, Niemcy
-------------------------------------------
-Europejskie Centrum Astronautów jest miejscem gdzie astronauci przygotowujący się do lotu na ISS odbywają szkolenie z zakresu modułu *Columbus* Europejskiej Agencji Kosmicznej. Budynek ten jest również sziedzibą europejskich astronautów i miejscem ich szkolenia. W EAC znajduje się także basen Neutral Buoyancy Facility, w którym astronauci zapoznają się z procedurami oraz strojem do spacerów kosmicznych. Więcej w rozdziale :ref:`dotyczącym szkolenia EVA <eva-training>`.
-
-Tsukuba Space Center, Tsukuba, Ibaraki, Japonia
------------------------------------------------
-Tsukuba Space Center jest miejscem gdzie astronauci lecący na ISS odbywają szkolenie z japońskiej części stacji, tj. modułu Kibo oraz japońskich robotycznych systemów. Budynek ten jest również siedzibą astronautów JAXA.
-
-Astronaut Centre of China, Pekin, Chiny
----------------------------------------
-Ośrodek szkolenia Chińskich Astronautów usytuowany jest w północno wschodniej części Pekinu :cite:`CNSAAstronautSelectionAndTraining`. Jest siedzibą chińskich astronautów i jako, że Chiny nie są państwem kontrybuującym do ISS nie odbywają się tutaj treningi. Chiński korpus astronautów w izolacji od świata szkoli się i przygotowuje do załogowych misji na stacje orbitalne w ramach programu *Tiangong*.
-
-John H. Chapman Space Centre, Longueuil, QC, Kanada
----------------------------------------------------
-John H. Chapman Space Centre jest siedzibą Kanadyjskiej Agencji Kosmicznej oraz kanadyjskich astronautów. W tym ośrodku astronauci przydzieleni do ekspedycji ISS odbywają szkolenie z manipulatora robotycznego Canadarm 2 (SRMS - Shuttle Remote Manipulator System).
-
-
 Przygotowanie teoretyczne i wiedza ogólna
 =========================================
 
