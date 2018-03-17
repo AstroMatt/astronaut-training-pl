@@ -2,6 +2,7 @@
 Rys historyczny lotów kosmicznych
 *********************************
 
+
 Pionierzy kosmonautyki
 ======================
 Erę rakietową rozpoczęła publikacja tzw. wzoru Ciołkowskiego w 1903 roku określającego prędkość rakiety zmieniającej masę (zużywającej paliwo podczas lotu). Wzór ten został opublikowany w książce "Badanie przestrzeni świata przy pomocy urządzeń odrzutowych" :cite:`Ciolkowski1967`. Do pierwszych pionierów kosmonautyki wykorzystujących podstawy teoretyczne stworzone przez Ciołkowskiego zalicza się:
@@ -188,6 +189,11 @@ Podczas lotów promów kosmicznych amerykańska agencja NASA opracowała program
 
 Rys historyczny programów kosmicznych ZSRR i Federacji Rosyjskiej
 =================================================================
+*Związek Socjalistycznych Republik Radzieckich* wiódł prym w tematach kosmicznych i do czasu pierwszych kroków Neila Armstonga technologia radziecka była uważana za dominującą. Wśród najważniejszych programów *ZSRR* i późniejszej Federacji Rosyjskiej można wymienić:
+
+- program Wostok,
+- program Woshod,
+
 
 Program Wostok
 --------------
@@ -207,24 +213,35 @@ W trakcie trwania programu 1961 do 1963 roku odbyło się 6 lotów załogowych a
     :file: ../data/wostok-cosmonauts.csv
     :header-rows: 1
 
-.. csv-table:: Lista lotów programu wostok :cite:`Siddiqi2000`
+.. csv-table:: Lista lotów programu Wostok :cite:`Siddiqi2000`
     :name: table-wostok-flights
     :file: ../data/wostok-flights.csv
     :header-rows: 1
 
 Program Woshod
 --------------
-Program Woshod był kontunuatorem programu Wostok. Wprowadzał modyfikację do kapsuły, wzrost jej objętości, oraz zwięszkenie załogi do trzech osób i powiększenie rakiety nosiciela. Odbyły się dwa loty w ramach programu w latach 1964 i 1965.
+Program *Woshod* był kontunuatorem programu *Wostok*. Wprowadzał modyfikację do kapsuły, wzrost jej objętości, oraz zwięszkenie załogi do trzech osób i powiększenie rakiety nosiciela. Odbyły się dwa loty w ramach programu w latach 1964 i 1965.
+
+Największym dokonaniem podczas programu *Woshod* było pierwsze wyjście człowieka w otwarty kosmos, tzw. *EVA*. Dokonał tego rosyjski kosmonauta Alexey Leonov 18 marca 1965 roku. Pierwsze wyjście trwało 12 minut i niemalże zakończyło się śmiercią kosmonauty, gdyż jego skafander ze względu na różnicę ciśnień spuchł do rozmarów niepozwalających na powrót do śluzy. Leonov rozhermetyzował skafander i upuścił powietrze w skutek czego nabrał możliwości wejścia do kapsuły.
+
+.. csv-table:: Lista lotów programu Woshod :cite:`Siddiqi2000`
+    :name: table-wosohd-flights
+    :file: ../data/woshod-flights.csv
+    :header-rows: 1
 
 .. figure:: ../img/spacecraft-voshod.png
     :name: figure-voshod
-    :scale: 40%
+    :scale: 50%
     :align: center
 
     Schemat statku Voshod. Źródło: Wikipedia
 
 Program Soyuz
 -------------
+Program *Soyuz* jest jednym z najdłużej trwających programów kosmicznych. Był bezpośrednim następcą programu *Woshod* i rozpoczął się w połowie lat sześćdziesiątych XX wieku. Pierwotnie celem programu miało być stworzenie podstaw do lotów Księżycowych, ale później wymagania zostały zmienione.
+
+Program *Soyuz* w swoich kolejnych modyfikacjach trwa do dziś.
+
 
 Program Księżycowy
 ------------------
