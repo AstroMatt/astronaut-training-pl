@@ -266,6 +266,8 @@ W ramach programu stworzony został lądownik LK przedstawiony na obrazku :numre
     :header-rows: 1
     :widths: 10, 90
 
+Kosmonauci przydzieleni do treningów księżycowych byli członkami pierwszego naboru. Ze względu na jednoczesny przydział kosmonautów do więcej niż jednej grupy pojawiło się wiele zastrzeżeń dotyczących wyboru pierwszej osoby, która miałaby stanąć na Księżycu :cite:`LeonovScott2006`.
+
 .. figure:: ../img/spacecraft-lk-models.jpg
     :name: figure-spacecraft-lk-models
     :scale: 100%
@@ -312,6 +314,8 @@ W ramach programu odbywały się międzynarodowe loty załogowe, które umożliw
 
     Państwa uczestniczące w ramach programu *Interkosmos*. Źródło: Wikipedia
 
+Kosmonautów w ramach programu *Interkosmos* wybierano z najlepszych pilotów w ramach państw, które ratyfikowały porozumienie.
+
 .. csv-table:: Lista kosmonautów w ramach programu *Interkosmos*. Źródło: Wikipedia
     :name: table-selection-interkosmos
     :file: ../data/selection-interkosmos.csv
@@ -319,6 +323,8 @@ W ramach programu odbywały się międzynarodowe loty załogowe, które umożliw
 
 Program Buran
 -------------
+.. todo:: dopisać coś o selekcji
+
 Program *Buran* był odpwiedzią na amerykański program *Space Shuttle*. Pojazd, który został stworzony był podobny wizualnie, ale znacząco się różnił i przewyższał osiągami promy *STS*. W ramach programu została stworzona również rakieta *Energia*, która wykorzystywała zmodyfikowane silniki *RD-170* z programu *N1*.  *Buran* wykonał jeden lot testowy 15 listopada 1988 bez załogi podczas, którego wykonał dwa okrążenia Ziemii i dokonał autonomicznego lądowania na pasie startowym *Site 251* - *Yubileyniy Airfield* otrzymując precyzję lądowania na poziomie 10m w osi pasa.
 
 Ze względów geopolitycznych program został zamknięty, a odbitery trafiły do hangaru na kosmodromie Bajkonur oraz do muzeum techniki w niemieckim mieście Speyer. W maju 2002 ze względu na obciążenia dachu wywołane potężną burzą dach hangaru, w którym przebywał *Buran* oraz rakieta nosiciel *Energia* zawalił się niszcząc prom.
@@ -367,6 +373,8 @@ Największy kumulacyjnie czas spędzony podczas *EVA* zanotował kosmonauta Rosc
 
 Lot generała Hermaszewskiego
 ============================
+.. todo:: dopisać coś o selekcji
+
 Lot *Soyuz-30* miał miejsce w dniach 27 czerwca – 5 lipca 1978. Skład głównej załogi stanowił zespół: Mirosław Hermaszewski (promotor pomocniczego tej pracy) oraz Piotr Iljicz Klimuk. W zespole rezerwowym byli Walerij Nikołajewicz Kubasow oraz Zenon Jankowski.
 
 .. figure:: ../img/soyuz-30-crew.jpg
