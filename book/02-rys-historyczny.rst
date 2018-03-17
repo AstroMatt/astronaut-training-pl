@@ -369,6 +369,13 @@ Lot generała Hermaszewskiego
 ============================
 Lot *Soyuz-30* miał miejsce w dniach 27 czerwca – 5 lipca 1978. Skład głównej załogi stanowił zespół: Mirosław Hermaszewski (promotor pomocniczego tej pracy) oraz Piotr Iljicz Klimuk. W zespole rezerwowym byli Walerij Nikołajewicz Kubasow oraz Zenon Jankowski.
 
+.. figure:: ../img/soyuz-30-crew.jpg
+    :name: figure-soyuz-30-crew
+    :scale: 66%
+    :align: center
+
+    Załoga *Soyuz-30* (od lewej): Piotr Iljicz Klimuk oraz Mirosław Hermaszewski
+
 Głównym zadaniem *Soyuz-30* było dokowanie do stacji *Salyut-6* oraz wykonanie badań naukowych i biomedycznych dla jednostek badawczych, tj. :cite:`Hermaszewski2013`:
 
 - Wojskowy Instytut Medycyny Lotniczej (WIML),
@@ -382,6 +389,13 @@ Głównym zadaniem *Soyuz-30* było dokowanie do stacji *Salyut-6* oraz wykonani
     :file: ../data/soyuz-30-experiments.csv
     :header-rows: 1
     :widths: 10, 10, 80
+
+.. figure:: ../img/soyuz-30-onboard.jpg
+    :name: figure-soyuz-30-onboard
+    :scale: 33%
+    :align: center
+
+    Załoga *Salyut-6* (od lewej): Piotr Klimuk, Mirosław Hermaszewski, Aleksandr Ivanchenkov oraz Vladimir Kovalyonok
 
 Misja zakończyła się sukcesem a zadania założone zostały wykonane. :numref:`table-soyuz-30-timeline` przedstawia listę najważniejszych wydarzeń w trakcie lotu *Soyuz-30*.
 
@@ -403,5 +417,12 @@ W ramach treningu do misji kosmonauci odbyli szkolenia, m.in.:
 - badania medyczne i sprawnościowe.
 
 Za wyjątkiem treningu *EVA* oraz systemów robotycznych i specjalnych *ISS* proces przygotowania kosmonautów do lotu *Soyuz-30* był podobny do procesu szkolenia do długotrwałych lotów kosmicznych na *Międzynarodową Stację Kosmiczną*.
+
+.. figure:: ../img/soyuz-30-simulator.jpg
+    :name: figure-soyuz-30-simulator
+    :scale: 50%
+    :align: center
+
+    Załoga *Soyuz-30* (od lewej): Piotr Iljicz Klimuk oraz Mirosław Hermaszewski w trakcie szkolenia na symulatorze statku *Soyuz*.
 
 Dla upamiętnienia lotu pierwszego Polaka załoga zabrała na pokład flagę i godło pańswowe. Generał Hermaszewski na chwilę obecną pozostaje jedynym Polakiem w kosmosie. Trening do misji, szczegóły lotu, zakres badań prowadzonych na orbicie jak również wydarzenia po powrocie z misji można przeczytać w opracowaniu generała Hermaszewskiego :cite:`Hermaszewski2013`.
