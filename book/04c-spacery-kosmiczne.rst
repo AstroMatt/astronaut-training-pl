@@ -428,6 +428,15 @@ Systemy awaryjne skafandrów EVA
     - W przypadku Emergency case ludzie rzucają eksperymenty i skupiają się na pomocy EV na powrocie do bazy.
     - EMU trzyma ciśnienie przez 22 min
 
+Awaryjny zbiornik z tlenem
+--------------------------
+
+Local Tether
+------------
+
+Safety Tether
+-------------
+
 SAFER
 -----
 .. todo::

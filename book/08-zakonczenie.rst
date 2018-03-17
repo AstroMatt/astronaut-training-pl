@@ -3,6 +3,7 @@ Zakończenie
 ***********
 
     Communication, Teamwork, Commitment to excelence
+
     -- Astronaut Victor Glover :cite:`Glover2016`
 
 .. todo:: Zakończenie

@@ -67,7 +67,7 @@ Pilotaż oraz wykorzystanie systemów statku kosmicznego Soyuz
     Fuel pressure
     Steering
     Propellant flow
-​
+
 .. todo:: Na orbicie
     Sprawdzanie ciśnienia (pierwsze i najważniejsze)
     Upewnienie się czy systemy automatyczne działają

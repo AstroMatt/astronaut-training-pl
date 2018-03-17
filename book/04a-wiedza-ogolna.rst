@@ -217,6 +217,7 @@ Proces przygotowania do operacji nietechnicznych i komunikacji
 .. todo:: Proces przygotowania do operacji nietechnicznych i komunikacji
 
     Communication is a foundation of any good team
+
     -- Astronaut Victor Glover :cite:`Glover2016`
 
 Wykorzystanie mediów społecznościowych do popularyzacji nauki i misji

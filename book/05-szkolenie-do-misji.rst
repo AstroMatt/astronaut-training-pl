@@ -3,6 +3,7 @@ Przygotowanie astronautów pod kątem przydzielonej misji
 *******************************************************
 
     Nasa didn't hire us to be Program Managers or Engineers - we are operators
+
     -- Astronaut Victor Glover :cite:`Glover2016`
 
 .. todo::
