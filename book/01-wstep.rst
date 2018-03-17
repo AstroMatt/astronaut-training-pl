@@ -39,7 +39,7 @@ Kluczowym aspektem eksploracji kosmosu są załogowe loty kosmiczne. Aby skutecz
 .. figure:: /img/astronaut-career-lifecycle.png
     :name: figure-astronaut-career-lifecycle
     :align: center
-    :scale: 100%
+    :scale: 75%
 
     Cykl kariery i szkoleń astronautów.
 

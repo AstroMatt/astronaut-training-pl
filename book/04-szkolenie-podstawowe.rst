@@ -162,10 +162,10 @@ Przygotowanie dentystyczne
 
 .. figure:: ../img/training-fitness.jpg
     :name: figure-training-fitness
-    :scale: 50%
+    :scale: 33%
     :align: center
 
-    Astronautka NASA Christina M. Hammock podczas ćwiczeń kondycyjnych i badań wydolności organizmu
+    Astronautka NASA Christina M. Hammock podczas ćwiczeń kondycyjnych i badań wydolności organizmu. Źródło: NASA/JSC
 
 Przygotowanie psychologiczne do pracy w odosobnieniu
 ====================================================

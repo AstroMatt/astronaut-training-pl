@@ -23,7 +23,7 @@ Na chwilę obecną wyjścia w przestrzeń kosmiczną skupiają się głównie na
 
 .. figure:: ../img/eva-infrastructure-and-supporting-systems.png
     :name: figure-eva-infrastructure-and-supporting-systems
-    :scale: 100%
+    :scale: 66%
     :align: center
 
     Podział systemów oraz infrastruktury *EVA*. Zródło: NASA/JSC
@@ -117,7 +117,7 @@ Większość skafandrów działa w podobny sposób i składa się z 4 podstawowy
 
 .. figure:: ../img/spacesuit-emu-layers.png
     :name: figure-spacesuit-emu-layers
-    :scale: 100%
+    :scale: 50%
     :align: center
 
     Warstwy skafandra na przykładzie amerykańskiego *EMU*.
@@ -263,7 +263,7 @@ Są jednym z najmniej wykorzystywanych elementów skafandrów dla wyjść w prze
 
 .. figure:: /img/spacesuit-a7l-boots.jpg
     :name: figure-spacesuit-a7l-boots
-    :scale: 75%
+    :scale: 45%
     :align: center
 
     Buty astronauty stanowiące część skafandra *A7L* wykorzystywanego w programie *Apollo* podczas *EVA* na Księżycu.
@@ -343,7 +343,7 @@ Prace w przestrzeni kosmicznej wymagają znajomości wysokospecjalistycznych nar
 
 .. figure:: ../img/eva-tools.png
     :name: figure-eva-tools
-    :scale: 75%
+    :scale: 85%
     :align: center
 
     Narzędzia wykorzystywane podczas *EVA*. Źródło: NASA/JSC
@@ -429,9 +429,9 @@ Charakterystyka skafandra EMU
         - hełm
     - SAFER
 
-.. figure:: ../img/spacesuit-emu-dcm.jpg
+.. figure:: ../img/spacesuit-emu-dcm.png
     :name: figure-spacesuit-emu-dcm
-    :scale: 75%
+    :scale: 66%
     :align: center
 
     Moduł kontrolny z wyświetlaczem amerykańskiego skafandra EMU (ang. *EMU DCM - Display and Control Module*)
@@ -553,7 +553,7 @@ Komory ciśnieniowe
 .. figure:: ../img/spacesuit-skol-pressure-test-vacuum-monitoring.jpg
     :name: figure-spacesuit-skol-pressure-test-vacuum-monitoring
     :align: center
-    :scale: 50%
+    :scale: 33%
 
     Astronauta ESA Andreas Mogensen podczas testów skafandra w komorze ciśnieniowej w Gwiezdnym Miasteczku. Żródło: ESA/EAC
 
@@ -566,7 +566,7 @@ Systemy podwieszania
 
 .. figure:: ../img/eva-suspension-system.png
     :name: figure-eva-suspension-system
-    :scale: 50%
+    :scale: 75%
     :align: center
 
     System podieszania zastosowany do treningu astronautów w Centrum Przygotowania Kosmonautów w Gwiezdnym Miasteczku w Rosji. Źródło: NASA/JSC

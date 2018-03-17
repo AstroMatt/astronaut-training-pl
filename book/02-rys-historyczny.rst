@@ -65,7 +65,7 @@ W dniu 9 kwietnia 1959, NASA przedstawiła pierwszą grupę astronautów tzw. *M
 
 .. figure:: ../img/selection-mercury.jpg
     :name: figure-selection-mercury
-    :scale: 33%
+    :scale: 7%
     :align: center
 
     Astronauci programu *Mercury* tzw. *Original Seven*. Pierwszy rząd, od lewej do prawej: Walter M. Schirra, Jr., Donald K. "Deke" Slayton, John H. Glenn, Jr., and M. Scott Carpenter; tylny rząd, Alan B. Shepard, Jr., Virgil I. "Gus" Grissom, L. Gordon Cooper, Jr. źródło: NASA :cite:`Mercury7`.
@@ -90,14 +90,14 @@ Amerykańska agencja kosmiczna NASA podczas projektu Gemini przeprowadziła dwa 
 
 .. figure:: ../img/selection-gemini-1.jpg
     :name: figure-selection-gemini-1
-    :scale: 33%
+    :scale: 20%
     :align: center
 
     Astronauci pierwszego naboru do programu *Gemini*. Rząd z tyłu, od lewej: See, McDivitt, Lovell, White, Stafford. Rząd z przodu: Conrad, Borman, Armstrong, Young.
 
 .. figure:: ../img/selection-gemini-2.jpg
     :name: figure-selection-gemini-2
-    :scale: 33%
+    :scale: 7%
     :align: center
 
     Astronauci drugiego naboru do programu *Gemini*. Rząd z tyłu, od lewej: Collins, Cunningham, Eisele, Freeman, Gordon, Schweickart, Scott, Williams. Rząd z przodu: Aldrin, Anders, Bassett, Bean, Cernan, Chaffee.
@@ -115,7 +115,7 @@ Najbardziej ambitnym programem w historii astronautyki był program *Apollo*. W 
 
 .. figure:: ../img/selection-apollo.jpg
     :name: figure-selection-apollo
-    :scale: 50%
+    :scale: 65%
     :align: center
 
     Astronauci pierwszego naboru do programu *Apollo*. Back, Swigert, Pogue, Evans, Weitz, Irwin, Carr, Roosa, Worden, Mattingly, Lousma. Front, Givens, Mitchell, Duke, Lind, Haise, Engle, Brand, Bull, McCandless.
@@ -176,7 +176,7 @@ W trakcie programu Space Shuttle stworzono orbitery :cite:`NASASpaceShuttle`:
 
 .. figure:: ../img/spacecraft-space-shuttle-and-soyuz.png
     :name: figure-spacecraft-space-shuttle-and-soyuz
-    :scale: 50%
+    :scale: 15%
     :align: center
 
     Rysunenk przedstawia skalę amerykańskiego promu kosmicznego Space Shuttle oraz rosyjskiego statku Soyuz TM :cite:`Portree1995`
@@ -197,7 +197,7 @@ W trakcie trwania programu 1961 do 1963 roku odbyło się 6 lotów załogowych a
 
 .. figure:: ../img/spacecraft-vostok.png
     :name: figure-vostok
-    :scale: 50%
+    :scale: 25%
     :align: center
 
     Schemat statku Vostok. Źródło: Wikipedia
@@ -218,7 +218,7 @@ Program Woshod był kontunuatorem programu Wostok. Wprowadzał modyfikację do k
 
 .. figure:: ../img/spacecraft-voshod.png
     :name: figure-voshod
-    :scale: 50%
+    :scale: 40%
     :align: center
 
     Schemat statku Voshod. Źródło: Wikipedia
@@ -230,7 +230,7 @@ Program Księżycowy
 ------------------
 .. figure:: ../img/spacecraft-lk-schematics.png
     :name: figure-spacecraft-lk-schematics
-    :scale: 50%
+    :scale: 20%
     :align: center
 
     Schemat Lądownika LK. Źródło: NASA/JSC
@@ -239,7 +239,7 @@ Program Salyut
 --------------
 .. figure:: ../img/spacestation-salyut-6.png
     :name: figure-spacestation-salyut-6
-    :scale: 75%
+    :scale: 40%
     :align: center
 
     Schemat stacji kosmicznej Salyut 6. Źródło: NASA/JSC
@@ -258,7 +258,7 @@ Stacja kosmiczna Mir
 --------------------
 .. figure:: ../img/spacestation-mir-architecture-1990.png
     :name: figure-spacestation-mir-architecture-1990
-    :scale: 75%
+    :scale: 50%
     :align: center
 
     Schemat stacji kosmicznej MIR w 1989/1990 roku. Źródło: NASA/JSC

@@ -246,7 +246,7 @@ Amerykańska agencja kosmiczna NASA organizuje rekrutację na kandydata na astro
 
 .. figure:: ../img/selection-nasa-2017.jpg
     :name: figure-selection-nasa-2017
-    :scale: 50%
+    :scale: 10%
     :align: center
 
     Selekcja astronautów NASA rozpoczynających szkolenie w 2017 roku (ang. *2017 NASA Astronaut Class*): (od lewej) Zena Cardman, Jasmin Moghbeli, Jonny Kim, Frank Rubio, Matthew Dominick, Warren Hoburg, Robb Kulin, Kayla Barron, Bob Hines, Raja Chari, Loral O' Hara and Jessica Watkins. Źródło: NASA/Robert Markowitz
@@ -278,7 +278,7 @@ Jednym z warunków bycia astronautą ESA jest aby państwo narodowości kandydat
 
 .. figure:: ../img/selection-esa-2009.jpg
     :name: figure-selection-esa-2009
-    :scale: 50%
+    :scale: 20%
     :align: center
 
     Sześciu nowych rekrutów European Astronaut Corps w European Astronaut Centre w roku 2009. Timothy Peake, Andreas Mogensen, Alexander Gerst, Luca Parmitano, Samantha Cristoforetti, Thomas Pesquet. Źródło: ESA–M. Koell
@@ -327,7 +327,7 @@ Całość procesu rekrutacji jest dobrze udokumentowana i przedstawiona na kanal
 
 .. figure:: ../img/selection-csa.jpg
     :name: figure-selection-csa
-    :scale: 50%
+    :scale: 33%
     :align: center
 
     Aktywni kanadyjscy astronauci (od lewej): Joshua Kutryk, Jennifer Sidey, David Saint-Jacques, Jeremy Hansen

@@ -299,7 +299,7 @@ Sytuacje awaryjne na międzynarodowej stacji kosmicznej
 
 .. figure:: /img/iss-emergency-procedures-handbook.png
     :name: figure-iss-emergency-procedures-handbook
-    :scale: 50%
+    :scale: 25%
     :align: center
 
     Wizualnie wyróżniona książka zawierająca procedury awaryjne ISS
@@ -317,7 +317,7 @@ Pożar
 
 .. figure:: /img/iss-emergency-training.jpg
     :name: figure-iss-emergency-training
-    :scale: 50%
+    :scale: 25%
     :align: center
 
     Astronauci podczas szkolenia pożarowego na Międzynarodowej Stacji Kosmicznej
