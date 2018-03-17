@@ -302,7 +302,7 @@ Sytuacje awaryjne na międzynarodowej stacji kosmicznej
     :scale: 25%
     :align: center
 
-    Wizualnie wyróżniona książka zawierająca procedury awaryjne ISS
+    Wizualnie wyróżniona książka zawierająca procedury awaryjne ISS. Źródło: ESA/Thomas Pesquet
 
 Pożar
 -----
@@ -320,7 +320,7 @@ Pożar
     :scale: 25%
     :align: center
 
-    Astronauci podczas szkolenia pożarowego na Międzynarodowej Stacji Kosmicznej
+    Astronauci podczas szkolenia pożarowego na Międzynarodowej Stacji Kosmicznej. Źródło: NASA/JSC
 
 Problemy medyczne członków załogi
 ---------------------------------

@@ -94,14 +94,14 @@ Amerykańska agencja kosmiczna NASA podczas projektu Gemini przeprowadziła dwa 
     :scale: 20%
     :align: center
 
-    Astronauci pierwszego naboru do programu *Gemini*. Rząd z tyłu, od lewej: See, McDivitt, Lovell, White, Stafford. Rząd z przodu: Conrad, Borman, Armstrong, Young.
+    Astronauci pierwszego naboru do programu *Gemini*. Rząd z tyłu, od lewej: See, McDivitt, Lovell, White, Stafford. Rząd z przodu: Conrad, Borman, Armstrong, Young. Źródło: NASA/JSC
 
 .. figure:: ../img/selection-gemini-2.jpg
     :name: figure-selection-gemini-2
     :scale: 7%
     :align: center
 
-    Astronauci drugiego naboru do programu *Gemini*. Rząd z tyłu, od lewej: Collins, Cunningham, Eisele, Freeman, Gordon, Schweickart, Scott, Williams. Rząd z przodu: Aldrin, Anders, Bassett, Bean, Cernan, Chaffee.
+    Astronauci drugiego naboru do programu *Gemini*. Rząd z tyłu, od lewej: Collins, Cunningham, Eisele, Freeman, Gordon, Schweickart, Scott, Williams. Rząd z przodu: Aldrin, Anders, Bassett, Bean, Cernan, Chaffee. Źródło: NASA/JSC
 
 Podczas przygotowań do misji *Gemini 12* amerynański astronauta Buzz Aldrin jako pierwszy wykorzystał techiniki nurkowania w celu symulacji spacerów kosmicznych co zapoczątkowało rozpoczęcie badań i stworzenie ośrodków pływalności neutralnej (ang. *NBL - Neutral Buoyancy Laboratory*).
 
@@ -119,7 +119,7 @@ Najbardziej ambitnym programem w historii astronautyki był program *Apollo*. W 
     :scale: 65%
     :align: center
 
-    Astronauci pierwszego naboru do programu *Apollo*. Back, Swigert, Pogue, Evans, Weitz, Irwin, Carr, Roosa, Worden, Mattingly, Lousma. Front, Givens, Mitchell, Duke, Lind, Haise, Engle, Brand, Bull, McCandless.
+    Astronauci pierwszego naboru do programu *Apollo*. Back, Swigert, Pogue, Evans, Weitz, Irwin, Carr, Roosa, Worden, Mattingly, Lousma. Front, Givens, Mitchell, Duke, Lind, Haise, Engle, Brand, Bull, McCandless. Źródło: NASA/JSC
 
 :numref:`table-selection-apollo` przedstawia listę astronautów programu Apollo wraz z przydziałem do misji oraz datami pobytu na Księżycu :cite:`FrenchBurgess2007`, :cite:`AldrinAbraham2009`.
 

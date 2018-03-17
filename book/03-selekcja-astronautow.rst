@@ -296,7 +296,7 @@ Na chwilę obecną nie są znane dalsze plany na temat rekrutacji kolejnych astr
     :scale: 100%
     :align: center
 
-    Chiaki Mukai, Koichi Wakata, Takao Doi, Soichi Noguchi, Akihiko Hoshide, Naoko Yamazaki, and Satoshi Furukawa
+    Chiaki Mukai, Koichi Wakata, Takao Doi, Soichi Noguchi, Akihiko Hoshide, Naoko Yamazaki, and Satoshi Furukawa Źródło: JAXA
 
 .. csv-table:: Lista aktywnych astronautów JAXA
     :name: table-astronauts-jaxa
@@ -330,4 +330,4 @@ Całość procesu rekrutacji jest dobrze udokumentowana i przedstawiona na kanal
     :scale: 33%
     :align: center
 
-    Aktywni kanadyjscy astronauci (od lewej): Joshua Kutryk, Jennifer Sidey, David Saint-Jacques, Jeremy Hansen
+    Aktywni kanadyjscy astronauci (od lewej): Joshua Kutryk, Jennifer Sidey, David Saint-Jacques, Jeremy Hansen. Źródło: CSA

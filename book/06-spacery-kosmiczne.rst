@@ -103,7 +103,7 @@ Po pozytywnym zaliczeniu egzaminów teoretycznych z przedmiotu zaznajomienia si�
     :scale: 50%
     :align: center
 
-    Warstwy skafandra na przykładzie amerykańskiego *A7L*.
+    Warstwy skafandra na przykładzie amerykańskiego *A7L*. Źródło: NASA/JSC
 
 
 Generalna charakterystyka skafandrów kosmicznych
@@ -120,7 +120,7 @@ Większość skafandrów działa w podobny sposób i składa się z 4 podstawowy
     :scale: 50%
     :align: center
 
-    Warstwy skafandra na przykładzie amerykańskiego *EMU*.
+    Warstwy skafandra na przykładzie amerykańskiego *EMU*. Źródło: NASA/JSC
 
 W zależności od skafandra inny jest sposób jego przywdziewania (ang. *donning*) i zdejmowania (ang. *doffing*). Rosyjskie skafandry *Orlan* oraz Chiński *Feitian* zakłada się wchodząc przez wejście na plecach otwierając plecak *PLSS*.
 
@@ -266,7 +266,7 @@ Są jednym z najmniej wykorzystywanych elementów skafandrów dla wyjść w prze
     :scale: 45%
     :align: center
 
-    Buty astronauty stanowiące część skafandra *A7L* wykorzystywanego w programie *Apollo* podczas *EVA* na Księżycu.
+    Buty astronauty stanowiące część skafandra *A7L* wykorzystywanego w programie *Apollo* podczas *EVA* na Księżycu. Źródło: NASA/JSC
 
 Na :numref:`figure-spacesuit-a7l-boots` przedstawiono tzw. *Lunar Overshoe*, czyli część, która jest nakładana na skarpetę stanowiącą integralny element skafandra. Za wyjątkiem ożebrowanych elementów z gumy sylikonowej (ang. *ribbed silicone rubber sole*) zewnętrzna część buta była zrobiona z wzmacnianej metalem tkanicy *Chromel R* (ang. *metal-woven fabric*). Zastosowanie takiej technologi miało na celu ochronę przed przetarciem. Wewnętrzna część buta była stworzona z płutna pokrytej Teflonem warstwy włukna szklanego (ang. *Teflon-coated fiber-glass*). Zastosowanie składającego się z 25 przekładających się warstw Kaptonu oraz włukna szklanego materiału miało na celu zwięszenie wytrzymałości, zmniejszenie wagi oraz izolację terminczną. Buty były wyprodukowane przez General Electric i ILC Industries Inc.
 
@@ -434,7 +434,7 @@ Charakterystyka skafandra EMU
     :scale: 66%
     :align: center
 
-    Moduł kontrolny z wyświetlaczem amerykańskiego skafandra EMU (ang. *EMU DCM - Display and Control Module*)
+    Moduł kontrolny z wyświetlaczem amerykańskiego skafandra EMU (ang. *EMU DCM - Display and Control Module*). Źródło: NASA/JSC
 
 
 Systemy awaryjne skafandrów EVA

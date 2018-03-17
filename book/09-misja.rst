@@ -74,14 +74,14 @@ Do stworzenia insygniów misji dowódca załogi wyznacza kilka osób, które wsp
     :scale: 5%
     :align: center
 
-    Insygnia misji Soyuz 30 w ramach programu Interkosmos. W misji wzięli udział gen. Hermaszewski oraz gen. Klimuk
+    Insygnia misji Soyuz 30 w ramach programu Interkosmos. W misji wzięli udział gen. Hermaszewski oraz gen. Klimuk. Źródło: Wikipedia
 
 .. figure:: ../img/mission-patch-multiple.jpg
     :name: figure-mission-patch-multiple
     :scale: 50%
     :align: center
 
-    Obraz przedstawia wybrane insygnia misji.
+    Obraz przedstawia wybrane insygnia misji. Źródło: Wikipedia
 
 Badania medyczne przed wylotem
 ------------------------------
