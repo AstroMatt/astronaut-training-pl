@@ -284,7 +284,7 @@ Stacje wyposażone były w port dokowania dzięki, któremu zarówno załogowe j
     :scale: 100%
     :align: center
 
-    Schemat stacji kosmicznej Salyut 6. Źródło: Wikipedia
+    Schemat stacji kosmicznej Salyut-6. Źródło: Wikipedia
 
 .. csv-table:: Lista stacji kosmicznych w ramach programu Salyut/Ałmaz/Mir. Źródło: Wikipedia
     :name: table-salyut-timeline
@@ -364,11 +364,12 @@ Największy kumulacyjny nalot zgdomadził kosmonauta Roscosmos Gennady Padalka, 
 
 Największy kumulacyjnie czas spędzony podczas *EVA* zanotował kosmonauta Roscosmos Anatoly Solovyev, który przebywał łącznie 82 godziny 22 minuty w trakcie 16 spacerów kosmicznych. Kosmonauta ten jest również osobą, która wykonała najwięcej spacerów kosmicznych w historii.
 
+
 Lot generała Hermaszewskiego
 ============================
-Lot *Soyuz 30* miał miejsce w dniach 27 czerwca – 5 lipca 1978. Skład głównej załogi stanowił zespół: Mirosław Hermaszewski (promotor pomocniczego tej pracy) oraz Piotr Iljicz Klimuk. W zespole rezerwowym byli Walerij Nikołajewicz Kubasow oraz Zenon Jankowski.
+Lot *Soyuz-30* miał miejsce w dniach 27 czerwca – 5 lipca 1978. Skład głównej załogi stanowił zespół: Mirosław Hermaszewski (promotor pomocniczego tej pracy) oraz Piotr Iljicz Klimuk. W zespole rezerwowym byli Walerij Nikołajewicz Kubasow oraz Zenon Jankowski.
 
-Głównym zadaniem *Soyuz 30* było dokowanie do stacji *Salyut 6* oraz wykonanie badań naukowych i biomedycznych dla jednostek badawczych, tj. :cite:`Hermaszewski2013`:
+Głównym zadaniem *Soyuz-30* było dokowanie do stacji *Salyut-6* oraz wykonanie badań naukowych i biomedycznych dla jednostek badawczych, tj. :cite:`Hermaszewski2013`:
 
 - Wojskowy Instytut Medycyny Lotniczej (WIML),
 - Instytut Fizyki PAN,
@@ -376,16 +377,31 @@ Głównym zadaniem *Soyuz 30* było dokowanie do stacji *Salyut 6* oraz wykonani
 - Centrum Badań Kosmicznych PAN (CBK),
 - dla zagranicznych jednostek badawczych w ramach porozumienia *Interkosmos*.
 
-.. csv-table:: Lista badań w ramach misji *Soyuz 30*/*Salyut 6*.
+.. csv-table:: Lista badań w ramach misji *Soyuz-30*/*Salyut-6*.
     :name: table-soyuz-30-experiments
     :file: ../data/soyuz-30-experiments.csv
     :header-rows: 1
+    :widths: 10, 10, 80
 
-Misja zakończyła się sukcesem a zadania założone zostały wykonane. :ref:`table-soyuz-30-timeline` przedstawia listę najważniejszych wydarzeń w trakcie lotu *Soyuz 30*.
+Misja zakończyła się sukcesem a zadania założone zostały wykonane. :numref:`table-soyuz-30-timeline` przedstawia listę najważniejszych wydarzeń w trakcie lotu *Soyuz-30*.
 
-.. csv-table:: Zestawienie najważniejszych wydarzeń w trakcie lotu *Soyuz 30*/*Salyut 6*.
+.. csv-table:: Zestawienie najważniejszych wydarzeń w trakcie lotu *Soyuz-30*/*Salyut-6*.
     :name: table-soyuz-30-timeline
     :file: ../data/soyuz-30-timeline.csv
     :header-rows: 1
+    :widths: 10, 10, 10, 10, 10, 10, 40
+
+W ramach treningu do misji kosmonauci odbyli szkolenia, m.in.:
+
+- ratownictwo morskie i lądowanie w środowisku wodnym,
+- zapoznanie się ze środowiskiem mikrograwitacji podczas lotu parabolicznego samolotem *TU-104A*,
+- badania psychologiczne i kondycyjne,
+- szkolenie z nawigacji i dynamiki lotu orbitalnego,
+- trening aparatu błędnikowego na krześle Baraniego,
+- badania wydolnościowe organizmu na cykloergometrze,
+- symulacje lotu i manewrów dokowania oraz deorbitacji statku *Soyuz-30*,
+- badania medyczne i sprawnościowe.
+
+Za wyjątkiem treningu *EVA* oraz systemów robotycznych i specjalnych *ISS* proces przygotowania kosmonautów do lotu *Soyuz-30* był podobny do procesu szkolenia do długotrwałych lotów kosmicznych na *Międzynarodową Stację Kosmiczną*.
 
 Dla upamiętnienia lotu pierwszego Polaka załoga zabrała na pokład flagę i godło pańswowe. Generał Hermaszewski na chwilę obecną pozostaje jedynym Polakiem w kosmosie. Trening do misji, szczegóły lotu, zakres badań prowadzonych na orbicie jak również wydarzenia po powrocie z misji można przeczytać w opracowaniu generała Hermaszewskiego :cite:`Hermaszewski2013`.
