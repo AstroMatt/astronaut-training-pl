@@ -24,6 +24,20 @@ Za czasów programu Apollo astronauci byli szkoleni również z pilotażu śmig�
 
 Pilotaż oraz wykorzystanie systemów statku kosmicznego Soyuz
 ============================================================
+
+.. figure:: ../img/spacecraft-soyuz-schematics.png
+    :name: figure-spacecraft-soyuz-schematics
+    :scale: 100%
+    :align: center
+
+    Schemat statku Soyuz. Źródło: Wikipedia
+
+.. csv-table:: Parametry techniczne statków kosmicznych *Soyuz* w różnych wersjach
+    :name: table-soyuz-characteristics
+    :file: ../data/soyuz-characteristics.csv
+    :header-rows: 1
+    :stub-columns: 1
+
 .. todo:: PTT; Part Tasks Trainier; 1on1 computer simulation Training failures one at a time, instructor shows on a display normal conditions and then simulates what it would look like if for example pomp would not work
     ptt of thermal systems of Soyuz
     Pump failure

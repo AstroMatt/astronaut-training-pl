@@ -191,6 +191,16 @@ Rys historyczny programów kosmicznych ZSRR i Federacji Rosyjskiej
 
 Program Wostok
 --------------
+Wostok był pierwszym załogowym programem kosmonautycznym w *Związku Socjalistycznych Republik Radzieckich*. Punktem kulminacyjnym programu był lot 12 kwietnia 1961 roku radzieckiego majora Jurija Gagarina - pierwszego człowieka w kosmosie.
+
+W trakcie trwania programu 1961 do 1963 roku odbyło się 6 lotów załogowych a najdłuższy trwał 5 dni. Cztery ostatnie loty były wystrzeliwane parami w odstępie jednego dnia od siebie.
+
+.. figure:: ../img/spacecraft-vostok.png
+    :name: figure-vostok
+    :scale: 50%
+    :align: center
+
+    Schemat statku Vostok. Źródło: Wikipedia
 
 .. csv-table:: Lista kosmonautów programu Wostok wraz z wiekiem w czasie selekcji :cite:`Siddiqi2000`
     :name: table-wostok-cosmonauts
@@ -204,28 +214,62 @@ Program Wostok
 
 Program Woshod
 --------------
+Program Woshod był kontunuatorem programu Wostok. Wprowadzał modyfikację do kapsuły, wzrost jej objętości, oraz zwięszkenie załogi do trzech osób i powiększenie rakiety nosiciela. Odbyły się dwa loty w ramach programu w latach 1964 i 1965.
+
+.. figure:: ../img/spacecraft-voshod.png
+    :name: figure-voshod
+    :scale: 50%
+    :align: center
+
+    Schemat statku Voshod. Źródło: Wikipedia
 
 Program Soyuz
 -------------
 
 Program Księżycowy
 ------------------
+.. figure:: ../img/spacecraft-lk-schematics.png
+    :name: figure-spacecraft-lk-schematics
+    :scale: 50%
+    :align: center
+
+    Schemat Lądownika LK. Źródło: NASA/JSC
 
 Program Salyut
 --------------
+.. figure:: ../img/spacestation-salyut-6.png
+    :name: figure-spacestation-salyut-6
+    :scale: 75%
+    :align: center
+
+    Schemat stacji kosmicznej Salyut 6. Źródło: NASA/JSC
 
 Program Interkosmos i lot generała Hermaszewskiego
 --------------------------------------------------
 .. todo:: http://www.spacepatches.nl/salyut_frame.html
 
+Program Buran
+-------------
+Program *Buran* był odpwiedzią na amerykański program *Space Shuttle*. Pojazd, który został stworzony był podobny wizualnie, ale znacząco się różnił i przewyższał osiągami promy *STS*. W ramach programu została stworzona również rakieta *Energia*, która wykorzystywała zmodyfikowane silniki *RD-170* z programu *N1*.  *Buran* wykonał jeden lot testowy 15 listopada 1988 bez załogi podczas, którego wykonał dwa okrążenia Ziemii i dokonał autonomicznego lądowania na pasie startowym *Site 251* - *Yubileyniy Airfield* otrzymując precyzję lądowania na poziomie 10m w osi pasa.
+
+Ze względów geopolitycznych program został zamknięty, a odbitery trafiły do hangaru na kosmodromie Bajkonur oraz do muzeum techniki w niemieckim mieście Speyer. W maju 2002 ze względu na obciążenia dachu wywołane potężną burzą dach hangaru, w którym przebywał *Buran* oraz rakieta nosiciel *Energia* zawalił się niszcząc prom.
+
 Stacja kosmiczna Mir
 --------------------
+.. figure:: ../img/spacestation-mir-architecture-1990.png
+    :name: figure-spacestation-mir-architecture-1990
+    :scale: 75%
+    :align: center
+
+    Schemat stacji kosmicznej MIR w 1989/1990 roku. Źródło: NASA/JSC
 
 Międzynarodowa Stacja Kosmiczna
 ===============================
 
 Najdłuższy pobyt w przestrzeni kosmicznej
 =========================================
-.. todo:: http://www.asc-csa.gc.ca/eng/astronauts/faq.asp#details_48
-.. todo:: What is the longest time anyone has ever spent in space? Russian cosmonaut Gennady Padalka holds the record for the longest accumulated stay in space, clocking 879 days in orbit, during five different missions.
-.. todo:: Another Russian cosmonaut, Dr. Valeri Polyakov, holds the record for the longest continuous stay in space: 437 days, 17 hours and 38 minutes (14 months) on Mir, from January 1994 to March 1995.
+Najdłuższy pobyt w przestrzeni kosmicznej zanotował kosmonauta Roscosmos Dr. Valeri Polyakov, który spędził jednorazowo 437 dni, 17 godzin i 38 minut (14 miesięcy). Podbyt odbył się na Rosyjskiej stacji *MIR* od stycznia 1994 roku do marca 1995.
+
+Największy kumulacyjny nalot zgdomadził kosmonauta Roscosmos Gennady Padalka, który przybywał łącznie 879 dni na orbicie podczas 5 lotów kosmicznycj.
+
+Największy kumulacyjnie czas spędzony podczas *EVA* zanotował kosmonauta Roscosmos Anatoly Solovyev, który przebywał łącznie 82 godziny 22 minuty w trakcie 16 spacerów kosmicznych. Kosmonauta ten jest również osobą, która wykonała najwięcej spacerów kosmicznych w historii.

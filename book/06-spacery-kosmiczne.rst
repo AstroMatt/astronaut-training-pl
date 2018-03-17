@@ -21,6 +21,13 @@ Na chwilę obecną wyjścia w przestrzeń kosmiczną skupiają się głównie na
 - awaryjne,
 - na obcych ciałach niebieskich.
 
+.. figure:: ../img/eva-infrastructure-and-supporting-systems.png
+    :name: figure-eva-infrastructure-and-supporting-systems
+    :scale: 100%
+    :align: center
+
+    Podział systemów oraz infrastruktury *EVA*. Zródło: NASA/JSC
+
 Podział skafandrów kosmicznych
 ==============================
 Najważniejszym podziałem skafandrów jest rozdzielenie ich ze względu na przeznaczenie:
@@ -334,6 +341,13 @@ Wykorzystywanie specjalistycznych narzędzi do pracy
 ---------------------------------------------------
 Prace w przestrzeni kosmicznej wymagają znajomości wysokospecjalistycznych narzędzi. Ich rolą jest nie tylko pomoc astronaucie w dokonaniu naprawy czy montażu sprzętu ale również zachowanie pozycji czy bezpiecznego poruszania się w obrębie stacji kosmicznej.
 
+.. figure:: ../img/eva-tools.png
+    :name: figure-eva-tools
+    :scale: 75%
+    :align: center
+
+    Narzędzia wykorzystywane podczas *EVA*. Źródło: NASA/JSC
+
 Urządzenia wykorzystywane w pracy w przestrzeni kosmicznej możemy podzielić na:
 
 - śrubokręty (ang. hex screwdriver),
@@ -417,10 +431,11 @@ Charakterystyka skafandra EMU
 
 .. figure:: ../img/spacesuit-emu-dcm.jpg
     :name: figure-spacesuit-emu-dcm
-    :scale: 50%
+    :scale: 75%
     :align: center
 
     Moduł kontrolny z wyświetlaczem amerykańskiego skafandra EMU (ang. *EMU DCM - Display and Control Module*)
+
 
 Systemy awaryjne skafandrów EVA
 ===============================
@@ -498,7 +513,6 @@ Symulacja prac w basenie doskonałej pływalności
         - NBL: dwóch nurków (EV1, EV2) na jednego astronautę Safety Diver + jeden (Float Diver) z kamerą i zmieniają się co dwie godziny, video jest do prezentacji i do analizowania szkoleń
         - Na dwie osoby trenujące EVA jest około 40 osób, które upewniają się, że wszystko jest bezpiecznie
 
-
 .. csv-table:: Lista basenów neutralnej pływalności
     :name: table-neutral-buoyancy-pools
     :file: ../data/neutral-buoyancy-pools.csv
@@ -531,6 +545,31 @@ JAXA - Weightlessness Environment Test System
 
 University of Maryland - Buoyancy Research Facility
 ---------------------------------------------------
+
+Komory ciśnieniowe
+==================
+(ang. *vacuum chamber*)
+
+.. figure:: ../img/spacesuit-skol-pressure-test-vacuum-monitoring.jpg
+    :name: figure-spacesuit-skol-pressure-test-vacuum-monitoring
+    :align: center
+    :scale: 50%
+
+    Astronauta ESA Andreas Mogensen podczas testów skafandra w komorze ciśnieniowej w Gwiezdnym Miasteczku. Żródło: ESA/EAC
+
+Komory termiczne
+================
+(ang. *thermal chamber*)
+
+Systemy podwieszania
+====================
+
+.. figure:: ../img/eva-suspension-system.png
+    :name: figure-eva-suspension-system
+    :scale: 50%
+    :align: center
+
+    System podieszania zastosowany do treningu astronautów w Centrum Przygotowania Kosmonautów w Gwiezdnym Miasteczku w Rosji. Źródło: NASA/JSC
 
 
 Komunikacja i podział ról podczas symulacji oraz wyjścia w przestrzeń kosmiczną
@@ -619,17 +658,30 @@ Przygotowanie do wyjścia w przestrzeń kosmiczną
 
 Wyjście i przykładowe zadania
 -----------------------------
+.. todo:: nauka otwierania airlock
+.. todo:: systemy awaryjne airlock
+.. todo:: sprawdzają właz
+    - nominal procedures
+    - repress takes 15 minutes
+    - depress takes 30 minutes
+    - cooling, oxygen supplies
+    - amerykanom dwukrotnie zdarzyło się przytrzasnąć narzędzie
+    - wyrównują do 5 PSI i robią leak check, jeżeli nie działa, to upuszają powietrze i jeszcze raz
+
 
 Procedury po powrocie
 ---------------------
 .. todo::
     - Ruskie walą wódkę, jeszcze w śluzie zanim się zdepresuryzuje. nigdy się nic nie stało
     - amerykanom dwukrotnie zdarzyło się przytrzasnąć narzędzie
-    - wyrównują do 5 PSI i robią leak check, jeżeli nie działa, to upuszają powietrze i jeszcze raz sprawdzają właz
+    - wyrównują do 5 PSI i robią leak check, jeżeli nie działa, to upuszają powietrze i jeszcze raz
+
+.. todo:: sprawdzają właz
     - nominal procedures
     - repress takes 15 minutes
     - depress takes 30 minutes
     - cooling, oxygen supplies
+
 
 EVA na powierzchni innych ciał niebieskich
 ==========================================
