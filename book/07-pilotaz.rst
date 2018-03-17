@@ -1,3 +1,5 @@
+.. _pilotaz:
+
 *******
 Pilotaż
 *******
@@ -10,6 +12,7 @@ Szkolenie pilotażowe jest jednym z najtrudniejszych elementów szkolenia astron
 - przyzwyczajenie pilota i jego rodziny do ciągłej nieobecności w domu,
 - przyzwyczajenie pilota i jego rodziny do niebezpiecznego charakteru pracy :cite:`Glover2016`.
 
+
 Trening pilotażu samolotów
 ==========================
 Szkolenie pilotażowe astronautów zwykle przebiega podobnie jak szkolenie pilota z wyłączeniem zadań specjalnych tj. użycie broni. W zależności od agencji kosmicznej astronauci mają różny stopień przeszkolenia. Amerykańscy astronauci szkoleni są w bazie Elington Air Force Base (Elington AFB) na samolotach szkolno-treningowych T-38. Uprzedio uzyskują także *Space Flight Readiness Training* (ang. trening przygotowujący do lotów kosmicznych) na samolocie WB-57 w Beale AFB, North Carolina. Jednym z elementów szkolenia jest tzw. *formation flying* (ang. latanie w formacji). Ta umiejętność ćwiczy prezycję i pracę zespołową. Pilotowanie statku powietrznego, który poruszając się 900 km/h zbliża się do drugiego na odległość 2-3 metrów i razem w tej odległości wykonuje z nim figury akrobatyczne wymaga od pilota umiejętności, które są w inny sposób nieosiągalne. Manewry typu "Wyciskanie G" (ang. *Pulling G's*) w różnych pozycjach szególnie w locie odwróconym wymagaj fizycznej wytrzymałości organizmu w szególności mięśni i serca oraz wysokiej adaptacji fizjologicznej. Szkolenie na samolotach T-38 jest ostatnim etapem szkolenia kandydatów na astronautów NASA.
@@ -18,9 +21,11 @@ Szkolenie pilotażowe kosmonautów rosyjsjich i wcześniej radzieckich podobnie 
 
 Europejscy astronauci uzyskują licencję pilota prywatnego PPL(A) na lotnisku w Kolonii w Niemczech. Podczas ćwiczeń wykonują zadania zgodnie z programem szkolenia pilotów cywilnych.
 
+
 Trening pilotażu innych statków powietrznych
 ============================================
 Za czasów programu Apollo astronauci byli szkoleni również z pilotażu śmigłowców oraz LLRV (ang. Lunar Landing Research Vechicle) czyli pojazdu pionowego startu i lądowania wyglądem przypominającego pająka z silnikiem odrzutowym umiejsciowionym w spodniej części. Zarówno szkolenie śmigłowcowe jak i LLRV przygotowywały astronautów do umiejętności startu, zawisu i lądowania.
+
 
 Pilotaż oraz wykorzystanie systemów statku kosmicznego Soyuz
 ============================================================
@@ -141,6 +146,7 @@ Lądowanie
 ---------
 Kapsuła Souyz używa tzw. *systemu miękkiego lądowania*. System ten składa się z niewielkich silniczków rakietowych z wektorem ciągu przeciwnie skierowanym do lotu kapsuły. System ten jest aktywowany na dwa metry :cite:`Hadfield2013` przed uderzeniem w ziemię pozwalając na zminimalizowanie w znacznym stopniu siły uderzenia o grunt. Jego użycie powoduje charakterystyczny płomień oraz dym przy uderzaniu w ziemię co mylnie kojarzone jest z sytuacją niebezpieczną. Aktywacja tego systemu oraz *miękkie lądowanie* zostało uwiecznione na taśmach video :cite:`Soyuz-undocking-reentry-landing`.
 
+
 Sytuacje awaryjne statku kosmicznego
 ====================================
 Loty kosmiczne są obarczone wysokim stopniem ryzyka. Większość z godzin przeprowadzonych w symulatorze statku kosmicznego Soyuz ma za zadanie przygotować załogę na umiejętność reakcji w tych krytycznych sytuacjach. Do najbardziej prawdopodobnych i najgroźniejszych sytucji należy: rozszczelnienie o raz pożar.
@@ -172,6 +178,7 @@ W środowisku mikrograwitacji nie występuje wymuszona konwekcja ciepła i ruchu
 Wyłączenie urządzeń elektrycznych ma na celu wyeliminowanie źródeł powstania ognia. W przerwy w zasilaniu ogień powinien sam zgasnąć. Po odczekaniu określonego czasu następuje ponowne włączenie urządzeń pokładowych.
 
 Najbardziej drastycznym sposobem na wyeliminowanie pożaru jest rozszczelnienie statku kosmicznego (ang. depressuzization). Wraz z pozbawieniem atmosfery tlenu ogień zgaśnie. Jest to najbardziej niebezpieczny sposób gaszenia i to rozwiązanie pozostaje do użycia tylko w ostateczności. Przed procesem rozszczelnienia kapsuły astronauci muszą sprawdzić szczelność swoich skafandrów aby upewnić się czy sami nie będą narażeni na niebezpieczeństwo wystawienia na działanie próżni. Przy wykorzystaniu tego sposobu misja jest przerywana i kapsuła musi skierować się do awaryjnego wejścia w atmosferę w ciągu 125 minut. Czas ten odpowiada 1.5 okrążeniu Ziemi i powinien być wystarczający aby powrócić do jednego z wyznaczonych uprzednio miejsc awaryjnego lądowania. Podczas tego czasu temperatura ciała astronautów powoli zacznie wzrastać ze względu na tempo pompowania powietrza do skafandra - 22 litry na minutę. Tempo to jest wystarczające aby pozwolić astronautom bezpiecznie oddychać, ale nie pozwala na chłodzenie ciała. Z tego względu czas 125 minut jest krytyczny aby zapobiec śmierci astronautów ze względu na przegrzanie organizmu.
+
 
 System przerwania startu (Launch Escape System)
 ===============================================
@@ -242,6 +249,7 @@ Awaryjne opuszczanie platformy startowej
 
 Systemy przerywania startu
 --------------------------
+
 
 Odprawa po symulacjach
 ======================

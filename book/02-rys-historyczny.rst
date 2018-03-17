@@ -36,18 +36,18 @@ Pierwszym zwierzęciem, które przekroczyło linię graniczną kosmosu był pies
 Pierwszym człowiekiem w kosmosie był major Yuri Gagarin (awansowany później na pułkownika). Został wystrzelony przez Związek Radziecki 12 kwietnia 1961 w 108 minutowy orbitalny wokół Ziemi na pokładzie *Vostok 1*. Gagarin był jednym z 20 osób, które zostały wybrane wśród pilotów wojskowych Związku Radzieckiego :cite:`Siddiqi2000`. Wg. podań świadków major wyróżniał się wytrzymałością, duchem oraz doświadczeniem. Wśród wszyskich rekrutowanych kosmonautów przeprowadzono ankietę, w której zadano pytanie "kogo wytypowałbyś na pierwszy lot". Osiemnaście na dwadzieścia osób z załogi wybrało Gagarina. Major po okrążeniu Ziemi wszedł ponownie w atmosferę w tzw. krzywej balistycznej cechującej się wysokim poziomem przeciążeń działających na ciało kosmonauty. Ze względu na fakt, iż Radzieccy konstruktorzy nie dysponowali jeszcze techniką aby bezpiecznie wylądować statekiem kosmicznym na ziemi zdecydowano się na użycie fotela katapultowego i spadochronu. Na poziomie 20 000 stóp nad poziomem morza (ok. 6 tys. metrów) Gagarin katapultował się z kapsuły i bezpiecznie wrócił na powierzchnię :cite:`Why-Yuri-Gagarin-Remains-the-First-Man-in-Space`.
 
 
-Rys historyczny programów kosmicznych NASA
-==========================================
+Krótki rys historyczny programów kosmicznych NASA
+=================================================
 Amerykańską odpowiedzią na wydarzenie wysłania Gagarina w kosmos był program *Mercury*. W trakcie programu wybrano siedmiu astronautów. 12 września 1962 - pół roku po locie Alana Sheparda, pierwszego amerykańskiego astronauty, aby zażegnać widmo porażki w kosmicznym wyścigu prezydent Stanów Zjednoczonych Ameryki J. F. Kennedy wygłosił mowę na Uniwersytecie Rice :cite:`Kennedy1962`, w której zmobilizował naród i postawił cel, aby "do końca dekady człowiek postawił nogę na Księżycu i bezpiecznie wrócił na Ziemię". Cel ten udało się zrealizować w 1969 roku, gdy amerykański astronauta Neil Armstrong stanął na naturalnym satelicie Ziemi.
 
-W skład amerykańskiego programu kosmonatycznego wchodzą projekty:
+Do najważniejszych amerykańskich programów należą:
 
-- Mercury,
-- Gemini,
-- Apollo,
-- Skylab (Apollo application),
-- Space Shuttle,
-- ISS.
+- program Mercury,
+- program Gemini,
+- program Apollo,
+- program Skylab (Apollo application),
+- program Space Shuttle,
+- uczestnictwo w programie ISS.
 
 Poniższe rozdziały krótko charakteryzują każdy z głównych programów.
 
@@ -187,13 +187,19 @@ Program Space Shuttle pozwolił na zwiększenie częstotliwości lotów załogow
 Podczas lotów promów kosmicznych amerykańska agencja NASA opracowała program szkolenia astronautów, który stał się podstawą dzisiejszych treningów. Opracowano również skafander *EMU - Extravehicular Mobility Unit* (modyfikacja skafandra *A7L* wykorzystywanego w programie *Apollo*), który znajduje zastosowanie w misjach kosmicznych aż po dziś dzień w programie Międzynarodowej Stacji Kosmicznej.
 
 
-Rys historyczny programów kosmicznych ZSRR i Federacji Rosyjskiej
-=================================================================
+Krótki rys historyczny programów kosmicznych ZSRR i Federacji Rosyjskiej
+========================================================================
 *Związek Socjalistycznych Republik Radzieckich* wiódł prym w tematach kosmicznych i do czasu pierwszych kroków Neila Armstonga technologia radziecka była uważana za dominującą. Wśród najważniejszych programów *ZSRR* i późniejszej Federacji Rosyjskiej można wymienić:
 
 - program Wostok,
 - program Woshod,
-
+- program Soyuz,
+- program Księżycowy (N1-LK),
+- program Salyut,
+- program Interkosmos,
+- program Buran,
+- stacja kosmiczna Mir,
+- uczestnictwo w programie ISS.
 
 Program Wostok
 --------------
@@ -240,11 +246,19 @@ Program Soyuz
 -------------
 Program *Soyuz* jest jednym z najdłużej trwających programów kosmicznych. Był bezpośrednim następcą programu *Woshod* i rozpoczął się w połowie lat sześćdziesiątych XX wieku. Pierwotnie celem programu miało być stworzenie podstaw do lotów Księżycowych, ale później wymagania zostały zmienione.
 
-Program *Soyuz* w swoich kolejnych modyfikacjach trwa do dziś.
-
+Program *Soyuz* w swoich kolejnych modyfikacjach trwa do dziś. Jest najbardziej niezawodnym statkiem kosmicznym, a od czasu wycofania z użycia ameryksńskich promów *Space Shuttle* jest jedynym środkiem transportu do i z *Międzynarodowej Stacji Kosmicznej*. Więcej na temat programu w rozdziale poświęconym :ref:`szkoleniu w pilotowaniu statku kosmicznego Soyuz <pilotaz>`.
 
 Program Księżycowy
 ------------------
+*ZSRR* konkurował ze stanami zjednoczonymi w ramach wyścigu kosmicznego. Apogeum całego *Space Race* miał być załogowy lot na Księżyc. W tym celu Główny Konstruktor Siergiej Pawłowicz Korolew rozpoczął pracę nad rakietą *N1*. Rakieta ta w przeciwieństwie do podejścia amerykańskiego składała się z 5 segmentów (ang. *stage*) oraz 30 silników pierwszego poziomu. Ze względu na złożoność systemu rakieta eksplodowała przy starcie. Po czwartym podejściu i utracie nosiciela, zmianie geopolitycznej, przegraniu wyścigu kosmicznego Komitet Centralny Partii postanowił zamknąć program.
+
+W ramach programu stworzony został lądownik LK przedstawiony na obrazku :numref:`figure-spacecraft-lk-schematics`.
+
+.. csv-table:: Lista kosmonautów przypisanych do grup szkoleniowych w ramach programu księżycowego :cite:`Kamanin-Diaries`
+    :name: table-lk-astronauts
+    :file: ../data/lk-astronauts.csv
+    :header-rows: 1
+
 .. figure:: ../img/spacecraft-lk-schematics.png
     :name: figure-spacecraft-lk-schematics
     :scale: 20%
