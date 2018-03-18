@@ -364,12 +364,15 @@ Badania izolacyjne w ośrodkach medycznych
 -----------------------------------------
 Najbardziej znanym badaniem była misja Mars-500, gdy podczas trwającej 520 dni izolacji sprawdzano zachowanie załogi w symulowanej misji na Marsa. Program symulacji trwał między latami 2007 and 2011 i był prowadzony przez Instytu Probrlemów Biomedycznych Rosyjskiej Akademii Nauk przy współpracy Europejskiej Agencji Kosmicznej.
 
-Na chwilę obecną na świecie jest niewiele placówek zajmujących się podobną tematyką. Każda z takich placówek specjalizuje się w określonym typie symulacji. Do habitatów w których odbywają się dłuższe pobyty można zaliczyć:
+Badania izolacyjne w habitatach
+-------------------------------
+Na chwilę obecną na świecie jest niewiele placówek zajmujących się tematyką badań izolacyjnych połączonych z eksploracją środowiska. Każda z takich placówek specjalizuje się w określonym typie symulacji. Do habitatów w których odbywają się pobyty powyżej tygodnia można zaliczyć:
 
 - Lunares, Polska,
 - HI-Seas, USA,
 - MDRS, USA,
 - FMARS, Kanada,
+- NEEMO, USA,
 - HERA, USA.
 
 Habitat Lunares został wybudowany przez firmę Space Garden przy udziale autora pracy (Mateusz Harasymczuk) oraz pomysłodawczynię dr Agatę Kołodziejczyk. Habitat ulokowany jest na lotnisku w Pile (ICAO: EPPK) w hagarze przy pasie startowym. W Lunares prowadzone są badania dotyczące:
@@ -383,5 +386,6 @@ Habitat Lunares został wybudowany przez firmę Space Garden przy udziale autora
 - wykorzystania lamp fizjologicznych w pobudzaniu receptorów serotoninowych,
 - sztucznym sterowaniem rytmem cyrkadialnym,
 - planowaniem pracy i rozkładu zajęć astronautów,
+- badania nad domknięciem półotwartego systemu podtrzymywania życia,
+- wykorzystanie zasobów dostępnych w środowisku (ang. *ISRU - In-Situ Resource Utilization*),
 - systemu operacyjnego habitatów pozaziemskich.
-
