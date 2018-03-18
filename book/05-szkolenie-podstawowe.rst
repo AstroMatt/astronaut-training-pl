@@ -67,7 +67,7 @@ Każdy astronauta z założenia powinien przyswoić sobie działanie systemów s
 - systemy zmiany orbity (ang. *OCS - Orbit Control System*)
 - systemy zasilania oraz pozyskiwania energii (ang. *power*),
 - systemy przechowywania energii (ang. *Power Storage*)
-- systemy odprowadzania ciepła (ang. *thermal),
+- systemy odprowadzania ciepła (ang. *thermal*),
 - telemetria, śledzenie i sterowanie (ang. *TT&C - Telemetry-Tracking and Control*),
 - sterowanie i kontrola (ang. *Command and Control*),
 - układy liczące i architektura logiczna (ang. *On-board processors*),
