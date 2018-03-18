@@ -141,7 +141,7 @@ Wirówki przeciążeniowe są urządzeniami zdolnymi dzięki zwięszkaniu prędk
 - utraty świadomości (ang. *G-LOC - Gravity Induced Loss of Consciousness*),
 - czerwone widzenia (ang. *redout*) - działanie przyspiesznia ze zwrotem ujemnym (ang. *negative g*).
 
-Na zwięszkenie czynnika przyspieszenia grawitacyjnego mają wpływ gwałtowne manewrowanie samolotem, start rakiety, wejście w atmosferę, awaryjna trajektoria wejścia w atmosferę tzw. krzywa balistyczna oraz lądowanie.
+Na zwięszkenie czynnika przyspieszenia grawitacyjnego mają wpływ gwałtowne manewrowanie samolotem, start rakiety, wejście w atmosferę, awaryjna trajektoria wejścia w atmosferę tzw. krzywa balistyczna oraz lądowanie. Skuteczność treningu w wirówce przeciążeniowej pozwala astronautom na tolerowanie przyspieszeń o 1.5-2g większych niż niewytrenowanej osoby. Należy nadmienić, że trening wymaga odnawiania, gdyż tolerancja ulega "zapomnieniu" przez organizm. Dla poprawy tolerancji stosuje się również usiskowe spodnie przeciążeniowe. Nacisk na naczynia powoduje spowolnienie odpływu krwi z nóg i mniejszą ilość krwi uderzającej do mózgu. Nacisk uzyskuje się statycznie (silne związanie) lub dynamicznie (nadmuchiwanie wszytych komór z powietrzem). Astronauci zakładają taki ubiór pod skafander Sokol przygotowując się do powrotu na Ziemię :cite:`Peake2017`. Ponadto tolerancję można zwiększyć stosując manewr AGSM (ang. *Anti-G Straining Maneuver*). Odpowiedni trening oddychania pozwala na zwiększenie toleranci przeciążeń i dłuższe utrzymanie świadomości w przypadku ich wystąpienia.
 
 Do najważniejszych wirówek przeciążeniowych wykorzystywanych w załogowych lotach kosmicznych można zaliczyć:
 
@@ -318,14 +318,70 @@ W celu zapoznania astronautów z wpływem mikrograwitacji na organizm człowieka
     :file: ../data/ground-parabollic.csv
     :header-rows: 1
 
-Komory ciśnień
-==============
+
+Komory niskich ciśnienień i komory próżniowe
+============================================
+Zastosowanie komór niskich ciśnieniowych oraz komór próżniowych (ang. *vacuum chamber*) w trakcie szkolenia ma swoje początki wraz z pierwszymi prototypami skafandrów. Wówczas stosowano je do sprawdzania szczelności wytwarzanych iteracji ubrań ciśnieniowych. Podczas treningu komora ciśnieniowa wykorzystywana jest na cztery główne sposoby:
+
+- zapoznanie się z objawami hipoxii,
+- sprawdzanie szczelności skafandra,
+- trening procedur awaryjnych skafandrów,
+- zapoznanie się ze środowiskiem braku ośrodka gazowego.
+
+Astronauci podobnie jak piloci samolotów stratosferycznych tj. U2, są poddawani szkoleniom w skafandrze wewnątrz komór ciśnieniowych. Podczas szkolenia trenujący doświadcza momentu rozhermetyzowania kabiny na dużej wysokości oraz uruchomienia automatycznego systemu podtrzymania życia w skafandrze.
 
 
 Komory termalne
 ===============
+Komory termalne (ang. *thermal chamber*) wykorzystuje się aby zapoznać astronautów ze zmiennym środowiskiem cieplnym występującym na zewnątrz pojazdu. Podczas ćwiczeń w komorach termalnych ćwiczący uczy się regulacji temperatury za pomocą systemu klimatyzacji skafandra.
+
+
+Systemy podwieszania
+====================
+Do przygotowania astronautów w ograniczonym zakresie ruchu oraz przy zmieniającej się perspektywie widoku w programach szkolenia zastosowano system podwieszania. Ponadto system podwieszania pozwala na odciążenie astronauty i symulację grawitacji panującej na Księżycy, Marsie i innych ciałach niebieskich.
+
+.. figure:: ../img/eva-suspension-schematics.png
+    :name: figure-eva-suspension-schematics
+    :scale: 75%
+    :align: center
+
+    System podwieszania zastosowany do treningu astronautów w Centrum Przygotowania Kosmonautów w Gwiezdnym Miasteczku w Rosji. Źródło: NASA/JSC
 
 
 Eksperymenty izolacyjne
 =======================
+Długotrwały pobyt w przestrzeni kosmicznej przy niezmiennym towarzystwie wpływa na bardzo dużo złożonych procesów psychologicznych i sociodynamicznych. W szczególności przy planowanych misjach na Marsach czy dłuższych pobytach na Księżycu konieczne jest opracowanie sposobów wczesnej detekcji problemów psychicznych oraz sprawniejsze ich rozwiązywanie. W tym celu organizacje kosmiczne wykorzystują następujące metody:
+
+- wykorzystanie komór (pojemników) izolacyjnych (ang. *PRE - Personal Rescue Enclosure*),
+- przeprowadzanie badań izolacji w ośrodkach badań medycznych,
+- wykorzystanie długotrwałych pobytów w habitatach wraz z połączoniem eksploracji środowiska.
+
+Personal Rescue Enclosure
+-------------------------
+Personal Rescue Enclosure zostały stworzone na potrzeby prototypowego systemu ratownictwa załóg promów Space Shuttle. Mają kształt przypominający piłkę plażową o 86 cm średnicy i 0,33 :math:`m^2` objętości i są skonstruowane z materiału na bazie Kewlaru :cite:`Shayler2009`. Obecnie wykorzystywane są podczas selekcji astronautów w celu weryfikacji braku klaustrofobii.
+
+Badania izolacyjne w ośrodkach medycznych
+-----------------------------------------
+Najbardziej znanym badaniem była misja Mars-500, gdy podczas trwającej 520 dni izolacji sprawdzano zachowanie załogi w symulowanej misji na Marsa. Program symulacji trwał między latami 2007 and 2011 i był prowadzony przez Instytu Probrlemów Biomedycznych Rosyjskiej Akademii Nauk przy współpracy Europejskiej Agencji Kosmicznej.
+
+Na chwilę obecną na świecie jest niewiele placówek zajmujących się podobną tematyką. Każda z takich placówek specjalizuje się w określonym typie symulacji. Do habitatów w których odbywają się dłuższe pobyty można zaliczyć:
+
+- Lunares, Polska,
+- HI-Seas, USA,
+- MDRS, USA,
+- FMARS, Kanada,
+- HERA, USA.
+
+Habitat Lunares został wybudowany przez firmę Space Garden przy udziale autora pracy (Mateusz Harasymczuk) oraz pomysłodawczynię dr Agatę Kołodziejczyk. Habitat ulokowany jest na lotnisku w Pile (ICAO: EPPK) w hagarze przy pasie startowym. W Lunares prowadzone są badania dotyczące:
+
+- subiektywnej percepcji czasu,
+- dynamiki grupy i wpływu izolacji,
+- ergonomii habitatu,
+- architektury habitatu,
+- inteligentnych sensorów i czujników,
+- systemów aquaponicznych i hydroponicznych,
+- wykorzystania lamp fizjologicznych w pobudzaniu receptorów serotoninowych,
+- sztucznym sterowaniem rytmem cyrkadialnym,
+- planowaniem pracy i rozkładu zajęć astronautów,
+- systemu operacyjnego habitatów pozaziemskich.
 
