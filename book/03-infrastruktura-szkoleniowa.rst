@@ -235,18 +235,18 @@ VRL wyposażony jest w symulatory i urządzenia pozwalające na odtworznie zewn�
 
 .. figure:: ../img/ground-vr-combined.png
     :name: figure-ground-vr-combined
-    :scale: 50%
+    :scale: 33%
     :align: center
 
     Astronauci trenujący EVA w laboratorium VRLab. Źródło: NASA/JSC
 
 Haptics Lab ESA
 ---------------
-Laboratorium Haptics Europejskiej Anencji Kosmicznej znajduje się w Centrum Inżynierii i Nauki ESTEC w Holandii. Laboratorium umożliwia testowanie systemów robotycznych oraz interfejsu HMI. W laboratorium opracowano egzoszkielet X-Arm-II. Ponadto astronauci ESA ćwiczą umiejętność sterowania łazikami z wykorzystaniem kontrolerów z Force Feedback.
+Laboratorium Haptics Europejskiej Anencji Kosmicznej znajduje się w Centrum Inżynierii i Nauki ESTEC w Holandii. Laboratorium umożliwia testowanie systemów robotycznych oraz interfejsu HMI. W laboratorium opracowano egzoszkielet X-Arm-II (:numref:`figure-ground-vr-exoskeleton`). Ponadto astronauci ESA ćwiczą umiejętność sterowania łazikami z wykorzystaniem kontrolerów z Force Feedback.
 
-.. figure:: ../img/ground-vr-exoskeleton.png
+.. figure:: ../img/ground-vr-exoskeleton.jpg
     :name: figure-ground-vr-exoskeleton
-    :scale: 50%
+    :scale: 25%
     :align: center
 
     X-Arm-II exoskeleton jest wykorzystywany do symulacji odczuć podczas sterowania maszynami. Źródło: ESA
@@ -266,9 +266,9 @@ Symulatory lotu służą nie tylko szkoleniu astronatów ale również pozwalaj�
 - Boeing CS-100 Starliner,
 - SpaceX Crew Dragon.
 
-.. figure:: ../img/ground-sim-soyuz-1.png
+.. figure:: ../img/ground-sim-soyuz-1.jpg
     :name: figure-ground-sim-soyuz-1
-    :scale: 50%
+    :scale: 33%
     :align: center
 
     Astronauci ćwiczą procedury w symulatorze Soyuz w CPK w Gwiezdnym Miasteczku. Źródło: ESA
@@ -286,31 +286,37 @@ W siłowniach i laboratoriach w których ćwiczą astronauci coraz częściej za
 - połączenie systemów VR i bieżni zmieniających pochylenie i odchylenie (ang. *Adaptability Training System*),
 - system bieżni nadciśnieniowych (ALTER).
 
-System Vertical Treadmill dzięki zmianie kąta pochylenia bieżni i odległości wysięgnika ma możliwość zmiany  obciążenia odczuwalnego do symulowania grawitacji 1/6g (Księżyc) oraz 1/3g (Mars) :numref:`figure-ground-vr-vertical-treadmill`
+System Vertical Treadmill dzięki zmianie kąta pochylenia bieżni i odległości wysięgnika ma możliwość zmiany  obciążenia odczuwalnego do symulowania grawitacji 1/6g (Księżyc) oraz 1/3g (Mars) :numref:`figure-ground-gym-vertical-treadmill`.
 
-.. figure:: ../img/ground-vr-vertical-treadmill.jpg
-    :name: figure-ground-vr-vertical-treadmill
-    :scale: 50%
+.. figure:: ../img/ground-gym-vertical-treadmill.jpg
+    :name: figure-ground-gym-vertical-treadmill
+    :scale: 75%
     :align: center
 
     Astronauta podczas ćwiczenia na Vertical Treadmill. Źródło: NASA
 
 
-Eksperymenty izolacyjne
-=======================
-
-
 Loty paraboliczne
 =================
+W celu zapoznania astronautów z wpływem mikrograwitacji na organizm człowieka oraz specyficznym zachowaniem podczas spadku swobodnego agencje kosmiczne zaczęły stosować samoloty w lotach parabolicznych. W zależności od parametrów paraboli można otrzymać:
 
-NASA
+- mikrograwitacja 0g,
+- przyciąganie na powierzchni Księżyca (16,6% przyciągania ziemskiego),
+- przyciąganie na powierzchni Marsa (40% przyciągania ziemskiego).
 
-Roscosmos
+:numref:`table-ground-parabollic` przedstawia zestawienie samolotów używanych przez agencje kosmiczne i prywatne firmy do lotów parabolicznyh.
 
-ESA
+.. figure:: ../img/ground-parabollic-profile.jpg
+    :name: figure-ground-parabollic-profile
+    :scale: 75%
+    :align: center
 
-CNSA
+    Profil lotu parabolicznego podczas symulacji stanu braku grawitacji. Źródło: Nature
 
+.. csv-table:: Zestawienie samolotów używanych do lotów parabolicznych
+    :name: table-ground-parabollic
+    :file: ../data/ground-parabollic.csv
+    :header-rows: 1
 
 Komory ciśnień
 ==============
@@ -318,3 +324,8 @@ Komory ciśnień
 
 Komory termalne
 ===============
+
+
+Eksperymenty izolacyjne
+=======================
+
