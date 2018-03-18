@@ -214,11 +214,91 @@ Do badań naukowych wykorzystujących zwiększone przyspieszenie grawitacyjne i 
 - 2-Meter Diameter Centrifuge, NASA Ames Research Center, CA, USA
 - 24-Foot Diameter Centrifuge, NASA Ames Research Center, CA, USA
 
+
 Laboratoria Wirtualnej Rzeczywistości
 =====================================
+Laboratoria wirtualnej (ang. *VR - Virtaul Reality*) oraz rozszerzonej (ang. *AR - Augmented Reality*) pozwalają na trening skomplikowanych czynności oraz procedur bez narażania życia astronautów. Ponadto astronauci szkolą się w używaniu technologii haptycznych tj. sprzężenia zwrotnego (ang. *Force Feedback*) oraz umiejętności interakcji człowiek-maszyna (ang. *HMI - Human-Machine Interaction*). Do najważniejszych laboratoriów VR należą:
+
+- Virtual Reality Laboratory (VRL), NASA,
+- Haptics Laboratory, ESA.
+
+Virtual Reality Laboratory (VRL), NASA
+--------------------------------------
+VRL wyposażony jest w symulatory i urządzenia pozwalające na odtworznie zewnętrznej części stacji. Dzięki okularom VR astronauta ma możliwość rozglądania się w środowisku. Rękawice i system który ma na sobie podczas szkolenia pozwala na kinestetyczne odczucie (ang. *kinesthetic sensation*), czyli inercji obietków do 226,8 kg (500 lbs). W laboratorium VRL astronauci szkolą się w zakresie procedur i systemów EVA, tj.:
+
+- obsługa systemu ratunkowego S.A.F.E.R.,
+- kontrolowanie manipulatora SSRMS Canadarm2,
+- rozkładu elementów zewnętrznych stacji ISS,
+- utrzymywanie świadomości sytuacyjnej podczas EVA,
+- umiejętności lokalizacji względem elementów stacji,
+- transferu między modułami stacji.
+
+.. figure:: ../img/ground-vr-combined.png
+    :name: figure-ground-vr-combined
+    :scale: 50%
+    :align: center
+
+    Astronauci trenujący EVA w laboratorium VRLab. Źródło: NASA/JSC
+
+Haptics Lab ESA
+---------------
+Laboratorium Haptics Europejskiej Anencji Kosmicznej znajduje się w Centrum Inżynierii i Nauki ESTEC w Holandii. Laboratorium umożliwia testowanie systemów robotycznych oraz interfejsu HMI. W laboratorium opracowano egzoszkielet X-Arm-II. Ponadto astronauci ESA ćwiczą umiejętność sterowania łazikami z wykorzystaniem kontrolerów z Force Feedback.
+
+.. figure:: ../img/ground-vr-exoskeleton.png
+    :name: figure-ground-vr-exoskeleton
+    :scale: 50%
+    :align: center
+
+    X-Arm-II exoskeleton jest wykorzystywany do symulacji odczuć podczas sterowania maszynami. Źródło: ESA
+
+Symulatory lotu
+===============
+Symulatory lotu są od wielu lat wykorzystywane w lotnictwie i towarzyszyły astronautom w ich szkoleniu od początków Space Race. Symulatory dzielą się na stacjonarne oraz wolne (ang. *FFS - Full Flight Simulator*). Symulatory FFS pozwalają na odczucie zwrotów oraz niewielkich odchyleń. Do najbardziej znanych symulatorów zalicza się:
+
+- Symulator lądownika LM w programie Apollo,
+- Shuttle Motion Simulator (SMS),
+- Soyuz.
+
+Symulatory lotu służą nie tylko szkoleniu astronatów ale również pozwalają na opracowywanie procedur i optymalizację konstrukcji kapsuł. Astronauci współpracują z inżynierami opracowującymi nowe techniki pilotażu oraz rozmieszczenie elementów interfejsu zarówno w kokpicie jak i na wielofunkcyjnym ekranie (ang. *MFD - Multifunctional Display*). Do symulatorów przyszłych statków kosmicznych można zaliczyć:
+
+- Federacja,
+- Orion,
+- Boeing CS-100 Starliner,
+- SpaceX Crew Dragon.
+
+.. figure:: ../img/ground-sim-soyuz-1.png
+    :name: figure-ground-sim-soyuz-1
+    :scale: 50%
+    :align: center
+
+    Astronauci ćwiczą procedury w symulatorze Soyuz w CPK w Gwiezdnym Miasteczku. Źródło: ESA
+
+
+Przyrządy ćwiczeniowe
+=====================
+W siłowniach i laboratoriach w których ćwiczą astronauci coraz częściej zaczyna się wykorzystywać nowoczesne technologie. Wśród nowatorskich pomysłów prowadzi się badania nad wykorzystaniem technologi VR do stymulacji mózgu podczas wykonywania ćwiczenia. Do przyrządów ćwiczeniowych wykorzystywanych podczas szkolenia i późniejszej rehabilitacji powracających z orbity astronautów można zaliczyć:
+
+- koło reńskie obroty prawo-lewo,
+- żyroskop - obrót wokół trzech osi,
+- looping - huśtawka 360° z możliwością obrotu wokól osi pionowej ćwiczącego,
+- ergometr,
+- pionowe bieżnie (ang. *vertical treadmill*),
+- połączenie systemów VR i bieżni zmieniających pochylenie i odchylenie (ang. *Adaptability Training System*),
+- system bieżni nadciśnieniowych (ALTER).
+
+System Vertical Treadmill dzięki zmianie kąta pochylenia bieżni i odległości wysięgnika ma możliwość zmiany  obciążenia odczuwalnego do symulowania grawitacji 1/6g (Księżyc) oraz 1/3g (Mars) :numref:`figure-ground-vr-vertical-treadmill`
+
+.. figure:: ../img/ground-vr-vertical-treadmill.jpg
+    :name: figure-ground-vr-vertical-treadmill
+    :scale: 50%
+    :align: center
+
+    Astronauta podczas ćwiczenia na Vertical Treadmill. Źródło: NASA
+
 
 Eksperymenty izolacyjne
 =======================
+
 
 Loty paraboliczne
 =================
@@ -231,8 +311,10 @@ ESA
 
 CNSA
 
+
 Komory ciśnień
 ==============
+
 
 Komory termalne
 ===============
