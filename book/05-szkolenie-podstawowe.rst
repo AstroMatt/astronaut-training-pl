@@ -15,67 +15,131 @@ Szkolenie podstawowe astronautów, które  dzieli się na 4 główne części:
 - trening spacerów kosmincznych,
 - pilotaż.
 
-W czterech następnych rozdziałach autor przybliży każdy z powyższych tematów.
+W kolejnych rozdziałach autor przybliży każdy z powyższych tematów.
 
 
 Przygotowanie teoretyczne i wiedza ogólna
 =========================================
+Głównym celem szkolenia jest wyrównanie poziomu wiedzy i umijejętności kandydatów pochodzących z różnych specjalizacji i dziedzin i wprowadzenie spójnego zasobu wiedzy, który stanowi podstawę do dalszego szkolenia. Ukończenie kursu podstawowego pozwala na zmianę tytułu z "kandydat na astronautę" na "astronauta" :cite:`NASA-Astronaut-Candidate-Program`. Jest to proces wymagający wielu poświęceń z życia prywatnego, który determinuje zasadność dalszych inwestycji przez agencję kosmiczną. W trakcie zbierania materiałów autor dotarł źródła pragnącego zachować anonimowość, które przekazało informację, że tylko 60% astronautów nadaje się do przydziałów do dalszych misji. Zgodnie z wywiadem pozostali "osiadają na laurach i przestają się uczyć", a ciągłe kształcenie jest podstawą specyfiki tego zawodu. Proces szkolenia podstawowego stanowi jeden z etapów weryfikacji umiejętności i zaangażowania.
 
 Nauka języków obcych i przygotowanie kulturowe
 ----------------------------------------------
-Wg. wielu astronautów nierosyjskojęzycznych najtrudniejszym etapem szkolenia jest nauka języka rosyjskiego. Przed wysłaniem na szkolenie do Centrum Przygotowania Kosmonautów każdy astronauta musi przejść kurs składający się z 1000 godzin nauki tego języka :cite:`ESA-Astronaut-Training-Requirements`, :cite:`Peake2017`.
+Wg. wielu astronautów dla których język rosyjski nie jest ojczystym najtrudniejszym etapem szkolenia jego nauka. Przed wysłaniem na szkolenie do Centrum Przygotowania Kosmonautów każdy astronauta musi przejść kurs składający się z 1000 godzin praktyki tego języka :cite:`ESA-Astronaut-Training-Requirements`, :cite:`Peake2017`.
 
 Praca w międzynarodowym środowisku wymaga znajomości zachowań i różnic kulturowych, dlatego wśród zajęć w ramach szkolenia podstawowego prowadzi się przedmiot związany z przygotowaniem kulturowym.
 
 Przygotowanie teoretyczne z nauk przyrodniczych i technicznych
 --------------------------------------------------------------
-- Konstrukcja rakiet
-- dynamika lotów
+Podstawą badań prowadzonych w kosmosie są nauki przyrodnicze i techniczne. Ze względu na konieczność wyrównania wiedzy osób z różnych środowisk w ramach szkolenia teoretycznego i wiedzy ogólnej astronauci uczestniczą w zajęciach z przedmiotów tj.:
 
+- biologia (zoologia i botanika),
+- geologia,
+- geofizyka,
+- obserwacje meteorologiczne,
+- obserwacje geograficzne i oceanograficzne,
+- inżynieria materiałowa,
+- dynamika płynów,
+- mechanika,
+- fizyka,
+- robotyka.
 
-Kurs nawigacji kosmicznej i mechaniki orbitalnej
-------------------------------------------------
-Wynoszenie na orbitę
-Manewry na orbicie
-Transfer pomiędzy orbitami i zmiany inklinacji
+Kurs inżynierii kosmicznej i systemowej
+---------------------------------------
+Każdy astronauta z założenia powinien przyswoić sobie działanie systemów statków kosmicznych i stacji orbitalnej. W tym celu podzczas kursu kandydackiego wykładane są przedmioty z zakresu inżynierii kosmicznej (ang. *aerospace engineering*) i inżynierii systemowej (ang. *systems engineering*). Wśród przedmiotów wykładanych w formie zajęć teoretycznych można wymienić:
 
-    - Hohmann transfer
-    - Bielliptic tranfer (Bielliptic jest uzywany w Soyuz aby upewnic sie czy predkosc oraz odleglosc jest odpowiednia)
+- aerodynamika lotów atmosferycznych dużych prędkości (lot i przejście między prędkościami):
 
-Operacje Rendezvous i dokowania
+    - poddźwiękowe (ang. *subsonic*) <0,8 Ma,
+    - okołodźwiękowe (ang. *transonic*) 0,8-1,3 Ma,
+    - naddźwiękowe (ang. *supersonic*) 1,3–5,0 Ma,
+    - hiperdźwiękowe (ang. *hipersonic*) 5,0–10,0 Ma,
+    - wysoko hiperdźwiękowe (ang. *high-hypersonic*) 10,0–25,0 Ma,
+    - wejścia atmosferycznego (ang. *re-entry*) >25,0 Ma,
 
-    - Fly-around manouvre
-    - Redocking
+- materiały i kompozyty używane w technice kosmicznej,
+- konstrukcja rakiet i silników rakietowych,
+- dynamika lotu rakiety,
+- paliwa rakietowe i systemu RCS,
+- dynamika lotu statków kosmicznych,
+- orbitalne systemy manewrowe,
+- planowanie misji i ładunku (ang. *Mission design and payloads*)
+- systemy kontroli i zmiany ustawienia (ang. *ADCS - Attitude Dynamic and Control Subsystems*)
+- systemy zmiany orbity (ang. *OCS - Orbit Control System*)
+- systemy zasilania oraz pozyskiwania energii (ang. *power*),
+- systemy przechowywania energii (ang. *Power Storage*)
+- systemy odprowadzania ciepła (ang. *thermal),
+- telemetria, śledzenie i sterowanie (ang. *TT&C - Telemetry-Tracking and Control*),
+- sterowanie i kontrola (ang. *Command and Control*),
+- układy liczące i architektura logiczna (ang. *On-board processors*),
+- oprogramowanie sterujące (ang. *OBSW - On-board software*),
+- systemy awaryjne, detekcji awarii, izolacji i przywracania (ang. *Safe Mode, Fault Detection, Isolation and Recovery*),
+- architektura segmentu naziemnego (ang. *ground segment*),
+- architektura systemów ratunkowych,
+- systemy podtrzymywania życia (ang. *ECLSS - Environmental Control and Life Support System*).
 
-Operacja opuszczania orbity i wejścia w atmosferę
-Nawigacja kosmiczna za pomocą gwiazd
+Kurs astrodynamiki, nawigacji i mechaniki orbitalnej
+----------------------------------------------------
+W ramach kursu wyrównującego wiedzę kandydaci na astronautów muszą przyswoić wiedzę z szerokiego zakresu nawigacji, astrodynamiki i mechaniki orbitalnej. Wśród tematów poruszanych na szkoleniach można wymienić:
+
+- podstawy balistyki,
+- nawigacja i pozycjonowanie,
+- trajektoria lotu orbitalnego,
+- manewry orbitalne i asysty grawitacyjne,
+- transfery orbitalne:
+
+    - transfer Hohmanna,
+    - transfer dwueliptyczny (ang. *Bi-elliptic transfer*),
+
+- zmiany inklinacji,
+- operacje zbliżania i dokowania (ang. *rendezvous and docking*),
+- manewry "Fly-around"
+- przebazowanie (ang. *redocking*),
+- odejście,
+- obniżanie orbity i wejście w atmosferę.
 
 Przygotowanie medyczne i dentystyczne
 -------------------------------------
-.. todo:: Przygotowanie medyczne
-    - http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/ongoing-training.asp
-    - Given all of the risks involved in space missions and the requirements of certain scientific experiments, the astronauts must be able to perform medical interventions if necessary, such as:
+Podczas pobytu na międzynarodowej stacji kosmicznej oraz w trakcie długotrwałego lotu astronauci są zdani wyłącznie na pomoc medyczną udzieloną w ramach zespołu :cite:`CSAOngoingTraining`. Operacje medyczne dotyczą nie tylko sytuacji awaryjnych, lecz również rutynowych zadań wykonywanych podczas badań naukowych. Do typowych czynności należą:
 
-        - drawing blood
-        - ultrasounds
-        - cardio-pulmonary resuscitation
-        - sutures
-.. todo::
-    - http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/ongoing-training.asp
-    - In 1973, cosmonaut Yuri Romanenko experienced tooth pain during the Salyut 6 mission. He suffered for two weeks until the crew returned to Earth! Since then, astronauts have received training in dentistry.
+- pobieranie krwi (ang. *drawing blood*),
+- pobieranie próbek śliny i płynów ustrojowych,
+- badanie ultrasonograficzne (ang. *ultrasounds*),
+- resuscytacja krążeniowo oddechowa (ang. *cardio-pulmonary resuscitation*),
+- szycie (ang. *suture*).
+
+Podczas lotu Jurija Romanenko w 1973 roku w ramach misji Salyut 6 kosmonauta doznał bólu zęba. Ból był tak silny, że rzutował na jego sprawność podczas badań na orbicie. Kosmonauta był zmuszony czekać dwa tygodnie do czasu powrotu na Ziemię aby uzyskać pomoc dentystyczną. Od tamtego czasu wszyscy astronauci przechodzą podstawowy kurs stomatologiczny.
+
+.. figure:: ../img/training-dentistry.jpg
+    :name: figure-training-dentistry
+    :scale: 75%
+    :align: center
+
+    Astronauta CSA David Saint-Jacques podczas kursu dentystycznego. Źródło: Canadian Space Agency
 
 Komunikacja nauki
 -----------------
+Agencje kosmiczne działają w oparciu o środki publiczne uzyskane w ramach uchwalonego budżetu państwa lub państw członkowskich (w przypadku ESA). Aby zwiększyć świadomość publiczną a co za tym idzie poparcie i dofinansowanie programów konieczna jest działalność w kontekście popularyzacji nauki, technologii, inżynierii (sztuki) i matematyki (and. *S.T.E.M./S.T.E.A.M. - Science Technology Engineering (Arts) Mathematics*).
 
-- Wykorzystanie mediów społecznościowych do popularyzacji nauki i misji
-- Przemówienia publiczne i "Space Advocacy"
-- Amatorskie radio krótkofalowe
+W ramach szkolenia kandydackiego astronautów poruszane są tematy:
 
-Routine Ops
------------
-- Fotografia
-- Strzyżenie włosów
-- Długie włosy mogą się zaczepić w rzepy lub śrubki
+- wykorzystanie mediów społecznościowych do popularyzacji nauki i misji,
+- nauka wystąpień publicznych i "Space Advocacy",
+- wykorzystanie amatorskiego radia krótkofalowego.
+
+Astronauci są osobami publicznymi często występującymi przed zgromadzeniami. Od ich prezencji i sposoby wypowiadania się zależy wizerunek agencji i całego programu kosmicznego. Z tego powodu agencje kosmiczne już podczas selekcji cenią umiejętność przemiówień publiczncyh. Ponadto konieczna jest umiejętność prezentacji skomplikowanych problemów w prosty i przystępny sposób nawet dla najmłodszego odbiorcy.
+
+Czynności rutynowe
+------------------
+W ramach przedmiotu Routine Ops astronauci przyswajają umiejętności związane z:
+
+- fotografią,
+- strzyżeniem włosów,
+- sprzątaniem,
+- korzystnaiem z toalety,
+- korzystaniem ze sprzętu elektronicznego,
+- naprawami sprzętu i toalety.
+
+Ze względu na fakt iż długie włosy mogą się zaczepić w powszechnie wykorzystywane w kosmosie rzepy lub śrubki astronauci są zmuszeni do ich okresowego ścinania. W trakcie przedmiotu uczeni są technik fryzjerskich na sobie oraz na innych członkach załogi.
 
 
 Treningi i symulacje
