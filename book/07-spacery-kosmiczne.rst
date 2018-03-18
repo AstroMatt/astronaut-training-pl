@@ -513,8 +513,11 @@ Symulacja prac w basenie doskonałej pływalności
         - NBL: dwóch nurków (EV1, EV2) na jednego astronautę Safety Diver + jeden (Float Diver) z kamerą i zmieniają się co dwie godziny, video jest do prezentacji i do analizowania szkoleń
         - Na dwie osoby trenujące EVA jest około 40 osób, które upewniają się, że wszystko jest bezpiecznie
 
-Komory ciśnieniowe
-==================
+
+Komory termincze i ciśnieniowe
+==============================
+Test skafandrów w komorach ciśnieniowych
+
 (ang. *vacuum chamber*)
 
 .. figure:: ../img/spacesuit-skol-pressure-test-vacuum-monitoring.jpg
@@ -524,15 +527,11 @@ Komory ciśnieniowe
 
     Astronauta ESA Andreas Mogensen podczas testów skafandra w komorze ciśnieniowej w Gwiezdnym Miasteczku. Żródło: ESA/EAC
 
-Komory termiczne
-================
-(ang. *thermal chamber*)
 
-Systemy podwieszania
-====================
-
-.. figure:: ../img/eva-suspension-system.png
-    :name: figure-eva-suspension-system
+Trening wykorzystujący systemy podwieszania
+===========================================
+.. figure:: ../img/eva-suspension-01.jpg
+    :name: figure-eva-suspension-01
     :scale: 75%
     :align: center
 

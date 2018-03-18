@@ -4,11 +4,11 @@ Infrastruktura szkoleniowa
 
 Centra szkolenia astronautów
 ============================
-Szkolenie astronautów odbywa się w wyspecjalizowanych ośrodkach treningowych. :numref:`table-ground-training-centers` przedstawia listę centrów szkoleniowych.
+Szkolenie astronautów odbywa się w wyspecjalizowanych ośrodkach treningowych. :numref:`table-infrastructure-training-centers` przedstawia listę centrów szkoleniowych.
 
 .. csv-table:: Lista ośrodków szkoleniowych astronautów.
-    :name: table-ground-training-centers
-    :file: ../data/ground-training-centers.csv
+    :name: table-infrastructure-training-centers
+    :file: ../data/infrastructure-training-centers.csv
     :header-rows: 1
     :widths: 10, 20, 40, 10, 10, 10
 
@@ -42,12 +42,12 @@ Baseny doskonałej pływalności
 Od czasów przygotowania do lotu w ramach misji Gemini 12, gdy amerynański astronauta Buzz Aldrin jako pierwszy wykorzystał techiniki nurkowania w celu symulacji spacerów kosmicznych agencje kosmiczne zaczęły wykorzystywać ośrodki neutralnej pływalności (ang. *NBL - Neutral Buoyancy Laboratory*) do szkolenia astronautów.
 
 .. csv-table:: Lista basenów neutralnej pływalności
-    :name: table-ground-neutral-buoyancy-pools
-    :file: ../data/ground-neutral-buoyancy-pools.csv
+    :name: table-infrastructure-neutral-buoyancy-pools
+    :file: ../data/infrastructure-neutral-buoyancy-pools.csv
     :header-rows: 1
 
-.. figure:: ../img/ground-neutral-buoyancy-comparision.svg
-    :name: figure-ground-neutral-buoyancy-comparision
+.. figure:: ../img/infrastructure-neutral-buoyancy-comparision.svg
+    :name: figure-infrastructure-neutral-buoyancy-comparision
     :scale: 125%
     :align: center
 
@@ -59,8 +59,8 @@ Największym ośrodkiem szkoleniowym neutralnej pływalności jest NBL (Neutral 
 
 Obecnie gdy ISS jest w pełni operacyjny w basenie NBL odbywa się bardzo dużo symulacji związanych z przygotowaniem do misji. Kalendarz symulacji jest wypełniony w 100% a treningi odbywają się w trzech zmianach ośmiogodzinnych na dobę. Pozostawia to niewielki margines na opracowywanie planów oraz testów dla technologii związanych z przyszłą eksploracją. Z tego powodu astronauci innych agencji szkolą się w swoich centrach w ramach "EVA pre-familiarisation", a następnie udają się do Huston w celu finalnego szkolenia i certyfikacji w wykorzystaniu skafandra EMU.
 
-.. figure:: ../img/ground-neutral-buoyancy-nbl.jpg
-    :name: figure-ground-neutral-buoyancy-nbl
+.. figure:: ../img/infrastructure-neutral-buoyancy-nbl.jpg
+    :name: figure-infrastructure-neutral-buoyancy-nbl
     :scale: 25%
     :align: center
 
@@ -87,8 +87,8 @@ Późniejszy przydział do spacerów kosmicznych podczas misji bazuje na ewaluac
 
 Ponadto ośrodek wykorzystywany jest również jako miejsce testowania narzędzi i procedur opracowywanych dla przyszłych misji.
 
-.. figure:: ../img/ground-neutral-buoyancy-nbf.jpg
-    :name: figure-ground-neutral-buoyancy-nbf
+.. figure:: ../img/infrastructure-neutral-buoyancy-nbf.jpg
+    :name: figure-infrastructure-neutral-buoyancy-nbf
     :scale: 25%
     :align: center
 
@@ -98,8 +98,8 @@ Roscosmos - Hydro Lab
 ---------------------
 W celu certyfikacji do korzystania z rosyjskiego skafandra Orlan astronauci muszą przejść kurs w Centrum Przygotowania Kosmonautów w Gwiezdnym Miasteczku. Ośrodek ten wypostażony jest w basen Hydro Lab znajdujący się w budyku numer 30 oraz 32. :cite:`RoscosmosHydroLab`.
 
-.. figure:: ../img/ground-neutral-buoyancy-hydrolab.jpg
-    :name: figure-ground-neutral-buoyancy-hydrolab
+.. figure:: ../img/infrastructure-neutral-buoyancy-hydrolab.jpg
+    :name: figure-infrastructure-neutral-buoyancy-hydrolab
     :scale: 50%
     :align: center
 
@@ -109,8 +109,8 @@ CNSA - Neutral Buoyancy Facility
 --------------------------------
 Chińska Państwowa Agencja Kosmiczna otworzyła ośrodek do szkolenia taikonautów CNSA w Centrum Astronautycznym w Pekinie w Chinach. Ośrodek ten jednoczeńsnie służy do certyfikacji z użytkownia skafandrów Feitan.
 
-.. figure:: ../img/ground-neutral-buoyancy-acc.jpg
-    :name: figure-ground-neutral-buoyancy-acc
+.. figure:: ../img/infrastructure-neutral-buoyancy-acc.jpg
+    :name: figure-infrastructure-neutral-buoyancy-acc
     :scale: 50%
     :align: center
 
@@ -124,8 +124,8 @@ University of Maryland - Neutral Buoyancy Research Facility
 -----------------------------------------------------------
 Wybudowany w ramach grantu NASA w którym udział wziął wydział Space Systems Laboratory uczelni Massachusetts Institute of Technology (MIT). Ze względu na brak miejsca na kampusie zdecydowano się na konstrukcję basenu na uniwersytecie stanu Maryland.
 
-.. figure:: ../img/ground-neutral-buoyancy-nbrf.jpg
-    :name: figure-ground-neutral-buoyancy-nbrf
+.. figure:: ../img/infrastructure-neutral-buoyancy-nbrf.jpg
+    :name: figure-infrastructure-neutral-buoyancy-nbrf
     :scale: 50%
     :align: center
 
@@ -152,13 +152,13 @@ Do najważniejszych wirówek przeciążeniowych wykorzystywanych w załogowych l
 - Short Radius Centrifuge, NASA.
 
 .. csv-table:: Lista wirówek przeciążeniowych używanych do przygotowania astronautów w załogowych lotach
-    :name: table-ground-centrifuge-human
-    :file: ../data/ground-centrifuge-human.csv
+    :name: table-infrastructure-centrifuge-human
+    :file: ../data/infrastructure-centrifuge-human.csv
     :header-rows: 1
 
 CPK - CF-7
 ----------
-Wirówka przeciążeniowa CF-7 została uruchomiona w 1973 roku. Wybrane parametry technicze przedstawia :numref:`table-ground-centrifuge-human`. Zakres badań prowadzonych w urządzeniu :cite:`CPKCentrifuge`:
+Wirówka przeciążeniowa CF-7 została uruchomiona w 1973 roku. Wybrane parametry technicze przedstawia :numref:`table-infrastructure-centrifuge-human`. Zakres badań prowadzonych w urządzeniu :cite:`CPKCentrifuge`:
 
 - test tolerancji przyspieszenia podczas szkolenia i selekcji pilotów i kosmonautów,
 - badanie wpływu ekstremalnych warunków lotów kosmicznych na organizm człowieka,
@@ -167,8 +167,8 @@ Wirówka przeciążeniowa CF-7 została uruchomiona w 1973 roku. Wybrane paramet
 - stworzenie symulatora przyszłych pojazdów kosmicznych i samolotów,
 - testowanie lotniczych i kosmicznych modeli.
 
-.. figure:: ../img/ground-centrifuge-cf-7.jpg
-    :name: figure-ground-centrifuge-cf-7
+.. figure:: ../img/infrastructure-centrifuge-cf-7.jpg
+    :name: figure-infrastructure-centrifuge-cf-7
     :scale: 75%
     :align: center
 
@@ -176,10 +176,10 @@ Wirówka przeciążeniowa CF-7 została uruchomiona w 1973 roku. Wybrane paramet
 
 CPK - CF-18
 -----------
-W 1980 roku w Centrum Przygotowania Kosmonautów otworzono drugą wirówkę przeciążeniową, która umożliwia zmianę kabin, oraz parametrów w kabinie takich jak temperatura, skład powietrza, wilgotność i ciśnienie. Wirówka CF-18 ma większy gradient przyspieszenia oraz maksymalną prędkość obrotową dającą przyspieszenie rzędu 30g :cite:`CPKCentrifuge`. Wybrane parametry technicze przedstawia :numref:`table-ground-centrifuge-human`.
+W 1980 roku w Centrum Przygotowania Kosmonautów otworzono drugą wirówkę przeciążeniową, która umożliwia zmianę kabin, oraz parametrów w kabinie takich jak temperatura, skład powietrza, wilgotność i ciśnienie. Wirówka CF-18 ma większy gradient przyspieszenia oraz maksymalną prędkość obrotową dającą przyspieszenie rzędu 30g :cite:`CPKCentrifuge`. Wybrane parametry technicze przedstawia :numref:`table-infrastructure-centrifuge-human`.
 
-.. figure:: ../img/ground-centrifuge-cf-18.jpg
-    :name: figure-ground-centrifuge-cf-18
+.. figure:: ../img/infrastructure-centrifuge-cf-18.jpg
+    :name: figure-infrastructure-centrifuge-cf-18
     :scale: 75%
     :align: center
 
@@ -187,10 +187,10 @@ W 1980 roku w Centrum Przygotowania Kosmonautów otworzono drugą wirówkę prze
 
 NASA - Ames Research Center 20-G Centrifuge
 -------------------------------------------
-Amerykańska wirówka przeciążeniowa 20-G Centrifuge znajduje się w ośrodku Ames Research Center, Moffett Field, CA w USA. Urządzenie służy do szkolenia personelu latającego Air Force, US Navy oraz dla astronautów NASA :cite:`NASACentrifuge`. Wybrane parametry technicze przedstawia :numref:`table-ground-centrifuge-human`.
+Amerykańska wirówka przeciążeniowa 20-G Centrifuge znajduje się w ośrodku Ames Research Center, Moffett Field, CA w USA. Urządzenie służy do szkolenia personelu latającego Air Force, US Navy oraz dla astronautów NASA :cite:`NASACentrifuge`. Wybrane parametry technicze przedstawia :numref:`table-infrastructure-centrifuge-human`.
 
-.. figure:: ../img/ground-centrifuge-20g.jpg
-    :name: figure-ground-centrifuge-20g
+.. figure:: ../img/infrastructure-centrifuge-20g.jpg
+    :name: figure-infrastructure-centrifuge-20g
     :scale: 25%
     :align: center
 
@@ -233,8 +233,8 @@ VRL wyposażony jest w symulatory i urządzenia pozwalające na odtworznie zewn�
 - umiejętności lokalizacji względem elementów stacji,
 - transferu między modułami stacji.
 
-.. figure:: ../img/ground-vr-combined.png
-    :name: figure-ground-vr-combined
+.. figure:: ../img/infrastructure-vr-combined.png
+    :name: figure-infrastructure-vr-combined
     :scale: 33%
     :align: center
 
@@ -242,10 +242,10 @@ VRL wyposażony jest w symulatory i urządzenia pozwalające na odtworznie zewn�
 
 Haptics Lab ESA
 ---------------
-Laboratorium Haptics Europejskiej Anencji Kosmicznej znajduje się w Centrum Inżynierii i Nauki ESTEC w Holandii. Laboratorium umożliwia testowanie systemów robotycznych oraz interfejsu HMI. W laboratorium opracowano egzoszkielet X-Arm-II (:numref:`figure-ground-vr-exoskeleton`). Ponadto astronauci ESA ćwiczą umiejętność sterowania łazikami z wykorzystaniem kontrolerów z Force Feedback.
+Laboratorium Haptics Europejskiej Anencji Kosmicznej znajduje się w Centrum Inżynierii i Nauki ESTEC w Holandii. Laboratorium umożliwia testowanie systemów robotycznych oraz interfejsu HMI. W laboratorium opracowano egzoszkielet X-Arm-II (:numref:`figure-infrastructure-vr-exoskeleton`). Ponadto astronauci ESA ćwiczą umiejętność sterowania łazikami z wykorzystaniem kontrolerów z Force Feedback.
 
-.. figure:: ../img/ground-vr-exoskeleton.jpg
-    :name: figure-ground-vr-exoskeleton
+.. figure:: ../img/infrastructure-vr-exoskeleton.jpg
+    :name: figure-infrastructure-vr-exoskeleton
     :scale: 25%
     :align: center
 
@@ -266,8 +266,8 @@ Symulatory lotu służą nie tylko szkoleniu astronatów ale również pozwalaj�
 - Boeing CS-100 Starliner,
 - SpaceX Crew Dragon.
 
-.. figure:: ../img/ground-sim-soyuz-1.jpg
-    :name: figure-ground-sim-soyuz-1
+.. figure:: ../img/infrastructure-sim-soyuz-1.jpg
+    :name: figure-infrastructure-sim-soyuz-1
     :scale: 33%
     :align: center
 
@@ -286,10 +286,10 @@ W siłowniach i laboratoriach w których ćwiczą astronauci coraz częściej za
 - połączenie systemów VR i bieżni zmieniających pochylenie i odchylenie (ang. *Adaptability Training System*),
 - system bieżni nadciśnieniowych (ALTER).
 
-System Vertical Treadmill dzięki zmianie kąta pochylenia bieżni i odległości wysięgnika ma możliwość zmiany  obciążenia odczuwalnego do symulowania grawitacji 1/6g (Księżyc) oraz 1/3g (Mars) :numref:`figure-ground-gym-vertical-treadmill`.
+System Vertical Treadmill dzięki zmianie kąta pochylenia bieżni i odległości wysięgnika ma możliwość zmiany  obciążenia odczuwalnego do symulowania grawitacji 1/6g (Księżyc) oraz 1/3g (Mars) :numref:`figure-infrastructure-gym-vertical-treadmill`.
 
-.. figure:: ../img/ground-gym-vertical-treadmill.jpg
-    :name: figure-ground-gym-vertical-treadmill
+.. figure:: ../img/infrastructure-gym-vertical-treadmill.jpg
+    :name: figure-infrastructure-gym-vertical-treadmill
     :scale: 75%
     :align: center
 
@@ -304,18 +304,18 @@ W celu zapoznania astronautów z wpływem mikrograwitacji na organizm człowieka
 - przyciąganie na powierzchni Księżyca (16,6% przyciągania ziemskiego),
 - przyciąganie na powierzchni Marsa (40% przyciągania ziemskiego).
 
-:numref:`table-ground-parabollic` przedstawia zestawienie samolotów używanych przez agencje kosmiczne i prywatne firmy do lotów parabolicznyh.
+:numref:`table-infrastructure-parabollic` przedstawia zestawienie samolotów używanych przez agencje kosmiczne i prywatne firmy do lotów parabolicznyh.
 
-.. figure:: ../img/ground-parabollic-profile.jpg
-    :name: figure-ground-parabollic-profile
+.. figure:: ../img/infrastructure-parabollic-profile.jpg
+    :name: figure-infrastructure-parabollic-profile
     :scale: 75%
     :align: center
 
     Profil lotu parabolicznego podczas symulacji stanu braku grawitacji. Źródło: Nature
 
 .. csv-table:: Zestawienie samolotów używanych do lotów parabolicznych
-    :name: table-ground-parabollic
-    :file: ../data/ground-parabollic.csv
+    :name: table-infrastructure-parabollic
+    :file: ../data/infrastructure-parabollic.csv
     :header-rows: 1
 
 
@@ -340,8 +340,8 @@ Systemy podwieszania
 ====================
 Do przygotowania astronautów w ograniczonym zakresie ruchu oraz przy zmieniającej się perspektywie widoku w programach szkolenia zastosowano system podwieszania. Ponadto system podwieszania pozwala na odciążenie astronauty i symulację grawitacji panującej na Księżycy, Marsie i innych ciałach niebieskich.
 
-.. figure:: ../img/eva-suspension-schematics.png
-    :name: figure-eva-suspension-schematics
+.. figure:: ../img/infrastructure-suspension-schematics.png
+    :name: figure-infrastructure-suspension-schematics
     :scale: 75%
     :align: center
 
