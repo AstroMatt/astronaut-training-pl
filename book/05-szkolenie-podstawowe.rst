@@ -29,6 +29,9 @@ Praca w międzynarodowym środowisku wymaga znajomości zachowań i różnic kul
 
 Przygotowanie teoretyczne z nauk przyrodniczych i technicznych
 --------------------------------------------------------------
+- Konstrukcja rakiet
+- dynamika lotów
+
 
 Kurs nawigacji kosmicznej i mechaniki orbitalnej
 ------------------------------------------------
@@ -47,8 +50,8 @@ Operacje Rendezvous i dokowania
 Operacja opuszczania orbity i wejścia w atmosferę
 Nawigacja kosmiczna za pomocą gwiazd
 
-Przygotowanie medyczne
-----------------------
+Przygotowanie medyczne i dentystyczne
+-------------------------------------
 .. todo:: Przygotowanie medyczne
     - http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/ongoing-training.asp
     - Given all of the risks involved in space missions and the requirements of certain scientific experiments, the astronauts must be able to perform medical interventions if necessary, such as:
@@ -57,9 +60,6 @@ Przygotowanie medyczne
         - ultrasounds
         - cardio-pulmonary resuscitation
         - sutures
-
-Przygotowanie dentystyczne
---------------------------
 .. todo::
     - http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/ongoing-training.asp
     - In 1973, cosmonaut Yuri Romanenko experienced tooth pain during the Salyut 6 mission. He suffered for two weeks until the crew returned to Earth! Since then, astronauts have received training in dentistry.

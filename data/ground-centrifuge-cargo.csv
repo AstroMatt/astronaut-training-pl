@@ -1,0 +1,8 @@
+Właściciel,Lokacja,Nazwa,Skrót,Certyfikacja do badań na człowieku,Używana w programie szkolenia astronautów,Promień [m],Przyspieszenie maksymalne [g],Maks. prędkość obbrotowa [RPM],Udźwig maksymalny [kg],Komentarz
+ESA,"ESTEC, Noordwijk, Holandia",Large Diameter Centrifuge,LDC,nie,nie,8,20,,6*80 + 80,próbnik umieszczony centralnie jako próba kontrolna
+DLR,":envihab, Kolonia, Niemcy",Short Arm Human Centrifuge,SAHC,tak,nie,b/d,b/d,,,
+WIML,"WIML, Warszawa, Polska",Wirówka przeciążeniowa - symulator szkoleniowy,Wirówka,tak,nie,b/d,b/d,,,
+NASA,"Ames Research Center, CA, USA",8-Foot Diameter Centrifuge,,nie,nie,1.22,4,42.3,87,
+NASA,"Ames Research Center, CA, USA",2-Meter Diameter Centrifuge,,nie,nie,,,,,
+NASA,"Ames Research Center, CA, USA",24-Foot Diameter Centrifuge,,nie,nie,,,,,
+QinetiQ Sweden AB,"Flight Physiological Center, Linkoping, Szwecja",Dynamic Flight Simulator,DFS,tak,nie,,15g,,,

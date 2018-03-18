@@ -29,7 +29,6 @@ Za czasów programu Apollo astronauci byli szkoleni również z pilotażu śmig�
 
 Pilotaż oraz wykorzystanie systemów statku kosmicznego Soyuz
 ============================================================
-
 .. figure:: ../img/spacecraft-soyuz-systems.png
     :name: figure-spacecraft-soyuz-systems
     :scale: 50%
@@ -47,6 +46,16 @@ Pilotaż oraz wykorzystanie systemów statku kosmicznego Soyuz
     :name: table-soyuz-systems
     :file: ../data/soyuz-systems.csv
     :header-rows: 1
+
+.. todo::
+    Prelaunch preparation of the spacecraft;
+    Insertion to the orbit;
+    Orbital maneuvering;
+    Approaching and docking, joint flight with the ISS;
+    Undocking from the ISS;
+    Reentry from the orbit;
+    Landing and final operations after landing.
+
 
 .. todo:: PTT; Part Tasks Trainier; 1on1 computer simulation Training failures one at a time, instructor shows on a display normal conditions and then simulates what it would look like if for example pomp would not work
     ptt of thermal systems of Soyuz

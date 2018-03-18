@@ -5,7 +5,7 @@
 
     book/01-wstep.rst
     book/02-rys-historyczny.rst
-    book/03-osrodki-szkoleniowe.rst
+    book/03-infrastruktura-szkoleniowa.rst
     book/04-selekcja-astronautow.rst
     book/05-szkolenie-podstawowe.rst
     book/06-robotyka-i-systemy-iss.rst
