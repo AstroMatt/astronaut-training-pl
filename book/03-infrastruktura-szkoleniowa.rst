@@ -61,7 +61,7 @@ Obecnie gdy ISS jest w pełni operacyjny w basenie NBL odbywa się bardzo dużo 
 
 .. figure:: ../img/ground-neutral-buoyancy-nbl.jpg
     :name: figure-ground-neutral-buoyancy-nbl
-    :scale: 50%
+    :scale: 25%
     :align: center
 
     Basen neutralnej pływalności NBL znajdujący się w Huston, TX, USA. Źródło: NASA/JSC
@@ -89,7 +89,7 @@ Ponadto ośrodek wykorzystywany jest również jako miejsce testowania narzędzi
 
 .. figure:: ../img/ground-neutral-buoyancy-nbf.jpg
     :name: figure-ground-neutral-buoyancy-nbf
-    :scale: 50%
+    :scale: 25%
     :align: center
 
     Basen neutralnej pływalności NBF znajdujący się w European Astronaut Center w Kolonii w Niemczech. Źródło: ESA/S. Corvaja
@@ -133,24 +133,15 @@ Wybudowany w ramach grantu NASA w którym udział wziął wydział Space Systems
 
 Wirówki przeciążeniowe
 ======================
-Wirówki przeciążeniowe są urządzeniami zdolnymi dzięki zwięszkaniu prędkości obrotowej zwiększyć siłę odśrodkową i odczuwalne przyspiesznie grawitacyjne (ang. *g-load*). Dzięki wirówkom możliwe jest testowanie oraz trenowanie tolerancji organizmu na przeciążenia.
-
-Zwiększony poziom przeciążeń może powodować u astronauty utratę świadomości wywołaną grawitacją, czyli tzw. G-LOC (ang. *Gravity Induced Loss of Consciousness*). W zależności od kierunku działania wektora przyspieszenia oraz czasu trwania przyspieszenia i jego intensywności pojawiają się efekty:
+Wirówki przeciążeniowe są urządzeniami zdolnymi dzięki zwięszkaniu prędkości obrotowej zwiększyć siłę odśrodkową i odczuwalne przyspiesznie grawitacyjne (ang. *g-load*). Dzięki wirówkom możliwe jest testowanie oraz trenowanie tolerancji organizmu na przeciążenia. W zależności od kierunku działania wektora przyspieszenia, czasu trwania i jego intensywności pojawiają się efekty:
 
 - utraty kolorów wizji (ang. *grey-out*),
 - widzenie tunelowe (ang. *tunnel vision*),
 - utraty widzenia (ang. *blackout*)
-- utraty świadomości (ang. *G-LOC*),
+- utraty świadomości (ang. *G-LOC - Gravity Induced Loss of Consciousness*),
+- czerwone widzenia (ang. *redout*) - działanie przyspiesznia ze zwrotem ujemnym (ang. *negative g*).
 
-Ze względu na działanie przyspiesznia ze zwrotem ujemnym (ang. *negative g*) istnieje możliwość czerwonego widzenia (ang. *redout*).
-
-Sytuacje powodujące zwiększanie czynnika przyspieszenia grawitacyjnego:
-
-- manewrowanie samolotem,
-- start rakiety,
-- wejście w atmosferę,
-- awaryjna trajektoria wejścia w atmosferę tzw. krzywa balistyczna,
-- lądowanie.
+Na zwięszkenie czynnika przyspieszenia grawitacyjnego mają wpływ gwałtowne manewrowanie samolotem, start rakiety, wejście w atmosferę, awaryjna trajektoria wejścia w atmosferę tzw. krzywa balistyczna oraz lądowanie.
 
 Do najważniejszych wirówek przeciążeniowych wykorzystywanych w załogowych lotach kosmicznych można zaliczyć:
 
@@ -178,7 +169,7 @@ Wirówka przeciążeniowa CF-7 została uruchomiona w 1973 roku. Wybrane paramet
 
 .. figure:: ../img/ground-centrifuge-cf-7.jpg
     :name: figure-ground-centrifuge-cf-7
-    :scale: 50%
+    :scale: 75%
     :align: center
 
     Wirówka przeciążeniowa CF-7 zajdująca się w Centrum Przygotowania Kosmonautów w Gwiezdnym Miasteczku w Rosji. Źródło: Roscosmos/CPK
@@ -189,7 +180,7 @@ W 1980 roku w Centrum Przygotowania Kosmonautów otworzono drugą wirówkę prze
 
 .. figure:: ../img/ground-centrifuge-cf-18.jpg
     :name: figure-ground-centrifuge-cf-18
-    :scale: 50%
+    :scale: 75%
     :align: center
 
     Wirówka przeciążeniowa CF-18 zajdująca się w Centrum Przygotowania Kosmonautów w Gwiezdnym Miasteczku w Rosji. Źródło: Roscosmos/CPK
@@ -200,7 +191,7 @@ Amerykańska wirówka przeciążeniowa 20-G Centrifuge znajduje się w ośrodku 
 
 .. figure:: ../img/ground-centrifuge-20g.jpg
     :name: figure-ground-centrifuge-20g
-    :scale: 50%
+    :scale: 25%
     :align: center
 
     Wirówka przeciążeniowa 20g zajdująca się w Ames Research Center, Moffett Field, CA w USA. Źródło: NASA/Ames

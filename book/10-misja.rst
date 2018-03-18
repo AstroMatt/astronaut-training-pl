@@ -69,15 +69,15 @@ Zgodnie z tradycją zapoczątkowaną wraz z pierwszymi lotami załogowymi zespo�
 
 Do stworzenia insygniów misji dowódca załogi wyznacza kilka osób, które współpracują z grafikiem i jest to jedna z pierwszych rzeczy jaką robią załogi po uzyskaniu przypisania do misji. Niektóre załogi korzystają z profesjonalnych firm, które zajmują się projektowaniem oraz wykonywaniem insygniów misji :cite:`Anderson2015`, :cite:`Beta-Cloth-Patches`.
 
-.. figure:: ../img/mission-patch-soyuz-30.png
-    :name: figure-mission-patch-soyuz-30
+.. figure:: ../img/insignia-mission-patch-soyuz-30.png
+    :name: figure-insignia-mission-patch-soyuz-30
     :scale: 5%
     :align: center
 
     Insygnia misji Soyuz 30 w ramach programu Interkosmos. W misji wzięli udział gen. Hermaszewski oraz gen. Klimuk. Źródło: Wikipedia
 
-.. figure:: ../img/mission-patch-multiple.jpg
-    :name: figure-mission-patch-multiple
+.. figure:: ../img/insignia-mission-patch-multiple.jpg
+    :name: figure-insignia-mission-patch-multiple
     :scale: 50%
     :align: center
 
