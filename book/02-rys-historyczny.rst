@@ -312,9 +312,9 @@ Program Buran
 -------------
 .. todo:: dopisać coś o selekcji
 
-Program Buran był odpowiedzią na amerykański program Space Shuttle. Pojazd, który został stworzony był podobny wizualnie, ale znacząco się różnił i przewyższał osiągami promy STS. W ramach programu została stworzona również rakieta Energia, która wykorzystywała zmodyfikowane silniki RD-170 z programu *N1*.  Buran wykonał jeden lot testowy 15 listopada 1988 bez załogi podczas, którego wykonał dwa okrążenia Ziemi i dokonał autonomicznego lądowania na pasie startowym *Site 251* - Yubileyniy Airfield otrzymując precyzję lądowania na poziomie 10 m w osi pasa.
+Program Buran był odpowiedzią na amerykański program Space Shuttle. Pojazd, który został stworzony był podobny wizualnie, ale znacząco się różnił i przewyższał osiągami promy STS. W ramach programu została stworzona również rakieta Energia, która wykorzystywała zmodyfikowane silniki RD-170 z programu księżycowego. Buran wykonał jeden lot testowy 15 listopada 1988 bez załogi. Podczas lotu wykonał dwa okrążenia Ziemi i dokonał autonomicznego lądowania na pasie startowym *Site 251* - Yubileyniy Airfield otrzymując precyzję lądowania na poziomie 10 m w osi pasa.
 
-Ze względów geopolitycznych program został zamknięty, a orbitery trafiły do hangaru na kosmodromie Bajkonur oraz do muzeum techniki w niemieckim mieście Speyer. W maju 2002 ze względu na obciążenia dachu wywołane potężną burzą dach hangaru, w którym przebywał Buran oraz rakieta nosiciel Energia zawalił się niszcząc prom.
+Ze względów geopolitycznych program został zamknięty, a orbitery trafiły kolejno do hangaru na kosmodromie Bajkonur oraz do muzeum techniki w niemieckim mieście Speyer. W maju 2002 ze względu na obciążenia dachu wywołane potężną burzą dach hangaru, w którym przebywał Buran oraz rakieta Energia zawalił się niszcząc prom i nosiciela.
 
 .. figure:: ../img/spacecraft-buran-vs-shuttle.png
     :name: figure-spacecraft-buran-vs-shuttle
@@ -325,9 +325,9 @@ Ze względów geopolitycznych program został zamknięty, a orbitery trafiły do
 
 Stacja kosmiczna Mir
 --------------------
-Stacja kosmiczna Mir (ros. pokój) była bezpośrednim kontynuatorem programu Salut i pierwowzorem dla ISS. Początkowo służyła wyłącznie kosmonautom ZSRR oraz w ramach programu Interkosmos. Po upadku Związku Radzieckiego umożliwiono loty międzynarodowych załóg. Podczas ponad 15 lat pracy na orbicie gościła 28 stałych załóg i wiele tymczasowych pobytów amerykańskich promów Space Shuttle.
+Stacja kosmiczna Mir (ros. pokój) była bezpośrednim kontynuatorem programu Salut i pierwowzorem dla ISS. Początkowo służyła wyłącznie kosmonautom ZSRR oraz była udostępniana w ramach programu Interkosmos. Po upadku Związku Radzieckiego umożliwiono loty międzynarodowych załóg. Podczas ponad 15 lat pracy na orbicie gościła 28 stałych załóg i wiele tymczasowych wizyt amerykańskich promów Space Shuttle.
 
-Jej konstrukcja rozpoczęła się od przeniesienia zasobów dostarczonych przez Progress-25 i Progress-26. Zadanie wykonała załoga Sojuz T-15 (Leonid Kizim, Władimir Sołowjow). Ponadto podczas 50 dniowego pobytu załoga również odwiedziła stację Salut-7 w celu przewiezienia części wyposażenia na Mir. Na chwilę obecną jest to jedyny przypadek w historii aby astronauci podczas jednego lotu odwiedzili dwie stacje.
+Jej konstrukcja rozpoczęła się od przeniesienia zasobów dostarczonych przez Progress-25 i Progress-26. Zadanie wykonała załoga Sojuz T-15 (Leonid Kizim i Władimir Sołowjow). Podczas 50 dniowego pobytu załoga również odwiedziła stację Salut-7 w celu przewiezienia części wyposażenia na Mir. Na chwilę obecną jest to jedyny przypadek w historii aby astronauci w trakcie jednego lotu odwiedzili dwie stacje.
 
 .. figure:: ../img/spacestation-mir.svg
     :name: figure-spacestation-mir
@@ -339,7 +339,7 @@ Jej konstrukcja rozpoczęła się od przeniesienia zasobów dostarczonych przez 
 
 Międzynarodowa Stacja Kosmiczna
 ===============================
-Program międzynarodowej stacji rozpoczął się od połączenia konceptu projektów Freedom (ang. wolność) oraz Mir-2 (DOS-8). Następnie przekształcił się w pierwszą międzynarodową stację badawczą o nazwie International Space Station. Budowa rozpoczęła się od umieszczenia rosyjskich modułów w 1998 roku. Pierwsza załoga przyleciała 2 listopada 2000 roku. Od tego czasu stacja jest stale zamieszkiwana przez załogi 3 lub 6 osobowe w ramach tzw. ekspedycji. Temat ISS szczegółowo przedstawiono w części dotyczącej :ref:`przygotowania załóg do lotów na jej pokład <iss>`.
+Program międzynarodowej stacji rozpoczął się od połączenia konceptów projektów Freedom (ang. wolność) oraz Mir-2 (DOS-8). Następnie przekształcił się w pierwszą międzynarodową stację badawczą o nazwie International Space Station. Program jest tworzony wspólnie przez pięć największych agencji kosmicznych: NASA, Roskosmos, JAXA, ESA, i CSA. Budowa rozpoczęła się od umieszczenia rosyjskich modułów w 1998 roku. Pierwsza załoga przyleciała 2 listopada 2000 roku. Od tego czasu stacja jest stale zamieszkiwana przez załogi 3 lub 6 osobowe w ramach tzw. ekspedycji. Temat ISS szczegółowo przedstawiono w części dotyczącej :ref:`przygotowania załóg do lotów na jej pokład <iss>`.
 
 .. figure:: ../img/spacestation-iss.svg
     :name: figure-spacestation-iss
@@ -349,11 +349,11 @@ Program międzynarodowej stacji rozpoczął się od połączenia konceptu projek
     Schemat stacji kosmicznej ISS. Źródło: Wikipedia
 
 
-Najdłuższy pobyt w przestrzeni kosmicznej
-=========================================
+Wybrane rekorty załogowych lotów kosmicznych
+============================================
 Najdłuższy pobyt w przestrzeni kosmicznej zanotował kosmonauta Roskosmos Dr. Valeri Polyakov, który spędził jednorazowo 437 dni, 17 godzin i 38 minut (14 miesięcy). Pobyt odbył się na Rosyjskiej stacji Mir od stycznia 1994 roku do marca 1995.
 
-Największy kumulacyjny nalot zgromadził kosmonauta Roskosmos Gennady Padalka, który przybywał łącznie 879 dni na orbicie podczas 5 lotów kosmicznych.
+Największy kumulacyjny "nalot" zgromadził kosmonauta Roskosmos Gennady Padalka, który przybywał łącznie 879 dni na orbicie podczas 5 lotów kosmicznych.
 
 Największy kumulacyjnie czas spędzony podczas EVA zanotował kosmonauta Roskosmos Anatoly Solovyev, który przebywał łącznie 82 godziny 22 minuty w trakcie 16 spacerów kosmicznych. Kosmonauta ten jest również osobą, która wykonała najwięcej spacerów kosmicznych w historii.
 
@@ -362,16 +362,9 @@ Lot generała Hermaszewskiego
 ============================
 .. todo:: dopisać coś o selekcji
 
-Lot Sojuz-30 miał miejsce w dniach 27 czerwca – 5 lipca 1978. Skład głównej załogi stanowił zespół: Mirosław Hermaszewski (promotor pomocniczego tej pracy) oraz Piotr Iljicz Klimuk. W zespole rezerwowym byli Walerij Nikołajewicz Kubasow oraz Zenon Jankowski.
+Lot Sojuz-30 miał miejsce w dniach 27 czerwca – 5 lipca 1978. Skład głównej załogi stanowił zespół: Mirosław Hermaszewski (promotor pomocniczego tej pracy) oraz Piotr Iljicz Klimuk. W zespole rezerwowym byli Walerij Nikołajewicz Kubasow oraz Zenon Jankowski. :numref:`figure-soyuz-30-crew` przedstawia skład pierwszej załogi.
 
-.. figure:: ../img/soyuz-30-crew.jpg
-    :name: figure-soyuz-30-crew
-    :scale: 66%
-    :align: center
-
-    Załoga Sojuz-30 (od lewej): Piotr Iljicz Klimuk oraz Mirosław Hermaszewski
-
-Głównym zadaniem Sojuz-30 było dokowanie do stacji Salut-6 oraz wykonanie badań naukowych i biomedycznych dla jednostek badawczych, tj. :cite:`Hermaszewski2013`:
+Głównym zadaniem Sojuz-30 było dokowanie do stacji Salut-6 oraz wykonanie badań naukowych i biomedycznych zestawionych w :numref:`table-soyuz-30-experiments` dla jednostek badawczych, tj. :cite:`Hermaszewski2013`:
 
 - Wojskowy Instytut Medycyny Lotniczej (WIML),
 - Instytut Fizyki PAN,
@@ -379,26 +372,7 @@ Głównym zadaniem Sojuz-30 było dokowanie do stacji Salut-6 oraz wykonanie bad
 - Centrum Badań Kosmicznych PAN (CBK),
 - dla zagranicznych jednostek badawczych w ramach porozumienia Interkosmos.
 
-.. csv-table:: Lista badań w ramach misji Sojuz-30/Salut-6.
-    :name: table-soyuz-30-experiments
-    :file: ../data/soyuz-30-experiments.csv
-    :header-rows: 1
-    :widths: 10, 10, 80
-
-.. figure:: ../img/soyuz-30-onboard.jpg
-    :name: figure-soyuz-30-onboard
-    :scale: 33%
-    :align: center
-
-    Załoga Salut-6 (od lewej): Piotr Klimuk, Mirosław Hermaszewski, Aleksandr Ivanchenkov oraz Vladimir Kovalyonok
-
 Misja zakończyła się sukcesem a zadania założone zostały wykonane. :numref:`table-soyuz-30-timeline` przedstawia listę najważniejszych wydarzeń w trakcie lotu Sojuz-30.
-
-.. csv-table:: Zestawienie najważniejszych wydarzeń w trakcie lotu Sojuz-30/Salut-6.
-    :name: table-soyuz-30-timeline
-    :file: ../data/soyuz-30-timeline.csv
-    :header-rows: 1
-    :widths: 10, 10, 10, 10, 10, 10, 40
 
 W ramach treningu do misji kosmonauci odbyli szkolenia, m.in.:
 
@@ -408,10 +382,38 @@ W ramach treningu do misji kosmonauci odbyli szkolenia, m.in.:
 - szkolenie z nawigacji i dynamiki lotu orbitalnego,
 - trening aparatu błędnikowego na krześle Baraniego,
 - badania wydolnościowe organizmu na cykloergometrze,
-- symulacje lotu i manewrów dokowania oraz deorbitacji statku Sojuz-30,
+- symulacje lotu i manewrów dokowania oraz deorbitacji statku Sojuz-30 :numref:`figure-soyuz-30-simulator`,
 - badania medyczne i sprawnościowe.
 
 Za wyjątkiem treningu EVA oraz systemów robotycznych i specjalnych ISS proces przygotowania kosmonautów do lotu Sojuz-30 był podobny do procesu szkolenia do długotrwałych lotów kosmicznych na Międzynarodową Stację Kosmiczną.
+
+Dla upamiętnienia lotu pierwszego Polaka załoga zabrała na pokład flagę i godło państwowe (:numref:`figure-soyuz-30-onboard`). Generał Hermaszewski na chwilę obecną pozostaje jedynym Polakiem w kosmosie. Trening do misji, szczegóły lotu, zakres badań prowadzonych na orbicie jak również wydarzenia po powrocie z misji można przeczytać w opracowaniu generała Hermaszewskiego pt. "Ciężar Nieważkości" :cite:`Hermaszewski2013`.
+
+.. csv-table:: Lista badań w ramach misji Sojuz-30/Salut-6.
+    :name: table-soyuz-30-experiments
+    :file: ../data/soyuz-30-experiments.csv
+    :header-rows: 1
+    :widths: 10, 10, 80
+
+.. csv-table:: Zestawienie najważniejszych wydarzeń w trakcie lotu Sojuz-30/Salut-6.
+    :name: table-soyuz-30-timeline
+    :file: ../data/soyuz-30-timeline.csv
+    :header-rows: 1
+    :widths: 10, 10, 10, 10, 10, 10, 40
+
+.. figure:: ../img/soyuz-30-crew.jpg
+    :name: figure-soyuz-30-crew
+    :scale: 66%
+    :align: center
+
+    Załoga Sojuz-30 (od lewej): Piotr Iljicz Klimuk oraz Mirosław Hermaszewski
+
+.. figure:: ../img/soyuz-30-onboard.jpg
+    :name: figure-soyuz-30-onboard
+    :scale: 33%
+    :align: center
+
+    Załoga Salut-6 (od lewej): Piotr Klimuk, Mirosław Hermaszewski, Aleksandr Ivanchenkov oraz Vladimir Kovalyonok
 
 .. figure:: ../img/soyuz-30-simulator.jpg
     :name: figure-soyuz-30-simulator
@@ -419,5 +421,3 @@ Za wyjątkiem treningu EVA oraz systemów robotycznych i specjalnych ISS proces 
     :align: center
 
     Załoga Sojuz-30 (od lewej): Piotr Iljicz Klimuk oraz Mirosław Hermaszewski w trakcie szkolenia na symulatorze statku Sojuz.
-
-Dla upamiętnienia lotu pierwszego Polaka załoga zabrała na pokład flagę i godło państwowe. Generał Hermaszewski na chwilę obecną pozostaje jedynym Polakiem w kosmosie. Trening do misji, szczegóły lotu, zakres badań prowadzonych na orbicie jak również wydarzenia po powrocie z misji można przeczytać w opracowaniu generała Hermaszewskiego :cite:`Hermaszewski2013`.
