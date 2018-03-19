@@ -96,12 +96,6 @@ a.headerlink {
     text-decoration: none;
 }
 
-#content blockquote {
-    color: #888888;
-    border-left: 5px solid #CCCCCC;
-    padding-left: 1rem;
-}
-
 #content p {
     margin: 0;
     text-indent: 1cm;

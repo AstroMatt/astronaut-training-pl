@@ -41,6 +41,7 @@ Podstawą badań prowadzonych w kosmosie są nauki przyrodnicze i techniczne. Ze
 - dynamika płynów,
 - mechanika,
 - fizyka,
+- chemia,
 - robotyka.
 
 Kurs inżynierii kosmicznej i systemowej
