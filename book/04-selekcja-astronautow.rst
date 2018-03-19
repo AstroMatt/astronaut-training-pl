@@ -58,7 +58,7 @@ Selekcja medyczna
 -----------------
 Zdrowie kandydata jest jednym z najważniejszych kryteriów doboru. Osoby rekrutowane muszą się wykazać niezwykłą adaptacją do warunków panujących w stanie nieważkości. Jest to podyktowane głównie ogromnym kosztem wyszkolenia astronautów i chęcią zmniejszenia możliwości zaistnienia problemów podczas misji ze względu na stan zdrowia pracującego operatora. Sprawność układu ruchu, krążenia oraz równowagi ma ogromne znaczenie dla późniejszej pracy kandydata.
 
-Ponadto jednym z kluczowych wskaźników jest także wzrost. Osoby niższe ze względu na niższą odległość pomiędzy sercem a mózgiem są bardziej predestynowane do wytrzymywania większych przeciążeń. Poza samą predyspozycją ze względów medycznych wzrost ma znaczenie ze względów konstrukcyjnych statków kosmicznych. Na chwilę obecną jedynym sposobem dostarczania astronautów na Międzynarodową Stację Kosmiczną jest rosyjski statek Sojuz TMA, który jest przewidziany dla osób ze wzrostem z zakresu 150 do 190 cm :cite:`ISS-Spacecraft-Soyuz-TM` (wersje TM przed czerwcem 1999 miały ograniczenie od 164 do 182 cm). Z tego samego powodu do amerykańskiego korpusu astronautów przyjmowani są kandydaci o wzroście pomiędzy 62 i 75 cali :cite:`NASA-Astronaut-Requirements` co odpowiada 157,5 i 190,5 cm. Wymaganiem Europejskiej Agencji Kosmicznej w tej dziedzinie jest wzrost pomiędzy 153 a 190 cm :cite:`ESA-Astronaut-Training-Requirements`. :ref:`table-soyuz-requirements` przedstawia zestawienie parametrów atnropometrycznych dla kandydatów na astronautów.
+Ponadto jednym z kluczowych wskaźników jest także wzrost. Osoby niższe ze względu na niższą odległość pomiędzy sercem a mózgiem są bardziej predestynowane do wytrzymywania większych przeciążeń. Poza samą predyspozycją ze względów medycznych wzrost ma znaczenie ze względów konstrukcyjnych statków kosmicznych. Na chwilę obecną jedynym sposobem dostarczania astronautów na Międzynarodową Stację Kosmiczną jest rosyjski statek Sojuz TMA, który jest przewidziany dla osób ze wzrostem z zakresu 150 do 190 cm :cite:`ISS-Spacecraft-Soyuz-TM` (wersje TM przed czerwcem 1999 miały ograniczenie od 164 do 182 cm). Z tego samego powodu do amerykańskiego korpusu astronautów przyjmowani są kandydaci o wzroście pomiędzy 62 i 75 cali :cite:`NASA-Astronaut-Requirements` co odpowiada 157,5 i 190,5 cm. Wymaganiem Europejskiej Agencji Kosmicznej w tej dziedzinie jest wzrost pomiędzy 153 a 190 cm :cite:`ESA-Astronaut-Training-Requirements`. :ref:`table-soyuz-requirements` przedstawia zestawienie parametrów antropometrycznych dla kandydatów na astronautów.
 
 Powyższe parametry są weryfikowane podczas badań medycznych w procesie selekcji astronautów wykorzystując :cite:`ESA-Astronaut-Training-Requirements`:
 
@@ -179,12 +179,12 @@ W przypadku lekarzy pod uwagę brane jest doświadczenie zawodowe oraz profil sp
 
 - radiolog,
 - ortopeda,
-- kardolog/chirurg naczyniowy (ang. *cardiovascular*),
+- kardiolog/chirurg naczyniowy (ang. *cardiovascular*),
 - okulista.
 
 Selekcja ze względu na doświadczenie lotnicze
 ---------------------------------------------
-Doświadczenie lotnicze nie jest wymagane dla kandydatów nie ubiegających się o rolę pilota-astronauty, ale jest wysoko pożądane :cite:`ESA-Astronaut-Training-Requirements`.
+Doświadczenie lotnicze nie jest wymagane dla kandydatów nie ubiegających się o rolę pilota-astronauty, ale jest wysoce pożądane :cite:`ESA-Astronaut-Training-Requirements`.
 
 Pilot-astronauta podczas misji specjalizuje się w prowadzeniu statków kosmicznych. Historycznie w Amerykańskiej agencji NASA dowódcy misji byli pilotami. W zakres jego obowiązków wchodzi pilotaż, odpowiedzialność za załogę i powodzenie misji, oraz dbanie o bezpieczeństwo na pokładzie. Ponadto w lotach Space Shuttle było dwóch pilotów:
 
@@ -257,7 +257,7 @@ Klasy astronautów podobnie jak zespoły przydzielone do misji tworzą tzw. insy
     :scale: 10%
     :align: center
 
-    Selekcja astronautów NASA rozpoczynających szkolenie w 2017 roku (ang. *2017 NASA Astronaut Class*): (od lewej) Zena Cardman, Jasmin Moghbeli, Jonny Kim, Frank Rubio, Matthew Dominick, Warren Hoburg, Robb Kulin, Kayla Barron, Bob Hines, Raja Chari, Loral O' Hara and Jessica Watkins. Źródło: NASA/Robert Markowitz
+    Selekcja astronautów NASA rozpoczynających szkolenie w 2017 roku (ang. *2017 NASA Astronaut Class*): (od lewej) Zena Cardman, Jasmin Moghbeli, Jonny Kim, Frank Rubio, Matthew Dominick, Warren Hoburg, Robb Kulin, Kayla Barron, Bob Hines, Raja Chari, Loral O'Hara and Jessica Watkins. Źródło: NASA/Robert Markowitz
 
 Roskosmos (Federacja Rosyjska)
 ------------------------------

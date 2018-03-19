@@ -81,7 +81,7 @@ Najbardziej istotnymi elementami szkolenia w NBF są:
 - szkolenie scenariuszy awaryjnych,
 - utrzymywanie świadomości sytuacyjnej w złożonym i zmieniającym się środowisku.
 
-Symulowane wyjścia EVA dzielą się na tzw. jednostki treningowe. Podczas każdego zanużenia wszystkie jednostki muszą zostać ukończone. Każde nurkowanie trwa około 5 godzin. Obecnie standardem jest 5-7 krotny trening każdej czynności certyfikowanej w NBL. Ilość zależy od stopnia skomplikowania jednostki szkoleniowej oraz poziomu umiejętności szkolonego astronauty.
+Symulowane wyjścia EVA dzielą się na tzw. jednostki treningowe. Podczas każdego zanurzenia wszystkie jednostki muszą zostać ukończone. Każde nurkowanie trwa około 5 godzin. Obecnie standardem jest 5-7 krotny trening każdej czynności certyfikowanej w NBL. Ilość zależy od stopnia skomplikowania jednostki szkoleniowej oraz poziomu umiejętności szkolonego astronauty.
 
 Późniejszy przydział do spacerów kosmicznych podczas misji na ISS bazuje na ewaluacji umiejętności EVA, która jest robiona na wczesnym etapie szkolenia w ośrodku NBL w USA. Ci astronauci, którzy zaprezentują najwyższy poziom umiejętności zostaną skierowani na dodatkowe szkolenie. Późniejszy przydział uwarunkowany jest również ze względu na zapotrzebowanie lub/i sytuacje awaryjne.
 
@@ -107,7 +107,7 @@ W celu certyfikacji do korzystania z rosyjskiego skafandra Orlan astronauci musz
 
 CNSA - Neutral Buoyancy Facility
 --------------------------------
-Chińska Państwowa Agencja Kosmiczna otworzyła ośrodek do szkolenia taikonautów CNSA w Centrum Astronautycznym w Pekinie w Chinach. Ośrodek ten jednocześnie służy do certyfikacji z użytkowania skafandrów Feitan. Na chwilę obencą jedynie chińscy astronauci trenują w tym obiekcie. Stan ten może się zmienić, gdyż Chiny rozpoczęły wzmożoną współpracę z ESA oraz Roskosmos w ramach konceptu Moon Village i wspólnej eksploracji Księżyca.
+Chińska Państwowa Agencja Kosmiczna otworzyła ośrodek do szkolenia taikonautów CNSA w Centrum Astronautycznym w Pekinie w Chinach. Ośrodek ten jednocześnie służy do certyfikacji z użytkowania skafandrów Feitan. Na chwilę obecną jedynie chińscy astronauci trenują w tym obiekcie. Stan ten może się zmienić, gdyż Chiny rozpoczęły wzmożoną współpracę z ESA oraz Roskosmos w ramach konceptu Moon Village i wspólnej eksploracji Księżyca.
 
 .. figure:: ../img/infrastructure-neutral-buoyancy-acc.jpg
     :name: figure-infrastructure-neutral-buoyancy-acc
@@ -122,7 +122,7 @@ Basen neutralnej pływalności agencji JAXA mieścił się Tsukuba Space Center 
 
 University of Maryland - Neutral Buoyancy Research Facility
 -----------------------------------------------------------
-Ośrodek badawczy neutralnej pływalności (NBRF) został wybudowany w ramach grantu NASA, w którym udział wziął wydział Space Systems Laboratory uczelni Massachusetts Institute of Technology (MIT). Ze względu na brak miejsca na kampusie zdecydowano się na konstrukcję basenu na uniwersytecie stanu Maryland. W ośrodku tym nie odbywają się szkolenia astronautów. Basen jest aktywnie wykorzystywany w ramach badań nad przyszłymi misjami oraz testem innowacyjnego sprzędu do EVA.
+Ośrodek badawczy neutralnej pływalności (NBRF) został wybudowany w ramach grantu NASA, w którym udział wziął wydział Space Systems Laboratory uczelni Massachusetts Institute of Technology (MIT). Ze względu na brak miejsca na kampusie zdecydowano się na konstrukcję basenu na uniwersytecie stanu Maryland. W ośrodku tym nie odbywają się szkolenia astronautów. Basen jest aktywnie wykorzystywany w ramach badań nad przyszłymi misjami oraz testem innowacyjnego sprzętu do EVA.
 
 .. figure:: ../img/infrastructure-neutral-buoyancy-nbrf.jpg
     :name: figure-infrastructure-neutral-buoyancy-nbrf
@@ -133,7 +133,7 @@ Ośrodek badawczy neutralnej pływalności (NBRF) został wybudowany w ramach gr
 
 Wirówki przeciążeniowe
 ======================
-Wirówki przeciążeniowe są urządzeniami zdolnymi zwiększyć siłę odśrodkową i odczuwalne przyspieszenie grawitacyjne (ang. *g-load*). Dzięki odpowiedniej konstrukcji i zwięszkaniu prędkości obrotowej można dostosować prędkość obrotową i symulowane przeciążenie. Dzięki wirówkom możliwe jest testowanie oraz trenowanie tolerancji organizmu na przeciążenia. W zależności od kierunku działania wektora przyspieszenia, czasu trwania i jego intensywności pojawiają się efekty:
+Wirówki przeciążeniowe są urządzeniami zdolnymi zwiększyć siłę odśrodkową i odczuwalne przyspieszenie grawitacyjne (ang. *g-load*). Dzięki odpowiedniej konstrukcji i zwiększaniu prędkości obrotowej można dostosować prędkość obrotową i symulowane przeciążenie. Dzięki wirówkom możliwe jest testowanie oraz trenowanie tolerancji organizmu na przeciążenia. W zależności od kierunku działania wektora przyspieszenia, czasu trwania i jego intensywności pojawiają się efekty:
 
 - utraty kolorów wizji (ang. *grey-out*),
 - widzenie tunelowe (ang. *tunnel vision*),
@@ -226,7 +226,7 @@ Laboratoria wirtualnej (ang. *VR - Virtual Reality*) oraz rozszerzonej (ang. *AR
 
 Virtual Reality Laboratory (VRL), NASA
 --------------------------------------
-VRL wyposażony jest w symulatory i urządzenia pozwalające na odtworzenie zewnętrznej części stacji. Dzięki okularom VR astronauta ma możliwość rozglądania się w środowisku i trenowanie świadomości sytuacujnej podczas EVA. Rękawice i system który ma na sobie podczas szkolenia pozwala na kinestetyczne odczucie (ang. *kinesthetic sensation*), czyli symulowane poczucie inercji obiektów. Rękawice mogą odtworzyć uczucie do 226,8 kg (500 lbs). W laboratorium VRL astronauci szkolą się w zakresie procedur i systemów EVA, tj.:
+VRL wyposażony jest w symulatory i urządzenia pozwalające na odtworzenie zewnętrznej części stacji. Dzięki okularom VR astronauta ma możliwość rozglądania się w środowisku i trenowanie świadomości sytuacyjnej podczas EVA. Rękawice i system który ma na sobie podczas szkolenia pozwala na kinestetyczne odczucie (ang. *kinesthetic sensation*), czyli symulowane poczucie inercji obiektów. Rękawice mogą odtworzyć uczucie do 226,8 kg (500 lbs). W laboratorium VRL astronauci szkolą się w zakresie procedur i systemów EVA, tj.:
 
 - obsługa systemu ratunkowego S.A.F.E.R.,
 - kontrolowanie manipulatora SSRMS Canadarm2,
@@ -260,7 +260,7 @@ Symulatory lotu są od wielu lat wykorzystywane w lotnictwie i towarzyszyły ast
 - Shuttle Motion Simulator (SMS),
 - symulator statku kosmicznego Soyuz.
 
-Symulatory lotu służą nie tylko szkoleniu astronautów ale również pozwalają na opracowywanie procedur i optymalizację konstrukcji kapsuł i awioniki. Astronauci współpracują z inżynierami opracowującymi nowe techniki pilotażu, ergonomię użytkownia w locie oraz rozmieszczenie elementów interfejsu zarówno w kokpicie jak i na wielofunkcyjnym ekranie (ang. *MFD - Multifunctional Display*). Do symulatorów przyszłych statków kosmicznych można zaliczyć:
+Symulatory lotu służą nie tylko szkoleniu astronautów ale również pozwalają na opracowywanie procedur i optymalizację konstrukcji kapsuł i awioniki. Astronauci współpracują z inżynierami opracowującymi nowe techniki pilotażu, ergonomię użytkowania w locie oraz rozmieszczenie elementów interfejsu zarówno w kokpicie jak i na wielofunkcyjnym ekranie (ang. *MFD - Multi-functional Display*). Do symulatorów przyszłych statków kosmicznych można zaliczyć:
 
 - Federacja,
 - Orion,
@@ -359,7 +359,7 @@ Długotrwały pobyt w przestrzeni kosmicznej przy niezmiennym towarzystwie wpły
 
 Personal Rescue Enclosure
 -------------------------
-Personal Rescue Enclosure zostały stworzone na potrzeby prototypowego systemu ratownictwa załóg promów Space Shuttle. Mają kształt przypominający piłkę plażową o 86 cm średnicy i 0,33 :math:`m^2` objętości i są skonstruowane z materiału na bazie Kevlaru :cite:`Shayler2009`. Obecnie wykorzystywane są podczas selekcji astronautów w celu weryfikacji braku klaustrofobii, ciemności, percepcji czasu oraz izolacji.
+Personal Rescue Enclosure zostały stworzone na potrzeby prototypowego systemu ratownictwa załóg promów Space Shuttle. Mają kształt przypominający piłkę plażową o 86 cm średnicy i 0,33 :math:`m^3` objętości i są skonstruowane z materiału na bazie Kevlaru :cite:`Shayler2009`. Obecnie wykorzystywane są podczas selekcji astronautów w celu weryfikacji braku klaustrofobii, ciemności, percepcji czasu oraz izolacji.
 
 Badania izolacyjne w ośrodkach medycznych
 -----------------------------------------
@@ -385,7 +385,7 @@ Habitat Lunares został wybudowany przez firmę Space Garden przy udziale autora
 - systemu inteligentnych sensorów i czujników,
 - systemów aquaponicznych i hydroponicznych,
 - wykorzystania lamp fizjologicznych w pobudzaniu receptorów serotoninowych,
-- sztucznym sterowaniem rytmem dobowym (ang. *circadian rhytm*),
+- sztucznym sterowaniem rytmem dobowym (ang. *circadian rhythm*),
 - planowaniem pracy i rozkładu zajęć astronautów,
 - badania nad domknięciem półotwartego systemu podtrzymywania życia,
 - wykorzystanie zasobów dostępnych w środowisku (ang. *ISRU - In-Situ Resource Utilization*),

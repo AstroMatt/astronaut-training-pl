@@ -82,7 +82,7 @@ Z przyczyn zdrowotnych Deke Slayton został zdyskwalifikowany z udziału w progr
 
 Project Gemini
 --------------
-W celu sprostania wymaganiom postawionym przez prezydenta J. F. Kennedy'ego dotyczącego wysłania człowieka na Księżyc konieczne było stworzenie programu pomostowego pomiędzy programami Mercury oraz Apollo. Celem programu miało być stworzenie i przetestowanie technologii umożliwiającej realizację lotu Księżycowego, tj.:
+W celu sprostania wymaganiom postawionym przez prezydenta J. F. Kennedy'ego dotyczącego wysłania człowieka na Księżyc konieczne było stworzenie programu pomostowego pomiędzy programami Mercury oraz Apollo. Celem programu miało być stworzenie i przetestowanie technologii umożliwiającej realizację lotu księżycowego, tj.:
 
 - demonstracja wytrzymałości człowieka i ekwipunku w lotach kosmicznych trwających od 8 do 14 dni,
 - zbliżenie i dokowanie (ang. *randevouz and docking*) dwóch statków kosmicznych oraz manewrowanie połączonym zespołem na orbicie używając systemu napędowego dokowanego pojazdu,
@@ -349,7 +349,7 @@ Program międzynarodowej stacji rozpoczął się od połączenia konceptów proj
     Schemat stacji kosmicznej ISS. Źródło: Wikipedia
 
 
-Wybrane rekorty załogowych lotów kosmicznych
+Wybrane rekordy załogowych lotów kosmicznych
 ============================================
 Najdłuższy pobyt w przestrzeni kosmicznej zanotował kosmonauta Roskosmos Dr. Valeri Polyakov, który spędził jednorazowo 437 dni, 17 godzin i 38 minut (14 miesięcy). Pobyt odbył się na Rosyjskiej stacji Mir od stycznia 1994 roku do marca 1995.
 
