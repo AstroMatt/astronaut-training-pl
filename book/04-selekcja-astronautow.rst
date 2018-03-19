@@ -34,7 +34,7 @@ Proces podstawowego szkolenia astronautów trwa około dwa lata. Ze względu na 
 
 :numref:`table-astronaut-requirements` Przedstawia zestawienie minimalnych umiejętności i pożądanych cech kandydatów na astronautów w różnych agencjach kosmicznych.
 
-.. csv-table:: Wymagania dla kandydatów na astronautów i kosmonautów :cite:`NASA-Astronaut-Requirements`, :cite:`ESA-Astronaut-Training-Requirements`, :cite:`Roskosmos-Cosmonaus-Requirements`
+.. csv-table:: Wymagania dla kandydatów na astronautów i kosmonautów :cite:`NASA-Astronaut-Requirements`, :cite:`ESA-Astronaut-Training-Requirements`, :cite:`Roscosmos-Cosmonaus-Requirements`
     :name: table-astronaut-requirements
     :file: ../data/astronaut-requirements.csv
     :header-rows: 1

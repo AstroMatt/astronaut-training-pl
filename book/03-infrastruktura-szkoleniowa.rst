@@ -17,7 +17,7 @@ Centrum Przygotowania Kosmonautów, Gwiezdne Miasteczko, Moskwa, Rosja
 Jednym z najstarszych miejsc w którym szkoli się astronautów i kosmonautów jest Centrum Przygotowania Kosmonautów znajdujące się na terenie Gwiezdnego Miasteczka w Moskwie. W obiekcie tym trenują obecnie wszyscy astronauci, którzy są przydzieleni do lotów na ISS. Ośrodek posiada basen neutralnej pływalności *Hydro Lab* oraz zestaw symulatorów rosyjskich segmentów ISS i statku kosmicznego Sojuz.
 
 Johnson Space Center, Houston, TX, USA
--------------------------------------
+--------------------------------------
 Historycznie centrum kosmiczne Johnsona było kolebką amerykańskiego programu astronautycznego. W tym miejscu mieści się również Astronauts Office (budynek 4-S) oraz Neutral Buoyancy Laboratory (budynek Sonny Carter Training Facility) i symulator amerykańskiej części ISS (budynek 29). Podobnie jak w Gwiezdnym Miasteczku, tak w centrum JSC trenują obecnie wszyscy astronauci, którzy są przydzieleni do lotów na ISS.
 
 European Astronaut Centre, Kolonia, Niemcy
@@ -96,7 +96,7 @@ Ponadto ośrodek wykorzystywany jest również jako miejsce testowania narzędzi
 
 Roskosmos - Hydro Lab
 ---------------------
-W celu certyfikacji do korzystania z rosyjskiego skafandra Orlan astronauci muszą przejść kurs w Centrum Przygotowania Kosmonautów w Gwiezdnym Miasteczku. Ośrodek ten wyposażony jest w basen Hydro Lab znajdujący się w budynku numer 30 oraz 32. :cite:`RoskosmosHydroLab`.
+W celu certyfikacji do korzystania z rosyjskiego skafandra Orlan astronauci muszą przejść kurs w Centrum Przygotowania Kosmonautów w Gwiezdnym Miasteczku. Ośrodek ten wyposażony jest w basen Hydro Lab znajdujący się w budynku numer 30 oraz 32. :cite:`RoscosmosHydroLab`.
 
 .. figure:: ../img/infrastructure-neutral-buoyancy-hydrolab.jpg
     :name: figure-infrastructure-neutral-buoyancy-hydrolab
