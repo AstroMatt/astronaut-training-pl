@@ -124,7 +124,7 @@ Każda z misji programu Apollo cechowała się innym zadaniem w zależności od 
     :name: table-apollo-mission-types
     :file: ../data/apollo-mission-types.csv
     :header-rows: 1
-    :widths: 10, 90
+    :widths: 10, 80, 10
 
 Krótka charakterystyka misji Apollo:
 
