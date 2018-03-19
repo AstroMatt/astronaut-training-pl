@@ -133,15 +133,17 @@ Ośrodek badawczy neutralnej pływalności (NBRF) został wybudowany w ramach gr
 
 Wirówki przeciążeniowe
 ======================
-Wirówki przeciążeniowe są urządzeniami zdolnymi dzięki zwięszkaniu prędkości obrotowej zwiększyć siłę odśrodkową i odczuwalne przyspieszenie grawitacyjne (ang. *g-load*). Dzięki wirówkom możliwe jest testowanie oraz trenowanie tolerancji organizmu na przeciążenia. W zależności od kierunku działania wektora przyspieszenia, czasu trwania i jego intensywności pojawiają się efekty:
+Wirówki przeciążeniowe są urządzeniami zdolnymi zwiększyć siłę odśrodkową i odczuwalne przyspieszenie grawitacyjne (ang. *g-load*). Dzięki odpowiedniej konstrukcji i zwięszkaniu prędkości obrotowej można dostosować prędkość obrotową i symulowane przeciążenie. Dzięki wirówkom możliwe jest testowanie oraz trenowanie tolerancji organizmu na przeciążenia. W zależności od kierunku działania wektora przyspieszenia, czasu trwania i jego intensywności pojawiają się efekty:
 
 - utraty kolorów wizji (ang. *grey-out*),
 - widzenie tunelowe (ang. *tunnel vision*),
-- utraty widzenia (ang. *blackout*)
+- utraty widzenia (ang. *blackout*),
 - utraty świadomości (ang. *G-LOC - Gravity Induced Loss of Consciousness*),
 - czerwone widzenia (ang. *redout*) - działanie przyspieszenia ze zwrotem ujemnym (ang. *negative g*).
 
-Na zwiększenie czynnika przyspieszenia grawitacyjnego mają wpływ gwałtowne manewrowanie samolotem, start rakiety, wejście w atmosferę, awaryjna trajektoria wejścia w atmosferę tzw. krzywa balistyczna oraz lądowanie. Skuteczność treningu w wirówce przeciążeniowej pozwala astronautom na tolerowanie przyspieszeń o 1.5-2g większych niż niewytrenowanej osoby. Należy nadmienić, że trening wymaga odnawiania, gdyż tolerancja ulega "zapomnieniu" przez organizm. Dla poprawy tolerancji stosuje się również uciskowe spodnie przeciążeniowe. Nacisk na naczynia powoduje spowolnienie odpływu krwi z nóg i mniejszą ilość krwi uderzającej do mózgu. Nacisk uzyskuje się statycznie (silne związanie) lub dynamicznie (nadmuchiwanie wszytych komór z powietrzem). Astronauci zakładają taki ubiór pod skafander Sokol przygotowując się do powrotu na Ziemię :cite:`Peake2017`. Ponadto tolerancję można zwiększyć stosując manewr AGSM (ang. *Anti-G Straining Maneuver*). Odpowiedni trening oddychania pozwala na zwiększenie tolerancji przeciążeń i dłuższe utrzymanie świadomości w przypadku ich wystąpienia.
+Na zwiększenie czynnika przyspieszenia grawitacyjnego mają wpływ gwałtowne manewrowanie samolotem, start rakiety, wejście w atmosferę, awaryjna trajektoria lotu w atmosferze tzw. krzywa balistyczna oraz lądowanie. Skuteczność treningu w wirówce przeciążeniowej pozwala astronautom na tolerowanie przyspieszeń o 1.5-2g większych niż niewytrenowanej osoby. Należy nadmienić, że trening wymaga odnawiania, gdyż tolerancja ulega "zapomnieniu" przez organizm.
+
+Dla poprawy tolerancji stosuje się również uciskowe spodnie przeciążeniowe. Nacisk na naczynia powoduje spowolnienie odpływu krwi z nóg i mniejszą ilość krwi uderzającej do mózgu. Nacisk uzyskuje się statycznie (silne związanie) lub dynamicznie przez nadmuchiwanie wszytych komór z powietrzem wraz ze wzrostem przeciążenia. Astronauci zakładają taki ubiór pod skafander Sokol przygotowując się do powrotu na Ziemię :cite:`Peake2017`. Ponadto tolerancję można zwiększyć stosując manewr AGSM (ang. *Anti-G Straining Maneuver*). Odpowiedni trening oddychania pozwala na zwiększenie tolerancji przeciążeń i dłuższe utrzymanie świadomości w przypadku ich wystąpienia.
 
 Do najważniejszych wirówek przeciążeniowych wykorzystywanych w załogowych lotach kosmicznych można zaliczyć:
 
@@ -176,7 +178,7 @@ Wirówka przeciążeniowa CF-7 została uruchomiona w 1973 roku. Wybrane paramet
 
 CPK - CF-18
 -----------
-W 1980 roku w Centrum Przygotowania Kosmonautów otworzono drugą wirówkę przeciążeniową, która umożliwia zmianę kabin, oraz parametrów w kabinie takich jak temperatura, skład powietrza, wilgotność i ciśnienie. Wirówka CF-18 ma większy gradient przyspieszenia oraz maksymalną prędkość obrotową dającą przyspieszenie rzędu 30g :cite:`CPKCentrifuge`. Wybrane parametry technicze przedstawia :numref:`table-infrastructure-centrifuge-human`.
+W 1980 roku w Centrum Przygotowania Kosmonautów otworzono drugą wirówkę przeciążeniową, która umożliwia wymianę wnętrza kabiny, oraz parametrów wewnątrz kabiny tj.: temperatura, skład powietrza, wilgotność i ciśnienie. Wirówka CF-18 ma większy gradient przyspieszenia oraz maksymalną prędkość obrotową dającą symulowane przeciążenie rzędu 30g :cite:`CPKCentrifuge`. Wybrane parametry technicze przedstawia :numref:`table-infrastructure-centrifuge-human`.
 
 .. figure:: ../img/infrastructure-centrifuge-cf-18.jpg
     :name: figure-infrastructure-centrifuge-cf-18
@@ -187,7 +189,7 @@ W 1980 roku w Centrum Przygotowania Kosmonautów otworzono drugą wirówkę prze
 
 NASA - Ames Research Center 20-G Centrifuge
 -------------------------------------------
-Amerykańska wirówka przeciążeniowa 20-G Centrifuge znajduje się w ośrodku Ames Research Center, Moffett Field, CA w USA. Urządzenie służy do szkolenia personelu latającego Air Force, US Navy oraz dla astronautów NASA :cite:`NASACentrifuge`. Wybrane parametry technicze przedstawia :numref:`table-infrastructure-centrifuge-human`.
+Amerykańska wirówka przeciążeniowa 20-G Centrifuge znajduje się w ośrodku Ames Research Center, Moffett Field, CA w USA przedstawiona jest na :numref:`figure-infrastructure-centrifuge-20g`. Urządzenie służy do szkolenia personelu latającego Air Force, US Navy oraz dla astronautów NASA :cite:`NASACentrifuge`. Wybrane parametry technicze przedstawia :numref:`table-infrastructure-centrifuge-human`. Niezależnie przed lotem statkiem Sojuz astronauci NASA i ESA przechodzą szkolenie w Rosyjskich wirówkach CF-7 i CF-18.
 
 .. figure:: ../img/infrastructure-centrifuge-20g.jpg
     :name: figure-infrastructure-centrifuge-20g
@@ -200,36 +202,35 @@ Wirówki przeciążeniowe do badań naukowych na ludziach
 -----------------------------------------------------
 Istnieje wiele obiektów przeznaczonych do badań nad wpływem wysokich przeciążeń na organizm człowieka. Część z nich nie jest bezpośrednio wykorzystywana w procesie szkolenia astronautów, ale może uczestniczyć w eksperymentach przeprowadzanych na ich organizmie. Do najważniejszych ośrodków można zaliczyć:
 
-- Short Radius Centrifuge, University of Texas Medical Branch, Galveston, TX, USA
-- Short Arm Human Centrifuge, DLR, Niemcy
-- Wirówka przeciążeniowa - symulator szkoleniowy, WIML, Polska
-- Dynamic Flight Simulator, Flight Physiological Center, Szwecja
+- Wirówka przeciążeniowa - symulator szkoleniowy, WIML, Polska,
+- Short Radius Centrifuge, University of Texas Medical Branch, Galveston, TX, USA,
+- Short Arm Human Centrifuge, DLR, Niemcy,
+- Dynamic Flight Simulator, Flight Physiological Center, Szwecja.
 
 Wirówki przeciążeniowe do badań naukowych
 -----------------------------------------
-Do badań naukowych wykorzystujących zwiększone przyspieszenie grawitacyjne i siłę odśrodkową, lecz nie certyfikowanych do wykorzystania przy badaniach ludzkich można zaliczyć:
+Do badań naukowych wykorzystujących zwiększone przyspieszenie grawitacyjne i siłę odśrodkową, lecz nie certyfikowanych do wykorzystania przy badaniach na ludziach można zaliczyć wybrane wirówki przeciążeniowe:
 
-- Large Diameter Centrifuge, ESA ESTEC, Noordwijk, Holandia
-- 8-Foot Diameter Centrifuge, NASA Ames Research Center, CA, USA
-- 2-Meter Diameter Centrifuge, NASA Ames Research Center, CA, USA
-- 24-Foot Diameter Centrifuge, NASA Ames Research Center, CA, USA
+- Large Diameter Centrifuge, ESA ESTEC, Noordwijk, Holandia,
+- 8-Foot Diameter Centrifuge, NASA Ames Research Center, CA, USA,
+- 2-Meter Diameter Centrifuge, NASA Ames Research Center, CA, USA,
+- 24-Foot Diameter Centrifuge, NASA Ames Research Center, CA, USA.
 
 
 Laboratoria Wirtualnej Rzeczywistości
 =====================================
-Laboratoria wirtualnej (ang. *VR - Virtual Reality*) oraz rozszerzonej (ang. *AR - Augmented Reality*) pozwalają na trening skomplikowanych czynności oraz procedur bez narażania życia astronautów. Ponadto astronauci szkolą się w używaniu technologii haptycznych tj. sprzężenia zwrotnego (ang. *Force Feedback*) oraz umiejętności interakcji człowiek-maszyna (ang. *HMI - Human-Machine Interaction*). Do najważniejszych laboratoriów VR należą:
+Laboratoria wirtualnej (ang. *VR - Virtual Reality*) oraz rozszerzonej (ang. *AR - Augmented Reality*) pozwalają na trening skomplikowanych czynności oraz procedur bez narażania życia astronautów i konieczności posiadania kosztownej infrastruktury. Ponadto astronauci szkolą się w używaniu technologii haptycznych tj. sprzężenia zwrotnego (ang. *Force Feedback*) oraz umiejętności interakcji człowiek-maszyna (ang. *HMI - Human-Machine Interaction*). Do najważniejszych laboratoriów VR należą:
 
 - Virtual Reality Laboratory (VRL), NASA,
 - Haptics Laboratory, ESA.
 
 Virtual Reality Laboratory (VRL), NASA
 --------------------------------------
-VRL wyposażony jest w symulatory i urządzenia pozwalające na odtworzenie zewnętrznej części stacji. Dzięki okularom VR astronauta ma możliwość rozglądania się w środowisku. Rękawice i system który ma na sobie podczas szkolenia pozwala na kinestetyczne odczucie (ang. *kinesthetic sensation*), czyli inercji obiektów do 226,8 kg (500 lbs). W laboratorium VRL astronauci szkolą się w zakresie procedur i systemów EVA, tj.:
+VRL wyposażony jest w symulatory i urządzenia pozwalające na odtworzenie zewnętrznej części stacji. Dzięki okularom VR astronauta ma możliwość rozglądania się w środowisku i trenowanie świadomości sytuacujnej podczas EVA. Rękawice i system który ma na sobie podczas szkolenia pozwala na kinestetyczne odczucie (ang. *kinesthetic sensation*), czyli symulowane poczucie inercji obiektów. Rękawice mogą odtworzyć uczucie do 226,8 kg (500 lbs). W laboratorium VRL astronauci szkolą się w zakresie procedur i systemów EVA, tj.:
 
 - obsługa systemu ratunkowego S.A.F.E.R.,
 - kontrolowanie manipulatora SSRMS Canadarm2,
 - rozkładu elementów zewnętrznych stacji ISS,
-- utrzymywanie świadomości sytuacyjnej podczas EVA,
 - umiejętności lokalizacji względem elementów stacji,
 - transferu między modułami stacji.
 
@@ -246,20 +247,20 @@ Laboratorium Haptics Europejskiej Agencji Kosmicznej znajduje się w Centrum In�
 
 .. figure:: ../img/infrastructure-vr-exoskeleton.jpg
     :name: figure-infrastructure-vr-exoskeleton
-    :scale: 25%
+    :scale: 15%
     :align: center
 
     X-Arm-II exoskeleton jest wykorzystywany do symulacji odczuć podczas sterowania maszynami. Źródło: ESA
 
 Symulatory lotu
 ===============
-Symulatory lotu są od wielu lat wykorzystywane w lotnictwie i towarzyszyły astronautom w ich szkoleniu od początków Space Race. Symulatory dzielą się na stacjonarne oraz wolne (ang. *FFS - Full Flight Simulator*). Symulatory FFS pozwalają na odczucie zwrotów oraz niewielkich odchyleń. Do najbardziej znanych symulatorów zalicza się:
+Symulatory lotu są od wielu lat wykorzystywane w lotnictwie i towarzyszyły astronautom w ich szkoleniu od początków Space Race. W najprostszym podziale symulatory lotu dzielą się na stacjonarne (Basic Instrument Training Device [BITD], Flight and Navigation Procedures Trainer [FNPT], Flight Training Device [FTD]) oraz ruchome (ang. *FFS - Full Flight Simulator*) :cite:`Kelly2017`. Symulatory FFS pozwalają na odczucie zwrotów oraz odchyleń. Do najbardziej znanych symulatorów zalicza się:
 
-- Symulator lądownika LM w programie Apollo,
+- symulator lądownika LM w programie Apollo,
 - Shuttle Motion Simulator (SMS),
-- Soyuz.
+- symulator statku kosmicznego Soyuz.
 
-Symulatory lotu służą nie tylko szkoleniu astronautów ale również pozwalają na opracowywanie procedur i optymalizację konstrukcji kapsuł. Astronauci współpracują z inżynierami opracowującymi nowe techniki pilotażu oraz rozmieszczenie elementów interfejsu zarówno w kokpicie jak i na wielofunkcyjnym ekranie (ang. *MFD - Multifunctional Display*). Do symulatorów przyszłych statków kosmicznych można zaliczyć:
+Symulatory lotu służą nie tylko szkoleniu astronautów ale również pozwalają na opracowywanie procedur i optymalizację konstrukcji kapsuł i awioniki. Astronauci współpracują z inżynierami opracowującymi nowe techniki pilotażu, ergonomię użytkownia w locie oraz rozmieszczenie elementów interfejsu zarówno w kokpicie jak i na wielofunkcyjnym ekranie (ang. *MFD - Multifunctional Display*). Do symulatorów przyszłych statków kosmicznych można zaliczyć:
 
 - Federacja,
 - Orion,
@@ -276,17 +277,17 @@ Symulatory lotu służą nie tylko szkoleniu astronautów ale również pozwalaj
 
 Przyrządy ćwiczeniowe
 =====================
-W siłowniach i laboratoriach w których ćwiczą astronauci coraz częściej zaczyna się wykorzystywać nowoczesne technologie. Wśród nowatorskich pomysłów prowadzi się badania nad wykorzystaniem technologii VR do stymulacji mózgu podczas wykonywania ćwiczenia. Do przyrządów ćwiczeniowych wykorzystywanych podczas szkolenia i późniejszej rehabilitacji powracających z orbity astronautów można zaliczyć:
+W siłowniach i laboratoriach w których ćwiczą astronauci coraz częściej zaczyna się wykorzystywać nowoczesne technologie. Wśród nowatorskich pomysłów prowadzi się badania nad wykorzystaniem technologii VR do stymulacji mózgu podczas wykonywania ćwiczenia w celu przyspieszenia rehabilitacji astronautów powracających z długotrwałych lotów. Do przyrządów ćwiczeniowych wykorzystywanych podczas szkolenia i późniejszej fizjoterapii można zaliczyć:
 
-- koło reńskie obroty prawo-lewo,
-- żyroskop - obrót wokół trzech osi,
-- looping - huśtawka 360° z możliwością obrotu wokól osi pionowej ćwiczącego,
+- koła reńskie (obroty prawo-lewo),
+- żyroskop (obrót wokół trzech osi),
+- looping (huśtawka 360° z możliwością obrotu wokól osi pionowej ćwiczącego),
 - ergometr,
 - pionowe bieżnie (ang. *vertical treadmill*),
 - połączenie systemów VR i bieżni zmieniających pochylenie i odchylenie (ang. *Adaptability Training System*),
 - system bieżni nadciśnieniowych (ALTER).
 
-System Vertical Treadmill dzięki zmianie kąta nachylenia bieżni i odległości wysięgnika ma możliwość zmiany  obciążenia odczuwalnego do symulowania grawitacji 1/6g (Księżyc) oraz 1/3g (Mars) :numref:`figure-infrastructure-gym-vertical-treadmill`.
+System Vertical Treadmill dzięki zmianie kąta nachylenia bieżni i odległości wysięgnika ma możliwość zmiany  obciążenia odczuwalnego do symulowania grawitacji Księżyca oraz Marsa :numref:`figure-infrastructure-gym-vertical-treadmill`.
 
 .. figure:: ../img/infrastructure-gym-vertical-treadmill.jpg
     :name: figure-infrastructure-gym-vertical-treadmill
@@ -321,14 +322,14 @@ W celu zapoznania astronautów z wpływem mikrograwitacji na organizm człowieka
 
 Komory niskich ciśnień i komory próżniowe
 =========================================
-Zastosowanie komór niskich ciśnieniowych oraz komór próżniowych (ang. *vacuum chamber*) w trakcie szkolenia ma swoje początki wraz z pierwszymi prototypami skafandrów. Wówczas stosowano je do sprawdzania szczelności wytwarzanych iteracji ubrań ciśnieniowych. Podczas treningu komora ciśnieniowa wykorzystywana jest na cztery główne sposoby:
+Zastosowanie komór niskich ciśnieniowych oraz komór próżniowych (ang. *vacuum chamber*) w trakcie szkolenia ma swoje początki wraz z pierwszymi prototypami skafandrów. Wówczas stosowano je do sprawdzania szczelności wytwarzanych iteracji ubrań ciśnieniowych. Obecnie podczas treningu komora ciśnieniowa wykorzystywana jest na cztery główne sposoby:
 
-- zapoznanie się z objawami hypoxii,
+- zapoznanie się z objawami hypoxii (ćwiczenia bez skafandra),
 - sprawdzanie szczelności skafandra,
 - trening procedur awaryjnych skafandrów,
 - zapoznanie się ze środowiskiem braku ośrodka gazowego.
 
-Astronauci podobnie jak piloci samolotów stratosferycznych tj. U2, są poddawani szkoleniom w skafandrze wewnątrz komór ciśnieniowych. Podczas szkolenia trenujący doświadcza momentu rozhermetyzowania kabiny na dużej wysokości oraz uruchomienia automatycznego systemu podtrzymania życia w skafandrze.
+Astronauci podobnie jak piloci samolotów stratosferycznych tj. U2, są poddawani szkoleniom w skafandrze wewnątrz komór ciśnieniowych. Podczas szkolenia trenujący doświadcza momentu gwałtownego rozhermetyzowania kabiny na dużej wysokości oraz uruchomienia automatycznego systemu podtrzymania życia w skafandrze.
 
 
 Komory termalne
@@ -338,7 +339,7 @@ Komory termalne (ang. *thermal chamber*) wykorzystuje się aby zapoznać astrona
 
 Systemy podwieszania
 ====================
-Do przygotowania astronautów w ograniczonym zakresie ruchu oraz przy zmieniającej się perspektywie widoku w programach szkolenia zastosowano system podwieszania. Ponadto system podwieszania pozwala na odciążenie astronauty i symulację grawitacji panującej na Księżycu, Marsie i innych ciałach niebieskich.
+Do przygotowania astronautów w ograniczonym zakresie ruchu oraz przy zmieniającej się perspektywie widoku w programach szkolenia zastosowano system podwieszania. Ponadto to rozwiązanie pozwala na symulację grawitacji panującej na Księżycu, Marsie i innych ciałach niebieskich poprzez odciążenie astronauty i zastosowanie lin o odpowiedniej sprężystości.
 
 .. figure:: ../img/infrastructure-suspension-schematics.png
     :name: figure-infrastructure-suspension-schematics
@@ -352,21 +353,21 @@ Eksperymenty izolacyjne
 =======================
 Długotrwały pobyt w przestrzeni kosmicznej przy niezmiennym towarzystwie wpływa na bardzo dużo złożonych procesów psychologicznych i sociodynamicznych. W szczególności przy planowanych misjach na Marsach czy dłuższych pobytach na Księżycu konieczne jest opracowanie sposobów wczesnej detekcji problemów psychicznych oraz sprawniejsze ich rozwiązywanie. W tym celu organizacje kosmiczne wykorzystują następujące metody:
 
-- wykorzystanie komór (pojemników) izolacyjnych (ang. *PRE - Personal Rescue Enclosure*),
+- wykorzystanie komór (pojemników) izolacyjnych tj. Personal Rescue Enclosure (PRE),
 - przeprowadzanie badań izolacji w ośrodkach badań medycznych,
 - wykorzystanie długotrwałych pobytów w habitatach wraz z połączeniem eksploracji środowiska.
 
 Personal Rescue Enclosure
 -------------------------
-Personal Rescue Enclosure zostały stworzone na potrzeby prototypowego systemu ratownictwa załóg promów Space Shuttle. Mają kształt przypominający piłkę plażową o 86 cm średnicy i 0,33 :math:`m^2` objętości i są skonstruowane z materiału na bazie Kevlaru :cite:`Shayler2009`. Obecnie wykorzystywane są podczas selekcji astronautów w celu weryfikacji braku klaustrofobii.
+Personal Rescue Enclosure zostały stworzone na potrzeby prototypowego systemu ratownictwa załóg promów Space Shuttle. Mają kształt przypominający piłkę plażową o 86 cm średnicy i 0,33 :math:`m^2` objętości i są skonstruowane z materiału na bazie Kevlaru :cite:`Shayler2009`. Obecnie wykorzystywane są podczas selekcji astronautów w celu weryfikacji braku klaustrofobii, ciemności, percepcji czasu oraz izolacji.
 
 Badania izolacyjne w ośrodkach medycznych
 -----------------------------------------
-Najbardziej znanym badaniem była misja Mars-500, gdy podczas trwającej 520 dni izolacji sprawdzano zachowanie załogi w symulowanej misji na Marsa. Program symulacji trwał między latami 2007 and 2011 i był prowadzony przez Instytut Problemów Biomedycznych Rosyjskiej Akademii Nauk przy współpracy Europejskiej Agencji Kosmicznej.
+Najbardziej znanym badaniem była misja Mars-500. Podczas trwającej 520 dni izolacji sprawdzano zachowanie załogi w symulowanej misji na Marsa. Program badań trwał między 2007 and 2011 rokiem i był prowadzony przez Instytut Problemów Biomedycznych Rosyjskiej Akademii Nauk przy współpracy Europejskiej Agencji Kosmicznej.
 
 Badania izolacyjne w habitatach
 -------------------------------
-Na chwilę obecną na świecie jest niewiele placówek zajmujących się tematyką badań izolacyjnych połączonych z eksploracją środowiska. Każda z takich placówek specjalizuje się w określonym typie symulacji. Do habitatów w których odbywają się pobyty powyżej tygodnia można zaliczyć:
+Na chwilę obecną na świecie jest niewiele placówek zajmujących się tematyką badań izolacyjnych połączonych z eksploracją środowiska. Każda z takich placówek specjalizuje się w określonym i unikalnym typie symulacji. Do habitatów w których odbywają się pobyty powyżej tygodnia można zaliczyć:
 
 - Lunares, Polska,
 - HI-Seas, USA,
@@ -378,13 +379,13 @@ Na chwilę obecną na świecie jest niewiele placówek zajmujących się tematyk
 Habitat Lunares został wybudowany przez firmę Space Garden przy udziale autora pracy (Mateusz Harasymczuk) oraz pomysłodawczynię dr Agatę Kołodziejczyk. Habitat ulokowany jest na lotnisku w Pile (ICAO: EPPK) w hangarze przy pasie startowym. W Lunares prowadzone są badania dotyczące:
 
 - subiektywnej percepcji czasu,
-- dynamiki grupy i wpływu izolacji,
+- dynamiki grupy i wpływu izolacji na relacje międzyludzkie,
 - ergonomii habitatu,
 - architektury habitatu,
-- inteligentnych sensorów i czujników,
+- systemu inteligentnych sensorów i czujników,
 - systemów aquaponicznych i hydroponicznych,
 - wykorzystania lamp fizjologicznych w pobudzaniu receptorów serotoninowych,
-- sztucznym sterowaniem rytmem cyrkadialnym,
+- sztucznym sterowaniem rytmem dobowym (ang. *circadian rhytm*),
 - planowaniem pracy i rozkładu zajęć astronautów,
 - badania nad domknięciem półotwartego systemu podtrzymywania życia,
 - wykorzystanie zasobów dostępnych w środowisku (ang. *ISRU - In-Situ Resource Utilization*),
