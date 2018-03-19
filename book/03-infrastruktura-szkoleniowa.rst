@@ -281,7 +281,7 @@ W siłowniach i laboratoriach w których ćwiczą astronauci coraz częściej za
 
 - koła reńskie (obroty prawo-lewo),
 - żyroskop (obrót wokół trzech osi),
-- looping (huśtawka 360° z możliwością obrotu wokól osi pionowej ćwiczącego),
+- looping (huśtawka 360° z możliwością obrotu wokół osi pionowej ćwiczącego),
 - ergometr,
 - pionowe bieżnie (ang. *vertical treadmill*),
 - połączenie systemów VR i bieżni zmieniających pochylenie i odchylenie (ang. *Adaptability Training System*),
