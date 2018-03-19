@@ -5,59 +5,61 @@ Rys historyczny lotów kosmicznych
 
 Pionierzy kosmonautyki
 ======================
-Erę rakietową rozpoczęła publikacja tzw. wzoru Ciołkowskiego w 1903 roku określającego prędkość rakiety zmieniającej masę (zużywającej paliwo podczas lotu). Wzór ten został opublikowany w książce "Badanie przestrzeni świata przy pomocy urządzeń odrzutowych" :cite:`Ciolkowski1967`. Do pierwszych pionierów kosmonautyki wykorzystujących podstawy teoretyczne stworzone przez Ciołkowskiego zalicza się:
+Erę rakietową rozpoczęła publikacja w 1903 roku tzw. wzoru Ciołkowskiego określającego prędkość rakiety zmieniającej masę (zużywającej paliwo podczas lotu). Wzór ten został opublikowany w książce "Badanie przestrzeni świata przy pomocy urządzeń odrzutowych" :cite:`Ciolkowski1967`. Do pierwszych pionierów kosmonautyki wykorzystujących podstawy teoretyczne stworzone przez Ciołkowskiego zalicza się:
 
 - dr Robert H. Goddard (USA),
 - Siergiej Korolew (ZSRR),
 - Hermann Oberth (Niemcy),
 - Robert Albert Charles Esnault-Pelterie (Francja).
 
-Prowadzili badania zarówno nad materiałami pędnymi, paliwami stałymi i ciekłymi oraz aerodynamiką rakiet. 16 marca 1926 roku Robert H. Goddard pomyślnie wystrzelił pierwszą na świecie rakietę napędzaną na paliwo ciekłe :cite:`Goddard-American-Rocketry-Pioneer`.
+Wyżej wymienieni naukowcy i inżynierowie prowadzili badania zarówno nad materiałami pędnymi, paliwami stałymi i ciekłymi oraz aerodynamiką rakiet. 16 marca 1926 roku Robert H. Goddard pomyślnie wystrzelił pierwszą na świecie rakietę napędzaną na paliwo ciekłe :cite:`Goddard-American-Rocketry-Pioneer`.
 
 Podczas II wojny światowej prowadzono wiele badań wykorzystujących paliwo płynne. Stworzona przez Wernera von Brauna rakieta "Vergeltungswaffe 2" znana jako V-2 była pierwszą na świecie rakietą dalekiego zasięgu. Wykorzystywana głównie jako broń do bombardowania miast sojuszu alianckiego posłużyła również do testu, w którym po raz pierwszy udało się przekroczyć linię Karmana, tj. osiągnąć przestrzeń kosmiczną.
 
 
 Wyścig kosmiczny
 ================
-Po drugiej wojnie światowej wyścig zbrojeń przerodził się w tzw. zimną wojnę pomiędzy Stanami Zjednoczonymi Ameryki i Związkiem Socjalistycznych Republik Radzieckich. Za oficjalną datę rozpoczęcia wyścigu kosmicznego (ang. *Space Race*) przyjmuje się dzień drugiego sierpnia 1955 roku. Tego dnia Związek Radziecki odpowiedział na ogłoszoną przez rząd USA cztery dni wcześniej deklarację zamiaru wystrzelenia sztucznego satelity z okazji międzynarodowego roku geofizyki :cite:`Space-Race`.
+Po drugiej wojnie światowej wyścig zbrojeń przerodził się w tzw. zimną wojnę pomiędzy Stanami Zjednoczonymi Ameryki i Związkiem Socjalistycznych Republik Radzieckich. Za oficjalną datę rozpoczęcia wyścigu kosmicznego (ang. *Space Race*) przyjmuje się dzień 2 sierpnia 1955 roku. Tego dnia Związek Radziecki odpowiedział na ogłoszoną przez rząd USA cztery dni wcześniej deklarację zamiaru wystrzelenia sztucznego satelity z okazji międzynarodowego roku geofizyki :cite:`Space-Race`.
 
 Wystrzelony 4 października 1957 należący do ZSRR Sputnik został pierwszym sztucznym satelitą Ziemi. To wydarzenie zapoczątkowało serię sukcesów Związku Socjalistycznych Republik Radzieckich w kosmosie, do których należały:
 
 - pierwsze wystrzelenie zwierzęcia (pies Łajka, 3 październik 1957),
 - pierwsze bezzałogowe lądowanie na Księżycu (Luna 2, 13 września 1959) :cite:`Shelton1969`,
 - wystrzelenie oraz orbitowanie pierwszego człowieka (J. Gagarin, 12 kwietnia 1961),
-- pierwsza doba na orbicie (G. Titow, 6 sierpnia 1961),
+- pierwsza lot orbitalny trwający ponad dobę (G. Titow, 6 sierpnia 1961),
 - pierwsza kobieta w kosmosie (W. Tierieszkowa, 16 Czerwiec 1963),
 - pierwszy spacer kosmiczny (A. Leonow, 18 marzec 1965),
-- pierwsze zwierzęta na orbicie Księżyca (Zond 5, 15 września 1968) :cite:`Siddiqi2000`.
+- pierwsze zwierzęta orbitujące Księżyc, które powróciły na Ziemię (Zond 5, 15 września 1968) :cite:`Siddiqi2000`.
 
-Pierwszym zwierzęciem, które przekroczyło linię graniczną kosmosu był pies Łajka wystrzelony za pomocą rakiety Sputnik 8K71PS w kapsule Sputnik-2 :cite:`Siddiqi2000`. Ze względu na wysoką temperaturę spowodowaną uszkodzeniem i niepełnym rozczepieniem członu rakiety od satelity zwierzę zdechło po kilku godzinach od startu. Pies planowo miał żyć na orbicie 10 dni. Po około 2000 orbit w ciągu 162 dni kapsuła z martwym ciałem weszła w atmosferę i spłonęła :cite:`Harford1997`.
+Pierwszym zwierzęciem, które przekroczyło linię graniczną kosmosu był pies Łajka wystrzelony za pomocą rakiety Sputnik 8K71PS w kapsule Sputnik-2 :cite:`Siddiqi2000`. Ze względu na wysoką temperaturę spowodowaną uszkodzeniem i niepełnym rozczepieniem członu rakiety od satelity zwierzę zdechło po kilku godzinach od startu. Pies planowo miał żyć na orbicie 10 dni. Po 162-óch dnach (około 2000 orbit) kapsuła z martwym ciałem weszła w atmosferę i spłonęła :cite:`Harford1997`.
 
-Pierwszym człowiekiem w kosmosie był major Jurij Gagarin (awansowany później na pułkownika). Został wystrzelony przez Związek Radziecki 12 kwietnia 1961 w 108 minutowy orbitalny wokół Ziemi na pokładzie Vostok-1. Gagarin był jednym z 20 osób, które zostały wybrane wśród pilotów wojskowych Związku Radzieckiego :cite:`Siddiqi2000`. Wg. podań świadków major wyróżniał się wytrzymałością, duchem oraz doświadczeniem. Wśród wszystkich rekrutowanych kosmonautów przeprowadzono ankietę, w której zadano pytanie "kogo wytypował byś na pierwszy lot". Osiemnaście na dwadzieścia osób z załogi wybrało Gagarina. Major po okrążeniu Ziemi wszedł ponownie w atmosferę w tzw. krzywej balistycznej cechującej się wysokim poziomem przeciążeń działających na ciało kosmonauty. Ze względu na fakt, iż Radzieccy konstruktorzy nie dysponowali jeszcze techniką aby bezpiecznie wylądować statkiem kosmicznym na ziemi zdecydowano się na użycie fotela katapultowego i spadochronu. Na poziomie 20 000 stóp nad poziomem morza (ok. 6 tys. metrów) Gagarin katapultował się z kapsuły i bezpiecznie wrócił na powierzchnię :cite:`Why-Yuri-Gagarin-Remains-the-First-Man-in-Space`.
+Pierwszym człowiekiem w kosmosie był major Jurij Gagarin (awansowany później na pułkownika). Gagarin był jednym z 20 osób, które zostały wybrane wśród pilotów wojskowych Związku Radzieckiego :cite:`Siddiqi2000`. Wg. podań świadków major wyróżniał się wytrzymałością, duchem oraz doświadczeniem. Pośród wszystkich rekrutowanych kosmonautów przeprowadzono ankietę, w której zadano pytanie: "kogo wytypował byś na pierwszy lot". Osiemnaście na dwadzieścia osób z załogi wybrało Gagarina. Major został wystrzelony przez Związek Radziecki 12 kwietnia 1961 w 108 minutowy lot orbitalny wokół Ziemi na pokładzie Vostok-1. Po okrążeniu Ziemi wszedł ponownie w atmosferę w tzw. krzywej balistycznej cechującej się wysokim poziomem przeciążeń działających na ciało kosmonauty. Ze względu na fakt, iż Radzieccy konstruktorzy nie dysponowali jeszcze techniką aby bezpiecznie wylądować statkiem kosmicznym na ziemi zdecydowano się na użycie fotela katapultowego i spadochronu. Na poziomie 20 000 stóp nad poziomem morza (ok. 6 tys. metrów) Gagarin katapultował się z kapsuły i bezpiecznie wrócił na powierzchnię :cite:`Why-Yuri-Gagarin-Remains-the-First-Man-in-Space`.
 
 
 Krótki rys historyczny programów kosmicznych NASA
 =================================================
-Amerykańską odpowiedzią na wydarzenie wysłania Gagarina w kosmos był program Mercury. W trakcie programu wybrano siedmiu astronautów. 12 września 1962 - pół roku po locie Alana Sheparda, pierwszego amerykańskiego astronauty, aby zażegnać widmo porażki w kosmicznym wyścigu prezydent Stanów Zjednoczonych Ameryki J. F. Kennedy wygłosił mowę na Uniwersytecie Rice :cite:`Kennedy1962`, w której zmobilizował naród i postawił cel, aby "do końca dekady człowiek postawił nogę na Księżycu i bezpiecznie wrócił na Ziemię". Cel ten udało się zrealizować w 1969 roku, gdy amerykański astronauta Neil Armstrong stanął na naturalnym satelicie Ziemi.
+Amerykańską odpowiedzią na plan wysłania człowieka w kosmos był program Mercury. W trakcie selekcji do programu wybrano siedmiu astronautów. 5 maja 1961 Alan Shepard jako pierwszy amerykanin poleciał w kosmos. 12 września 1962 - pół roku po locie Sheparda, aby zażegnać widmo porażki w kosmicznym wyścigu prezydent Stanów Zjednoczonych Ameryki J. F. Kennedy wygłosił mowę na Uniwersytecie Rice :cite:`Kennedy1962`, w której zmobilizował naród i postawił cel, aby "do końca dekady człowiek postawił nogę na Księżycu i bezpiecznie wrócił na Ziemię". Cel ten udało się zrealizować w 1969 roku, gdy amerykański astronauta Neil Armstrong stanął na naturalnym satelicie Ziemi.
 
 Do najważniejszych amerykańskich programów należą:
 
 - project Mercury,
 - project Gemini,
 - project Apollo,
-- project Skylab (Apollo application),
+- project Skylab (Apollo Application),
 - program Space Shuttle,
 - uczestnictwo w programie ISS.
 
-Poniższe rozdziały krótko charakteryzują każdy z głównych programów.
+Poniższe podrozdziały krótko charakteryzują każdy z głównych programów.
 
 Projekt Mercury
 ---------------
-Głównym celem programu Mercury trwającego od 1958 do 1963 było wyniesienie pierwszego obywatela USA w przestrzeń kosmiczną. Program ten wykorzystywał technologię opracowaną przez US Army tj. rakiety Redstone i w późniejszej fazie rakiety interkontynentalne Atlas LV-3B stworzone dla US Air Force :cite:`History-of-Project-Mercury`, :cite:`Madrigal2013`, :cite:`Wolfe1979`.
+Głównym celem projektu Mercury trwającego od 1958 do 1963 było wyniesienie pierwszego obywatela USA w przestrzeń kosmiczną. Program ten wykorzystywał technologię opracowaną przez US Army tj. rakiety Redstone i w późniejszej fazie rakiety interkontynentalne Atlas LV-3B stworzone dla US Air Force :cite:`History-of-Project-Mercury`, :cite:`Madrigal2013`, :cite:`Wolfe1979`.
 
-Program Mercury zakładał wysłanie zwierzęcia przed pierwszym lotem człowieka. Ze względu na bardzo wiele wspólnych cech z człowiekiem wybrano szympansa (DNA szympansa jest w 98,4% identyczne z człowiekiem co czyni go najbliższym odpowiednikiem z królestwa zwierząt. Szympans nazywał się HAM co jest skrótem od Holloman Aerospace Medical Center, zlokalizowanego w Holloman Air Force Base w New Mexico w USA :cite:`History-of-Project-Mercury`, :cite:`Human-Origins-Genetic-Evidence`).
+Program Mercury zakładał wysłanie zwierzęcia przed pierwszym lotem człowieka. Ze względu na 98,4% podobieństwa DNA szympansa i człowieka wybrano ten gatunek naczelnych. Szympans nazywał się HAM co jest skrótem od Holloman Aerospace Medical Center, zlokalizowanego w Holloman Air Force Base w New Mexico w USA :cite:`History-of-Project-Mercury`, :cite:`Human-Origins-Genetic-Evidence`.
 
 W dniu 9 kwietnia 1959, NASA przedstawiła pierwszą grupę astronautów tzw. "Mercury 7" (:numref:`figure-selection-mercury`). Nazwiska astronautów, znak wywoławczy oraz datę wystrzelenia przedstawia tabela :numref:`table-mercury-astronauts`:
+
+Z przyczyn zdrowotnych Deke Slayton został zdyskwalifikowany z udziału w programie Mercury i uziemiony. Przez trzynaście lat od czasu pierwszego lotu Sheparda, Deke Slayton kierował *Astronauts Office* (ang. biurem astronautów i przydziału do misji), które zostało przemianowane później na *Flight Crew Operations Office* (ang. biuro operacji personelu latającego). Slayton po ostatecznym przejściu badań medycznych wziął udział w ostatnim locie programu Apollo tj. Apollo-Sojuz. W tym locie doszło do historycznego dokowania na orbicie okołoziemskiej statków Apollo i Sojuz oraz do symbolicznego uściśnięcia dłoni przedstawicieli USA i ZSRR :cite:`MercuryChronology2014`, :cite:`History-of-Project-Mercury`.
 
 .. csv-table:: Astronauci programu Mercury wraz z czasem lotu oraz znakiem wywoławczym kapsuły :cite:`Manned-Space-from-Mercury-to-the-Shuttle`
     :name: table-mercury-astronauts
@@ -71,18 +73,18 @@ W dniu 9 kwietnia 1959, NASA przedstawiła pierwszą grupę astronautów tzw. "M
 
     Astronauci programu Mercury tzw. "Original Seven". Pierwszy rząd, od lewej do prawej: Walter M. Schirra, Jr., Donald K. "Deke" Slayton, John H. Glenn, Jr., and M. Scott Carpenter; tylny rząd, Alan B. Shepard, Jr., Virgil I. "Gus" Grissom, L. Gordon Cooper, Jr. źródło: NASA :cite:`Mercury7`.
 
-Z przyczyn zdrowotnych Deke Slayton został zdyskwalifikowany z udziału w programie Mercury i uziemiony. Przez trzynaście lat od czasu pierwszego lotu Sheparda, Deke Slayton kierował *Astronauts Office* (ang. biurem astronautów i przydziału do misji), które zostało przemianowane później na Flight Crew Operations Office (ang. biuro operacji personelu latającego). Slayton po ostatecznym przejściu badań medycznych wziął udział w ostatnim locie programu Apollo tj. Apollo-Sojuz. W tym locie doszło do historycznego dokowania na orbicie okołoziemskiej statków Apollo i Sojuz oraz do symbolicznego uściśnięcia dłoni przedstawicieli USA i ZSRR :cite:`MercuryChronology2014`, :cite:`History-of-Project-Mercury`.
-
 Project Gemini
 --------------
-W celu sprostania wymaganiom postawionym przez prezydenta J. F. Kennedy'ego dotyczącego wysłania człowieka na Księżyc :cite:`Kennedy1962` konieczne było stworzenie programu pomostowego pomiędzy programami Mercury oraz Apollo. Celem programy miało być stworzenie i przetestowanie technologii umożliwiającej realizację lotu Księżycowego. Głównymi celami programu były:
+W celu sprostania wymaganiom postawionym przez prezydenta J. F. Kennedy'ego dotyczącego wysłania człowieka na Księżyc konieczne było stworzenie programu pomostowego pomiędzy programami Mercury oraz Apollo. Celem programu miało być stworzenie i przetestowanie technologii umożliwiającej realizację lotu Księżycowego, tj.:
 
-- demonstracja wytrzymałości człowieka i ekwipunku w lotach kosmicznych trwających minimum 8 dni aż do 14 dni,
-- zbliżenie (ang. *randevouz*) i dokowanie (ang. *docking*) dwóch statków kosmicznych oraz manewrowanie połączonym zespołem na robicie używając system napędowy docelowego pojazdu,
+- demonstracja wytrzymałości człowieka i ekwipunku w lotach kosmicznych trwających od 8 do 14 dni,
+- zbliżenie i dokowanie (ang. *randevouz and docking*) dwóch statków kosmicznych oraz manewrowanie połączonym zespołem na orbicie używając systemu napędowego dokowanego pojazdu,
 - demonstracja spacerów kosmicznych (ang. *EVA - Extra-Vehicular Activity*) na zewnątrz pojazdu wraz z pokazaniem możliwości wykonywania operacji przez astronautę w ciśnieniowym skafandrze :cite:`NASAGeminiIV`,
 - udoskonalenie procedury wejścia w atmosferę (ang. *re-entry*) i precyzyjnego lądowania w określonym miejscu :cite:`Kranz2001`.
 
 Amerykańska agencja kosmiczna NASA podczas projektu Gemini przeprowadziła dwa nabory na astronautów (:numref:`figure-selection-gemini-1`, :numref:`figure-selection-gemini-2`).
+
+Podczas przygotowań do misji Gemini 12 amerykański astronauta Buzz Aldrin jako pierwszy wykorzystał techniki nurkowania w celu symulacji spacerów kosmicznych co zapoczątkowało rozpoczęcie badań i stworzenie ośrodków pływalności neutralnej (ang. *NBL - Neutral Buoyancy Laboratory*).
 
 .. csv-table:: Astronauci programu Gemini :cite:`Manned-Space-from-Mercury-to-the-Shuttle`
     :name: table-selection-gemini
@@ -103,23 +105,9 @@ Amerykańska agencja kosmiczna NASA podczas projektu Gemini przeprowadziła dwa 
 
     Astronauci drugiego naboru do programu Gemini. Rząd z tyłu, od lewej: Collins, Cunningham, Eisele, Freeman, Gordon, Schweickart, Scott, Williams. Rząd z przodu: Aldrin, Anders, Bassett, Bean, Cernan, Chaffee. Źródło: NASA/JSC
 
-Podczas przygotowań do misji Gemini 12 amerykański astronauta Buzz Aldrin jako pierwszy wykorzystał techniki nurkowania w celu symulacji spacerów kosmicznych co zapoczątkowało rozpoczęcie badań i stworzenie ośrodków pływalności neutralnej (ang. *NBL - Neutral Buoyancy Laboratory*).
-
 Program Apollo
 --------------
 Najbardziej ambitnym programem w historii astronautyki był program Apollo. W ciągu niespełna dekady udało się opracować technologię oraz procedury pozwalające człowiekowi stanąć na powierzchni Księżyca i bezpiecznie powrócić na Ziemię. Program Apollo był próbą realizacji oświadczenia prezydenta USA J. F. Kennedy'ego z 12 września 1962 roku :cite:`Kennedy1962`.
-
-.. csv-table:: Astronauci programu Apollo :cite:`Manned-Space-from-Mercury-to-the-Shuttle`
-    :name: table-selection-apollo
-    :file: ../data/selection-apollo.csv
-    :header-rows: 1
-
-.. figure:: ../img/selection-apollo.jpg
-    :name: figure-selection-apollo
-    :scale: 65%
-    :align: center
-
-    Astronauci pierwszego naboru do programu Apollo. Back, Swigert, Pogue, Evans, Weitz, Irwin, Carr, Roosa, Worden, Mattingly, Lousma. Front, Givens, Mitchell, Duke, Lind, Haise, Engle, Brand, Bull, McCandless. Źródło: NASA/JSC
 
 :numref:`table-selection-apollo` przedstawia listę astronautów programu Apollo wraz z przydziałem do misji oraz datami pobytu na Księżycu :cite:`FrenchBurgess2007`, :cite:`AldrinAbraham2009`.
 
@@ -146,18 +134,26 @@ Krótka charakterystyka misji Apollo:
 - Apollo 17 - ostatnie lądowanie na Księżycu (pierwsza misja w której brał udział naukowiec - geolog), ikoniczne zdjęcie Ziemi z daleka (ang. *Blue Marble*) :cite:`Cernan2000`,
 - Apollo-Soyuz Test Project - ostatnia misja programu, podczas której doszło do dokowania na orbicie statków Apollo oraz Sojuz i historycznego uścisku dłoni między reprezentantami dwóch mocarstw.
 
+.. csv-table:: Astronauci programu Apollo :cite:`Manned-Space-from-Mercury-to-the-Shuttle`
+    :name: table-selection-apollo
+    :file: ../data/selection-apollo.csv
+    :header-rows: 1
+
+.. figure:: ../img/selection-apollo.jpg
+    :name: figure-selection-apollo
+    :scale: 65%
+    :align: center
+
+    Astronauci pierwszego naboru do programu Apollo. Back, Swigert, Pogue, Evans, Weitz, Irwin, Carr, Roosa, Worden, Mattingly, Lousma. Front, Givens, Mitchell, Duke, Lind, Haise, Engle, Brand, Bull, McCandless. Źródło: NASA/JSC
+
 Program Skylab
 --------------
-W trakcie ostatnich misji programu Apollo został powołany zespół Apollo Applications Program (AAP), którego celem było stworzenie planu wykorzystania technologii wytworzonych na potrzeby misji księżycowych w dalszej eksploracji kosmosu :cite:`ApolloChronology2007`. Głównym celem kolejnych programów NASA było zagospodarowanie niskiej orbity okołoziemskiej (ang. *LEO - Low Earth Orbit*). Pierwszym głównym programem realizującym cele nowej strategii był Skylab (1973-1979). Jego głównym założeniem była budowa stacji kosmicznej i test wpływu długotrwałego pobytu w przestrzeni kosmicznej na organizm człowieka. Program Skylab odziedziczył rakiety Saturn V, które posłużyły nie tylko wynoszeniu elementów konstrukcji na orbitę, ale również po przekształceniu górnego stopnia rakiety stworzyły podstawę budowy stacji.
+Głównym obiektem zainteresowania kolejnych programów NASA było zagospodarowanie niskiej orbity okołoziemskiej (ang. *LEO - Low Earth Orbit*). Jeszcze w trakcie ostatnich misji programu Apollo został powołany Apollo Applications Program (AAP), którego celem było stworzenie planu wykorzystania technologii wytworzonych na potrzeby misji księżycowych w dalszej eksploracji kosmosu :cite:`ApolloChronology2007`. Pierwszym głównym programem realizującym nową strategię był Skylab (1973-1979). Jego głównym założeniem była budowa stacji kosmicznej i test wpływu długotrwałego pobytu w przestrzeni kosmicznej na organizm człowieka. Program Skylab odziedziczył rakiety Saturn V, które posłużyły nie tylko wynoszeniu elementów konstrukcji na orbitę, ale również po przekształceniu górnego stopnia rakiety, stworzyły podstawę budowy stacji. Astronauci do stacji Skylab byli wynoszeni w Apollo Command/Service Module (CSM) stworzonym na potrzeby realizacji programu Apollo i załogowych misji na Księżyc. Wśród najważniejszych osiągnięć programu Skylab można zaliczyć:
 
-Astronauci do stacji Skylab byli wynoszeni w Apollo Command/Service Module (CSM) stworzonym na potrzeby realizacji programu Apollo i załogowych misji na Księżyc.
-
-Wśród najważniejszych osiągnięć programu Skylab można zaliczyć:
-
-- rozwinięcie technologii i procedur spacerów kosmicznych (EVA),
+- rozwinięcie technologii i procedur spacerów kosmicznych (*EVA*),
 - dopracowanie konstrukcji skafandra kosmicznego,
 - badanie długotrwałego wpływu środowiska mikrograwitacji na organizm człowieka,
-- obserwacja słońca za pomocą Apollo Telescope Mount (wielospektralne słoneczne obserwatorium,
+- obserwacja słońca za pomocą wielospektralnego obserwatorium słonecznego (ang. *Apollo Telescope Mount*),
 - dopracowanie konstrukcji portów dokowania,
 - opracowanie technologii śluz powietrznych,
 - pierwsza kontrolowana deorbitacja dużej konstrukcji.
