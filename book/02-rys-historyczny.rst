@@ -35,6 +35,13 @@ Pierwszym zwierzęciem, które przekroczyło linię graniczną kosmosu był pies
 
 Pierwszym człowiekiem w kosmosie był major Jurij Gagarin (awansowany później na pułkownika). Gagarin był jednym z 20 osób, które zostały wybrane wśród pilotów wojskowych Związku Radzieckiego :cite:`Siddiqi2000`. Wg. podań świadków major wyróżniał się wytrzymałością, duchem oraz doświadczeniem. Pośród wszystkich rekrutowanych kosmonautów przeprowadzono ankietę, w której zadano pytanie: "kogo wytypował byś na pierwszy lot". Osiemnaście na dwadzieścia osób z załogi wybrało Gagarina. Major został wystrzelony przez Związek Radziecki 12 kwietnia 1961 w 108 minutowy lot orbitalny wokół Ziemi na pokładzie Vostok-1. Po okrążeniu Ziemi wszedł ponownie w atmosferę w tzw. krzywej balistycznej cechującej się wysokim poziomem przeciążeń działających na ciało kosmonauty. Ze względu na fakt, iż Radzieccy konstruktorzy nie dysponowali jeszcze techniką aby bezpiecznie wylądować statkiem kosmicznym na ziemi zdecydowano się na użycie fotela katapultowego i spadochronu. Na poziomie 20 000 stóp nad poziomem morza (ok. 6 tys. metrów) Gagarin katapultował się z kapsuły i bezpiecznie wrócił na powierzchnię :cite:`Why-Yuri-Gagarin-Remains-the-First-Man-in-Space`.
 
+.. figure:: ../img/spacecraft-comparision-mercury-gemini-vostok-voshod.jpg
+    :name: spacecraft-comparision-mercury-gemini-vostok-voshod
+    :scale: 75%
+    :align: center
+
+    Schemat porównawczy statków Mercury, Gemini, Wostok i Woschod. Źródło: Wikipedia
+
 
 Krótki rys historyczny programów kosmicznych NASA
 =================================================
@@ -148,7 +155,9 @@ Krótka charakterystyka misji Apollo:
 
 Program Skylab
 --------------
-Głównym obiektem zainteresowania kolejnych programów NASA było zagospodarowanie niskiej orbity okołoziemskiej (ang. *LEO - Low Earth Orbit*). Jeszcze w trakcie ostatnich misji programu Apollo został powołany Apollo Applications Program (AAP), którego celem było stworzenie planu wykorzystania technologii wytworzonych na potrzeby misji księżycowych w dalszej eksploracji kosmosu :cite:`ApolloChronology2007`. Pierwszym głównym programem realizującym nową strategię był Skylab (1973-1979). Jego głównym założeniem była budowa stacji kosmicznej i test wpływu długotrwałego pobytu w przestrzeni kosmicznej na organizm człowieka. Program Skylab odziedziczył rakiety Saturn V, które posłużyły nie tylko wynoszeniu elementów konstrukcji na orbitę, ale również po przekształceniu górnego stopnia rakiety, stworzyły podstawę budowy stacji. Astronauci do stacji Skylab byli wynoszeni w Apollo Command/Service Module (CSM) stworzonym na potrzeby realizacji programu Apollo i załogowych misji na Księżyc. Wśród najważniejszych osiągnięć programu Skylab można zaliczyć:
+Głównym obiektem zainteresowania kolejnych programów NASA było zagospodarowanie niskiej orbity okołoziemskiej (ang. *LEO - Low Earth Orbit*). Jeszcze w trakcie ostatnich misji programu Apollo został powołany Apollo Applications Program (AAP), którego celem było stworzenie planu wykorzystania technologii wytworzonych na potrzeby misji księżycowych w dalszej eksploracji kosmosu :cite:`ApolloChronology2007`. Pierwszym głównym programem realizującym nową strategię był Skylab (1973-1979). Jego głównym założeniem była budowa stacji kosmicznej i test wpływu długotrwałego pobytu w przestrzeni kosmicznej na organizm człowieka. Program Skylab odziedziczył rakiety Saturn V, które posłużyły nie tylko wynoszeniu elementów konstrukcji na orbitę, ale również po przekształceniu górnego stopnia rakiety, stworzyły podstawę budowy stacji. Astronauci do stacji Skylab byli wynoszeni w Apollo Command/Service Module (CSM) stworzonym na potrzeby realizacji programu Apollo i załogowych misji na Księżyc.
+
+Wśród najważniejszych osiągnięć programu Skylab można zaliczyć:
 
 - rozwinięcie technologii i procedur spacerów kosmicznych (*EVA*),
 - dopracowanie konstrukcji skafandra kosmicznego,
@@ -160,16 +169,20 @@ Głównym obiektem zainteresowania kolejnych programów NASA było zagospodarowa
 
 Program Space Shuttle
 ---------------------
-Jednym z najbardziej ikonicznych programów kosmicznych jest Space Transportation System czyli tzw. prom kosmiczny (ang. *Space Shuttle*). Podczas tego programu stworzono reużywalny statek kosmiczny w kształcie przypominający samolot, który był w stanie wynosić na orbitę 27,5 metrycznej tony ładunku oraz załogą do 8 osób (misja STS-61A).
+Jednym z najbardziej ikonicznych programów kosmicznych jest Space Transportation System czyli tzw. prom kosmiczny (ang. *Space Shuttle*). Podczas programu stworzono statek kosmiczny wielokrotnego użytku w kształcie przypominającym samolot. Orbiter był w stanie wynosić na orbitę 27,5 metrycznej tony ładunku oraz załogę do 8 osób (misja STS-61A).
 
-W trakcie programu Space Shuttle stworzono orbitery :cite:`NASASpaceShuttle`:
+W trakcie programu Space Shuttle stworzono następujące orbitery :cite:`NASASpaceShuttle`:
 
 - Enterprise (1976) używany do testów podejścia i lądowania, nigdy nie osiągnął orbity,
-- Columbia (1981) pierwszy prom, który osiągnął orbitę Ziemi, uległ zniszczeniu w 2003 roku przy wejściu w atmosferę, cała siedmioosobowa załoga została utracona,
-- Challenger (1983) drugi prom który osiągnął orbitę, uległ zniszczeniu w 1986 przy starcie, cała siedmioosobowa załoga została utracona, zastąpiony później przez Endeavour,
+- Columbia (1981) pierwszy prom, który osiągnął orbitę Ziemi, uległ zniszczeniu w 2003 roku przy wejściu w atmosferę, cała siedmioosobowa załoga zginęła,
+- Challenger (1983) drugi prom który osiągnął orbitę, uległ zniszczeniu w 1986 przy starcie, cała siedmioosobowa załoga zginęła, zastąpiony przez prom Endeavour,
 - Discovery (1984), trzeci orbiter, 27 lat służby, 39 lotów,
 - Atlantis (1985), czwarty orbiter, 33 misje, 4848 orbit, 203 mln km,
 - Endeavour (1992), ostatni orbiter, 25 misji, 4671 orbit, 198 mln km.
+
+Program Space Shuttle pozwolił na zwiększenie częstotliwości lotów załogowych na niską orbitę okołoziemską. Dzięki promom kosmicznym i misjom STS Stany Zjednoczone osiągnęły bardzo wysoki poziom sprawności operacyjnej oraz ogromną przewagę w ilości wyszkolonych astronautów oraz osób, które odbyły lot w kosmos. Promy przyczyniły się również do budowy Międzynarodowej Stacji Kosmicznej oraz wyniesienia i późniejszego serwisowania teleskopu Hubble'a.
+
+Podczas lotów promów kosmicznych amerykańska agencja NASA opracowała program szkolenia astronautów, który stał się podstawą dzisiejszych treningów. Stworzono również skafander EMU - Extravehicular Mobility Unit. Skafander ten był modyfikacją skafandra *A7L* wykorzystywanego w programie Apollo. EMU znajduje zastosowanie w misjach kosmicznych i w programie Międzynarodowej Stacji Kosmicznej.
 
 .. figure:: ../img/spacecraft-space-shuttle-and-soyuz.png
     :name: figure-spacecraft-space-shuttle-and-soyuz
@@ -178,14 +191,9 @@ W trakcie programu Space Shuttle stworzono orbitery :cite:`NASASpaceShuttle`:
 
     Rysunek przedstawia skalę amerykańskiego promu kosmicznego Space Shuttle oraz rosyjskiego statku Sojuz TMA :cite:`Portree1995`
 
-Program Space Shuttle pozwolił na zwiększenie częstotliwości lotów załogowych na niską orbitę okołoziemską. Dzięki promom kosmicznym i misjom STS stany zjednoczone osiągnęły bardzo wysoki poziom sprawności operacyjnej oraz ogromną przewagę w ilości wyszkolonych astronautów oraz osób, które odbyły lot w kosmos. Promy przyczyniły się również do budowy Międzynarodowej Stacji Kosmicznej oraz wyniesieniu i późniejszemu serwisowaniu teleskopu Hubble.
-
-Podczas lotów promów kosmicznych amerykańska agencja NASA opracowała program szkolenia astronautów, który stał się podstawą dzisiejszych treningów. Opracowano również skafander EMU - Extravehicular Mobility Unit (modyfikacja skafandra *A7L* wykorzystywanego w programie Apollo), który znajduje zastosowanie w misjach kosmicznych aż po dziś dzień w programie Międzynarodowej Stacji Kosmicznej.
-
-
 Krótki rys historyczny programów kosmicznych ZSRR i Federacji Rosyjskiej
 ========================================================================
-Związek Socjalistycznych Republik Radzieckich wiódł prym w tematach kosmicznych i do czasu pierwszych kroków Neila Armstronga technologia radziecka była uważana za dominującą. Wśród najważniejszych programów ZSRR i późniejszej Federacji Rosyjskiej można wymienić:
+Związek Socjalistycznych Republik Radzieckich wiódł prym w tematach kosmicznych i do czasu pierwszych kroków Neila Armstronga technologia radziecka była uważana za dominującą. Programy załogowe ZSRR charakteryzowały się dużą złożonością i zróżnicowaniem. Wśród najważniejszych programów ZSRR i późniejszej Federacji Rosyjskiej można wymienić:
 
 - program Wostok,
 - program Woschod,
@@ -199,16 +207,7 @@ Związek Socjalistycznych Republik Radzieckich wiódł prym w tematach kosmiczny
 
 Program Wostok
 --------------
-Wostok był pierwszym załogowym programem kosmonautycznym w Związku Socjalistycznych Republik Radzieckich. Punktem kulminacyjnym programu był lot 12 kwietnia 1961 roku radzieckiego majora Jurija Gagarina - pierwszego człowieka w kosmosie.
-
-W trakcie trwania programu 1961 do 1963 roku odbyło się 6 lotów załogowych a najdłuższy trwał 5 dni. Cztery ostatnie loty były wystrzeliwane parami w odstępie jednego dnia od siebie.
-
-.. figure:: ../img/spacecraft-comparision-mercury-gemini-vostok-voshod.jpg
-    :name: spacecraft-comparision-mercury-gemini-vostok-voshod
-    :scale: 75%
-    :align: center
-
-    Schemat porównawczy statków Mercury, Gemini, Wostok i Woschod. Źródło: Wikipedia
+Wostok był pierwszym załogowym programem kosmonautycznym w Związku Socjalistycznych Republik Radzieckich. Punktem kulminacyjnym programu był lot 12 kwietnia 1961 roku radzieckiego majora Jurija Gagarina - pierwszego człowieka w kosmosie. W trakcie trwania programu 1961 do 1963 roku odbyło się 6 lotów załogowych a najdłuższy trwał 5 dni. Cztery ostatnie loty były wystrzeliwane parami w odstępie jednego dnia od siebie. Listę kosmonautów programu przedstawia :numref:`table-wostok-cosmonauts`.
 
 .. csv-table:: Lista kosmonautów programu Wostok wraz z wiekiem w czasie selekcji :cite:`Siddiqi2000`
     :name: table-wostok-cosmonauts
@@ -222,9 +221,9 @@ W trakcie trwania programu 1961 do 1963 roku odbyło się 6 lotów załogowych a
 
 Program Woschod
 ---------------
-Program Woschod był kontynuatorem programu Wostok. Wprowadzał modyfikację do kapsuły, wzrost jej objętości, oraz zwiększenie załogi do trzech osób i powiększenie rakiety nosiciela. Odbyły się dwa loty w ramach programu w latach 1964 i 1965.
+Program Woschod był kontynuatorem programu Wostok. Wprowadzał modyfikację do kapsuły, wzrost jej objętości, oraz zwiększenie liczby członków załogi do trzech osób. Zastosowano również powiększoną rakietę nosiciela. W latach 1964 i 1965 odbyły się dwa loty w ramach programu.
 
-Największym dokonaniem podczas programu Woschod było pierwsze wyjście człowieka w otwarty kosmos, tzw. EVA. Dokonał tego rosyjski kosmonauta Alexey Leonov 18 marca 1965 roku. Pierwsze wyjście trwało 12 minut i niemalże zakończyło się śmiercią kosmonauty, gdyż jego skafander ze względu na różnicę ciśnień spuchł do rozmiarów niepozwalających na powrót do śluzy. Leonov rozhermetyzował skafander i upuścił powietrze w skutek czego nabrał możliwości wejścia do kapsuły.
+Największym dokonaniem podczas programu Woschod było pierwsze wyjście człowieka w otwarty kosmos, tzw. *EVA*. Dokonał tego rosyjski kosmonauta Alexey Leonov 18 marca 1965 roku. Pierwsze wyjście trwało 12 minut i niemalże zakończyło się śmiercią kosmonauty. Jego skafander ze względu na różnicę ciśnień spuchł do rozmiarów niepozwalających na powrót do śluzy. Leonov rozhermetyzował skafander i upuścił powietrze w skutek czego nabrał możliwości ponownego wejścia do kapsuły.
 
 .. csv-table:: Lista lotów programu Woschod :cite:`Siddiqi2000`
     :name: table-wosohod-flights
@@ -240,25 +239,23 @@ Największym dokonaniem podczas programu Woschod było pierwsze wyjście człowi
 
 Program Sojuz i Progress
 ------------------------
-Program Sojuz jest jednym z najdłużej trwających programów kosmicznych. Był bezpośrednim następcą programu Woschod i rozpoczął się w połowie lat sześćdziesiątych XX wieku. Pierwotnie celem programu miało być stworzenie podstaw do lotów Księżycowych, ale później wymagania zostały zmienione.
+Program Sojuz jest jednym z najdłużej trwających programów kosmicznych. Był bezpośrednim następcą programu Woschod i rozpoczął się w połowie lat sześćdziesiątych XX wieku. Pierwotnie celem programu miało być stworzenie podstaw do lotów księżycowych, ale później wymagania zostały zmienione.
 
-Program Sojuz w swoich kolejnych modyfikacjach trwa do dziś. Jest najbardziej niezawodnym statkiem kosmicznym, a od czasu wycofania z użycia amerykańskich promów Space Shuttle jest jedynym środkiem transportu do i z Międzynarodowej Stacji Kosmicznej. Więcej na temat programu w rozdziale poświęconym :ref:`szkoleniu w pilotowaniu statku kosmicznego Sojuz <pilotaz>`.
+Program Sojuz wraz z kolejnymi modyfikacjami trwa do dziś. Rakieta i kapsuła Sojuz jest najbardziej niezawodnym statkiem kosmicznym. Od czasu wycofania z użycia amerykańskich promów Space Shuttle jest jedynym środkiem transportu do i z Międzynarodowej Stacji Kosmicznej. Więcej na temat programu w rozdziale poświęconym :ref:`szkoleniu w pilotowaniu statku kosmicznego Sojuz <pilotaz>`.
 
 Równocześnie z kapsułą załogową Sojuz tworzona była jej bezzałogowa wersja Progress. Podobnie jak Sojuz tak i Progress jest wciąż użytkowany i stanowi główne źródło zaopatrzenia dla ISS.
 
-Program Księżycowy
-------------------
-ZSRR konkurował ze stanami zjednoczonymi w ramach wyścigu kosmicznego. Apogeum całego Space Race miał być załogowy lot na Księżyc. W tym celu Główny Konstruktor Siergiej Pawłowicz Korolew rozpoczął pracę nad rakietą *N1*. Rakieta ta w przeciwieństwie do podejścia amerykańskiego składała się z 5 segmentów (ang. *stage*) oraz 30 silników pierwszego poziomu. Ze względu na złożoność systemu rakieta eksplodowała przy starcie. Po czwartym podejściu i utracie nosiciela, zmianie geopolitycznej, przegraniu wyścigu kosmicznego Komitet Centralny Partii postanowił zamknąć program.
+Program Księżycowy (N1-LK)
+--------------------------
+ZSRR konkurował ze stanami zjednoczonymi w ramach wyścigu kosmicznego. Punktem kulminacyjnym całego Space Race miał być załogowy lot na Księżyc. W tym celu Główny Konstruktor Siergiej Pawłowicz Korolew rozpoczął pracę nad rakietą N1. W ramach programu stworzony został również lądownik LK przedstawiony na obrazku :numref:`figure-spacecraft-lk-models`. Rakieta N1 ta w przeciwieństwie amerykańskiego do podejścia składała się nie z trzech a z 5 segmentów (ang. *stage*) oraz 30 silników pierwszego poziomu. Ze względu na złożoność systemu rakieta każdorazowo eksplodowała przy starcie. Po czwartym nieudanym podejściu i utracie nosiciela, zmianie geopolitycznej i przegraniu wyścigu kosmicznego Komitet Centralny Partii postanowił zamknąć program.
 
-W ramach programu stworzony został lądownik LK przedstawiony na obrazku :numref:`figure-spacecraft-lk-models`.
+Kosmonauci przydzieleni do treningów księżycowych byli w członkami pierwszego naboru. Ze względu na jednoczesny przydział kosmonautów do więcej niż jednej grupy pojawiło się wiele zastrzeżeń dotyczących wyboru pierwszej osoby, która miałaby stanąć na Księżycu :cite:`LeonovScott2006`.
 
 .. csv-table:: Lista kosmonautów przypisanych do grup szkoleniowych w ramach programu księżycowego :cite:`Kamanin-Diaries`
     :name: table-lk-astronauts
     :file: ../data/lk-astronauts.csv
     :header-rows: 1
     :widths: 10, 90
-
-Kosmonauci przydzieleni do treningów księżycowych byli członkami pierwszego naboru. Ze względu na jednoczesny przydział kosmonautów do więcej niż jednej grupy pojawiło się wiele zastrzeżeń dotyczących wyboru pierwszej osoby, która miałaby stanąć na Księżycu :cite:`LeonovScott2006`.
 
 .. figure:: ../img/spacecraft-lk-models.jpg
     :name: figure-spacecraft-lk-models
@@ -269,9 +266,14 @@ Kosmonauci przydzieleni do treningów księżycowych byli członkami pierwszego 
 
 Program Salut
 -------------
-Pierwszym w historii programem orbitalnej stacji kosmicznej był Salut. Konstrukcja stacji była jednomodułowa i wyniesiona na orbitę za pomocą rakiety nośnej. Kosmonauci za pomocą statków Sojuz dokowali do stacji, gdzie prowadzili badania nad efektami długotrwałego pobytu w stanie mikrograwitacji na organizm człowieka. Program również nosił nazwę Długoczasowa Stacja Orbitalna (ros. *DOS - Dołgowriemiennaja Orbitalnaja Stancija*) a równcześnie z nim był tworzony wojskowy program *Ałmaz* (ros. *Diament*).
+Pierwszym w historii programem orbitalnej stacji kosmicznej był Salut. Konstrukcja stacji była jednomodułowa i wynoszona na orbitę na rakiecie-nosicielu Proton. Kosmonauci za pomocą statków Sojuz dokowali do stacji, gdzie prowadzili badania nad efektami wpływu na organizm człowieka długotrwałego pobytu w stanie mikrograwitacji. Program również nosił nazwę Długoczasowa Stacja Orbitalna (ros. *DOS - Dołgowriemiennaja Orbitalnaja Stancija*), a równcześnie z nim był tworzony wojskowy program *Ałmaz* (ros. *Diament*).
 
-Stacje wyposażone były w port dokowania dzięki, któremu zarówno załogowe jak i bezzałogowe statki Progress mogły dołączać do stacji i zaopatrywać ją w paliwo, tlen i inne zasoby.
+Stacje wyposażone były w port dokowania, dzięki któremu zarówno załogowe jak i bezzałogowe statki Progress mogły dołączać do stacji i zaopatrywać ją w paliwo, tlen i inne zasoby.
+
+.. csv-table:: Lista stacji kosmicznych w ramach programu Salut/Ałmaz/Mir. Źródło: Wikipedia
+    :name: table-salyut-timeline
+    :file: ../data/salyut-timeline.csv
+    :header-rows: 1
 
 .. figure:: ../img/spacestation-salyut-6.svg
     :name: figure-spacestation-salyut-6
@@ -280,14 +282,9 @@ Stacje wyposażone były w port dokowania dzięki, któremu zarówno załogowe j
 
     Schemat stacji kosmicznej Salut-6. Źródło: Wikipedia
 
-.. csv-table:: Lista stacji kosmicznych w ramach programu Salut/Ałmaz/Mir. Źródło: Wikipedia
-    :name: table-salyut-timeline
-    :file: ../data/salyut-timeline.csv
-    :header-rows: 1
-
 Program Interkosmos
 -------------------
-W ramach zjazdu przedstawicieli krajów socjalistycznych w Moskwie 5-13 kwietnia 1967 roku przyjęto program współpracy w zakresie eksploracji kosmosu - Interkosmos. W ramach programu odbywały się loty zarówno załogowe jak i bezzałogowe. Głównym założeniem współpracy było korzystanie z infrastruktury naziemnej oraz  rakiet radzieckiego programu kosmonautycznego. Międzynarodowa współpraca miała dotyczyć badań naukowych oraz lotów załóg. Prawną stronę porozumienia i działania państw członkowskich regulował dokument zawarty 13 lipca 1976 roku. Porozumienie obowiązywało od 25 marca 1977 roku.
+W ramach zjazdu przedstawicieli krajów socjalistycznych w Moskwie 5-13 kwietnia 1967 roku przyjęto program współpracy w zakresie eksploracji kosmosu - Interkosmos. W ramach programu odbywały się loty zarówno załogowe jak i bezzałogowe. Głównym założeniem współpracy było korzystanie z infrastruktury naziemnej oraz  rakiet radzieckich. Międzynarodowa współpraca miała dotyczyć badań naukowych oraz lotów załogowych. Prawną stronę porozumienia i działania państw członkowskich regulował dokument zawarty 13 lipca 1976 roku. Porozumienie obowiązywało od 25 marca 1977 roku. W późniejszym czasie w ramach programu Interkosmos powstała stacja Mir.
 
 Głównym celem programu Interkosmos były badania naukowe w obszarach:
 
@@ -295,9 +292,14 @@ Głównym celem programu Interkosmos były badania naukowe w obszarach:
 - meteorologii,
 - łączności,
 - biologii,
-- medycyny kosmicznej
+- medycyny kosmicznej.
 
-W ramach programu odbywały się międzynarodowe loty załogowe, które umożliwiły kosmonautom spoza ZSRR oraz USA lot w kosmos. Pierwszym kosmonautą nie będącym obywatelem powyższych państw był czech Vladimír Remek, który poleciał 2 marca 1978 roku. Drugą osobą był generał Mirosław Hermaszewski (27 czerwca 1978). :numref:`table-selection-interkosmos` przedstawia listę kosmonautów programu Interkosmos.
+W ramach programu odbywały się międzynarodowe loty załogowe, które umożliwiły kosmonautom spoza ZSRR oraz USA lot w kosmos. Kosmonautów w ramach programu Interkosmos wybierano z najlepszych pilotów w ramach państw, które ratyfikowały porozumienie. Pierwszym kosmonautą nie będącym obywatelem powyższych państw był czech Vladimír Remek, który poleciał 2 marca 1978 roku. Drugą osobą był generał Mirosław Hermaszewski (27 czerwca 1978). :numref:`table-selection-interkosmos` przedstawia listę kosmonautów programu Interkosmos.
+
+.. csv-table:: Lista kosmonautów w ramach programu Interkosmos. Źródło: Wikipedia
+    :name: table-selection-interkosmos
+    :file: ../data/selection-interkosmos.csv
+    :header-rows: 1
 
 .. figure:: ../img/map-interkosmos.png
     :name: figure-map-interkosmos
@@ -305,13 +307,6 @@ W ramach programu odbywały się międzynarodowe loty załogowe, które umożliw
     :align: center
 
     Państwa uczestniczące w ramach programu Interkosmos. Źródło: Wikipedia
-
-Kosmonautów w ramach programu Interkosmos wybierano z najlepszych pilotów w ramach państw, które ratyfikowały porozumienie.
-
-.. csv-table:: Lista kosmonautów w ramach programu Interkosmos. Źródło: Wikipedia
-    :name: table-selection-interkosmos
-    :file: ../data/selection-interkosmos.csv
-    :header-rows: 1
 
 Program Buran
 -------------
