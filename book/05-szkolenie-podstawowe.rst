@@ -6,13 +6,13 @@ Szkolenie podstawowe
 
     -- Astronaut Victor Glover :cite:`Glover2016`
 
-Po selecji osoba wybrana przez komisję ma za zadanie stawić się na tzw. szkolenie podstawowe. Podczas szkolenia kandydat na astronatę (ang. *ASCAN - Astronaut Candidate*) będzie przygotowany przez ekspertów oraz starszych stażem astronautów do pełnienia służby i docelowego lotu w kosmos. Szkolenie kandydackie trwa w zależności od agencji półtora do dwóch i pół roku. Po jego ukończeniu osoba ubiegająca się będzie mogła oczekiwać na przydział do misji :cite:`Gregersen2009`, a następnie szkolenie specyficzne trwające zwykle około 2 lat. Wyjątkiem jest CNSA, gdzie szkolenie podstawowe 3 lata, a szkolenie do przydzielonej misji 10 miesięcy.
+Po selekcji osoba wybrana przez komisję ma za zadanie stawić się na tzw. szkolenie podstawowe. Podczas szkolenia kandydat na astronautę (ang. *ASCAN - Astronaut Candidate*) będzie przygotowany przez ekspertów oraz starszych stażem astronautów do pełnienia służby i docelowego lotu w kosmos. Szkolenie kandydackie trwa w zależności od agencji półtora do dwóch i pół roku. Po jego ukończeniu osoba ubiegająca się będzie mogła oczekiwać na przydział do misji :cite:`Gregersen2009`, a następnie szkolenie specyficzne trwające zwykle około 2 lat. Wyjątkiem jest CNSA, gdzie szkolenie podstawowe 3 lata, a szkolenie do przydzielonej misji 10 miesięcy.
 
 Szkolenie podstawowe astronautów, które  dzieli się na 4 główne części:
 
 - wiedza ogólna,
 - robotyka i systemy ISS,
-- trening spacerów kosmincznych,
+- trening spacerów kosmicznych,
 - pilotaż.
 
 W kolejnych rozdziałach autor przybliży każdy z powyższych tematów.
@@ -20,7 +20,7 @@ W kolejnych rozdziałach autor przybliży każdy z powyższych tematów.
 
 Przygotowanie teoretyczne i wiedza ogólna
 =========================================
-Głównym celem szkolenia jest wyrównanie poziomu wiedzy i umijejętności kandydatów pochodzących z różnych specjalizacji i dziedzin i wprowadzenie spójnego zasobu wiedzy, który stanowi podstawę do dalszego szkolenia. Ukończenie kursu podstawowego pozwala na zmianę tytułu z "kandydat na astronautę" na "astronauta" :cite:`NASA-Astronaut-Candidate-Program`. Jest to proces wymagający wielu poświęceń z życia prywatnego, który determinuje zasadność dalszych inwestycji przez agencję kosmiczną. W trakcie zbierania materiałów autor dotarł źródła pragnącego zachować anonimowość, które przekazało informację, że tylko 60% astronautów nadaje się do przydziałów do dalszych misji. Zgodnie z wywiadem pozostali "osiadają na laurach i przestają się uczyć", a ciągłe kształcenie jest podstawą specyfiki tego zawodu. Proces szkolenia podstawowego stanowi jeden z etapów weryfikacji umiejętności i zaangażowania.
+Głównym celem szkolenia jest wyrównanie poziomu wiedzy i umiejętności kandydatów pochodzących z różnych specjalizacji i dziedzin i wprowadzenie spójnego zasobu wiedzy, który stanowi podstawę do dalszego szkolenia. Ukończenie kursu podstawowego pozwala na zmianę tytułu z "kandydat na astronautę" na "astronauta" :cite:`NASA-Astronaut-Candidate-Program`. Jest to proces wymagający wielu poświęceń z życia prywatnego, który determinuje zasadność dalszych inwestycji przez agencję kosmiczną. W trakcie zbierania materiałów autor dotarł źródła pragnącego zachować anonimowość, które przekazało informację, że tylko 60% astronautów nadaje się do przydziałów do dalszych misji. Zgodnie z wywiadem pozostali "osiadają na laurach i przestają się uczyć", a ciągłe kształcenie jest podstawą specyfiki tego zawodu. Proces szkolenia podstawowego stanowi jeden z etapów weryfikacji umiejętności i zaangażowania.
 
 Nauka języków obcych i przygotowanie kulturowe
 ----------------------------------------------
@@ -45,14 +45,14 @@ Podstawą badań prowadzonych w kosmosie są nauki przyrodnicze i techniczne. Ze
 
 Kurs inżynierii kosmicznej i systemowej
 ---------------------------------------
-Każdy astronauta z założenia powinien przyswoić sobie działanie systemów statków kosmicznych i stacji orbitalnej. W tym celu podzczas kursu kandydackiego wykładane są przedmioty z zakresu inżynierii kosmicznej (ang. *aerospace engineering*) i inżynierii systemowej (ang. *systems engineering*). Wśród przedmiotów wykładanych w formie zajęć teoretycznych można wymienić:
+Każdy astronauta z założenia powinien przyswoić sobie działanie systemów statków kosmicznych i stacji orbitalnej. W tym celu podczas kursu kandydackiego wykładane są przedmioty z zakresu inżynierii kosmicznej (ang. *aerospace engineering*) i inżynierii systemowej (ang. *systems engineering*). Wśród przedmiotów wykładanych w formie zajęć teoretycznych można wymienić:
 
 - aerodynamika lotów atmosferycznych dużych prędkości (lot i przejście między prędkościami):
 
     - poddźwiękowe (ang. *subsonic*) <0,8 Ma,
     - okołodźwiękowe (ang. *transonic*) 0,8-1,3 Ma,
     - naddźwiękowe (ang. *supersonic*) 1,3–5,0 Ma,
-    - hiperdźwiękowe (ang. *hipersonic*) 5,0–10,0 Ma,
+    - hiperdźwiękowe (ang. *hypersonic*) 5,0–10,0 Ma,
     - wysoko hiperdźwiękowe (ang. *high-hypersonic*) 10,0–25,0 Ma,
     - wejścia atmosferycznego (ang. *re-entry*) >25,0 Ma,
 
@@ -88,7 +88,7 @@ W ramach kursu wyrównującego wiedzę kandydaci na astronautów muszą przyswoi
 - transfery orbitalne:
 
     - transfer Hohmanna,
-    - transfer dwueliptyczny (ang. *Bi-elliptic transfer*),
+    - transfer dwu-eliptyczny (ang. *Bi-elliptic transfer*),
 
 - zmiany inklinacji,
 - operacje zbliżania i dokowania (ang. *rendezvous and docking*),
@@ -107,7 +107,7 @@ Podczas pobytu na międzynarodowej stacji kosmicznej oraz w trakcie długotrwał
 - resuscytacja krążeniowo oddechowa (ang. *cardio-pulmonary resuscitation*),
 - szycie (ang. *suture*).
 
-Podczas lotu Jurija Romanenko w 1973 roku w ramach misji Salyut 6 kosmonauta doznał bólu zęba. Ból był tak silny, że rzutował na jego sprawność podczas badań na orbicie. Kosmonauta był zmuszony czekać dwa tygodnie do czasu powrotu na Ziemię aby uzyskać pomoc dentystyczną. Od tamtego czasu wszyscy astronauci przechodzą podstawowy kurs stomatologiczny.
+Podczas lotu Jurija Romanenko w 1973 roku w ramach misji Salut 6 kosmonauta doznał bólu zęba. Ból był tak silny, że rzutował na jego sprawność podczas badań na orbicie. Kosmonauta był zmuszony czekać dwa tygodnie do czasu powrotu na Ziemię aby uzyskać pomoc dentystyczną. Od tamtego czasu wszyscy astronauci przechodzą podstawowy kurs stomatologiczny.
 
 .. figure:: ../img/training-dentistry.jpg
     :name: figure-training-dentistry
@@ -126,7 +126,7 @@ W ramach szkolenia kandydackiego astronautów poruszane są tematy:
 - nauka wystąpień publicznych i "Space Advocacy",
 - wykorzystanie amatorskiego radia krótkofalowego.
 
-Astronauci są osobami publicznymi często występującymi przed zgromadzeniami. Od ich prezencji i sposoby wypowiadania się zależy wizerunek agencji i całego programu kosmicznego. Z tego powodu agencje kosmiczne już podczas selekcji cenią umiejętność przemiówień publiczncyh. Ponadto konieczna jest umiejętność prezentacji skomplikowanych problemów w prosty i przystępny sposób nawet dla najmłodszego odbiorcy.
+Astronauci są osobami publicznymi często występującymi przed zgromadzeniami. Od ich prezencji i sposoby wypowiadania się zależy wizerunek agencji i całego programu kosmicznego. Z tego powodu agencje kosmiczne już podczas selekcji cenią umiejętność przemówień publicznych. Ponadto konieczna jest umiejętność prezentacji skomplikowanych problemów w prosty i przystępny sposób nawet dla najmłodszego odbiorcy.
 
 Czynności rutynowe
 ------------------
@@ -135,7 +135,7 @@ W ramach przedmiotu Routine Ops astronauci przyswajają umiejętności związane
 - fotografią,
 - strzyżeniem włosów,
 - sprzątaniem,
-- korzystnaiem z toalety,
+- korzystaniem z toalety,
 - korzystaniem ze sprzętu elektronicznego,
 - naprawami sprzętu i toalety.
 

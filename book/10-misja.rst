@@ -45,7 +45,7 @@ Bezpośrednio przed wylotem :cite:`Kelly2017`:
 - przejazd autobusem do budynku 254 w celu ubrania skafandra Sokol,
 - oddanie moczu na koło autobusu - upamiętnienie czynu Gagarina (​kobiety urzednio przygotowują napełnione butelki, które rozlewają),
 - ostatni salut stojąc na wyznaczonych miejscach,
-- pozowanie do zdjęć i machanie do obserwatorów ze schodów do rakiety Soyuz,
+- pozowanie do zdjęć i machanie do obserwatorów ze schodów do rakiety Sojuz,
 - sprawdzanie systemów,
 - każdy astronauta może wybrać trzy piosenki, które są odtwarzane podczas oczekiwania na start :cite:`Hermaszewski2013`.
 
@@ -74,7 +74,7 @@ Do stworzenia insygniów misji dowódca załogi wyznacza kilka osób, które wsp
     :scale: 5%
     :align: center
 
-    Insygnia misji Soyuz 30 w ramach programu Interkosmos. W misji wzięli udział gen. Hermaszewski oraz gen. Klimuk. Źródło: Wikipedia
+    Insygnia misji Sojuz-30 w ramach programu Interkosmos. W misji wzięli udział gen. Hermaszewski oraz gen. Klimuk. Źródło: Wikipedia
 
 .. figure:: ../img/insignia-mission-patch-multiple.jpg
     :name: figure-insignia-mission-patch-multiple
@@ -96,21 +96,21 @@ Przygotowanie powrotu na Ziemię
     - http://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/introrescueagreement.html
 
 .. todo::
-    - Astronauci wydłużają się o 5-7 cm i maja problemy z mieszczeniem się w swoje Custom made siedzenia w soyuzie
+    - Astronauci wydłużają się o 5-7 cm i maja problemy z mieszczeniem się w swoje Custom made siedzenia w Sojuzie
     - Space Shuttle Wystawiała kółka by się rozgrzały
 
 Przygotowanie
 -------------
 - Przygotowanie do powrotu na Ziemię
 - Przekazanie dowodzenia ISS
-- Pakowanie Soyuz (​Only cosmonauts are allowed to pack Soyuz before reentry.)
+- Pakowanie Sojuz (​Only cosmonauts are allowed to pack Soyuz before reentry.)
 
 Lot powrotny
 ------------
 - Undocking
 - Obniżanie orbity
 - De-orbit burn
-- Wejście w atmosferę i lądowanie statkiem Soyuz
+- Wejście w atmosferę i lądowanie statkiem Sojuz
 
     - Normalne wejście w atmosferę
     - Wejście w atmosferę po krzywej balistycznej
@@ -119,7 +119,7 @@ Lot powrotny
 24 immediate action buttons. Cover with flip lids, to prevent accidental pushes:
 switch main engine off
 Turn the backup thrusters
-​Aby utrzymać panele słoneczne skierowane na słońce Soyuz kręci się jak kurczak na rożnie
+​Aby utrzymać panele słoneczne skierowane na słońce Sojuz kręci się jak kurczak na rożnie
 
 Lądowanie i procedury po wylądowaniu
 ------------------------------------

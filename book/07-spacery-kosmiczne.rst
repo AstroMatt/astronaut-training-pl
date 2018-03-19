@@ -44,17 +44,17 @@ Ze względu na strukturę oraz konstrukcję podział wygląda następująco:
 
 Skafandry kosmiczne wykorzystywane podczas startu i lądowania
 -------------------------------------------------------------
-Od czasów śmierci załogi *Soyuz 11*, którego załogę stanowili:
+Od czasów śmierci załogi Sojuz-11, którego załogę stanowili:
 
-- Georgy Dobrovolsky (Commander),
-- Vladislav Volkov (Flight Engineer),
-- Viktor Patsayev (Test Engineer),
+- Georgy Dobrovolsky (dowódca),
+- Vladislav Volkov (inżynier pokładowy),
+- Viktor Patsayev (inżynier testów),
 
 w skutek rozszczelnienia kapsuły i utraty powietrza wszystkie loty kosmiczne odbywają się w skafandrach do użycia wewnątrz pojazdu (ang. *IVA - Intravehicular Activity*). Skafandry te są lżejsze od skafandrów EVA i nie posiadają własnego systemu podtrzymywania życia (*PLSS*), co czynie je zależne od statku kosmicznego do którego zostały przystosowane. :numref:`table-spacesuits-iva` przedstawia zestawienie historyczne skafandrów *IVA*. Głównymi skafandrami wykorzystywanymi obecnie w lotach załogowych są skafandry *Sokol*.
 
-Na uwagę zasługuje fakt, iż wcześniejsze loty w ramach programów Wostok, *Woskhod* oraz Soyuz odbywały się przy załodze ubranej w skafandry *IVA*. Jednakże zwiększenie załogi z jednego, później do dwóch i docelowo trzech astronautów spowodowało brak miejsca w kapsule i decyzję o nieużywaniu skafandrów.
+Na uwagę zasługuje fakt, iż wcześniejsze loty w ramach programów Wostok, Woskhod oraz Sojuz odbywały się przy załodze ubranej w skafandry *IVA*. Jednakże zwiększenie załogi z jednego, później do dwóch i docelowo trzech astronautów spowodowało brak miejsca w kapsule i decyzję o nieużywaniu skafandrów.
 
-W amerykańskim programie załogowym również zdarzył się przypadek gdzie niemalże nie doszło do katastrofy i utraty załogi. Podczas powrotu z misji "*Apollo-Soyuz*" załoga:
+W amerykańskim programie załogowym również zdarzył się przypadek gdzie niemalże nie doszło do katastrofy i utraty załogi. Podczas powrotu z misji "Apollo-Sojuz" załoga:
 
 - Thomas P. Stafford (Commander),
 - Vance D. Brand (Command Module Pilot),
@@ -760,8 +760,8 @@ Prosuszanie się po powierzchni Księżyca w trakcie EVA w ramach Apollo
 Dekonstrukcja kamer i aparatu fotograficznego podczas misji Apollo
 ------------------------------------------------------------------
 
-Demonstracja poruszania się w przestrzeni kosmicznej w programach Woshod, Gemini
---------------------------------------------------------------------------------
+Demonstracja poruszania się w przestrzeni kosmicznej w programach Woschod, Gemini
+---------------------------------------------------------------------------------
 
 Instalacja systemów ISS
 -----------------------

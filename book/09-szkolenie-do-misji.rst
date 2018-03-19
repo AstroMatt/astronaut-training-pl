@@ -21,7 +21,7 @@ Przygotowanie astronautów pod kątem przydzielonej misji
         - EVA
         - Robotics
         - Exploration branch, (GSDO) Ground Systems Development and Operations
-    - przygotowanie kapsuły Soyuz oraz siedzenia pod konkretnego astronautę trwa dwa lata
+    - przygotowanie kapsuły Sojuz oraz siedzenia pod konkretnego astronautę trwa dwa lata
 
 .. todo::
     1. Psychology
@@ -273,7 +273,7 @@ Sytuacje awaryjne na międzynarodowej stacji kosmicznej
     - electronic sysyems failure
     - Vhf radio system failure
     - Smart switch router Brie ASU system failure (cieżko tłumaczki się słuchało)
-    - Pożar w soyuz oraz na stacji
+    - Pożar w sojuz oraz na stacji
     - lithium hydroxide leaking
     - leak seals
     - tank leaking

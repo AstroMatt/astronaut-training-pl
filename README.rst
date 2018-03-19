@@ -14,7 +14,7 @@ Praca magisterska napisana pod kierownictwem:
 
 Promotor pomocniczy:
 
-- gen. bryg. Mirosław Hermaszewski, kosmonauta Soyuz 30, Salyut 6
+- gen. bryg. Mirosław Hermaszewski, kosmonauta Sojuz-30, Salut-6
 
 Opis
 ====

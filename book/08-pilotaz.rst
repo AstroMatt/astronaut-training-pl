@@ -27,14 +27,14 @@ Trening pilotażu innych statków powietrznych
 Za czasów programu Apollo astronauci byli szkoleni również z pilotażu śmigłowców oraz LLRV (ang. Lunar Landing Research Vechicle) czyli pojazdu pionowego startu i lądowania wyglądem przypominającego pająka z silnikiem odrzutowym umiejsciowionym w spodniej części. Zarówno szkolenie śmigłowcowe jak i LLRV przygotowywały astronautów do umiejętności startu, zawisu i lądowania.
 
 
-Pilotaż oraz wykorzystanie systemów statku kosmicznego Soyuz
+Pilotaż oraz wykorzystanie systemów statku kosmicznego Sojuz
 ============================================================
 .. figure:: ../img/spacecraft-soyuz-systems.png
     :name: figure-spacecraft-soyuz-systems
     :scale: 50%
     :align: center
 
-    Schemat statku Soyuz. Źródło: Wikipedia
+    Schemat statku Sojuz. Źródło: Wikipedia
 
 .. csv-table:: Parametry techniczne statków kosmicznych Soyuz w różnych wersjach
     :name: table-soyuz-characteristics
@@ -90,9 +90,9 @@ Pilotaż oraz wykorzystanie systemów statku kosmicznego Soyuz
     switch main engine off
     Turn the backup thrusters
     Motto astronautów "nic nie jest ważniejsze niż to co robisz teraz"
-    Aby utrzymać panele słoneczne skierowane na słońce Soyuz kręci się jak kurczak na rożnie
+    Aby utrzymać panele słoneczne skierowane na słońce Sojuz kręci się jak kurczak na rożnie
 
-.. todo:: Oprogramowanoe Soyuza ma okolo 50 displays
+.. todo:: Oprogramowanoe Sojuza ma okolo 50 displays
     Speed
     Altitude
     Ships oxygen system
@@ -118,7 +118,7 @@ Pilotaż oraz wykorzystanie systemów statku kosmicznego Soyuz
     ​
 .. todo:: Dwie minuty po starcie, jest najgorszy moment. Jak coś się stanie, to mają za mała prędkość i zaczną spadać. W przy takim spadku mogą mieć nawet do 24g, przeżywalne ale bardzo niedobre dla ludzi i sprzętu. Dowódca może w ciągu 4 sekund wcisnąć przyciski które zmienia ustawienie kapsuły i trajektorię, co może obniżyć load nawet o 8-9g.
 
-Na chwilę obecną jednym z najważniejszych aspektów szkolenia astronautów przed lotem kosmicznym jest szkolenie z wykorzystywania systemów rosyjskiego statku kosmicznego Soyuz. Operacje wykonywane przez ten statek są w pełni zautomatyzowane, ale w sytuacjach awaryjnych istnieje możliwość przejścia na tzw. ręczny tryb i samodzielne przejęcie kontroli nad kapsułą. Z tego też powodu zarówno astronautów jak i kosmonautów poddaje się szkoleniu, które trwa około 790h i obejmuje aspekty:
+Na chwilę obecną jednym z najważniejszych aspektów szkolenia astronautów przed lotem kosmicznym jest szkolenie z wykorzystywania systemów rosyjskiego statku kosmicznego Sojuz. Operacje wykonywane przez ten statek są w pełni zautomatyzowane, ale w sytuacjach awaryjnych istnieje możliwość przejścia na tzw. ręczny tryb i samodzielne przejęcie kontroli nad kapsułą. Z tego też powodu zarówno astronautów jak i kosmonautów poddaje się szkoleniu, które trwa około 790h i obejmuje aspekty:
 
 Sytuacje normalne:
 
@@ -145,11 +145,11 @@ Sytuacje awaryjne:
 
 Podejście do ISS i manewr dokowania
 -----------------------------------
-Statek Soyuz wyposażony jest w system *KURS*, który pozwala na automatyczne naprowadzenie oraz dokownie kapsuły do Międzynarowej Stacji Kosmicznej. System ten był opracowany dla kapsuł dokujących do stacji Salyut :cite:`Siddiqi2000` oraz dla stacji MIR. Obecnie system jest wypierany przez nowszy i dokładniejszy system, którego podzespoły w kapsule są znaczenie lżejsze.
+Statek Sojuz wyposażony jest w system *KURS*, który pozwala na automatyczne naprowadzenie oraz dokownie kapsuły do Międzynarowej Stacji Kosmicznej. System ten był opracowany dla kapsuł dokujących do stacji Salut :cite:`Siddiqi2000` oraz dla stacji MIR. Obecnie system jest wypierany przez nowszy i dokładniejszy system, którego podzespoły w kapsule są znaczenie lżejsze.
 
 Wejście w atmosferę
 -------------------
-Ze względu na przesunięty środek ciężkości kapsuły Soyuz istnieje możliwość za pomocą niewielkich silniczków sterowania miejscem położenia tego punktu. Dzięki temu astronauci uzyskują możliwość sterowania kapsułą a zasięg korekty profilu lądowania może wynieść nawet do kilkunastu kilometrów.
+Ze względu na przesunięty środek ciężkości kapsuły Sojuz istnieje możliwość za pomocą niewielkich silniczków sterowania miejscem położenia tego punktu. Dzięki temu astronauci uzyskują możliwość sterowania kapsułą a zasięg korekty profilu lądowania może wynieść nawet do kilkunastu kilometrów.
 
 Lądowanie
 ---------
@@ -158,7 +158,7 @@ Kapsuła Souyz używa tzw. *systemu miękkiego lądowania*. System ten składa s
 
 Sytuacje awaryjne statku kosmicznego
 ====================================
-Loty kosmiczne są obarczone wysokim stopniem ryzyka. Większość z godzin przeprowadzonych w symulatorze statku kosmicznego Soyuz ma za zadanie przygotować załogę na umiejętność reakcji w tych krytycznych sytuacjach. Do najbardziej prawdopodobnych i najgroźniejszych sytucji należy: rozszczelnienie o raz pożar.
+Loty kosmiczne są obarczone wysokim stopniem ryzyka. Większość z godzin przeprowadzonych w symulatorze statku kosmicznego Sojuz ma za zadanie przygotować załogę na umiejętność reakcji w tych krytycznych sytuacjach. Do najbardziej prawdopodobnych i najgroźniejszych sytucji należy: rozszczelnienie o raz pożar.
 
 Rozszczelnienie
 ---------------
@@ -172,7 +172,7 @@ Rozszczelnienie
 
 Do rozszczelnienia kapsuły może dość na skutek kolizji z mikrometeorytem, który niszcząc poszycie pozostawia otwór, z którego uchodzi powietrze. W zależności od wielkości uszkodzenia są różne procedury. Jedną z najważniejszych rzeczy należących do załogi jest uszczelnienie skafandra IVA Orlan oraz odkręcenie dopływu powietrza. Do czasu misji Souyz 11 podczas, której przy wejściu w atmosferę doszło do rozszczelnienia kapsuły i ujścia powietrza co skutkowało śmiercią załogi, kosmonauci nosili strojów wewnątrz kapsuły :cite:`Soyuz11`. Od czasu tego incydentu zarówno podczas startu, dokowania, odejścia, i wejścia w atmosferę astronauci muszą znajdować się w stroju IVA :cite:`Sokol`.
 
-Podobny incydent zdarzył się podczas lotu Apollo-Soyuz gdy do amerykańskiej kapsuły Apollo podczas wejścia w atmosferę zaczął wdzierać się toksyczny gaz Tetratlenek diazotu :math:`N_2O_4` :cite:`Kranz2001`, :cite:`Manned-Space-from-Mercury-to-the-Shuttle`. Tylko dzięki szybkiej reakcji astronautów udało się uniknąć ich śmierci.
+Podobny incydent zdarzył się podczas lotu Apollo-Sojuz gdy do amerykańskiej kapsuły Apollo podczas wejścia w atmosferę zaczął wdzierać się toksyczny gaz Tetratlenek diazotu :math:`N_2O_4` :cite:`Kranz2001`, :cite:`Manned-Space-from-Mercury-to-the-Shuttle`. Tylko dzięki szybkiej reakcji astronautów udało się uniknąć ich śmierci.
 
 Pożar na pokładzie statku kosmicznego
 -------------------------------------
@@ -203,9 +203,9 @@ System ewakuacji załogi podczas startu może być aktywowany:
 
 Astronauci są szkoleni z wykorzystywania systemu lecz nie zdazył się przypadek gdy system ten zadziałał z tego powodu. Podczas misji Apollo 12 po starcie rakiety piorun trafił w strukturę pojazdu i dowódca Charles "Pete" Conrad był bliski aktywowania systemu. Piorun trafiał w rakietę dwukrotnie, ale w żadnym z tych wydarzeń system nie został aktywowany i misja przebiegła bez incydentów :cite:`Kranz2001`.
 
-System ten został użyty podczas misji Soyuz T-10-1 (26 września 1983) i pozwolił załodze na bezpieczne oddalenie się od rakiety, która wybuchła na platformie startowej. Astronauci podczas tego wydarzenia byli poddani przeciążeniu chwilowemu równemu 14G do 17G (137 do 167 :math:`\frac{m}{s^2}`).
+System ten został użyty podczas misji Sojuz T-10-1 (26 września 1983) i pozwolił załodze na bezpieczne oddalenie się od rakiety, która wybuchła na platformie startowej. Astronauci podczas tego wydarzenia byli poddani przeciążeniu chwilowemu równemu 14G do 17G (137 do 167 :math:`\frac{m}{s^2}`).
 
-Z systemem ewakuacji podczas startu związany jest również wypadek, w którym zginęli inżynierowie pracujący na platformie w kosmodromie Bajkonur w Kazachstanie. System będąc uzbrojonym błędnie zinterpretował dane na temat awarii i uruchomił silniki odrzutowe. Od tego momentu system uzbraja się bezpośrednio przed startem po opuszczeniu przez wszystkich platformy startowej i okolic rakiety Soyuz 7K-OK No.1 :cite:`Kamanin-Diaries`.
+Z systemem ewakuacji podczas startu związany jest również wypadek, w którym zginęli inżynierowie pracujący na platformie w kosmodromie Bajkonur w Kazachstanie. System będąc uzbrojonym błędnie zinterpretował dane na temat awarii i uruchomił silniki odrzutowe. Od tego momentu system uzbraja się bezpośrednio przed startem po opuszczeniu przez wszystkich platformy startowej i okolic rakiety Sojuz 7K-OK No.1 :cite:`Kamanin-Diaries`.
 
 Przy misjach amerykańskiego promu Space Shuttle musiano zmodyfikować system. Prom kosminczy miał 8 procedur awaryjnego przerwania startu:
 
@@ -229,7 +229,7 @@ Sytuacje awaryjne przy dokowaniu
 
 Sytuacje awaryjne przy wejściu w atmosferę
 ------------------------------------------
-Kapsuła Soyuz jest wyposażona w dwa systemy uruchamiania bolców wybuchowych odstrzeliwujących moduł serwisowy oraz silnik. System automatyczny jest uruchamiany w sytuacji normalnej a system zapasowy jest samoczynnie wyzwalany gdy bolce wybuchowe rozgrzeją się do dużej temperatury.
+Kapsuła Sojuz jest wyposażona w dwa systemy uruchamiania bolców wybuchowych odstrzeliwujących moduł serwisowy oraz silnik. System automatyczny jest uruchamiany w sytuacji normalnej a system zapasowy jest samoczynnie wyzwalany gdy bolce wybuchowe rozgrzeją się do dużej temperatury.
 
 Wejście w atmosferę po krzywej balistycznej
 -------------------------------------------
