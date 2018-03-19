@@ -116,15 +116,9 @@ Program Apollo
 --------------
 Najbardziej ambitnym programem w historii astronautyki był program Apollo. W ciągu niespełna dekady udało się opracować technologię oraz procedury pozwalające człowiekowi stanąć na powierzchni Księżyca i bezpiecznie powrócić na Ziemię. Program Apollo był próbą realizacji oświadczenia prezydenta USA J. F. Kennedy'ego z 12 września 1962 roku :cite:`Kennedy1962`.
 
-:numref:`table-selection-apollo` przedstawia listę astronautów programu Apollo wraz z przydziałem do misji oraz datami pobytu na Księżycu :cite:`FrenchBurgess2007`, :cite:`AldrinAbraham2009`.
+:numref:`table-selection-apollo` przedstawia listę astronautów programu Apollo wraz z przydziałem do misji (:numref:`table-apollo-mission-list`) oraz datami pobytu na Księżycu.
 
 Każda z misji programu Apollo cechowała się innym zadaniem w zależności od kategorii do której była przydzielona :cite:`ApolloChronology2007`. :numref:`table-apollo-mission-types` przedstawia typy misji oraz opis każdej z kategorii.
-
-.. csv-table:: Typy misji w ramach programu Apollo :cite:`ApolloChronology2007`
-    :name: table-apollo-mission-types
-    :file: ../data/apollo-mission-types.csv
-    :header-rows: 1
-    :widths: 10, 80, 10
 
 Krótka charakterystyka misji Apollo:
 
@@ -140,6 +134,16 @@ Krótka charakterystyka misji Apollo:
 - Apollo 16 - pierwsza misja trzydniowa na Księżycu (typ *J*)
 - Apollo 17 - ostatnie lądowanie na Księżycu (pierwsza misja w której brał udział naukowiec - geolog), ikoniczne zdjęcie Ziemi z daleka (ang. *Blue Marble*) :cite:`Cernan2000`,
 - Apollo-Soyuz Test Project - ostatnia misja programu, podczas której doszło do dokowania na orbicie statków Apollo oraz Sojuz i historycznego uścisku dłoni między reprezentantami dwóch mocarstw.
+
+.. csv-table:: Typy misji w ramach programu Apollo :cite:`ApolloChronology2007`
+    :name: table-apollo-mission-types
+    :file: ../data/apollo-mission-types.csv
+    :header-rows: 1
+
+.. csv-table:: Przydział do misji i daty lotu oraz lądowania na księżycu :cite:`Manned-Space-from-Mercury-to-the-Shuttle`, :cite:`FrenchBurgess2007`, :cite:`AldrinAbraham2009`
+    :name: table-apollo-mission-list
+    :file: ../data/apollo-mission-list.csv
+    :header-rows: 1
 
 .. csv-table:: Astronauci programu Apollo :cite:`Manned-Space-from-Mercury-to-the-Shuttle`
     :name: table-selection-apollo
@@ -249,11 +253,11 @@ Program Księżycowy (N1-LK)
 --------------------------
 ZSRR konkurował ze stanami zjednoczonymi w ramach wyścigu kosmicznego. Punktem kulminacyjnym całego Space Race miał być załogowy lot na Księżyc. W tym celu Główny Konstruktor Siergiej Pawłowicz Korolew rozpoczął pracę nad rakietą N1. W ramach programu stworzony został również lądownik LK przedstawiony na obrazku :numref:`figure-spacecraft-lk-models`. Rakieta N1 ta w przeciwieństwie amerykańskiego do podejścia składała się nie z trzech a z 5 segmentów (ang. *stage*) oraz 30 silników pierwszego poziomu. Ze względu na złożoność systemu rakieta każdorazowo eksplodowała przy starcie. Po czwartym nieudanym podejściu i utracie nosiciela, zmianie geopolitycznej i przegraniu wyścigu kosmicznego Komitet Centralny Partii postanowił zamknąć program.
 
-Kosmonauci przydzieleni do treningów księżycowych byli w członkami pierwszego naboru. Ze względu na jednoczesny przydział kosmonautów do więcej niż jednej grupy pojawiło się wiele zastrzeżeń dotyczących wyboru pierwszej osoby, która miałaby stanąć na Księżycu :cite:`LeonovScott2006`.
+Kosmonauci przydzieleni do treningów księżycowych (:numref:`table-selection-lk`) byli w członkami pierwszego naboru. Ze względu na jednoczesny przydział kosmonautów do więcej niż jednej grupy pojawiło się wiele zastrzeżeń dotyczących wyboru pierwszej osoby, która miałaby stanąć na Księżycu :cite:`LeonovScott2006`.
 
 .. csv-table:: Lista kosmonautów przypisanych do grup szkoleniowych w ramach programu księżycowego :cite:`Kamanin-Diaries`
-    :name: table-lk-astronauts
-    :file: ../data/lk-astronauts.csv
+    :name: table-selection-lk
+    :file: ../data/selection-lk.csv
     :header-rows: 1
     :widths: 10, 90
 

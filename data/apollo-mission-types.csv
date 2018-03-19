@@ -1,11 +1,11 @@
-"Typ", "Opis", "Misja"
-"A", "Bezzałogowy lot Saturn V i CSM", "Apollo 4, Apollo 6"
-"B", "Bezzałogowy lot Lunar Module", "Apollo 5"
-"C", "Załogowy lot i test CSM na niskiej orbicie Ziemi", "Apollo 7"
-"D", "Załogowy lot CSM i test LM na niskiej orbicie Ziemi", "oryginalnie Apollo 8; polecał Apollo 9"
-"E", "Załogowy lot CSM i LM, symulowana misja księżycowa na eliptycznej orbicie MEO apogeum 3,500 NM (6,500 km)", "brak lotów"
-"F", "Załogowy lot CSM i LM na niskiej orbicie księżycowej, próba generalna przed lądowaniem", "Apollo 10"
-"G", "Pierwsze lądowanie załogowe na Księżycu", "Apollo 11"
-"H", "Precyzyjne lągowanie, dwudniowy pobyt na Księżycu, dwa EVA", "Apollo 12, Apollo 13 (planowany), Apollo 14"
-"I", "Długotrwały pobyt CSM badania na orbicie Księżyca, Scientific Instrument Module, zamontowany w pustym Service Module bay", "Scalono z misjami J"
-"J", "Dłuższy trzydniowy pobyt używając Extended LM, trzy LEVA, Lunar Roving Vehicle", "Apollo 15, Apollo 16, Apollo 17, Apollo 18 to 20 (planowane jako J). Apollo 15 planowany jako H ale zamieniny na J"
+Typ,Załogowy?,Cel,Liczba LEVA,Misja Apollo,Opis
+A,nie,Niska Orbita Ziemska,0,"Apollo 4, Apollo 6",Test Saturn V i CSM
+B,nie,Niska Orbita Ziemska,0,Apollo 5,Test LM
+C,tak,Niska Orbita Ziemska,0,Apollo 7,Test CSM
+D,tak,Niska Orbita Ziemska,0,"planowany Apollo 8, polecał Apollo 9",Test CSM i LM
+E,tak,Średnia Orbita Ziemska,0,brak lotów,"Test CSM i LM, symulowana misja księżycowa na eliptycznej orbicie MEO apogeum 3,500 NM (6,500 km)"
+F,tak,Niska Orbita Księżyca,0,Apollo 10,"Test CSM i LM, próba generalna przed lądowaniem"
+G,tak,Lądowanie na Księżycu,1,Apollo 11,Pierwsze lądowanie załogowe na Księżycu
+H,tak,Pobyt na księżycu 2 dni,2,"Apollo 12, Apollo 13 (planowany), Apollo 14",Precyzyjne lądowanie
+I,tak,Pobyt na księżycu 2 dni,3,Scalono z misjami J,"badania na orbicie Księżyca, Scientific Instrument Module"
+J,tak,Pobyt na księżycu 3 dni,3,"Apollo 15 (planowany H, zamieniono na J), Apollo 16, Apollo 17, Apollo 18, 19, 20 (planowane jako J)","Extended LM, Lunar Roving Vehicle"
