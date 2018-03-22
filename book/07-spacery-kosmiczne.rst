@@ -453,10 +453,17 @@ Local Tether
 
 Safety Tether
 -------------
+26 metrów
 
 SAFER
 -----
 .. todo::
+    - starcza na raz
+    - najpierw zatrzymać tumbling
+    - później celować w ISS
+    - odpalić
+    - ćwiczą 20-30 razy (również w nocy) przed egzaminem
+    - ćwiczą to tylko w VRLab
     - Augument Reality i możliwość zdalnego aktualizowania procedur
 
 

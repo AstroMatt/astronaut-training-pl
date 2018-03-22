@@ -8,7 +8,29 @@ Szkolenie podstawowe
 
 Po selekcji osoba wybrana przez komisję ma za zadanie stawić się na tzw. szkolenie podstawowe. Podczas szkolenia kandydat na astronautę (ang. *ASCAN - Astronaut Candidate*) będzie przygotowany przez ekspertów oraz starszych stażem astronautów do pełnienia służby i docelowego lotu w kosmos. Szkolenie kandydackie trwa w zależności od agencji półtora do dwóch i pół roku. Po jego ukończeniu osoba ubiegająca się będzie mogła oczekiwać na przydział do misji :cite:`Gregersen2009`, a następnie szkolenie specyficzne trwające zwykle około 2 lat. Wyjątkiem jest CNSA, gdzie szkolenie podstawowe 3 lata, a szkolenie do przydzielonej misji 10 miesięcy.
 
-Szkolenie podstawowe astronautów, które  dzieli się na 4 główne części:
+Podczas szkolenia podstawowego kanadyjscy astronauci mają zajęcia z :cite:`CSAFlightTraining`, :cite:`CSAOngoingTraining`, :cite:`CSABasicTraining`:
+
+- orientacja w strukturze organizacyjnej CSA i w działalności agencji,
+- historia lotów kosminczych,
+- podstawy lotów kosminczych,
+- procedury operacyjne i kontrola lotów,
+- systemy ISS,
+- nauki przyrodnicze i o życiu,
+- inżyniera materiałowa i dynamika płynów,
+- obserwacja ziemi i wykorzystanie danych satelitarnych,
+- kosmologia,
+- robotyka,
+- człowiek, jego zachowanie i możliwości,
+- szkolenie lotnicze,
+- skoki spadochronowe,
+- ćwiczenia kondycyjne,
+- pierwsza pomoc i pomoc krążeniowo-oddechowa,
+- szkolenie językowe (głównie język rosyjski),
+- korzystanie ze sprzętu fotograficznego,
+- kontakt z mediami,
+- szkolenie survivalowe i przetrwania.
+
+Chociaż kanadyjscy astronauci odbywają więszkość szkolenia w JSC w Houston to powyższy program CSA jest reprezentacyjnym cyklem szkolenia astronautów we wszystkich agencjach. Szkolenie podstawowe astronautów we wszystkich analizowanych agencjach, dzieli się na 4 główne części:
 
 - wiedza ogólna,
 - robotyka i systemy ISS,
@@ -104,7 +126,11 @@ Podczas pobytu na międzynarodowej stacji kosmicznej oraz w trakcie długotrwał
 
 - pobieranie krwi (ang. *drawing blood*),
 - pobieranie próbek śliny i płynów ustrojowych,
-- badanie ultrasonograficzne (ang. *ultrasounds*),
+- badanie ultrasonograficzne (oczu, żył, mięśni, serca, tętnic),
+- obrazowanie oczu (optyczna tomografia coherancji siatkówki) (urządzeniem ophthalmoscope),
+- mierzenie ciśnienia płynu wewnątrz gałki ocznej (tonometria),
+- nawilżenia skóry (coliometria),
+- biopsja mięśni (przed, w trakcie i po misji),
 - resuscytacja krążeniowo oddechowa (ang. *cardio-pulmonary resuscitation*),
 - szycie (ang. *suture*).
 
@@ -142,49 +168,58 @@ W ramach przedmiotu Routine Ops astronauci przyswajają umiejętności związane
 
 Ze względu na fakt iż długie włosy mogą się zaczepić w powszechnie wykorzystywane w kosmosie rzepy lub śrubki astronauci są zmuszeni do ich okresowego ścinania. W trakcie przedmiotu uczeni są technik fryzjerskich na sobie oraz na innych członkach załogi.
 
+W ramach zajęć z fotografii astronauci uczą się fotografować:
+
+- delty rzeczne,
+- ustępowanie lodowców,
+- regiony przybrzeżne i nadmorskie,
+- kratery uderzeniowe po asteroidach,
+- wulkanicznej aktywności,
+- łańcuchów górskich, tj. Himalaye,
+- obiektów zanczenia historycznego, tj. piramidy w Gizie.
+
 
 Treningi i symulacje
 ====================
+Treningi i symulacje stanowią główny przedmiot szkolenia astronautów. Już w ramach programu Mercury wykorzystano pierwsze urządzenia elektoniczne pozwalające na przygotwanie astronautów do lotów kosmicznych. Urządzenia pozwoliły na symulację 276 problemów i sytuacji awaryknych, kóre mogłyby wydarzyć się podczas lotu. Dla programu Gemini udostępniono kolejny symulator, który pozwolił na testowanie kilku tysięcy problemów związanych z lotem kosmicznym, wejściem w atmosferę itd. Wszystkie urządzenia zlokalizowane były w ośrodku w Langley, Virgnia do czasu wybudowania w 1964 roku Manned Space Center w Houston, TX (obecnie Johnson Space Center) :cite:`Monchaux2011`. Należy zwrócić uwagę na pierwsze zastosowanie basenu neutralnej pływalności w przygotowywaniu wyjść EVA.
 
-.. todo:: Treningi i symulacje
-    - Astronaut Pilots and Commanders are a breed apart, as are Test Pilots. These are people with total control over their emotions and reactions, rarely if ever flustered. If you've watched test pilots flying aircraft in Air Shows, and seen planes literally come apart and the pilot stays seemingly forever in the cockpit, before a last ditch ejection, then you know the kind of people I'm talking about.  I have flown simulations with Astronauts and they really do have ice water running through their veins.  Nothing rattles them.  They do not have a death wish, but they face every situation, including the toughest ones, with a calm that's nearly impossible to believe.
-    - http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/basic-training.asp
-    - Canadian Astronaut Basic training covers many subjects, including:
+Następnie w programie Apollo rozwinięto oprzyrządowanie i zastosowano m.in. następujące symulatory :cite:`Monchaux2011`:
 
-        - CSA orientation
-        - History of space flight
-        - Fundamentals of space flight
-        - Space operations and procedures
-        - International Space Station systems
-        - Life science
-        - Materials and fluid science
-        - Earth observation
-        - Space science
-        - Robotics
-        - Human behaviour and performance
-        - Flight training
-        - Parachute jumps
-        - Physical training
-        - First aid and CPR
-        - Language training (e.g. learning Russian)
-        - Operation of photographic equipment
-        - Media relations
-        - Survival training
+- symulator dezorientacyjny wieloosiowy (ang. *Multi-Axes*),
+- symulator-fotel 1/6g kompensujący 5/6g do symulowania grawitacji księżycowej,
+- symulator-fotel 5DL używany do szkolenia poruszania się w przestrzeni kosmicznej wyłącznie za pomocą rąk (bez użycia nóg),
+- symulator-ściana 0g obniżająca odczuwalne przeciążenie,
+- symulator SSMT (walec o 1,83m średnicy, pozwalający na rotację astronauty we wszystkich osiach),
+- symulator LM do szkolenia lądowań na Księżycu,
+- LLRV - Lunar Landing Research Vehicle.
 
-    - http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/flight-training.asp
-    - http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/ongoing-training.asp
+Wyżej wymieniony LLRV był konstrukcją metalową wyposarzoną w silnik odrzutowy, którego dysza była skierowana w dół. Umieszczone po bokach silniczki manewrowe pozwalały na zmianę kierunku lotu za pomocą impulsowych strzałów gazów. Pilot był umieszczony w kabinie. Urządzenie okazało się być bardzo niebezpieczne w użytkowaniu i narażało astronautów na niepotrzebne ryzyko. Z tego powodu po awarii silnika i awaryjnym katapulotowaniu się przez Neila Armstronga symulacje LLRV zawieszono.
 
-    - Symulatory w centrum wyszkolenia:
+W kolejnych programach wzbogacono trening m.in. o:
 
-        - MMU Simulator - how astronauts move in space
-        - Simulator Multi-Axes - Rotate in three different axis. Learn how to concentrate facing complete disorientation situation.
-        - Simulator 1/6 chair - during Apollo program. used to train astronauts how to walk on the moon. Elastic suspension compansate 5/6 body weight.
-        - Simulator 5DL Chair - Simulator used to train how to move in space using only arms and hands.
-        - Simulator 0-gravity wall
-        - Simulator SSMT - Simulator acustoms trainee to move in Space Station - 1,83m diameter cylinder allows to rotate 360 degrees.
+- symulator systemu manewrowego MMU (Manned Manouvered Unit),
+- symulator SMS (Shuttle Motion Simulator) orbitera Space Shuttle,
+- symulator awaryjnego opuszczania Space Shuttle.
 
 Ćwiczenia kondycyjne i badania wydolności organizmu
 ---------------------------------------------------
+Do ćwiczeń wydolnościowych i kondycyjnych organizmu są wykorzystywane urządzenia gimnastyczne ogólnego przeznaczenia. tj:
+
+- ergometr,
+- sztangi,
+- koła reńskie,
+- żyroskopy treningowe,
+- huśtawki 360,
+- ergometr,
+- bieżnie pionowe,
+- Adaptability Training System,
+- system bieżni nadciśnieniowych (ALTER).
+
+Ponadto zastosowane są również specjalistyczne urządzenia opracowane do treningu w środowisku zmniejszonej grawitacji, tj.:
+
+- bieżnia T2,
+- Advanced Resistance Excercise Device (ARED),
+- CEVIS.
 
 .. figure:: ../img/training-fitness.jpg
     :name: figure-training-fitness
@@ -201,6 +236,14 @@ Przygotowanie psychologiczne do pracy w odosobnieniu
     - Psychika
     - requirements: mental, spiritual (emotional), physical fitness
     - dealing with stress, emotional and physical
+
+Szkolenia geologiczne
+---------------------
+.. csv-table:: Zestawienie wybranych lokalizacji używanych w szkoleniu geologicznym astronautów w programie Apollo
+    :name: table-apollo-geological-locations
+    :file: ../data/apollo-geological-locations.csv
+    :header-rows: 1
+
 
 Przygotowanie do pracy w ekstremalnych warunkach
 ================================================
@@ -262,6 +305,17 @@ Misje CAVES
 Misje NEEMO
 -----------
 .. todo::
+    - 12 dni
+    - 18h dekompresji
+    - 20 m pod wodą
+    - używanie neutralnej pływalności do testowania pojazdów,
+    - obok habitatu jest gazeebo (air pocket) na wypadek emergency
+    - toaletę można spłukać wyłącznie podczas dekompresji
+    - w resztę czasu korzystają z gazeebo
+    - rybki szczególnie z ostrzejszymi zębami gryzą ich w tyłki
+    - korzystają z napowietrzaczas by stworzyć ścianę bąbelków aby odstraszyć rybki
+
+.. todo::
     - Pierwowzorem był SEALAB https://en.wikipedia.org/wiki/SEALAB
     - Key West, Florida
     - Day 1
@@ -276,6 +330,7 @@ Misje Pangea
 
 Obozy przywództwa i pracy zespołowej
 ------------------------------------
+
 
 Symulacja pracy w środowisku mikrograwitacji
 ============================================
