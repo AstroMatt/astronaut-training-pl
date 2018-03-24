@@ -2,7 +2,8 @@
     "birth_date": "1929-06-01",
     "birth_place": "Chicago, Illinois, United States",
     "died": null,
-    "eva": [
+    "eva_count": 2,
+    "eva_list": [
         {
             "date": "1966-06-03",
             "duration": "46m",
@@ -14,7 +15,8 @@
             "mission": "Apollo 9"
         }
     ],
-    "fai-flight": [
+    "fai_flight_count": 2,
+    "fai_flight_list": [
         {
             "date": "1965-06-03",
             "duration": "4d 1h 56m 12s",

@@ -2,7 +2,8 @@
     "birth_date": "1975-05-02",
     "birth_place": "Colorado Springs, Colorado, United States",
     "died": null,
-    "fai-flight": [
+    "fai_flight_count": 1,
+    "fai_flight_list": [
         {
             "date": "2010-04-05",
             "duration": "15d 2h 47m 10s",

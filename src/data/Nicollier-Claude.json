@@ -2,14 +2,16 @@
     "birth_date": "1944-09-02",
     "birth_place": "Vevey, Switzerland",
     "died": null,
-    "eva": [
+    "eva_count": 1,
+    "eva_list": [
         {
             "date": "1999-12-23",
             "duration": "8h 10m",
             "mission": "STS-103"
         }
     ],
-    "fai-flight": [
+    "fai_flight_count": 4,
+    "fai_flight_list": [
         {
             "date": "1992-07-31",
             "duration": "7d 23h 15m 3s",

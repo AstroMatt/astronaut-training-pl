@@ -4,7 +4,8 @@
     "birth_place": "Moscow, Russia",
     "death_remarks": "Cancer",
     "died": "1998-12-18",
-    "fai-flight": [
+    "fai_flight_count": 1,
+    "fai_flight_list": [
         {
             "date": "1974-08-26",
             "duration": "2d 0h 12m 11s",

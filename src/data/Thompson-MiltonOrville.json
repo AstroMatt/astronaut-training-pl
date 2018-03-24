@@ -11,7 +11,8 @@
     "notes": "Thompson trained for the X-20 program from April 1960 until program cancellation in December 1963. He later made 14 flights in the X-15, none qualifying as space flights.",
     "selection_date": "1960-04-01",
     "selection_group": "Dyna-Soar Group 1",
-    "significant-flight": [
+    "significant_flight_count": 14,
+    "significant_flight_list": [
         {
             "date": "1963-10-29",
             "duration": "8m 43s",

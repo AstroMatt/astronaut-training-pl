@@ -3,7 +3,8 @@
     "birth_place": "Derry, New Hampshire, United States",
     "death_remarks": "Leukemia",
     "died": "1998-07-22",
-    "eva": [
+    "eva_count": 2,
+    "eva_list": [
         {
             "date": "1971-02-05",
             "duration": "4h 48m",
@@ -15,7 +16,8 @@
             "mission": "Apollo 14"
         }
     ],
-    "fai-flight": [
+    "fai_flight_count": 2,
+    "fai_flight_list": [
         {
             "date": "1961-05-05",
             "duration": "15m 28s",

@@ -3,7 +3,8 @@
     "birth_place": "Chelishchevo, Vologda Oblast, Russia",
     "death_remarks": "Peritonitis",
     "died": "1970-01-10",
-    "fai-flight": [
+    "fai_flight_count": 1,
+    "fai_flight_list": [
         {
             "date": "1965-03-18",
             "duration": "1d 2h 2m 17s",

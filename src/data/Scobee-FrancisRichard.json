@@ -3,7 +3,8 @@
     "birth_place": "Cle Elum, Washington, United States",
     "death_remarks": "Challenger explosion",
     "died": "1986-01-28",
-    "fai-flight": [
+    "fai_flight_count": 1,
+    "fai_flight_list": [
         {
             "date": "1984-04-06",
             "duration": "6d 23h 40m 7s",
@@ -18,7 +19,8 @@
     "notes": "Lieutenant Colonel Scobee, United States Air Force, was mission commander on 51-L. Scobee had a bachelor's degree in aerospace engineering from the University of Arizona. He was survived by a wife and two children.",
     "selection_date": "1978-01-16",
     "selection_group": "NASA Group 8",
-    "significant-flight": [
+    "significant_flight_count": 1,
+    "significant_flight_list": [
         {
             "date": "1986-01-28",
             "duration": "73s",

@@ -3,7 +3,8 @@
     "birth_place": "Hackensack, New Jersey, United States",
     "death_remarks": "Heart attack",
     "died": "2007-05-03",
-    "fai-flight": [
+    "fai_flight_count": 3,
+    "fai_flight_list": [
         {
             "date": "1962-10-03",
             "duration": "9h 13m 11s",

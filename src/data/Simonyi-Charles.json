@@ -2,7 +2,8 @@
     "birth_date": "1948-09-10",
     "birth_place": "Budapest, Hungary",
     "died": null,
-    "fai-flight": [
+    "fai_flight_count": 2,
+    "fai_flight_list": [
         {
             "date": "2007-04-07",
             "duration": "13d 19h 0m 16s",

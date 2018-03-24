@@ -7,7 +7,8 @@
     "last_name": "Knight\"Pete\"",
     "name": "William Joseph Knight\"Pete\"",
     "nationality": "American",
-    "non-fai-flight": [
+    "non_fai_flight_count": 1,
+    "non_fai_flight_list": [
         {
             "date": "1967-10-17",
             "duration": "10m 6s",
@@ -16,7 +17,8 @@
     ],
     "selection_date": "1960-04-01",
     "selection_group": "Dyna-Soar Group 1",
-    "significant-flight": [
+    "significant_flight_count": 15,
+    "significant_flight_list": [
         {
             "date": "1965-09-30",
             "duration": "8m 23s",

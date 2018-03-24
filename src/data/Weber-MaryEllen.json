@@ -2,7 +2,8 @@
     "birth_date": "1962-08-24",
     "birth_place": "Cleveland, Ohio, United States",
     "died": null,
-    "fai-flight": [
+    "fai_flight_count": 2,
+    "fai_flight_list": [
         {
             "date": "1995-07-13",
             "duration": "8d 22h 20m 5s",

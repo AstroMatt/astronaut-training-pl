@@ -3,7 +3,8 @@
     "birth_place": "Crowborough, Sussex, United Kingdom",
     "death_remarks": "Pancreatic cancer",
     "died": "2016-12-23",
-    "eva": [
+    "eva_count": 6,
+    "eva_list": [
         {
             "date": "2002-10-10",
             "duration": "7h 1m",
@@ -35,7 +36,8 @@
             "mission": "STS-121"
         }
     ],
-    "fai-flight": [
+    "fai_flight_count": 3,
+    "fai_flight_list": [
         {
             "date": "2002-10-07",
             "duration": "10d 19h 57m 49s",

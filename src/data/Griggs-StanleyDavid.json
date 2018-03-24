@@ -3,14 +3,16 @@
     "birth_place": "Portland, Oregon, United States",
     "death_remarks": "Crash of a vintage WWII aircraft",
     "died": "1989-06-17",
-    "eva": [
+    "eva_count": 1,
+    "eva_list": [
         {
             "date": "1985-04-16",
             "duration": "3h 10m",
             "mission": "51-D"
         }
     ],
-    "fai-flight": [
+    "fai_flight_count": 1,
+    "fai_flight_list": [
         {
             "date": "1985-04-12",
             "duration": "6d 23h 55m 23s",

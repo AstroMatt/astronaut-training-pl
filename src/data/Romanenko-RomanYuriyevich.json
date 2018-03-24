@@ -2,14 +2,16 @@
     "birth_date": "1971-09-08",
     "birth_place": "Shchelkovo , Moscow Oblast, Russia",
     "died": null,
-    "eva": [
+    "eva_count": 1,
+    "eva_list": [
         {
             "date": "2013-04-19",
             "duration": "6h 38m",
             "mission": "ISS Expedition 35"
         }
     ],
-    "fai-flight": [
+    "fai_flight_count": 2,
+    "fai_flight_list": [
         {
             "date": "2009-05-27",
             "duration": "187d 20h 41m 38s",

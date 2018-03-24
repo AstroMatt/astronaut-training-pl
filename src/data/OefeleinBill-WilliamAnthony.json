@@ -2,7 +2,8 @@
     "birth_date": "1965-03-29",
     "birth_place": "Ft. Belvoir, Virginia, United States",
     "died": null,
-    "fai-flight": [
+    "fai_flight_count": 1,
+    "fai_flight_list": [
         {
             "date": "2006-12-10",
             "duration": "12d 20h 45m 17s",

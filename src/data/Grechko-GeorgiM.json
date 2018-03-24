@@ -2,14 +2,16 @@
     "birth_date": "1931-05-25",
     "birth_place": "Leningrad, Russia",
     "died": "2017-04-08",
-    "eva": [
+    "eva_count": 1,
+    "eva_list": [
         {
             "date": "1977-12-19",
             "duration": "1h 28m",
             "mission": "Salyut 6, PE-1"
         }
     ],
-    "fai-flight": [
+    "fai_flight_count": 3,
+    "fai_flight_list": [
         {
             "date": "1975-01-10",
             "duration": "29d 13h 19m 45s",

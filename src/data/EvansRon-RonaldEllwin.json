@@ -3,14 +3,16 @@
     "birth_place": "St. Francis, Kansas, United States",
     "death_remarks": "Heart attack",
     "died": "1990-04-17",
-    "eva": [
+    "eva_count": 1,
+    "eva_list": [
         {
             "date": "1972-12-17",
             "duration": "1h 6m",
             "mission": "Apollo 17"
         }
     ],
-    "fai-flight": [
+    "fai_flight_count": 1,
+    "fai_flight_list": [
         {
             "date": "1972-12-07",
             "duration": "12d 13h 51m 59s",

@@ -3,7 +3,8 @@
     "birth_place": "Plattsburg, New York, United States",
     "death_remarks": "Breakup of Columbia on STS-107",
     "died": "2003-02-01",
-    "fai-flight": [
+    "fai_flight_count": 2,
+    "fai_flight_list": [
         {
             "date": "1998-01-23",
             "duration": "8d 19h 46m 54s",

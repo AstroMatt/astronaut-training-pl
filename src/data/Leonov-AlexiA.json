@@ -2,14 +2,16 @@
     "birth_date": "1934-05-30",
     "birth_place": "Listvyanka , Kemerovo Oblast , Russia",
     "died": null,
-    "eva": [
+    "eva_count": 1,
+    "eva_list": [
         {
             "date": "1965-03-18",
             "duration": "23m",
             "mission": "Voskhod 2"
         }
     ],
-    "fai-flight": [
+    "fai_flight_count": 2,
+    "fai_flight_list": [
         {
             "date": "1965-03-18",
             "duration": "1d 2h 2m 17s",

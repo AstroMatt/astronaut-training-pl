@@ -3,7 +3,8 @@
     "birth_place": "Tomsk, Russia",
     "death_remarks": "Heart atack",
     "died": "2002-10-18",
-    "fai-flight": [
+    "fai_flight_count": 3,
+    "fai_flight_list": [
         {
             "date": "1971-04-22",
             "duration": "1d 23h 45m 54s",

@@ -3,14 +3,16 @@
     "birth_place": "Prudy, Tula Oblast, Russia",
     "death_remarks": "Heart attack",
     "died": "2000-05-19",
-    "eva": [
+    "eva_count": 1,
+    "eva_list": [
         {
             "date": "1969-01-15",
             "duration": "53m",
             "mission": "Soyuz 5"
         }
     ],
-    "fai-flight": [
+    "fai_flight_count": 1,
+    "fai_flight_list": [
         {
             "date": "1969-01-15",
             "duration": "1d 23h 45m 50s",

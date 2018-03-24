@@ -3,7 +3,8 @@
     "birth_place": "Nikolayevsk , Volgograd Oblast , Russia",
     "death_remarks": "Sudden death, possible infarction",
     "died": "1999-11-08",
-    "fai-flight": [
+    "fai_flight_count": 2,
+    "fai_flight_list": [
         {
             "date": "1980-06-05",
             "duration": "3d 22h 19m 30s",

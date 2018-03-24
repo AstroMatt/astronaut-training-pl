@@ -2,14 +2,16 @@
     "birth_date": "December  1976",
     "birth_place": "Tokyo, Japan",
     "died": null,
-    "eva": [
+    "eva_count": 1,
+    "eva_list": [
         {
             "date": "2018-02-16",
             "duration": "5h 57m",
             "mission": "ISS Expedition 54"
         }
     ],
-    "fai-flight": [
+    "fai_flight_count": 1,
+    "fai_flight_list": [
         {
             "date": "2017-12-17",
             "duration": "On orbit (97d 10h 29m 34s)",

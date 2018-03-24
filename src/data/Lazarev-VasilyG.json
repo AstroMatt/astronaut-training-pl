@@ -3,7 +3,8 @@
     "birth_place": "Poroshino, Altai, Russia",
     "death_remarks": "Alcohol poisoning",
     "died": "1990-12-31",
-    "fai-flight": [
+    "fai_flight_count": 2,
+    "fai_flight_list": [
         {
             "date": "1973-09-27",
             "duration": "1d 23h 15m 32s",

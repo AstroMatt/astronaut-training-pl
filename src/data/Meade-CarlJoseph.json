@@ -2,14 +2,16 @@
     "birth_date": "1950-11-16",
     "birth_place": "Chanute Air Force Base, Illinois, United States",
     "died": null,
-    "eva": [
+    "eva_count": 1,
+    "eva_list": [
         {
             "date": "1994-09-16",
             "duration": "6h 51m",
             "mission": "STS-64"
         }
     ],
-    "fai-flight": [
+    "fai_flight_count": 3,
+    "fai_flight_list": [
         {
             "date": "1990-11-15",
             "duration": "4d 21h 54m 31s",

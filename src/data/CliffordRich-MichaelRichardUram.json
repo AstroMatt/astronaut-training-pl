@@ -2,14 +2,16 @@
     "birth_date": "1952-10-13",
     "birth_place": "San Bernadino, California, United States",
     "died": null,
-    "eva": [
+    "eva_count": 1,
+    "eva_list": [
         {
             "date": "1996-03-27",
             "duration": "6h 2m",
             "mission": "STS-76"
         }
     ],
-    "fai-flight": [
+    "fai_flight_count": 3,
+    "fai_flight_list": [
         {
             "date": "1992-12-02",
             "duration": "7d 7h 19m 47s",

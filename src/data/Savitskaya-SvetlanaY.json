@@ -2,14 +2,16 @@
     "birth_date": "1948-08-08",
     "birth_place": "Moscow, Russia",
     "died": null,
-    "eva": [
+    "eva_count": 1,
+    "eva_list": [
         {
             "date": "1984-07-25",
             "duration": "3h 34m",
             "mission": "Salyut 7, VE-4"
         }
     ],
-    "fai-flight": [
+    "fai_flight_count": 2,
+    "fai_flight_list": [
         {
             "date": "1982-08-19",
             "duration": "7d 21h 52m 24s",

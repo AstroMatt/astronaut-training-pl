@@ -3,14 +3,16 @@
     "birth_place": "Cleveland, Ohio, United States",
     "death_remarks": "Colon cancer",
     "died": "2008-03-16",
-    "eva": [
+    "eva_count": 1,
+    "eva_list": [
         {
             "date": "1993-06-25",
             "duration": "5h 50m",
             "mission": "STS-57"
         }
     ],
-    "fai-flight": [
+    "fai_flight_count": 3,
+    "fai_flight_list": [
         {
             "date": "1990-01-09",
             "duration": "10d 21h 0m 36s",

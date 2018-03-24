@@ -3,7 +3,8 @@
     "birth_place": "Denver, Colorado, United States",
     "death_remarks": "Complications from cancer",
     "died": "1982-12-27",
-    "fai-flight": [
+    "fai_flight_count": 1,
+    "fai_flight_list": [
         {
             "date": "1970-04-11",
             "duration": "5d 22h 54m 41s",

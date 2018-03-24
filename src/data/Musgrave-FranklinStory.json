@@ -2,7 +2,8 @@
     "birth_date": "1935-08-19",
     "birth_place": "Boston, Massachusetts, United States",
     "died": null,
-    "eva": [
+    "eva_count": 4,
+    "eva_list": [
         {
             "date": "1983-04-07",
             "duration": "4h 10m",
@@ -24,7 +25,8 @@
             "mission": "STS-61"
         }
     ],
-    "fai-flight": [
+    "fai_flight_count": 6,
+    "fai_flight_list": [
         {
             "date": "1983-04-04",
             "duration": "5d 0h 23m 42s",

@@ -3,7 +3,8 @@
     "birth_place": "Kharkov, Ukraine",
     "death_remarks": "Cancer",
     "died": "2002-07-19",
-    "fai-flight": [
+    "fai_flight_count": 1,
+    "fai_flight_list": [
         {
             "date": "1985-09-17",
             "duration": "64d 21h 52m 8s",

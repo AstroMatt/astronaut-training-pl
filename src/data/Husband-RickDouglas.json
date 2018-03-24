@@ -3,7 +3,8 @@
     "birth_place": "Amarillo, Texas, United States",
     "death_remarks": "Breakup of Columbia on STS-107",
     "died": "2003-02-01",
-    "fai-flight": [
+    "fai_flight_count": 2,
+    "fai_flight_list": [
         {
             "date": "1999-05-27",
             "duration": "9d 19h 13m 1s",

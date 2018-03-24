@@ -5,13 +5,13 @@ import logging
 from bs4 import BeautifulSoup
 from gateway import HTTPGateway
 
-
+YEAR = 365.25
 GROUP_REGEX = re.compile(r'(?P<selection>.+)\s\((?P<date>.+)\)')
 TABLE_NAMES = {
     "EVA's:": 'eva',
-    "FAI Flights:": 'fai-flight',
-    "USAF (Non-FAI) Flights:": 'non-fai-flight',
-    "\nNon-Qualifying Flights with Significance:\n": 'significant-flight'
+    "FAI Flights:": 'fai_flight',
+    "USAF (Non-FAI) Flights:": 'non_fai_flight',
+    "\nNon-Qualifying Flights with Significance:\n": 'significant_flight'
 }
 
 logging.basicConfig(level=logging.INFO)
@@ -25,7 +25,6 @@ def get_bio_urls(url):
     for a in html.find_all('a'):
         if a['href'].startswith('/bios/') and not a['href'].startswith('/bios/biositemap.php'):
             yield a['href']
-
 
 def clean_date(string):
     try:
@@ -41,35 +40,39 @@ def clean_duration(string):
     duration = duration.replace(' hours', 'h')
     duration = duration.replace(' minutes', 'm')
     duration = duration.replace(' seconds', 's')
+    duration = duration.replace('\u00a0', '')
+    duration = duration.replace(' second', 's')
+    duration = duration.replace(' econds', 's')
+    duration = duration.replace(' - not classified as a space flight due to low altitude', '')
     return duration.replace(',', '')
 
 
 def get_bio_data(url):
     html = BeautifulSoup(http.get(url), 'html.parser')
     html.find(id='menubox').decompose()
-    biography = {}
+    astronaut = {}
 
     try:
         img = [img['src'] for img in html.find_all('img') if img['src'].startswith('/bios/photos/')]
-        biography['img'] = f'https://www.worldspaceflight.com{img[0]}'
+        astronaut['img'] = f'https://www.worldspaceflight.com{img[0]}'
     except IndexError:
-        biography['img'] = None
+        astronaut['img'] = None
 
     paragraphs = [p.text
         for p in html.find_all('p')
             if p.text and not p.text.isspace() and not p.text.startswith('\\')]
 
-    biography['name'] = paragraphs[0]
-    biography['first_name'] = ' '.join(paragraphs[0].split()[:-1])
-    biography['last_name'] = paragraphs[0].split()[-1]
-    log.warning('Parsing: %s', biography['name'])
+    astronaut['name'] = paragraphs[0]
+    astronaut['first_name'] = ' '.join(paragraphs[0].split()[:-1])
+    astronaut['last_name'] = paragraphs[0].split()[-1]
+    log.warning('Parsing: %s', astronaut['name'])
 
     for p in paragraphs[1:]:
         if p.startswith('Page last modified'):
             continue
 
         if ':' not in p:
-            biography['notes'] = p.strip()
+            astronaut['notes'] = p.strip()
             continue
 
         key, value = p.split(':')
@@ -79,25 +82,25 @@ def get_bio_data(url):
         if key == 'died':
             if value:
                 day, month, year, *remarks = value.split()
-                biography['died'] = clean_date(f'{day} {month} {year}')
+                astronaut['died'] = clean_date(f'{day} {month} {year}')
                 if remarks:
                     remarks = ' '.join(remarks).replace('(', '').replace(')', '')
-                    biography['death_remarks'] = remarks
+                    astronaut['death_remarks'] = remarks
             else:
-                biography['died'] = None
+                astronaut['died'] = None
 
         elif key == 'group':
             selection = GROUP_REGEX.findall(value)[0]
-            biography['selection_group'] = selection[0].strip()
-            biography['selection_date'] = clean_date(selection[1])
+            astronaut['selection_group'] = selection[0].strip()
+            astronaut['selection_date'] = clean_date(selection[1])
 
         elif key == 'born':
             date, *place = value.split(',')
-            biography['birth_date'] = clean_date(date)
-            biography['birth_place'] = ','.join(place).strip()
+            astronaut['birth_date'] = clean_date(date)
+            astronaut['birth_place'] = ','.join(place).strip()
 
         else:
-            biography[key] = value
+            astronaut[key] = value
 
     for table in html.find_all('table'):
         rows = table.find_all('tr')
@@ -120,9 +123,13 @@ def get_bio_data(url):
                 'duration': clean_duration(duration),
             })
 
-        biography[table_name] = table_data
+        astronaut[f'{table_name}_count'] = len(table_data)
+        astronaut[f'{table_name}_list'] = table_data
 
-    return biography
+    # date_selection = datetime.datetime.strptime(astronaut['selection_date'], '%Y-%m-%d')
+    # date_birth = datetime.datetime.strptime(astronaut['birth_date'], '%Y-%m-%d')
+    # astronaut['selection_age'] = (date_selection - date_birth).days / YEAR
+    return astronaut
 
 
 def save(biography):

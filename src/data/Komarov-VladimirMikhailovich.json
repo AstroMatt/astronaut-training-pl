@@ -3,7 +3,8 @@
     "birth_place": "Moscow, Russia",
     "death_remarks": "Crash of Soyuz",
     "died": "1967-04-24",
-    "fai-flight": [
+    "fai_flight_count": 2,
+    "fai_flight_list": [
         {
             "date": "1964-10-12",
             "duration": "1d 0h 17m 3s",

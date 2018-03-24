@@ -2,7 +2,8 @@
     "birth_date": "1965-09-22",
     "birth_place": "Hampton, Virginia, United States",
     "died": null,
-    "eva": [
+    "eva_count": 2,
+    "eva_list": [
         {
             "date": "2009-11-19",
             "duration": "6h 37m",
@@ -14,7 +15,8 @@
             "mission": "STS-129"
         }
     ],
-    "fai-flight": [
+    "fai_flight_count": 1,
+    "fai_flight_list": [
         {
             "date": "2009-11-12",
             "duration": "14d 19h 16m 13s",

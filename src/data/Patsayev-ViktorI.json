@@ -3,7 +3,8 @@
     "birth_place": "Aktuybinsk , Kazakhstan",
     "death_remarks": "Suffocation aboard Soyuz 11",
     "died": "1971-06-30",
-    "fai-flight": [
+    "fai_flight_count": 1,
+    "fai_flight_list": [
         {
             "date": "1971-06-06",
             "duration": "23d 18h 21m 43s",

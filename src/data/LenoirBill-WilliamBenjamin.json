@@ -3,7 +3,8 @@
     "birth_place": "Miami, Florida, United States",
     "death_remarks": "Head injuries following bicycle accident",
     "died": "2010-08-26",
-    "fai-flight": [
+    "fai_flight_count": 1,
+    "fai_flight_list": [
         {
             "date": "1982-11-11",
             "duration": "5d 2h 14m 26s",

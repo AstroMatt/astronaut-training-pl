@@ -2,7 +2,8 @@
     "birth_date": "1945-09-21",
     "birth_place": "Reykjavik , Iceland",
     "died": null,
-    "fai-flight": [
+    "fai_flight_count": 1,
+    "fai_flight_list": [
         {
             "date": "1997-08-07",
             "duration": "11d 20h 26m 59s",

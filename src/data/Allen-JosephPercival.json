@@ -2,7 +2,8 @@
     "birth_date": "1937-06-27",
     "birth_place": "Crawfordsville, Indiana, United States",
     "died": null,
-    "eva": [
+    "eva_count": 2,
+    "eva_list": [
         {
             "date": "1984-11-12",
             "duration": "6h 10m",
@@ -14,7 +15,8 @@
             "mission": "51-A"
         }
     ],
-    "fai-flight": [
+    "fai_flight_count": 2,
+    "fai_flight_list": [
         {
             "date": "1982-11-11",
             "duration": "5d 2h 14m 26s",

@@ -2,14 +2,16 @@
     "birth_date": "1955-01-16",
     "birth_place": "Eastpointe, Michigan, United States",
     "died": null,
-    "eva": [
+    "eva_count": 1,
+    "eva_list": [
         {
             "date": "1997-04-29",
             "duration": "4h 59m",
             "mission": "EO-23"
         }
     ],
-    "fai-flight": [
+    "fai_flight_count": 2,
+    "fai_flight_list": [
         {
             "date": "1994-09-09",
             "duration": "10d 22h 49m 57s",

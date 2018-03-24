@@ -3,7 +3,8 @@
     "birth_place": "Chicago, Illinois, United States",
     "death_remarks": "Cancer",
     "died": "1995-10-03",
-    "fai-flight": [
+    "fai_flight_count": 2,
+    "fai_flight_list": [
         {
             "date": "1991-04-28",
             "duration": "8d 7h 22m 23s",

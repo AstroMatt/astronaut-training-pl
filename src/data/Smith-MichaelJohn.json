@@ -11,7 +11,8 @@
     "notes": "Smith, pilot on 51-L, was a captain in the United States Navy. He held a bachelor of science degree in naval science from the United States Naval Academy. He also had a masters degree in aeronautical engineering from the U.S. Naval Postgraduate School. He left behind a wife and three children.",
     "selection_date": "1980-05-19",
     "selection_group": "NASA Group 9",
-    "significant-flight": [
+    "significant_flight_count": 1,
+    "significant_flight_list": [
         {
             "date": "1986-01-28",
             "duration": "73s",

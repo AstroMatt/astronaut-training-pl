@@ -2,14 +2,16 @@
     "birth_date": "1962-11-19",
     "birth_place": "Albany, New York, United States",
     "died": null,
-    "eva": [
+    "eva_count": 1,
+    "eva_list": [
         {
             "date": "2009-09-01",
             "duration": "6h 35m",
             "mission": "STS-128"
         }
     ],
-    "fai-flight": [
+    "fai_flight_count": 2,
+    "fai_flight_list": [
         {
             "date": "2009-08-29",
             "duration": "90d 10h 44m 43s",

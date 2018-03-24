@@ -3,7 +3,8 @@
     "birth_place": "Karnal, India",
     "death_remarks": "Breakup of Columbia on STS-107",
     "died": "2003-02-01",
-    "fai-flight": [
+    "fai_flight_count": 2,
+    "fai_flight_list": [
         {
             "date": "1997-11-19",
             "duration": "15d 16h 34m 4s",

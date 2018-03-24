@@ -9,7 +9,8 @@
     "name": "Forrest Silas Peterson",
     "nationality": "American",
     "notes": "Peterson was the only U.S. Navy pilot to fly the X-15. He never exceeded 80,000 meters in altitude and therefore never earned astronaut wings.",
-    "significant-flight": [
+    "significant_flight_count": 5,
+    "significant_flight_list": [
         {
             "date": "1960-09-23",
             "duration": "7m 40s",

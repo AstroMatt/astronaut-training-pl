@@ -2,14 +2,16 @@
     "birth_date": "1932-02-07",
     "birth_place": "Jackson, Mississippi, United States",
     "died": null,
-    "eva": [
+    "eva_count": 1,
+    "eva_list": [
         {
             "date": "1971-08-05",
             "duration": "39m",
             "mission": "Apollo 15"
         }
     ],
-    "fai-flight": [
+    "fai_flight_count": 1,
+    "fai_flight_list": [
         {
             "date": "1971-07-26",
             "duration": "12d 7h 11m 53s",

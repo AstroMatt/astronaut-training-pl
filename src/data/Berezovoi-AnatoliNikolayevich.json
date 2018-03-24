@@ -2,14 +2,16 @@
     "birth_date": "1942-04-11",
     "birth_place": "Enem, Adygea, Russia",
     "died": "2014-09-20",
-    "eva": [
+    "eva_count": 1,
+    "eva_list": [
         {
             "date": "1982-07-30",
             "duration": "2h 33m",
             "mission": "Salyut 7, PE-1"
         }
     ],
-    "fai-flight": [
+    "fai_flight_count": 1,
+    "fai_flight_list": [
         {
             "date": "1982-05-13",
             "duration": "211d 9h 4m 31s",

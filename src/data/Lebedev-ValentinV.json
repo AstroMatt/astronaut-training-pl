@@ -2,14 +2,16 @@
     "birth_date": "1942-04-14",
     "birth_place": "Moscow, Russia",
     "died": null,
-    "eva": [
+    "eva_count": 1,
+    "eva_list": [
         {
             "date": "1982-07-30",
             "duration": "2h 33m",
             "mission": "Salyut 7, PE-1"
         }
     ],
-    "fai-flight": [
+    "fai_flight_count": 2,
+    "fai_flight_list": [
         {
             "date": "1973-12-18",
             "duration": "7d 20h 55m 35s",

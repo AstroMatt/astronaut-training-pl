@@ -3,7 +3,8 @@
     "birth_place": "Lorain, Ohio, United States",
     "death_remarks": "Crash of private light plane",
     "died": "1996-03-23",
-    "fai-flight": [
+    "fai_flight_count": 2,
+    "fai_flight_list": [
         {
             "date": "1982-11-11",
             "duration": "5d 2h 14m 26s",

@@ -3,7 +3,8 @@
     "birth_place": "Akron, Ohio, United States",
     "death_remarks": "Challenger explopsion",
     "died": "1986-01-28",
-    "fai-flight": [
+    "fai_flight_count": 1,
+    "fai_flight_list": [
         {
             "date": "1984-08-30",
             "duration": "6d 0h 56m 4s",
@@ -18,7 +19,8 @@
     "notes": "Resnik was a mission specialist on 51-L. She held a doctorate in electrical engineering from the University of Maryland. She was unmarried.",
     "selection_date": "1978-01-16",
     "selection_group": "NASA Group 8",
-    "significant-flight": [
+    "significant_flight_count": 1,
+    "significant_flight_list": [
         {
             "date": "1986-01-28",
             "duration": "73s",

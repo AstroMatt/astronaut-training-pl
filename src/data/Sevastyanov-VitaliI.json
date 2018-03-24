@@ -2,7 +2,8 @@
     "birth_date": "1935-07-08",
     "birth_place": "Krasnouralsk , Sverdlovsk Oblast , Russia",
     "died": "2010-04-05",
-    "fai-flight": [
+    "fai_flight_count": 2,
+    "fai_flight_list": [
         {
             "date": "1970-06-01",
             "duration": "17d 16h 58m 55s",

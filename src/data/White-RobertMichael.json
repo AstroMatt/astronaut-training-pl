@@ -7,7 +7,8 @@
     "last_name": "White",
     "name": "Robert Michael White",
     "nationality": "American",
-    "non-fai-flight": [
+    "non_fai_flight_count": 1,
+    "non_fai_flight_list": [
         {
             "date": "1962-07-17",
             "duration": "10m 21s",
@@ -16,7 +17,8 @@
     ],
     "selection_date": "1958-06-25",
     "selection_group": "Man In Space Soonest",
-    "significant-flight": [
+    "significant_flight_count": 15,
+    "significant_flight_list": [
         {
             "date": "1960-04-13",
             "duration": "8m 53s",
@@ -34,7 +36,7 @@
         },
         {
             "date": "1960-08-12",
-            "duration": "11m 39 econds",
+            "duration": "11m 39s",
             "mission": "X-15 Flight #19"
         },
         {

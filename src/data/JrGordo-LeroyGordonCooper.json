@@ -3,7 +3,8 @@
     "birth_place": "Shawnee, Oklahoma, United States",
     "death_remarks": "Natural causes",
     "died": "2004-10-04",
-    "fai-flight": [
+    "fai_flight_count": 2,
+    "fai_flight_list": [
         {
             "date": "1963-05-15",
             "duration": "1d 10h 19m 49s",

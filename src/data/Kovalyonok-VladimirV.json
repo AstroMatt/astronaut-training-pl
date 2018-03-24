@@ -2,14 +2,16 @@
     "birth_date": "1942-03-03",
     "birth_place": "Beloye, Minsk Oblast, Belarus",
     "died": null,
-    "eva": [
+    "eva_count": 1,
+    "eva_list": [
         {
             "date": "1978-07-29",
             "duration": "2h 20m",
             "mission": "Salyut 6, PE-2"
         }
     ],
-    "fai-flight": [
+    "fai_flight_count": 3,
+    "fai_flight_list": [
         {
             "date": "1977-10-09",
             "duration": "2d 0h 44m 45s",

@@ -3,7 +3,8 @@
     "birth_place": "Pittsburgh, Pennsylvania, United States",
     "death_remarks": "Heart attack",
     "died": "1991-08-08",
-    "eva": [
+    "eva_count": 5,
+    "eva_list": [
         {
             "date": "1971-07-31",
             "duration": "6h 33m",
@@ -30,7 +31,8 @@
             "mission": "Apollo 15"
         }
     ],
-    "fai-flight": [
+    "fai_flight_count": 1,
+    "fai_flight_list": [
         {
             "date": "1971-07-26",
             "duration": "12d 7h 11m 53s",

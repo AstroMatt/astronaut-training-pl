@@ -3,7 +3,8 @@
     "birth_place": "United States",
     "brian's spaceshipone log": "1) Flight 10G, 4 December 2003, glide test2) Flight 11P, 17 December 2003, first powered test, first civilian aircraft to exceed the sound barrier3) Flight 17P, 4 October 2004, X-Prize winning flight, breaking the X-15 altitude record",
     "died": null,
-    "fai-flight": [
+    "fai_flight_count": 1,
+    "fai_flight_list": [
         {
             "date": "2004-10-04",
             "duration": "24m 0s",

@@ -3,7 +3,8 @@
     "birth_place": "Los Angeles, California, United States",
     "death_remarks": "Pancreatic cancer",
     "died": "2012-07-23",
-    "fai-flight": [
+    "fai_flight_count": 2,
+    "fai_flight_list": [
         {
             "date": "1983-06-18",
             "duration": "6d 2h 23m 59s",

@@ -3,7 +3,8 @@
     "birth_place": "Mashhad, Iran",
     "died": null,
     "dual nationality": "American/Iranian. Businesswoman, space tourist. Emigrated to the United States in 1984.",
-    "fai-flight": [
+    "fai_flight_count": 1,
+    "fai_flight_list": [
         {
             "date": "2006-09-18",
             "duration": "10d 21h 4m 55s",

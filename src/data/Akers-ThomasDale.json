@@ -2,7 +2,8 @@
     "birth_date": "1951-05-20",
     "birth_place": "St. Louis, Missouri, United States",
     "died": null,
-    "eva": [
+    "eva_count": 4,
+    "eva_list": [
         {
             "date": "1992-05-13",
             "duration": "8h 29m",
@@ -24,7 +25,8 @@
             "mission": "STS-61"
         }
     ],
-    "fai-flight": [
+    "fai_flight_count": 4,
+    "fai_flight_list": [
         {
             "date": "1990-10-06",
             "duration": "4d 2h 10m 4s",

@@ -3,7 +3,8 @@
     "birth_place": "Kealakekua , Hawaii, United States",
     "death_remarks": "Challenger explosion",
     "died": "1986-01-28",
-    "fai-flight": [
+    "fai_flight_count": 1,
+    "fai_flight_list": [
         {
             "date": "1985-01-24",
             "duration": "3d 1h 33m 23s",
@@ -18,7 +19,8 @@
     "notes": "Onizuka was a lieutenant colonel in the United States Air Force. He was a mission specialist aboard 51-L. Ellison had both a bachelor and master of science degrees in aerospace engineering from the University of Colorado. He left behind a wife and two daughters.",
     "selection_date": "1978-01-16",
     "selection_group": "NASA Group 8",
-    "significant-flight": [
+    "significant_flight_count": 1,
+    "significant_flight_list": [
         {
             "date": "1986-01-28",
             "duration": "73s",

@@ -3,7 +3,8 @@
     "birth_place": "Washington, Pennsylvania, United States",
     "death_remarks": "Aircraft accident",
     "died": "1966-06-08",
-    "fai-flight": [
+    "fai_flight_count": 2,
+    "fai_flight_list": [
         {
             "date": "1963-07-19",
             "duration": "11m 25s",
@@ -20,7 +21,8 @@
     "last_name": "Walker",
     "name": "Joseph Albert Walker",
     "nationality": "American",
-    "non-fai-flight": [
+    "non_fai_flight_count": 1,
+    "non_fai_flight_list": [
         {
             "date": "1963-01-17",
             "duration": "9m 44s",
@@ -30,7 +32,8 @@
     "notes": "Walker piloted 25 of the 199 X-15 flights. He was killed when his F-104 chase plane collided with an XB-70 bomber. Walker was the only X-15 pilot to achieve FAI definition astronaut status in the X-15. (Joe Engle achieved this status in the space shuttle, not the X-15).",
     "selection_date": "1958-06-25",
     "selection_group": "Man In Space Soonest",
-    "significant-flight": [
+    "significant_flight_count": 22,
+    "significant_flight_list": [
         {
             "date": "1960-03-25",
             "duration": "9m 8s",

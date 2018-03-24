@@ -11,7 +11,8 @@
     "notes": "Pilot of high speed jets and rocket planes, Crossfield was the first X-15 pilot and made fourteen flights. He also piloted the X-1, D-558 II Skyrocket, X-4, X-5, XF-92A, and the F-100. He became the first pilot to fly at twice the speed of sound in 1953. He never exceeded 80,000 meters in altitude and thus never earned astronaut wings.",
     "selection_date": "1958-06-25",
     "selection_group": "Man In Space Soonest",
-    "significant-flight": [
+    "significant_flight_count": 14,
+    "significant_flight_list": [
         {
             "date": "1959-06-08",
             "duration": "4m 57s",

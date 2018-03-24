@@ -2,7 +2,8 @@
     "birth_date": "December  1978",
     "birth_place": "China",
     "died": null,
-    "fai-flight": [
+    "fai_flight_count": 1,
+    "fai_flight_list": [
         {
             "date": "2016-10-16",
             "duration": "33d 6h 28m 29s",

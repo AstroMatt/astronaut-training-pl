@@ -3,7 +3,8 @@
     "birth_place": "Pinehurst, North Carolina, United States",
     "death_remarks": "Self-inflicted wounds",
     "died": "2006-07-23",
-    "fai-flight": [
+    "fai_flight_count": 1,
+    "fai_flight_list": [
         {
             "date": "1996-06-20",
             "duration": "16d 21h 47m 45s",

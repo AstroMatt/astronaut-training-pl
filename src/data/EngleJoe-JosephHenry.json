@@ -2,7 +2,8 @@
     "birth_date": "1932-08-26",
     "birth_place": "Abilene, Kansas, United States",
     "died": null,
-    "fai-flight": [
+    "fai_flight_count": 2,
+    "fai_flight_list": [
         {
             "date": "1981-11-12",
             "duration": "2d 6h 13m 12s",
@@ -19,7 +20,8 @@
     "last_name": "Engle\"Joe\"",
     "name": "Joseph Henry Engle\"Joe\"",
     "nationality": "American",
-    "non-fai-flight": [
+    "non_fai_flight_count": 3,
+    "non_fai_flight_list": [
         {
             "date": "1965-06-29",
             "duration": "10m 32s",
@@ -39,7 +41,8 @@
     "notes": "Engle also flew three times as commander aboard the shuttle Enterprise during the Approach and Landings tests",
     "selection_date": "1966-04-04",
     "selection_group": "NASA Group 5",
-    "significant-flight": [
+    "significant_flight_count": 13,
+    "significant_flight_list": [
         {
             "date": "1963-10-07",
             "duration": "7m 37s",
@@ -62,7 +65,7 @@
         },
         {
             "date": "1964-05-19",
-            "duration": "9m 1 second",
+            "duration": "9m 1s",
             "mission": "X-15 Flight #107"
         },
         {
@@ -72,7 +75,7 @@
         },
         {
             "date": "1964-07-29",
-            "duration": "7m49\u00a0s",
+            "duration": "7m 49s",
             "mission": "X-15 Flight #112"
         },
         {

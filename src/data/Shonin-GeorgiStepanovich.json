@@ -3,7 +3,8 @@
     "birth_place": "Rovenki, Lugansk Oblast, Ukraine",
     "death_remarks": "Heart attack",
     "died": "1997-04-07",
-    "fai-flight": [
+    "fai_flight_count": 1,
+    "fai_flight_list": [
         {
             "date": "1969-10-11",
             "duration": "4d 22h 42m 47s",

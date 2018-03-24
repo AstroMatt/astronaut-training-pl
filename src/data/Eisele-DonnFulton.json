@@ -3,7 +3,8 @@
     "birth_place": "Columbus, Ohio, United States",
     "death_remarks": "Heart attack",
     "died": "1987-12-02",
-    "fai-flight": [
+    "fai_flight_count": 1,
+    "fai_flight_list": [
         {
             "date": "1968-10-11",
             "duration": "10d 20h 8m 0s",

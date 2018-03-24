@@ -2,14 +2,16 @@
     "birth_date": "1951-10-03",
     "birth_place": "Paterson, New Jersey, United States",
     "died": null,
-    "eva": [
+    "eva_count": 1,
+    "eva_list": [
         {
             "date": "1984-10-11",
             "duration": "3h 33m",
             "mission": "41-G"
         }
     ],
-    "fai-flight": [
+    "fai_flight_count": 3,
+    "fai_flight_list": [
         {
             "date": "1984-10-05",
             "duration": "8d 5h 23m 38s",

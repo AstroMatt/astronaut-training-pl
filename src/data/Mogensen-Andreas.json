@@ -2,7 +2,8 @@
     "birth_date": "1976-11-02",
     "birth_place": "Copenhagen, Denmark",
     "died": null,
-    "fai-flight": [
+    "fai_flight_count": 1,
+    "fai_flight_list": [
         {
             "date": "2015-09-02",
             "duration": "9d 20h 13m 53s",

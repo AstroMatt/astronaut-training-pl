@@ -3,7 +3,8 @@
     "birth_place": "Gzhatsk, Smolensk Oblast , Russia",
     "death_remarks": "MiG-15 crash",
     "died": "1968-03-27",
-    "fai-flight": [
+    "fai_flight_count": 1,
+    "fai_flight_list": [
         {
             "date": "1961-04-12",
             "duration": "1h 48m 0s",

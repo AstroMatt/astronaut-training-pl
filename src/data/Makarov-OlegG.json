@@ -3,7 +3,8 @@
     "birth_place": "Udomlya , Tver Oblast , Russia",
     "death_remarks": "Heart attack",
     "died": "2003-05-28",
-    "fai-flight": [
+    "fai_flight_count": 4,
+    "fai_flight_list": [
         {
             "date": "1973-09-27",
             "duration": "1d 23h 15m 32s",

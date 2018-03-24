@@ -3,7 +3,8 @@
     "birth_place": "Philadelphia, Pennsylvania, United States",
     "death_remarks": "Motorcycle accident",
     "died": "1999-07-09",
-    "eva": [
+    "eva_count": 8,
+    "eva_list": [
         {
             "date": "1966-09-13",
             "duration": "43m",
@@ -45,7 +46,8 @@
             "mission": "Skylab 1"
         }
     ],
-    "fai-flight": [
+    "fai_flight_count": 4,
+    "fai_flight_list": [
         {
             "date": "1965-08-21",
             "duration": "7d 23h 55m 14s",

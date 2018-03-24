@@ -3,7 +3,8 @@
     "birth_place": "Mytishchi , Moscow Oblast, Russia",
     "death_remarks": "Cancer",
     "died": "2004-12-25",
-    "eva": [
+    "eva_count": 6,
+    "eva_list": [
         {
             "date": "1990-10-29",
             "duration": "2h 45m",
@@ -35,7 +36,8 @@
             "mission": "EO-18"
         }
     ],
-    "fai-flight": [
+    "fai_flight_count": 5,
+    "fai_flight_list": [
         {
             "date": "1980-11-27",
             "duration": "12d 19h 7m 42s",
@@ -69,10 +71,11 @@
     "nationality": "Russian",
     "selection_date": "1973-03-27",
     "selection_group": "Energia Engineer Group 4",
-    "significant-flight": [
+    "significant_flight_count": 1,
+    "significant_flight_list": [
         {
             "date": "1983-09-26",
-            "duration": "4m - not classified as a space flight due to low altitude",
+            "duration": "4m",
             "mission": "Soyuz-T 10-1"
         }
     ],

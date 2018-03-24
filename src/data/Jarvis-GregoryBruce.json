@@ -9,7 +9,8 @@
     "name": "Gregory Bruce Jarvis",
     "nationality": "American",
     "notes": "Jarvis was a former US Air Force captain and payload specialist in 51-L. He had a M.S. in electrical engineering from Northeastern University in Boston. He was married with no children.",
-    "significant-flight": [
+    "significant_flight_count": 1,
+    "significant_flight_list": [
         {
             "date": "1986-01-28",
             "duration": "73s",

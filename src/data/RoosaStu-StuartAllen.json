@@ -3,7 +3,8 @@
     "birth_place": "Durango, Colorado, United States",
     "death_remarks": "Complications of pancreatitis",
     "died": "1994-12-21",
-    "fai-flight": [
+    "fai_flight_count": 1,
+    "fai_flight_list": [
         {
             "date": "1971-01-31",
             "duration": "9d 0h 1m 58s",

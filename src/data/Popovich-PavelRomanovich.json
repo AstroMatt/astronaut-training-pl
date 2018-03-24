@@ -3,7 +3,8 @@
     "birth_place": "Uzin, Kyiv Oblast, Ukraine",
     "death_remarks": "Brain hemorrhage following a stroke",
     "died": "2009-09-29",
-    "fai-flight": [
+    "fai_flight_count": 2,
+    "fai_flight_list": [
         {
             "date": "1962-08-12",
             "duration": "2d 22h 57m 0s",
