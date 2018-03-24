@@ -101,6 +101,10 @@ a.headerlink {
     text-indent: 1cm;
 }
 
+/* #content p:before {
+    content: "\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0";
+}*/
+
 #content table {
     font-family: "Times New Roman", serif;
     border-spacing: 0;

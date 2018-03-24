@@ -136,6 +136,7 @@ Amerykańskie *EMU* przywdziewa się składając z kilku cześci, tj.:
 Niezależnie od rozwiązania warstwa *LCVG*, która pozwala na regulowanie temperatury jest zakładana przez astronautę przed wejściem do skafandra EVA.
 
 .. todo::
+    - Building 7, JSC, Spacesuit lab
     - Rosjanie mają jednoczęściowe stroje do których wchodzi się przez plecak
     - dla kobiet i mężczyzn skafander jest taki sam
     - Kobiety są zwykle słabsze
@@ -481,6 +482,7 @@ Augmentacja
         - GPS na Księżycu i Marsie
         - Nawigowanie alternatywne
         - Geografia terenu
+        - Nachylenie terenu i podpowiedzi czy jest bezpiecznie zejść
 
 
 Symulacja prac w basenie doskonałej pływalności

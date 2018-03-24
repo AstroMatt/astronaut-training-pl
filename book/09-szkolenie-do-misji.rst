@@ -39,28 +39,31 @@ Nauka, badania i eksperymenty w środowisku mikrograwitacji
 
 Nauki kognitywistyczne i poznawcze
 ----------------------------------
-1. Psychology
-    1.1. Crew composition, interpersonal relationship and group effectiveness
-    1.2. Group dynamics
-    1.3. Psychological condition
-    1.4. Psycho-physiological features
-    1.5. Mental performance
-    1.6. Virtual reality
-    1.7. Psychological support
+
+- Crew composition, interpersonal relationship and group effectiveness
+- Group dynamics
+- Psychological condition
+- Psycho-physiological features
+- Mental performance
+- Virtual reality
+- Psychological support
 
 Badania biologiczne
 -------------------
 - badanie struktury zwijania się białek
 
-5. Microbiology and sanitary and hygienic provision
-    5.1. Assessment of human health and the microflora of the environment
-    5.2. Means of protection and countermeasures
-8. Biological experiments inside and outside of the isolation facility
-    8.1. Astrobiology
-    8.2. Microbiology
-    8.3. Life-support systems
-    8.4. Biomaterials
-    8.5. Hydroponic gardens
+- Microbiology and sanitary and hygienic provision
+
+    - Assessment of human health and the microflora of the environment
+    - Means of protection and countermeasures
+
+- Biological experiments inside and outside of the isolation facility
+
+    - Astrobiology
+    - Microbiology
+    - Life-support systems
+    - Biomaterials
+    - Hydroponic gardens
 
 Badania chemiczne
 -----------------
@@ -69,47 +72,54 @@ Badania chemiczne
 
 Badania techniczne i inżynieryjne
 ---------------------------------
-6. Operations and technological aspects
-    6.1. Parameters of the environment and microclimate
-    6.2. Needs of the crew and consumption of resources
-    6.3. Organization of communication
-    6.4. Transmission and storage of information
-    6.5. Robotics
-    6.6. 3D-Printing
-    6.6. Creating of hypobaric or hypomagnetic environment
+- Operations and technological aspects
+
+    - Parameters of the environment and microclimate
+    - Needs of the crew and consumption of resources
+    - Organization of communication
+    - Transmission and storage of information
+    - Robotics
+    - 3D-Printing
+    - Creating of hypobaric or hypomagnetic environment
 
 Eksperymenty fizyczne
 ---------------------
 
 Eksperymenty medyczne
 ---------------------
-2. Physiology
-    2.1. CNS
-    2.2. The cardiovascular system
-    2.3. Breathing and gas exchange
-    2.4. Locomotor system
-    2.5. Digestion
-    2.6. Urogenital system
-    2.7. Other organs and systems
-    2.8. Physical performance
-3. Clinical Observations
-    3.1. Daily medical control
-    3.2. Periodic medical monitoring
-    3.3. Telemedicine
-    3.4. New medical technologies
-4. Clinical and laboratory diagnostics
-    4.1. Endocrinology
-    4.2. Immunology
-    4.3. Biochemistry
-    4.4. Proteomics and Genetics
+- Physiology
+
+    - CNS
+    - The cardiovascular system
+    - Breathing and gas exchange
+    - Locomotor system
+    - Digestion
+    - Urogenital system
+    - Other organs and systems
+    - Physical performance
+
+- Clinical Observations
+
+    - Daily medical control
+    - Periodic medical monitoring
+    - Telemedicine
+    - New medical technologies
+
+- Clinical and laboratory diagnostics
+
+    - Endocrinology
+    - Immunology
+    - Biochemistry
+    - Proteomics and Genetics
 
 Procedury Operacyjne
 --------------------
-7. Extravehicle activitiy (EVA) and activity on the surface of a simulator
-    7.1. Control systems over the activities and state of the health
-    7.2. Using special equipment and tools
-    7.3. Spacesuits tests
-    7.4. Using of augmented reality tools
+- Extravehicle activitiy (EVA) and activity on the surface of a simulator
+
+    - Control systems over the activities and state of the health
+    - Using special equipment and tools
+    - Spacesuits tests
+    - Using of augmented reality tools
 
 
 Badania dotyczące eksploracji Niskiej Orbity Okołoziemskiej (LEO)

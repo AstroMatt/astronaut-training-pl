@@ -2,6 +2,7 @@
 _config/
 _database/
 __notepad__*
+src/tmp/*
 
 ## Compiled
 __pycache__/

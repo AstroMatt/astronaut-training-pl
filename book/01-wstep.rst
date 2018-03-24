@@ -55,3 +55,39 @@ Problematyczna jest kwestia nazwy "kosmicznych nawigatorów" przyjętej przez Ch
 Na osobny komentarz zasługuje nazwa pracy, która ze względu na specyfikę tematu jest trudna do przetłumaczenia na język polski. Angielska wersja tematu oddaje precyzyjniej charakter pracy "Astronaut Selection and Training Process for Long-Duration Space Flight and Extravehicular Activity". Termin *Extravehicular Activity (EVA)* odnosi się do aktywności astronautów poza statkiem lub habitatem kosmicznym. Więcej na ten temat w rozdziale :ref:`wyjścia astronautów w przestrzeń kosmiczną <eva-training>`. Znaczenie tytułu pracy: "selekcja i proces szkolenia astronautów do długotrwałych lotów oraz spacerów kosmicznych" należy więc rozpatrywać jako "selekcja i proces szkolenia osób lecących na długotrwały lot kosmiczny, oraz przygotowanie do spacerów kosmicznych".
 
 Niniejsza praca jest próbą analizy procesu szkolenia astronautów przez różne agencje kosmiczne do długotrwałych lotów kosmicznych w tym docelowo do stałej obecności człowieka na Księżycu, Marsie i dalszej eksploracji kosmosu.
+
+
+Komentarz promotora
+===================
+Informacja jest interesująca ale nie jest to praca magisterska.
+Brakuje celu pracy, hipotezy i metod badawczych.
+Kończy Pan studia na kierunku Lotnictwo i Kosmonautyka i są to studia inżynierskie.
+Praca ta ma charakter pracy opisowy.
+Proszę się zastanowić jak to zmienić.
+
+
+Cel pracy
+=========
+Analiza cech astronautów wpływających na:
+
+- selekcję
+- przydział do misji
+- przydział do EVA,
+
+Hipoteza
+========
+Multidyscyplinarność jest cechą pożądaną przez agencje kosmiczne i pozwala astronautom być częściej wybieranym oraz przydzielanym do misji niż wąsko wyspecjalozowani specjaliści.
+
+Metody badawcze
+===============
+
+Źródła
+------
+
+Dobór parametrów porównawczych
+------------------------------
+- parametry selekcji
+
+    - wykształcenie
+    - wiek
+    -
