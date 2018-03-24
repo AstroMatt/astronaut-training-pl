@@ -43,6 +43,9 @@ def clean_duration(string):
     duration = duration.replace('\u00a0', '')
     duration = duration.replace(' second', 's')
     duration = duration.replace(' econds', 's')
+    duration = duration.replace('On orbit ', '')
+    duration = duration.replace('(', '')
+    duration = duration.replace(')', '')
     duration = duration.replace(' - not classified as a space flight due to low altitude', '')
     return duration.replace(',', '')
 
@@ -96,8 +99,12 @@ def get_bio_data(url):
 
         elif key == 'born':
             date, *place = value.split(',')
-            astronaut['birth_date'] = clean_date(date)
-            astronaut['birth_place'] = ','.join(place).strip()
+            if date == 'United States':
+                astronaut['birth_date'] = None
+                astronaut['birth_place'] = 'United States'
+            else:
+                astronaut['birth_date'] = clean_date(date)
+                astronaut['birth_place'] = ','.join(place).strip()
 
         else:
             astronaut[key] = value
@@ -139,6 +146,7 @@ def save(biography):
     path = f'data/{slug}.json'
 
     with open(path, 'w') as file:
+        log.warning(f'Writing to file {path}')
         content = json.dumps(biography, indent=4, sort_keys=True)
         file.write(content)
 

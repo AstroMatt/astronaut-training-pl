@@ -31,6 +31,7 @@ def as_date(string):
 def timedelta_human(duration):
     seconds = int(duration.seconds)
     days, seconds = divmod(seconds, DAY)
+    days = duration.days
     hours, seconds = divmod(seconds, HOUR)
     minutes, seconds = divmod(seconds, MINUTE)
     output = []
@@ -113,13 +114,13 @@ def analyze_file(path):
             records[f'{name}_duration'] = timedelta_human(records[f'{name}_duration'])
 
         summarize_list('eva')
-        summarize_list('fai_flights')
-        summarize_list('non_fai_flight_flight')
+        summarize_list('fai_flight')
+        summarize_list('non_fai_flight')
         summarize_list('significant_flight')
 
         if records.get('fai_flights_count'):
             records['flown'] = True
-        elif records.get('non_fai_flight_flight'):
+        elif records.get('non_fai_flight'):
             records['flown'] = True
         elif records.get('significant_flight'):
             records['flown'] = True
@@ -141,6 +142,7 @@ def write_csv(filename, data):
 
         for row in data:
             writer.writerow(row)
+
 
 if __name__ == '__main__':
     data = []
