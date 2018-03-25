@@ -1,4 +1,6 @@
-#content, a {font-size: 1.3rem;}
+#content p {font-size: 1.3rem;}
+#content a {font-size: 1.3rem;}
+#content li {font-size: 1.3rem;}
 #content h1 {font-size: 1.75rem;}
 #content h2 {font-size: 1.5rem;}
 #content h3 {font-size: 1.3rem;}
@@ -80,6 +82,7 @@ a.headerlink {
 #content ul {
     margin-top: 0;
     margin-bottom: 0;
+    margin-left: 2rem;
     page-break-before: avoid;
 }
 

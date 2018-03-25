@@ -1,6 +1,4 @@
 #bibliografia table {
-    font-size: 11pt;
-    font-family: "Times New Roman", serif;
     margin: 0;
     border: 0;
     border-spacing: 0;
@@ -14,4 +12,10 @@
     margin: 0;
     border: 0;
     vertical-align: top;
+}
+
+#bibliografia th,
+#bibliografia td,
+#bibliografia td a {
+    font-size: 1.0rem;
 }

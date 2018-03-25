@@ -282,7 +282,7 @@ W ramach szkolenia geologicznego tj. DRATS 2010 (NASA) czy PANGAEA (ESA) astrona
 
 Poza charakterem edukacyjnym szkolenia geologiczne pełnią jeszcze rolę integracyjną dla budowania zespołu.
 
-Odmiennym aczkolwiek skorelowanym szkoleniem są wyjazdy spaleologiczne. Podczas eksploracji jaskiń w ramach programu CAVES (ESA) astronauci różnych narodowości brali udział w mapowaniu podziemnych korytarzy, identyfikacji i dokumentowaniu próbek skalnych i mikrobiologicznych, identyfikowaniu nowych gatunktów organizmów oraz zaawansowanej wspinaczce jaskiniowej. Temat szerzej omówiony w rozdziale :ref:`Misje CAVES`.
+Odmiennym aczkolwiek skorelowanym szkoleniem są wyjazdy spaleologiczne. Podczas eksploracji jaskiń w ramach programu CAVES (ESA) astronauci różnych narodowości brali udział w mapowaniu podziemnych korytarzy, identyfikacji i dokumentowaniu próbek skalnych i mikrobiologicznych, identyfikowaniu nowych gatunktów organizmów oraz zaawansowanej wspinaczce jaskiniowej. Temat szerzej omówiony w rozdziale :ref:`Wyprawy w ramach programu CAVES`.
 
 .. csv-table:: Zestawienie wybranych lokalizacji używanych w szkoleniu geologicznym astronautów w programie Apollo
     :name: table-apollo-geological-locations
@@ -334,7 +334,7 @@ Przetrwanie w warunkach dżungli
 W trakcie programów Mercury, Gemini i Apollo astronauci byli transportowani do dżungli w Panamie i tam pozostawiani na kilka dni. Podczas tego okresu musieli wykorzystać umiejętności nabyte podczas wcześniejszych szkoleń, zbudować szałas oraz ochronić się przed insektami i zwierzętami. Istotnym elementem było również nawigowanie w terenie nieprzychylnym.
 
 .. figure:: ../img/survival-jungle-nasa.jpg
-    :name: figure-survival-leadership-nasa
+    :name: figure-survival-jungle-nasa
     :scale: 75%
     :align: center
 
@@ -390,6 +390,11 @@ Kurs został podzielony na trzy etapy:
 - kurs astrobiologiczny i mikrobiologiczny na uniwersytetach w Niemczech i w ośrodku EAC oraz DLR.
 
 Ponadto wykorzystywane są również obszary krateru Ries w okolicach Nördlingen, Niemcy oraz teren Bletterbach we włoskich Dolomitach.
+
+.. csv-table:: Członkowie wyprawy PANGAEA 2017
+    :name: table-survival-pangaea
+    :file: ../data/survival-pangaea.csv
+    :header-rows: 1
 
 Misje NEEMO
 -----------
