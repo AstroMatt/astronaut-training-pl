@@ -181,19 +181,24 @@ W ramach zajęć z fotografii astronauci uczą się fotografować:
 
 Treningi i symulacje
 ====================
-Treningi i symulacje stanowią główny przedmiot szkolenia astronautów. Już w ramach programu Mercury wykorzystano pierwsze urządzenia elektoniczne pozwalające na przygotwanie astronautów do lotów kosmicznych. Urządzenia pozwoliły na symulację 276 problemów i sytuacji awaryknych, kóre mogłyby wydarzyć się podczas lotu. Dla programu Gemini udostępniono kolejny symulator, który pozwolił na testowanie kilku tysięcy problemów związanych z lotem kosmicznym, wejściem w atmosferę itd. Wszystkie urządzenia zlokalizowane były w ośrodku w Langley, Virgnia do czasu wybudowania w 1964 roku Manned Space Center w Houston, TX (obecnie Johnson Space Center) :cite:`Monchaux2011`. Należy zwrócić uwagę na pierwsze zastosowanie basenu neutralnej pływalności w przygotowywaniu wyjść EVA.
+Treningi i symulacje stanowią główny przedmiot szkolenia astronautów. Już w ramach programu Mercury wykorzystano pierwsze urządzenia elektoniczne pozwalające na przygotwanie astronautów do lotów kosmicznych. Urządzenia pozwoliły na symulację 276 problemów i sytuacji awaryknych, kóre mogłyby wydarzyć się podczas lotu. Dla programu Gemini udostępniono kolejny symulator, który pozwolił na testowanie kilku tysięcy problemów związanych z lotem kosmicznym, wejściem w atmosferę itd. Wszystkie urządzenia zlokalizowane były w ośrodku w Langley, Virgnia do czasu wybudowania w 1964 roku Manned Space Center w Houston, TX (obecnie Johnson Space Center) :cite:`Monchaux2011`. Należy zwrócić uwagę na pierwsze zastosowanie basenu neutralnej pływalności w przygotowywaniu wyjść EVA. W ramach programu Mercury i Gemini astronauci spędzali około 1/3 czasu w symulatorach.
 
-Następnie w programie Apollo rozwinięto oprzyrządowanie i zastosowano m.in. następujące symulatory :cite:`Monchaux2011`:
+Następnie w programie Apollo rozwinięto oprzyrządowanie i zastosowano 11 symulatorów testujących m.in. następujące sytuacje :cite:`Monchaux2011`:
 
 - symulator dezorientacyjny wieloosiowy (ang. *Multi-Axes*),
 - symulator-fotel 1/6g kompensujący 5/6g do symulowania grawitacji księżycowej,
 - symulator-fotel 5DL używany do szkolenia poruszania się w przestrzeni kosmicznej wyłącznie za pomocą rąk (bez użycia nóg),
 - symulator-ściana 0g obniżająca odczuwalne przeciążenie,
 - symulator SSMT (walec o 1,83m średnicy, pozwalający na rotację astronauty we wszystkich osiach),
+- symulator Command Module pozwalający na trening startu, sytuacji awaryjnych, dokowania z LM w trakcie podróży na Księżyc, dokowania z LM na orbicie oraz procedur powrotu i wejścia w atmosferę,
 - symulator LM do szkolenia lądowań na Księżycu,
 - LLRV - Lunar Landing Research Vehicle.
 
-Wyżej wymieniony LLRV był konstrukcją metalową wyposarzoną w silnik odrzutowy, którego dysza była skierowana w dół. Umieszczone po bokach silniczki manewrowe pozwalały na zmianę kierunku lotu za pomocą impulsowych strzałów gazów. Pilot był umieszczony w kabinie. Urządzenie okazało się być bardzo niebezpieczne w użytkowaniu i narażało astronautów na niepotrzebne ryzyko. Z tego powodu po awarii silnika i awaryjnym katapulotowaniu się przez Neila Armstronga symulacje LLRV zawieszono.
+W programie Apollo czas spędzony w symulatorach zajmował około 50% szkolenia. Z 959 godzin przygotowania przed lotem Neil Armstrong poświęcił 285 godzin wyłącznie na trening lądowania, a Buzz Aldrin poświęcił temu elementowi 1/3 z 1000 godzin szkolenia. Wyżej wymienione czasy nie uwzględniają LLRV oraz sumarycznego czasu dwóch tygodni spędzonego na spotkaniach omawiających ten najtrudniejszy element misji :cite:`Monchaux2011`.
+
+Wczesne symulatory były ogromnymi urządzeniami elektronicznymi, które pozwalały na wyświetlanie na ekranach wizji z kamer mechaniczne ustawionych na szynach i wysięgnikach nad ręcznie malowanymi makietami powierzchni Księżyca. Makiety były odtworzone na podstawie zdjęć z poprzednich załogowych i bezzałogowych misji na tego naturalnego satelitę.
+
+Wyżej wymieniony LLRV był konstrukcją metalową wyposarzoną w silnik odrzutowy, którego dysza była skierowana w dół. Umieszczone po bokach silniczki manewrowe pozwalały na zmianę kierunku lotu za pomocą impulsowych strzałów gazów. Pilot był umieszczony w kabinie. Urządzenie okazało się być bardzo niebezpieczne w użytkowaniu i narażało astronautów na niepotrzebne ryzyko. Z tego powodu po awarii silnika i awaryjnym katapulotowaniu się przez Neila Armstronga symulacje LLRV zawieszono :cite:`Peterson2017`.
 
 W kolejnych programach wzbogacono trening m.in. o:
 
@@ -203,7 +208,7 @@ W kolejnych programach wzbogacono trening m.in. o:
 
 Ćwiczenia kondycyjne i badania wydolności organizmu
 ---------------------------------------------------
-Do ćwiczeń wydolnościowych i kondycyjnych organizmu są wykorzystywane urządzenia gimnastyczne ogólnego przeznaczenia. tj:
+Przeciążenia podczas startu i wchodzenia w atmosferę oraz wysiłek fizyczny w trakcie EVA są głównymi czynnikami wpływającymi na konieczność utrzymania wysokiej sprawności fizycznej. Ponadto astronauci w trakcie lotu, a w szczególności lotów długotrwałych ze względu na dystrofię mięśni i demineralizację układu kostnego muszą ćwiczyć minimum dwie godziny dziennie. Aby zapobiec negatywnemu wpływowi braku grawitacji na organizm astronauci już w trakcie szkolenia są poddawani treningowi kondycyjnemu oraz badaniu wydolności organizmu. Do powyższych ćwiczeń są wykorzystywane urządzenia gimnastyczne ogólnego przeznaczenia. tj:
 
 - ergometr,
 - sztangi,
@@ -215,11 +220,15 @@ Do ćwiczeń wydolnościowych i kondycyjnych organizmu są wykorzystywane urząd
 - Adaptability Training System,
 - system bieżni nadciśnieniowych (ALTER).
 
-Ponadto zastosowane są również specjalistyczne urządzenia opracowane do treningu w środowisku zmniejszonej grawitacji, tj.:
+Ze względu na brak przyspiszenia grawitacyjnego wszelkie urządzenia, które bazują na podnoszeniu ciężarów lub oporowi wywołanemu przeciwdziałaniu grawitacji są niefunkcjonalne. We zwzględu na specifikę stanu nieważkości inżynierowie skonstruowali urządzania, które dzięki komorom próżniowym symulują zachowanie podobnego przyrządu na Ziemi. Ponadto zastosowane są również specjalistyczne urządzenia opracowane do treningu w środowisku zmniejszonej grawitacji, tj.:
 
 - bieżnia T2,
 - Advanced Resistance Excercise Device (ARED),
-- CEVIS.
+- Cycle Ergometer with Vibration Isolation and Stabilization (CEVIS).
+
+Podczas przeszkolenia do misji astronauci odbywają trening obsługi oraz poprawności wykonywania ćwiczeń.
+
+Na specjalną uwagę zasługuje fakt, iż aby mierzyć zmianę masy ciała u astronautów w stanie nieważkości konieczne było opracowanie rozwiązania technicznego ​​Body Mass Measuring Device (BMMD). Przyrząd podczas pomiaru, który wśród astronautów zwany jest ujeżdżaniem osła (ang. *ride the donkey*), potrząsa przyczepionym do niego astronautom i mierzy siłę bezwładności. Pomiar dokonywany jest trzykronie i wyciągana jest z niego średnia. Urządzenie pozwala na określenie masy astronauty z błędem rzędu 1kg. Czynność wykonywana jest raz w miesiącu :cite:`Peake2017`.
 
 .. figure:: ../img/training-fitness.jpg
     :name: figure-training-fitness
@@ -230,15 +239,33 @@ Ponadto zastosowane są również specjalistyczne urządzenia opracowane do tren
 
 Przygotowanie psychologiczne do pracy w odosobnieniu
 ----------------------------------------------------
-.. todo::
-    - Przygotowanie do samotności
-    - Brak bliskich
-    - Psychika
-    - requirements: mental, spiritual (emotional), physical fitness
-    - dealing with stress, emotional and physical
+Dotychczas tematy związane z przygotowaniem psychologicznym do pracy w odosobnieniu nie miały najwyższego priorytetu. Długość misji kosmicznych nie przekraczała progu, w którym starannie wyselekcjonowani a później przygotowywani astronauci ulegali załamaniu. Wraz ze wzrostem długości pozostawania na orbicie bez kontaktu fizycznego z bliskimi i rodziną specyfika zawodu się zmienia. Ponadto środowisko, w którym przebywają astronauci wymaga stałego wysokiego poziom kocentracji i skupienia, a każda pomyłka może stanowić o śmierci osoby lub wszystkich członków załogi i końca programu. Presja której poddawani są kandydaci jest ogromna i wymaga dużej stabilności i dojrzałości emocjonalnej, psychicznej i umiejętności trzeźwego myślenia w sytuacjach stresowych.
+
+Ze względu na fakt, że temat jest dopiero rozpoznawany a badania w tym zakresie dopiero zaczynają być prowadzone, aby przygotować astronautów do pełnienia obowiązków w trakcie długotrwałych lotów kosmicznych w stałej wysokiej aktywności i sprawności intelektualnej wprowadzono do szkolenia wiele symulacji. I choć urządzenia symulujące awarie i sytuacje niebezpieczne są używane od początku programów to pokrywają jedynie niewielką część przygotownaia psychicznego astronautów do długotrwałych misji.
+
+Badania, które są obecnie prowadzone w różnych habitatach i ośrodkach medycznych na świecie pozwalają zbadać wpływ długotrwałej izolacji na psychikę człowieka. Podczas obserwacji grupy dokonywane są analizy zmian psychologicznych oraz dynamiki grupy. W tym celu stosuje się urządzenia zapisujące metaparametry głosu tj. poziom głośności, szybkość mówienia, intonację, częstość wypowiedzi oraz dynamikę rozmowy. Ponadto ocenie podlegają również zmiany tych parametrów w trakcie rozmowy jak i w stosunku do innych konwersjacji. Do badań wykorzystywane są również informacje tj. miejsce przeprowadzania rozmów, warunki atmosferyczne (ciśneinie, temperatura), czas dnia oraz skład osobowy dyskursu. Wszystkie te elementy wpływają na charakter prowadzania konwersjacji oraz na stosunki i ich zmianę podczas trwania izolacji.
+
+W trakcie badań przeprowadzanych w habitatach naukowcy mają dostęp do informacji na temat symulowanej długości doby, która dla misji marsjańskich i księżycowych ma inną wartośc. Ponadto obciążenie zadaniami, terminowość ich wykonywania, tzw. gonienie czerwonej kresji (markera czasu na planie) jak również ilość wolnego czasu na odpoczynek i jego jakość ma ogromny wpływ na interakcje między członkami zespołów.
 
 Szkolenia geologiczne
 ---------------------
+Jednym z najbardziej charakterystycznych elementów szkolenia, szczególnie w kontekście eksploracji innych ciał niebieskich jest szkolenie geologiczne. :numref:`table-apollo-geological-locations` przedstawia zestawienie wybranych lokalizacji używanych w szkoleniu geologicznym astronautów w programie Apollo.
+
+Na przykładzie Apollo 15 możemy przedstawić strukturę szkolenia astronautów w programie Apollo:
+
+- 375 godzin ogólnego szkolenia geologicznego,
+- 80 godzin ogólnych geologicznych wykładów naukowych,
+- 20 godzin odpraw z wiodącymi badaczami (ang. *PI - Principal investigator*),
+- 80 godzin wykładów z geologii orbitalnej,
+- 12 godzin szkolenia pobierania próbek księżycowych,
+- 470 godzin praktycznych wypraw terenowych.
+
+Każdy z astronautów programu Apollo otrzymał około 1030-1040 godzin szkolenia geologicznego :cite:`Bleacher2014`. Ponadto astronautów trenowano również w rozstawianiu sprzędu, tj. kamery i flagi, oraz urządzeń badawczych.
+
+W szkoleniach geologicznych do misji Apollo 15-17, które odbywały się pomiędzy majem 1970 a listopadem 1972 wzięło udział 59 doświadczonych badaczy w charakterze trenerów. Na każdego astronautę, który miał stanać na księżycu przypadało 10 szkoleniowców. W programie zorganizowano 375 indywidualnych wypraw badawczych do 27 unikalnych miejsc.
+
+Poza charakterem edukacyjnym szkolenia pełniły jeszcze rolę integracyjną dla budowania zespołu.
+
 .. csv-table:: Zestawienie wybranych lokalizacji używanych w szkoleniu geologicznym astronautów w programie Apollo
     :name: table-apollo-geological-locations
     :file: ../data/apollo-geological-locations.csv

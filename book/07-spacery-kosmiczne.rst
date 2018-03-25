@@ -135,6 +135,19 @@ Amerykańskie *EMU* przywdziewa się składając z kilku cześci, tj.:
 
 Niezależnie od rozwiązania warstwa *LCVG*, która pozwala na regulowanie temperatury jest zakładana przez astronautę przed wejściem do skafandra EVA.
 
+​.. todo::
+    - (TND-3482 Evaluation and comparison of three spacesuit assemblies) Parametry suita :cite:`Monchaux2011`
+    - weight
+    - Size
+    - Mobility
+    - Visibility
+    - Temperature
+    - Cones of vision
+    - Mobility and exhaustion
+    - Level of bruising
+    - Interface (mechanical and spatial)
+    - Stowable volume
+
 .. todo::
     - Building 7, JSC, Spacesuit lab
     - Rosjanie mają jednoczęściowe stroje do których wchodzi się przez plecak
