@@ -251,7 +251,7 @@ Szkolenia geologiczne i spaleologiczne
 --------------------------------------
 Jednym z najbardziej charakterystycznych elementów szkolenia, szczególnie w kontekście eksploracji innych ciał niebieskich jest szkolenie geologiczne. :numref:`table-apollo-geological-locations` przedstawia zestawienie wybranych lokalizacji używanych w szkoleniu geologicznym astronautów w programie Apollo.
 
-Na przykładzie Apollo 15 możemy przedstawić strukturę szkolenia astronautów w programie Apollo:
+Na przykładzie Apollo 15 możemy przedstawić strukturę szkolenia geologicznego astronautów w programie Apollo :cite:`Bleacher2014`:
 
 - 375 godzin ogólnego szkolenia geologicznego,
 - 80 godzin ogólnych geologicznych wykładów naukowych,
@@ -260,7 +260,7 @@ Na przykładzie Apollo 15 możemy przedstawić strukturę szkolenia astronautów
 - 12 godzin szkolenia pobierania próbek księżycowych,
 - 470 godzin praktycznych wypraw terenowych.
 
-Każdy z astronautów programu Apollo otrzymał około 1030-1040 godzin szkolenia geologicznego :cite:`Bleacher2014`. Ponadto astronautów trenowano również w rozstawianiu sprzędu, tj. kamery i flagi, oraz urządzeń badawczych.
+Każdy z astronautów programu Apollo otrzymał około 1030-1040 godzin szkolenia geologicznego. Ponadto astronautów trenowano również w rozstawianiu sprzętu, tj. kamery i flagi, oraz urządzeń badawczych.
 
 W szkoleniach geologicznych do misji Apollo 15-17, które odbywały się pomiędzy majem 1970 a listopadem 1972 wzięło udział 59 doświadczonych badaczy w charakterze trenerów. Na każdego astronautę, który miał stanać na księżycu przypadało 10 szkoleniowców. W programie zorganizowano 375 indywidualnych wypraw badawczych do 27 unikalnych miejsc.
 

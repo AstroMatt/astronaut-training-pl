@@ -52,42 +52,74 @@ Agencje kosmiczne nazywają osoby wysyłane w kosmos w odmienny sposób. W więk
 
 Problematyczna jest kwestia nazwy "kosmicznych nawigatorów" przyjętej przez Chińską Agencję Kosmiczną. W języku angielskim popularnie wykorzystywana stała się nazwa "taikonaut", która jest zbitką słów oznaczających w j. chińskim przestrzeń kosmiczną z dodanym sufixem *naut* (gr. żeglarz). Nazwa ta stanowi analogię do nazewnictwa kosmonautów, astronautów itp. Podobnie przyjęło się używać terminu "vyomanaut" w stosunku do Indyjskiego personelu. W chińskich oficjalnych dokumentach i prasie stosowane jest słowo "yǔ háng yuán" lub "háng tiān yuán" nie stanowiące połączenia dwóch języków.
 
-Na osobny komentarz zasługuje nazwa pracy, która ze względu na specyfikę tematu jest trudna do przetłumaczenia na język polski. Angielska wersja tematu oddaje precyzyjniej charakter pracy "Astronaut Selection and Training Process for Long-Duration Space Flight and Extravehicular Activity". Termin *Extravehicular Activity (EVA)* odnosi się do aktywności astronautów poza statkiem lub habitatem kosmicznym. Więcej na ten temat w rozdziale :ref:`wyjścia astronautów w przestrzeń kosmiczną <eva-training>`. Znaczenie tytułu pracy: "selekcja i proces szkolenia astronautów do długotrwałych lotów oraz spacerów kosmicznych" należy więc rozpatrywać jako "selekcja i proces szkolenia osób lecących na długotrwały lot kosmiczny, oraz przygotowanie do spacerów kosmicznych".
+Na osobny komentarz zasługuje nazwa pracy, która ze względu na specyfikę tematu jest trudna do przetłumaczenia na język polski. Angielska wersja tematu oddaje precyzyjniej charakter pracy "Astronaut Selection and Training Process for Long-Duration Space Flight and Extravehicular Activity". Termin *Extravehicular Activity (EVA)* odnosi się do aktywności astronautów poza statkiem lub habitatem kosmicznym. Więcej na ten temat w rozdziale :ref:`Szkolenie przygotowujące do spacerów kosmicznych`. Znaczenie tytułu pracy: "selekcja i proces szkolenia astronautów do długotrwałych lotów oraz spacerów kosmicznych" należy więc rozpatrywać jako "selekcja i proces szkolenia osób lecących na długotrwały lot kosmiczny, oraz przygotowanie do spacerów kosmicznych".
 
 Niniejsza praca jest próbą analizy procesu szkolenia astronautów przez różne agencje kosmiczne do długotrwałych lotów kosmicznych w tym docelowo do stałej obecności człowieka na Księżycu, Marsie i dalszej eksploracji kosmosu.
 
 
-Komentarz promotora
-===================
-Informacja jest interesująca ale nie jest to praca magisterska.
-Brakuje celu pracy, hipotezy i metod badawczych.
-Kończy Pan studia na kierunku Lotnictwo i Kosmonautyka i są to studia inżynierskie.
-Praca ta ma charakter pracy opisowy.
-Proszę się zastanowić jak to zmienić.
-
-
 Cel pracy
 =========
-Analiza cech astronautów wpływających na:
+Analiza procesu selekcji, przydziału do misji oraz szkolenia EVA w agencjach kosmiczncyh ... w celu określenia programu szkolenia polskiego astronauty.
 
-- selekcję
-- przydział do misji
-- przydział do EVA,
+Główny problem
+==============
+1. korzyści z aplikacji technologii wytworzonych w ramach human space flight
+2. rozwój infrastruktury i kadry szkoleniowej (zagospodarowanie bezrobotnych inżynierów kosminczych w polsce)
+3. stworzenie kompetencji w kraju w ramach HSF
+4. sektor prywatny przyspiesza eksplorację kosmiczną
+5. polska od 2012 weszła do ESA
+6. W Polsce stworzono jedyny w Europie habitat
+7. Jesteśmy w stanie stworzyć program i infrastrukture szkoleniową
+8. Posiadanie astronautów jest prestiżem na arenie międzynarodowej
+9. Rozwój medycyny kosmicznej w Polsce
 
-Hipoteza
+Hipotezy
 ========
-Multidyscyplinarność jest cechą pożądaną przez agencje kosmiczne i pozwala astronautom być częściej wybieranym oraz przydzielanym do misji niż wąsko wyspecjalozowani specjaliści.
+1. Polska jest w stanie stoworzyć program astronautyczny
+2. Stworzenie programu szkolenia i jego wdrożenie pozwoli na obniżenie kosztów stworzenia polskiego astronauty
+3. Bogata i unikalna infrastuktura w polsce pozwala na obniżenie kosztów i optymalizację procesu szkolenia  europejskich astronautów
+4. Polska zyska na stworzeniu programu oraz posiadaniu astronauty
 
-Metody badawcze
+Metoda badawcza
 ===============
+1. Analiza jakościowa procesów szkolenia astronautów w agencjach kosmiczncyh ...
+2. Materiał badawczy - grupa astronautów które poddałem analizie (i mam dane z procesu ich szkolenia)
+3. Na jakiej zasadzie będzie robiona analiza
 
-Źródła
-------
+Techniki badania
+================
+1. Porównanie literatury przedstawiającej procesy szkolenia
+2. Rozmowy z astronautami, trenerami i kontrolerami lotu
+3. Odtworzenie procesu szkolenia i subiektywny wybór najistotniejszych elementów (tu jest trudno, bo nikt nie ocenia tego co zrobiłeś)
+4. Udział w analogowych misjach kosmicznych
 
-Dobór parametrów porównawczych
-------------------------------
-- parametry selekcji
+Procedura badań
+===============
+1. Jakie agencje
+2. Jakie elementy procesu szkolenia
+3. Jakich rozmówców i jakie pytania zadano
 
-    - wykształcenie
-    - wiek
-    -
+Analiza uzyskanych danych
+=========================
+Jakie dane wygenerujesz
+1. Jakie parametry i dlaczego są naistotniejsze w każdym z etapów
+2. Na jakiej zasadzie te parametry są wg. mnie najważniejsze
+3. Oszacowanie zapotrzebowania czasowego i finansowego
+
+Dyskusja
+========
+Próbowałem odtworzyć proces i wg. mnie te parametry są najistotniejsz
+
+Wnioski
+=======
+
+Uogólnienia
+-----------
+proponowany plan szkolenia - roadmapa, budżet i podsumowanie godzin
+
+Potwierdzenie lub zaprzeczenie postawionych hipotez
+---------------------------------------------------
+Tak, Polska jest w stanie stoworzyć program astronautyczny
+Tak, Stworzenie programu szkolenia i jego wdrożenie pozwoli na obniżenie kosztów stworzenia polskiego astronauty
+Tak, Bogata i unikalna infrastuktura w polsce pozwala na obniżenie kosztów i optymalizację procesu szkolenia  europejskich astronautów
+Tak, Polska zyska na stworzeniu programu oraz posiadaniu astronauty

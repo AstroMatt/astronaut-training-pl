@@ -1,8 +1,6 @@
-.. _eva-training:
-
-******************************************
-Wyjścia astronautów w przestrzeń kosmiczną
-******************************************
+************************************************
+Szkolenie przygotowujące do spacerów kosmicznych
+************************************************
 
 Jednym z najtrudniejszych elementów pracy astronauty jest wyjście w przestrzeń kosmiczną na tzw. EVA (ang. Extravehicular Activity, pol. spacer kosmiczny). Do przeprowadzenia takiego wyjścia astronauci przygotowują się przez dwa lata przed misją przeprowadzając około 20 ćwiczeń w pełnym skafandrze pod wodą w basenach neutralnej pływalności. Każdy trening jest oceniany przez zespół wykwalifikowanych i certyfikowanych instruktorów.
 
@@ -135,7 +133,7 @@ Amerykańskie *EMU* przywdziewa się składając z kilku cześci, tj.:
 
 Niezależnie od rozwiązania warstwa *LCVG*, która pozwala na regulowanie temperatury jest zakładana przez astronautę przed wejściem do skafandra EVA.
 
-​.. todo::
+.. todo::
     - (TND-3482 Evaluation and comparison of three spacesuit assemblies) Parametry suita :cite:`Monchaux2011`
     - weight
     - Size
