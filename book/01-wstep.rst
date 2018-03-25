@@ -62,11 +62,11 @@ Niniejsza praca jest próbą analizy procesu szkolenia astronautów przez różn
 
 Cel pracy
 =========
-Celem niniejszej pracy jest analiza procesu selekcji, przydziału do misji oraz szkolenia EVA w wybrancyh agencjach kosmicznych w celu zaproponowania programu szkolenia polskiego astronauty. W ramach pracy autor przybliży proces, który jest wdrożony w agencjach NASA, ESA, CSA, Roskosmos i CNSA wraz z analizą infrastruktury szkoleniowej i przedstawi propozycję programu, oszacowany budżet oraz zakres zasobów koniecznych do realizacji przedsięwzięcia.
+Celem niniejszej pracy jest analiza procesu selekcji, przydziału do misji oraz treningu EVA w wybrancyh agencjach kosmicznych w celu zaproponowania programu szkolenia polskiego astronauty. W ramach pracy autor przybliży proces, który jest wdrożony w agencjach NASA, ESA, CSA, Roskosmos, JAXA i CNSA wraz z analizą infrastruktury szkoleniowej i przedstawi propozycję programu, oszacowany budżet oraz zakres zasobów koniecznych do realizacji przedsięwzięcia.
 
 
-Główne problemy badawcze
-========================
+Główne problemy i hipotezy badawcze
+===================================
 Długotrwałe kosmiczne loty załogowe wymagają rozwiązania wielu problemów inżynieryjnych oraz stworzenia technologii, których aplikacja znajduje się również w innych dziedzinach. Przez inwestycję w sektor kosmiczny państwo rozwija gospodarkę i stymuluje rozwój technologiczny. Na każde €1 zainwestowane w tym segmencie szacowany jest zwrot w wysokości €6 w postaci dochodów bezpośrednich, pośrednich i indukowanych :cite:`ESASpaceSolidInvestment2012`.
 
 Bezpośrednim przykładem wykorzystania technologii opracowanych dzięki lub w ramach rozwoju programów kosmicznych jest m.in. nawigacja satelitarna, telekomunikacja, telemedycyna i robotyka. Urządzenia i aparaty matematyczne tj. filtr Kalmana stworzony na potrzeby programu Apollo znajdują zastosowanie w każdym aspekcie życia i są szeroko używane a ich wpływ jest niewymierny.
@@ -94,10 +94,7 @@ Podsumowując: dzięki otworzeniu polskiego programu przygotowującego do lotów
 - działalność edukacyjna i popularyzująca obszar S.T.E.M. wśród dzieci i młodzieży,
 - rozwój m.in. nauki, medycyny i robotyki w Polsce.
 
-
-Hipotezy
-========
-Wraz z analizą procesu selekcji, programów szkolenia oraz infrastruktury treningowej autor postara się udowodnić, iż:
+Niniejsza praca poprzez analizę procesu selekcji, programów szkolenia oraz infrastruktury treningowej podejmuje próbę wykazania, iż:
 
 - Polska jest w stanie stoworzyć infrastrukturę szkoleniową i uczestniczyć w programie astronautycznym,
 - stworzenie programu szkolenia i jego wdrożenie pozwoli na obniżenie kosztów posiadania polskiego astronauty,
@@ -105,51 +102,12 @@ Wraz z analizą procesu selekcji, programów szkolenia oraz infrastruktury treni
 - Polska zyska na stworzeniu programu oraz posiadaniu astronauty.
 
 
-Metoda badawcza
-===============
-1. Analiza jakościowa procesów szkolenia astronautów w agencjach kosmiczncyh ...
-2. Materiał badawczy - grupa astronautów które poddałem analizie (i mam dane z procesu ich szkolenia)
-3. Na jakiej zasadzie będzie robiona analiza
+Metoda, techniki badawcze oraz procedura badań
+==============================================
+Praca jest próbą analizy jakościowej procesów szkolenia astronautów w wybrancych agencjach kosmicznych, tj. NASA, ESA, CSA, JAXA, Roskosmos i CNSA wraz z przeglądem infrastruktury szkoleniowej. Publikacja ma na celu zaproponowanie rozwiązań tj. wykazanie miejsc udziału Polski w procesie szkolenia obecnych i przyszłych astronautów ESA jak również zaproponowanie programu szkolenia Polskiego astronauty.
 
+W procesie opracowywania materiałów niniejszej publikacji autor, korzystając z faktu, iż jest etatowym pracownikiem Europejskiej Agencji Kosmicznej miał możliwość dokładnej analizy faktów oraz przeprowadzenia rozmów z astronautami, dyrektorem ds. lotów załogowych i eksploracji robotycznej (ang. *HRE - Human Spaceflight and Robotic Exploration*), kontrolerami lotów jak również z trenerami astronautów.
 
-Techniki badania
-================
-1. Porównanie literatury przedstawiającej procesy szkolenia
-2. Rozmowy z astronautami, trenerami i kontrolerami lotu
-3. Odtworzenie procesu szkolenia i subiektywny wybór najistotniejszych elementów (tu jest trudno, bo nikt nie ocenia tego co zrobiłeś)
-4. Udział w analogowych misjach kosmicznych
+Procesowi analizy poddany jest każdy etap selekcji, szkolenia do długotrwałych lotów kosmicznych oraz EVA jak również inrastruktura naziemna i kosmiczna. Na podstawie porównania z literaturą naukową, rozmów z ww. osobami oraz próbie odtworzenia procesu szkolenia astronautów w ramach zalążka programów załogowych w Polsce (za co autor wraz z dr Agatą Kołodziejczyk i firmą Space Garden uzyskał medal Kopernikański) wybrano kluczowe elementy w procesie. Ponadto korzystając z empirycznego poznania procesu od środka w ramach dwóch symulacji Księżycowych i jednej Marsjańskiej autor może przekazać subiektywne odczucia w doborze parametrów jakościowych
 
-
-Procedura badań
-===============
-1. Jakie agencje
-2. Jakie elementy procesu szkolenia
-3. Jakich rozmówców i jakie pytania zadano
-
-
-Analiza uzyskanych danych
-=========================
-Jakie dane wygenerujesz
-1. Jakie parametry i dlaczego są naistotniejsze w każdym z etapów
-2. Na jakiej zasadzie te parametry są wg. mnie najważniejsze
-3. Oszacowanie zapotrzebowania czasowego i finansowego
-
-
-Dyskusja
-========
-Próbowałem odtworzyć proces i wg. mnie te parametry są najistotniejsz
-
-
-Wnioski
-=======
-
-Uogólnienia
------------
-proponowany plan szkolenia - roadmapa, budżet i podsumowanie godzin
-
-Potwierdzenie lub zaprzeczenie postawionych hipotez
----------------------------------------------------
-Tak, Polska jest w stanie stoworzyć program astronautyczny
-Tak, Stworzenie programu szkolenia i jego wdrożenie pozwoli na obniżenie kosztów stworzenia polskiego astronauty
-Tak, Bogata i unikalna infrastuktura w polsce pozwala na obniżenie kosztów i optymalizację procesu szkolenia  europejskich astronautów
-Tak, Polska zyska na stworzeniu programu oraz posiadaniu astronauty
+W ramach procedury badań poddano analizie NASA, ESA, CSA, JAXA, Roskosmos i CNSA wraz z ich obecnym oraz historycznym programem selekcji i szkolenia. Poddano analizie również profile wszystkich 556 osób, które przekroczyły umowną granicę kosmosu. Przeanalizowano dane z lotów krótkich, długotrwałych oraz księżycowych jak również dane z EVA. Ponadto zestawiono informacje dotyczące infrastruktury naziemnej oraz lotniczej.
