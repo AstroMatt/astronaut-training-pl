@@ -247,8 +247,8 @@ Badania, które są obecnie prowadzone w różnych habitatach i ośrodkach medyc
 
 W trakcie badań przeprowadzanych w habitatach naukowcy mają dostęp do informacji na temat symulowanej długości doby, która dla misji marsjańskich i księżycowych ma inną wartośc. Ponadto obciążenie zadaniami, terminowość ich wykonywania, tzw. gonienie czerwonej kresji (markera czasu na planie) jak również ilość wolnego czasu na odpoczynek i jego jakość ma ogromny wpływ na interakcje między członkami zespołów.
 
-Szkolenia geologiczne
----------------------
+Szkolenia geologiczne i spaleologiczne
+--------------------------------------
 Jednym z najbardziej charakterystycznych elementów szkolenia, szczególnie w kontekście eksploracji innych ciał niebieskich jest szkolenie geologiczne. :numref:`table-apollo-geological-locations` przedstawia zestawienie wybranych lokalizacji używanych w szkoleniu geologicznym astronautów w programie Apollo.
 
 Na przykładzie Apollo 15 możemy przedstawić strukturę szkolenia astronautów w programie Apollo:
@@ -264,7 +264,25 @@ Każdy z astronautów programu Apollo otrzymał około 1030-1040 godzin szkoleni
 
 W szkoleniach geologicznych do misji Apollo 15-17, które odbywały się pomiędzy majem 1970 a listopadem 1972 wzięło udział 59 doświadczonych badaczy w charakterze trenerów. Na każdego astronautę, który miał stanać na księżycu przypadało 10 szkoleniowców. W programie zorganizowano 375 indywidualnych wypraw badawczych do 27 unikalnych miejsc.
 
-Poza charakterem edukacyjnym szkolenia pełniły jeszcze rolę integracyjną dla budowania zespołu.
+W ramach szkolenia geologicznego tj. DRATS 2010 (NASA) czy PANGAEA (ESA) astronaucji uczą się:
+
+- identyfikacja i dokumentacja próbek,
+- rozstawianie sprzętu i urządzeń badawczych,
+- mapowanie terenu,
+- interpretacja obszaru geologicznego z Ziemi oraz z orbity,
+- eksploracja tuneli lawy (ang. *Lava tubes*),
+- zbieranie danych geologicznych i geofizycznych,
+- identyfikacja i pobieranie próbek geobiologicznych,
+- dyskusja o hipotezach powstawania warst,
+- uzyskują umiejętność komunikacji z profesjonalnymi geologami,
+- opis skał, minerałów i warstw skalnych,
+- umiejętność pobierania próbek w ograniczającym ruch skafandrze,
+- poruszanie się pojazdami tj. Lunar Roving Vehicle (LRV) czy Mars Exploration Vehicle (MEV),
+- identyfikacja odkrywek i odsłonięć pokładów.
+
+Poza charakterem edukacyjnym szkolenia geologiczne pełnią jeszcze rolę integracyjną dla budowania zespołu.
+
+Odmiennym aczkolwiek skorelowanym szkoleniem są wyjazdy spaleologiczne. Podczas eksploracji jaskiń w ramach programu CAVES (ESA) astronauci różnych narodowości brali udział w mapowaniu podziemnych korytarzy, identyfikacji i dokumentowaniu próbek skalnych i mikrobiologicznych, identyfikowaniu nowych gatunktów organizmów oraz zaawansowanej wspinaczce jaskiniowej. Temat szerzej omówiony w rozdziale :ref:`Misje CAVES`.
 
 .. csv-table:: Zestawienie wybranych lokalizacji używanych w szkoleniu geologicznym astronautów w programie Apollo
     :name: table-apollo-geological-locations
