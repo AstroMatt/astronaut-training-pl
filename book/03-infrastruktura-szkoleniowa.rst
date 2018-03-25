@@ -409,6 +409,9 @@ Polska obecnie posiada część infrastruktury wykorzystywanej podczas szkolenia
 - lotnisko oraz program szkolenia lotniczego zgodnego z FAA i EASA,
 - głębokie baseny pozwalające na stworzenie ośrodka neutralnej pływalności,
 - kadra uniwersytecka przygotowująca z przedmiotów teoretycznych,
+- symulacje ogniowe w ramach współpracy ze szkołą straży pożarnej,
+- szkoły skoków spadochronowych,
+- szkoły nurkowe specjalizujące się w neutralnej pływalności oraz pracy pod powierzchnią wody,
 - symulatory rzeczywistości wirtualnej (wraz z oprogramowaniem wnętrza ISS).
 
 Powyższa infrastruktura pozwala na odtworzenie części szkolenia w Polsce. Brakującym elementem jest plan szkolenia łączący ośrodku w charakterze wspólnego konsorcium udostępniającego wyposażenie oraz lokalizację w ramach programu astronautycznego.
