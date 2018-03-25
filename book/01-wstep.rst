@@ -62,7 +62,7 @@ Niniejsza praca jest próbą analizy procesu szkolenia astronautów przez różn
 
 Cel pracy
 =========
-Celem niniejszej pracy jest analiza procesu selekcji, przydziału do misji oraz treningu EVA w wybrancyh agencjach kosmicznych w celu zaproponowania programu szkolenia polskiego astronauty. W ramach pracy autor przybliży proces, który jest wdrożony w agencjach NASA, ESA, CSA, Roskosmos, JAXA i CNSA wraz z analizą infrastruktury szkoleniowej i przedstawi propozycję programu, oszacowany budżet oraz zakres zasobów koniecznych do realizacji przedsięwzięcia.
+Celem niniejszej pracy jest analiza procesu selekcji, przygotowania do misji oraz treningu EVA w wybranych agencjach kosmicznych w celu zaproponowania programu szkolenia polskiego astronauty. W ramach pracy autor przybliży proces, który jest wdrożony w agencjach NASA, ESA, CSA, Roskosmos, JAXA i CNSA wraz z analizą infrastruktury szkoleniowej i przedstawi propozycję programu, oszacowany budżet oraz zakres zasobów koniecznych do realizacji przedsięwzięcia.
 
 
 Główne problemy i hipotezy badawcze
