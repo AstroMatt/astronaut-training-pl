@@ -16,6 +16,14 @@
     book/11-praca-na-ziemii.rst
     book/12-zakonczenie.rst
 
+Załączniki
+==========
+.. csv-table:: Lista rosyjskich kosmonautów
+    :name: table-astronauts-roscosmos
+    :file: data/astronauts-roscosmos.csv
+    :header-rows: 1
+
+
 Bibliografia
 ============
 

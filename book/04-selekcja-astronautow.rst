@@ -288,7 +288,7 @@ Podczas jednej z selekcji kandydatów obserwowano bardzo wnikliwie, śledząc ic
 
 Na chwilę obecną nie są znane dalsze plany na temat rekrutacji kolejnych astronautów JAXA.
 
-.. csv-table:: Lista aktywnych astronautów JAXA
+.. csv-table:: Lista astronautów JAXA
     :name: table-astronauts-jaxa
     :file: ../data/astronauts-jaxa.csv
     :header-rows: 1
@@ -305,6 +305,11 @@ CNSA - Agencja Kosmiczna Chińskiej Republiki Ludowej
 Proces selekcji Chińskich astronautów jest utajniony przez rząd Chińskiej Republiki Ludowej. Wiadomo, że kandydaci są oficerami sił powietrznych i mają doświadczenie jako piloci wojskowi. Ponadto mają być w wieku od 25 do 30 lat, z minimalnym nalotem 800 godzin. Muszą także posiadać wykształcenie naukowe. Wzrost kandydatów musi zawierać się w przedziale 160 cm do 172 cm, a waga 50 kg do 70 kg.
 
 Z informacji podanych do publicznej wiadomości wynika, że w niedalekiej przyszłości CNSA planuje rekrutację 12 astronautów w tym dwóch kobiet. Głównym celem jest stworzenie załogi, która będzie odbywała misje do Chińskiej Stacji Orbitalnej *Tiangong*.
+
+.. csv-table:: Lista astronautów CNSA
+    :name: table-astronauts-cnsa
+    :file: ../data/astronauts-cnsa.csv
+    :header-rows: 1
 
 CSA - Kanadyjska Agencja Kosmiczna
 ----------------------------------

@@ -2,6 +2,8 @@
 Rys historyczny lotów kosmicznych
 *********************************
 
+Przedstawiony poniżej krótki rys historyczny załogowych programów kosmicznych jest zorientowany na przedstawienie kwestii dotyczących selekcji astronautów. Poniżej przedstawiono zestawienie największych programów astronautycznych i kosmonautycznych USA oraz Federacji Rosyjskiej (byłego ZSRR).
+
 
 Pionierzy kosmonautyki
 ======================
@@ -425,3 +427,14 @@ Dla upamiętnienia lotu pierwszego Polaka załoga zabrała na pokład flagę i g
     :align: center
 
     Załoga Sojuz-30 (od lewej): Piotr Iljicz Klimuk oraz Mirosław Hermaszewski w trakcie szkolenia na symulatorze statku Sojuz.
+
+
+Analiza rysu historycznego w kontekście celu pracy
+==================================================
+Programy kosmiczne były prowadzone głównie przez dwa państwa USA i Federację Rosyjską (ZSRR). ZSRR był inicjatorem współpracy międzynarodowej. W ramach programu Interkosmos polecieli pierwsi kosmonauci niebędący obywaletami wyżej wymienionych mocarstw, a generał Hermaszewski został pierwszym polakiem, który polecał w kosmos.
+
+Podczas selekcji kosmonauci i astronauci wybierani byli głównie ze względu na doświadczenie w pilotażu, chociaż pojawiały się również grupy osób z innych specjalności tj. inżynieria, nauka, medycyna czy również nauczyciele.
+
+Wraz ze zwiększającą się liczbą startów, oraz zwiększaniem stabilizacji i bezpieczeństwa lotów jak i pobytu w kosmosie nacisk na profesję lotnika-kosmonauty malał. Chociaż to wciąż wysoko cenieni specjaliści, to ilość badań, ich złożoność oraz specyfika promuje inny profil kandydatów. Jednocześnie na uwagę zasługuje fakt, iż w większości przydziałów do misji, osoby które udawały się w kosmos były szkolone do prowadzenia badań wychodzących poza zakres specjalizacji danego astronauty.
+
+Na podstawie dominujących cech wśród astronautów analizowanych programów w ramach proponowanego celu pracy kandydaci powinni cechować się multidyscyplinarnością, umiejętnością pracy w grupie oraz prowadzenia badań wychodzących z poza zakresu specjalizacji, gdyż to właśnie te elementy dominowały przy wyborze, szkoleniu i odbywaniu misji.

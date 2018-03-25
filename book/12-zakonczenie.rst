@@ -13,6 +13,11 @@ Zakończenie
 
 Analiza uzyskanych danych
 =========================
+
+
+
+
+
 Jakie dane wygenerujesz
 1. Jakie parametry i dlaczego są naistotniejsze w każdym z etapów
 2. Na jakiej zasadzie te parametry są wg. mnie najważniejsze

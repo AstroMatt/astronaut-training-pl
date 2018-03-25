@@ -2,6 +2,8 @@
 Infrastruktura szkoleniowa
 **************************
 
+W tym rozdziale przedstawiono opis infrastruktury szkoleniowej wykorzystywanej w procesie szkolenia astronautów. Dalsza analiza jakościowa będzie się odnosiła do kwestii poruszanych poniżej.
+
 Centra szkolenia astronautów
 ============================
 Szkolenie astronautów odbywa się w wyspecjalizowanych ośrodkach treningowych. Skala i złożoność procesu szkolenia wymaga współpracy wielu agencji. Na chwilę obecną astronauci szkoleni są w ramach programów wymiany we wszystkich ośrodkach szkoleniowych. Ze względu na amerykańską regulację ITAR (International Traffic in Arms Regulations) określającą przemysł kosmiczny i rakietowy jako broń i zakazujący współpracy z Chinami, astronauci NASA nie odbywają szkolenia w ośrodkach ACC. Pozostałe kraje kooperują i wzajemnie szkolą astronautów w zakresie swojej specjalizacji. :numref:`table-infrastructure-training-centers` przedstawia listę centrów szkoleniowych.
@@ -22,7 +24,7 @@ Historycznie centrum kosmiczne Johnsona (JSC) było kolebką amerykańskiego pro
 
 European Astronaut Centre, Kolonia, Niemcy
 ------------------------------------------
-Europejskie Centrum Astronautów (EAC) jest miejscem gdzie astronauci przygotowujący się do lotu na ISS odbywają szkolenie z zakresu obsługi modułu Columbus Europejskiej Agencji Kosmicznej. Budynek ten jest również siedzibą europejskich astronautów i miejscem ich szkolenia. W EAC znajduje się także basen Neutral Buoyancy Facility, w którym astronauci zapoznają się z procedurami oraz strojem do spacerów kosmicznych. Więcej w rozdziale :ref:`dotyczącym szkolenia EVA <eva-training>`.
+Europejskie Centrum Astronautów (EAC) jest miejscem gdzie astronauci przygotowujący się do lotu na ISS odbywają szkolenie z zakresu obsługi modułu Columbus Europejskiej Agencji Kosmicznej. Budynek ten jest również siedzibą europejskich astronautów i miejscem ich szkolenia. W EAC znajduje się także basen Neutral Buoyancy Facility, w którym astronauci zapoznają się z procedurami oraz strojem do spacerów kosmicznych. Więcej w rozdziale :ref:`dotyczącym szkolenia EVA <Szkolenie przygotowujące do spacerów kosmicznych>`.
 
 Tsukuba Space Center, Tsukuba, Ibaraki, Japonia
 -----------------------------------------------
@@ -376,7 +378,7 @@ Na chwilę obecną na świecie jest niewiele placówek zajmujących się tematyk
 - NEEMO, USA,
 - HERA, USA.
 
-Habitat Lunares został wybudowany przez firmę Space Garden przy udziale autora pracy (Mateusz Harasymczuk) oraz pomysłodawczynię dr Agatę Kołodziejczyk. Habitat ulokowany jest na lotnisku w Pile (ICAO: EPPK) w hangarze przy pasie startowym. W Lunares prowadzone są badania dotyczące:
+Habitat Lunares został wybudowany przez firmę Space Garden przy udziale autora pracy (Mateusz Harasymczuk) oraz pomysłodawczynię dr Agatę Kołodziejczyk. Habitat ulokowany jest na lotnisku w Pile (ICAO: EPPK) w hangarze przy 2,5 km betonowym pasie startowym. W Lunares prowadzone są badania dotyczące:
 
 - subiektywnej percepcji czasu,
 - dynamiki grupy i wpływu izolacji na relacje międzyludzkie,
@@ -390,3 +392,23 @@ Habitat Lunares został wybudowany przez firmę Space Garden przy udziale autora
 - badania nad domknięciem półotwartego systemu podtrzymywania życia,
 - wykorzystanie zasobów dostępnych w środowisku (ang. *ISRU - In-Situ Resource Utilization*),
 - systemu operacyjnego habitatów pozaziemskich.
+
+
+Analiza infrastruktury szkoleniowej w kontekście celu pracy
+===========================================================
+Jednym z celów tej pracy jest zaproponowanie planu stworzenia infrastruktury szkoleniowej. Aby Polska uczestniczyła w programie szkolenia astronautów rozwiązania muszą być unikalne lub pozwalające na przeprowadzenie optymalizację kosztów szkoleniowych.
+
+Polska obecnie posiada część infrastruktury wykorzystywanej podczas szkolenia astronautów. Są to m.in.:
+
+- wirówka przeciążeniowa na WIML,
+- habitat Lunares
+- infrastruktura gimnastyczno-szkoleniowa Wyższej Szkoły Oficerskiej Sił Powietrznych (WSOSP),
+- symulator METS w Ośrodku Szkolenia Nurków i Płetwonurków Wojska Polskiego w Gdyni,
+- komora niskich ciśnień w Gdyni oraz na WIML,
+- program szkolenia survivalowego oraz SERE (kadra byłych żołnierzy sił specjalnych),
+- lotnisko oraz program szkolenia lotniczego zgodnego z FAA i EASA,
+- głębokie baseny pozwalające na stworzenie ośrodka neutralnej pływalności,
+- kadra uniwersytecka przygotowująca z przedmiotów teoretycznych,
+- symulatory rzeczywistości wirtualnej (wraz z oprogramowaniem wnętrza ISS).
+
+Powyższa infrastruktura pozwala na odtworzenie części szkolenia w Polsce. Brakującym elementem jest plan szkolenia łączący ośrodku w charakterze wspólnego konsorcium udostępniającego wyposażenie oraz lokalizację w ramach programu astronautycznego.
