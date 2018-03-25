@@ -292,36 +292,29 @@ Odmiennym aczkolwiek skorelowanym szkoleniem są wyjazdy spaleologiczne. Podczas
 
 Przygotowanie do pracy w ekstremalnych warunkach
 ================================================
-.. todo::
-    - hiking
-    - planetary science
-    - geology
-    - poznawanie siebie i innych w zespole aby być lepszymi kumplami
-    - expeditionary training
-    - graduation of national outdoor leadership school, Orlando, Wyoming (hike 8 days and 8 nights)
-    - east temple peak
-    - walking up to the peak holding hands z innymi
-    - Tzw. survival training
-    - kiedy takie sytuacje mogą wystąpić?
-    - desert training
-    - water training
-    - jungle survival training
-    - cook and eat snake
-    - how to make a water in the desert
+Kandydaci, którzy są wybierani w procesie selekcji są bardzo aktywnymi osobami. Często zajmują się ekstremalnymi sportami oraz uprawiają zaawansowaną turystykę kwalifikowaną. Ponadto podczas szkolenia podstawowego astronauci są poddawani treningom survivalowym i obozom przetrwania, które również na celu mają integrację zespołu. Wśród zajęć terenowych można wyróżnić:
+
+- szkolenie z geologi planetarnej i geofizyki,
+- wycieszki piesze (ang. *hiking*) i wysokogórskie,
+- ekspedycje naukowe, tj. wyprawy na Arktykę czy Antarktydę,
+- obozy przywództwa i pracy zespołowej,
+- szkolenia przetrwania na pustyni,
+- szkolenia przetrwania w środowisku zimowym,
+- szkolenia przetrwania w środowisku morskim,
+- szkolenia przetrwania w środowisku dżungli.
 
 Przetrwanie w warunkach zimowych
 --------------------------------
+W trakcie programu kandydackiego NASA astronauci są wysyłani ma dwutygodniową ekspedycję podczas, której w trudnych warunkach pogodowych wraz z realnym zagrożeniem mają przetrwać przez określony czas i dotrzeć do punków kontrolnych. Najczęściej szkolenie zimowe odbywa się w regionach Alaski lub północnej Kanady. Do zadań astronautów należy nawigacja w zaśnieżonych górach z uwagą na lawiny, konstrukcja schronienia, organizacja pożywienia oraz wody. W zalezności od szkolenia astronauci mogą być wyposażeni w narty biegowe oraz 75 kg ekwipunki, które ciągną pokonując niedostepne arktyczne tereny. Ponadto w trakcie ekspedycji członkowie zmianiają tury przywództwa dzięki czemu uczą się również komunikacji i różnych ról w zespole. Do zadań symulowanych podczas szkolenia należy również poszukiwanie ofiar lawin wykorzystując specjalny system nadajników (ang. *avalanche homing beacon and monitor*). Pierwsze dni szkolenia prowadzone są pod nadzorem instruktorów, którymi zwykle sa żołnieże sił specjalnych lub przeskoleni profesjonaliści. Po określonym czasie instruktor odłącza się od grupy a astronauci muszą przetrwać i wykorzystać nabytą wiedzę.
+
+Każdy kosmonauta i astronauta, który za pośrednictwem statku Soyuz jest wynoszony na Międzynarodową Stację kosmiczną musi przejść szkolenie przetrwania w warunckach letnich (wodnych) oraz zimowych. Szkolenie zimowe jest przeprowadzane w lesie 15 km od Ośrodka Szkolenia Kosmonautów rosyjskiej agencji kosmicznej. Szkolenie odbywa się przy temperaturze około -20 stopni celsjusza i trwa dwa dni i noce. Podczas nocy temperatura spada do -26 stopni, a kandydaci są zachęcani do budowania szałasów i rozpalania ognisk dla utrzymania ciepła. Przed szkoleniem kursanci otrzymują jednodniowe szkolenie teoretyczne i instrukcje niezbędne do przetrwania w ekstremalnych warunkach. Każdy przyszły uczestnik lotu kosmicznego bez względu na doświadczenie i liczbę odbytych dotychczasowych szkoleń survivalowych musi przejść to szkolenie. Podczas symulacji
+
+
+
+
+
+
 .. todo::
-    - Jazda na nartach crosscountry, ciągnąć 75kg nosze z plecakiem w zimną zimę
-    - Winter show shelter construction, techniques and procedures
-    - Living outdoors in arctic Alaska
-    - Proper way to defecate in snow and freezing temperature
-    - Navigation in snow mountains, being aware of avalanches.
-    - Practicing searching for bodies under snow avalanche (using beacon system); avalanche beacon; homing beacon and monitor
-    - In part of the Survival, instructors disappear and crew need to survive
-    - Russian survival training is easier. It last for 2.5day. They encourage you to have fire to have cold. Woods 8 miles outside of star city. Minus 26 degrees in night
-    - Before 1 day of instructions and theories
-    - Cosmonauts has to have training before they are flying, no matter how many times they had it before
     - Before going out, change to winter survival gear
     - Different suit for Water, ice cold water, survival
     - Construction of "lean to" shelter.
@@ -343,6 +336,15 @@ Przetrwanie w warunkach dżungli
 
 Przetrwanie w warunkach wodnych
 -------------------------------
+
+.. figure:: ../img/survival-water-soyuz-wetsuit.jpg
+    :name: figure-survival-water-soyuz-wetsuit
+    :scale: 33%
+    :align: center
+
+    Rosyjski kosmonauta podczas szkolenia ratownictwa morskiego wykonuje skok do wody z kapsuł Soyuz. Kosmonauta jest ubrany w suchy skafander pozwalający na utrzymanie ciepła w zimnej wodzie. Źródło: Roskosmos/CPK
+
+
 
 Misje CAVES
 -----------
@@ -375,6 +377,12 @@ Misje Pangea
 
 Obozy przywództwa i pracy zespołowej
 ------------------------------------
+.. todo::
+    - graduation of national outdoor leadership school, Orlando, Wyoming (hike 8 days and 8 nights)
+    - east temple peak
+    - walking up to the peak holding hands z innymi
+    - Tzw. survival training
+    - kiedy takie sytuacje mogą wystąpić?
 
 
 Symulacja pracy w środowisku mikrograwitacji
