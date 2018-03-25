@@ -311,8 +311,8 @@ Każdy kosmonauta i astronauta, który za pośrednictwem statku Soyuz jest wynos
 
 Ponadto podczas szkolenia astronauci odgrywają scenariusz pomocy osobie poszkodowanej. W tym celu jeden z astronautów pozoruje złamanie nogi a pozostali muszą udzielić pierwszej pomocy oraz przetransportować poszkodowanego do obozu a później do miejsca ewakuacji, gdzie za pomocą rac sygnalizacyjnych ściągają uwagę ekipy ratunkowej.
 
-.. figure:: ../img/survival-winter-soyuz-cloths.jpg
-    :name: figure-survival-winter-soyuz-cloths
+.. figure:: ../img/survival-winter-soyuz-flare.jpg
+    :name: figure-survival-winter-soyuz-flare
     :scale: 33%
     :align: center
 
@@ -320,22 +320,46 @@ Ponadto podczas szkolenia astronauci odgrywają scenariusz pomocy osobie poszkod
 
 Przetrwanie w warunkach pustynnych
 ----------------------------------
+Podczas nieprzewidzianych problemów na orbicie lub sytuacji awaryjnych lądownik po wejściu w atmosferę może wlecieć na teren pustynny i tam do czasu przybycia ekipy ratunkowej załoga statku kosmicznego musi również umieć przetrwać. Podczas szkoleń w ramach misji Mercury, Gemini, Apollo i dalszych astronauci byli po instruktarzu pozostawiani na terenach pustynnych. Podczas szkolenia musieli zaznajomić się w jaki sposób rozpalić ogień, jak złapać i przygotować węża oraz jak pozyskać wodę pitną w suchym środowisku.
 
+.. figure:: ../img/survival-desert-nasa.jpg
+    :name: figure-survival-desert-nasa
+    :scale: 33%
+    :align: center
 
-
-.. todo::
-    - cook and eat snake
-    - how to make a water in the desert
+    Astronauci programu Apollo podczas szkolenia przetrwania na pustyni. Źródło: NASA/JSC
 
 Przetrwanie w warunkach dżungli
 -------------------------------
+W trakcie programów Mercury, Gemini i Apollo astronauci byli transportowani do dżungli w Panamie i tam pozostawiani na kilka dni. Podczas tego okresu musieli wykorzystać umiejętności nabyte podczas wcześniejszych szkoleń, zbudować szałas oraz ochronić się przed insektami i zwierzętami. Istotnym elementem było również nawigowanie w terenie nieprzychylnym.
 
-.. _sea-survival:
+.. figure:: ../img/survival-jungle-nasa.jpg
+    :name: figure-survival-leadership-nasa
+    :scale: 75%
+    :align: center
+
+    Astronauci podczas szkolenia przetrwania w panamskiej dżungli. Źródło: NASA/JSC
+
+Obozy przywództwa i pracy zespołowej
+------------------------------------
+Obecnie program szkolenia nie przewiduje survivalu w dżungli. Podobnych umiejętności kandydaci nabywają podczas szkolenia w lesie na trzydniowym szkoleniu. Jest to jeden z pierwszych etapów szkolenia kandydackiego. Pozwala na zapoznanie członków grupy ze sobą oraz weryfikację cech kandydatów.
+
+Istnieje również wariant łączący szkolenie przetrwania oraz obóz przywództwa i pracy zespołowej, który prowadzony jest w East Temple Peak, Wyoming, USA. Podczas szkolenia, które trwa 8 dni i 8 nocy astronauci są poddawani różnym testom, które mają zbudować ducha zespołu.
+
+.. figure:: ../img/survival-leadership-nasa.jpg
+    :name: figure-survival-leadership-nasa
+    :scale: 33%
+    :align: center
+
+    Kandydaci na astronautów podczas szkolenia przetrwania w dziczy w Rangeley w stanie Maine, USA. Źródło: NASA/JSC
 
 Przetrwanie w warunkach wodnych
 -------------------------------
+Jednym z istotniejszych elementów szkolenia przetrwania jest umiejętność przeżycia po lądowaniu na morzu. Ze względu na specyfikę lądowania, rosyjskie kapsuły lądują z założenia na lądzie, amerykańskie na wodzie, nacisk poszczególnych agencji jest różny.
 
-    - Russian: Different suit for Water, ice cold water, survival
+Rosyjscy kosmonauci praktykują, krótkie jednodniowe szkolenie na jeziorze. W skład szkolenia wchodzi: skok ze śmigłowca (platformy imitującej wiszący śmigłowiec), procedury operacyjne po wodowaniu, umiejętność dobierania odpowiedniego stróju ochronnego w zalezności od temperatury powietrza oraz wody, oraz formacje ratunkowe na powierzchni. Ponadto uczestnicy kursu uczą się rozstawiania tratwy i obsługi odsalarki do produkcji wody pitnej. W trakcie pierwszych czterech dekad rosyjskiego programu kosmonautycznego szkolenie było przeprowadzane na morzu a kapsuła wraz z kosmonautami była zrzucana ze statku "Apszeron" :cite:`Hermaszewski2013`.
+
+Dla astronautów NASA szkolenie z przetrwania na morzu jest kluczowe. Ze względu na sposób lądowania kapsuły wyróżnia się lądowanie w pozycji stabilnej pierwszej lub drugiej (wyjście z kapsuły jest pod wodą). Astronauci praktykują powyższe sytuacje najpierw w basenie neutralnej pływalności a następnie na otwartym oceanie przy różnych warunkach atmosferycznych i różnym stanie morza tj. wielkość fal i siła wiatru.
 
 .. figure:: ../img/survival-water-soyuz-wetsuit.jpg
     :name: figure-survival-water-soyuz-wetsuit
@@ -344,66 +368,53 @@ Przetrwanie w warunkach wodnych
 
     Rosyjski kosmonauta podczas szkolenia ratownictwa morskiego wykonuje skok do wody z kapsuł Soyuz. Kosmonauta jest ubrany w suchy skafander pozwalający na utrzymanie ciepła w zimnej wodzie. Źródło: Roskosmos/CPK
 
+Wyprawy w ramach programu CAVES
+-------------------------------
+Misja CAVES (Cooperative Adventure for Valuing and Exercising human behaviour and performance Skills) jest tworem Europejskiej Agencji Kosmicznej i ma na celu zaznajomienie członków wyprawy z życiem w ekstremalnych warunkach tj. jaskinie. Podczas szkolenia astronauci różnych agencji biorą udział w mapowaniu korytarzy jaskini Sa Grutta na Sardinii we Włoszech. Ponadto uczą się dokumentowania i pobierania próbek skalnych oraz materiału mikrobiologicznego wraz z późniejszym jego zabezpieczaniem jak również identyfikowaniem minerałów.
 
+.. figure:: ../img/survival-caves-pool.jpg
+    :name: figure-survival-caves-pool
+    :scale: 50%
+    :align: center
 
-Misje CAVES
------------
+    Astronauci Europejskiej Agencji kosmicznej podczas misji CAVES w 2016 roku do jaskini Sa Grutta na Sardinii we Włoszech. W wyprawie wzięli udział astronauci z CNSA (Ye Guangfu), Roskosmos (Sergei Vladimirovich), JAXA (Aki Hoshide), ESA (Pedro Duque) i NASA (Ricky Arnold, Jessica Muir). Źródło: ESA/V. Crobu
+
+Wyprawy w ramach programu PANGAEA
+---------------------------------
+Wyprawy w ramach programu PANGAEA mają na cel przybliżenie astronautom umiejętności eksploracji geologicznej terenów przypominających Księżyc, asteroidy i Mars. Ponadto w trakcie programu prowadzone są wykłady z astrobiologii, geofizyki, geologii i geobiologi. U astronautów kształcona jest umiejętność obserwacyjna i decyzyjna w kwestii identyfikacji cech geologicznych. Ponadto tak jak w przypadku CAVES testowane są nowe sposoby podejmowania próbek, dokumentacji złóż i umiejętności efektywnego komunikowania elementów krajobrazu do MCC i badaczy geologicznych.
+
+Kurs został podzielony na trzy etapy:
+
+- geologia planetarna i kurs wprowadzający w Bressanone we Włoszech,
+- geologia terenowa (ang. *field*) i wulkaniczna na wyspie Lanzarote, Wyspy Kanaryjskie, Hiszpania,
+- kurs astrobiologiczny i mikrobiologiczny na uniwersytetach w Niemczech i w ośrodku EAC oraz DLR.
+
+Ponadto wykorzystywane są również obszary krateru Ries w okolicach Nördlingen, Niemcy oraz teren Bletterbach we włoskich Dolomitach.
 
 Misje NEEMO
 -----------
-.. todo::
-    - 12 dni
-    - 18h dekompresji
-    - 20 m pod wodą
-    - używanie neutralnej pływalności do testowania pojazdów,
-    - obok habitatu jest gazeebo (air pocket) na wypadek emergency
-    - toaletę można spłukać wyłącznie podczas dekompresji
-    - w resztę czasu korzystają z gazeebo
-    - rybki szczególnie z ostrzejszymi zębami gryzą ich w tyłki
-    - korzystają z napowietrzaczas by stworzyć ścianę bąbelków aby odstraszyć rybki
+Misje NASA Extreme Environment Mission Operations (NEEMO) organizowane są dla astronautów agencji ESA, NASA, CSA, Roskosmos i JAXA. Ośrodek Aquarius - podwodny habitat znajduje się 12 km na wschód od Key Largo na Florydzie w USA. Habitat jest położony 20 metrów pod wodą a misje w nim trwają zwykle 12 dni. W trakcie trwania misji astronauci przebywają w tzw. stanie nurkowania nasyconego (ang. *saturation diving*) i nie istnieje możliwość swobodnego wypłynięcia na powierzchnię oceanu bez konsekwencji poważnej choroby dekompresyjnej. Proces dekompresji trwa 18 godzin.
 
-.. todo::
-    - Pierwowzorem był SEALAB https://en.wikipedia.org/wiki/SEALAB
-    - Key West, Florida
-    - Day 1
-        - zapoznanie z wodą
-        - nurkowanie w rafie koralowej
-        - nauka nurkowania
-    - Day 2
-        - zapoznanie ze sprzętem, hełm
+W trakcie misji używane są techniki neutralnej pływalności oraz zmniejszonej pływalności aby testować pojazdy i urządzdenia przeznaczone do wykorzystywania na powierzchni innych ciał niebieskich. Przykładem takiego testu jest system Lunar Evacuation System Assembly (LESA) zaprojektowany przez Centrum Szkolenia Astronautów ESA.
 
-Misje Pangea
-------------
+.. figure:: ../img/survival-neemo-overview.jpg
+    :name: figure-survival-neemo-overview
+    :scale: 33%
+    :align: center
 
-Obozy przywództwa i pracy zespołowej
-------------------------------------
-.. todo::
-    - graduation of national outdoor leadership school, Orlando, Wyoming (hike 8 days and 8 nights)
-    - east temple peak
-    - walking up to the peak holding hands z innymi
-    - Tzw. survival training
-    - kiedy takie sytuacje mogą wystąpić?
+    Astronauta NASA na tle habitatu Aquarius . Źródło: ESA/EAC
 
+.. figure:: ../img/survival-neemo-lesa.jpg
+    :name: figure-survival-neemo-lesa
+    :scale: 33%
+    :align: center
+
+    Astronauta NASA Kjell Lindgren rozkłada Lunar Evacuation System Assembly. Źródło: ESA/EAC
 
 Symulacja pracy w środowisku mikrograwitacji
-============================================
+--------------------------------------------
+Chociaż 99% kariery astronauty jest na Ziemi to dla pozostałego 1% konieczne jest odbycie szkoleń przygotowujących do pracy w środowisku mikrograwitacji. W tym celu agencje stosują:
 
-Urządzenia symulujące obniżoną grawitację
------------------------------------------
-.. todo::
-    - liny i poruszanie się po ścianie w boki (z programu apollo)
-    - urządzenie na którym trenował Ed White poruszanie się w kosmosie
-    - MAT Multi Axial Trainer
-    - vertical threadmill (poruszanie się w górę)
-
-Test w wirówce zwiększający odporność organizmu na przeciążenia
----------------------------------------------------------------
-
-Loty paraboliczne symulujące stan nieważkości
----------------------------------------------
-.. todo:: Loty paraboliczne symulujące stan nieważkości
-    - (Zero-G Flight) - Vomit Commet
-    - Poprzenie samoloty wykorzystywane przez NASA
-    - Zero-G corp Boeing 727
-    - Samoloty wykorzystywane przez Ruskich
-    - ESA samolot
+- urządzenia symulujące obniżoną grawitację (systemy podwieszania, bieżnie pionowe, MAT),
+- treningi w wirówce przeciążeniowej zwiększający odporność organizmu na przyspieszenia,
+- loty paraboliczne symulujące stan nieważkości.
