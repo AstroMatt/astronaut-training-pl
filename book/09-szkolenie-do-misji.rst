@@ -199,9 +199,7 @@ Przygotowanie do wykorzystania systemów Międzynarodowej Stacji Kosmicznej
 *************************************************************************
 
 .. todo::
-    - OBSPV - OnBoard Station Procedure Viewing Software
     - mieszkanie w mockupie ISS, spanie, praca, symulacje
-    - Znajdywanie rzeczy na międzynarodowej stacji (inventory system) i kodowanie schowków i rzeczy
     - Jesteś przyzwyczajony do tego, że jak coś zostawiasz, to to tam zostaje, ale w mikrograwitacji wszystko gdzieś odlatuje i trzeba szukać
     - Ventilation system przyciąga
     - Plastik bag Ziplock bag z zagubionymi rzeczami, śrubki, rzeczy itp
