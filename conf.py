@@ -24,7 +24,7 @@ imgmath_image_format = 'svg'
 
 numfig = True
 numfig_format = {
-    'section': 'Rozd. %s',
+    'section': 'Rozdz. %s',
     'figure': 'Ryc. %s',
     'table': 'Tab. %s',
     'code-block': 'List. %s',

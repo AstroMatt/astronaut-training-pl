@@ -70,11 +70,6 @@ W dniu 9 kwietnia 1959, NASA przedstawiła pierwszą grupę astronautów tzw. "M
 
 Z przyczyn zdrowotnych Deke Slayton został zdyskwalifikowany z udziału w programie Mercury i uziemiony. Przez trzynaście lat od czasu pierwszego lotu Sheparda, Deke Slayton kierował *Astronauts Office* (ang. biurem astronautów i przydziału do misji), które zostało przemianowane później na *Flight Crew Operations Office* (ang. biuro operacji personelu latającego). Slayton po ostatecznym przejściu badań medycznych wziął udział w ostatnim locie programu Apollo tj. Apollo-Sojuz. W tym locie doszło do historycznego dokowania na orbicie okołoziemskiej statków Apollo i Sojuz oraz do symbolicznego uściśnięcia dłoni przedstawicieli USA i ZSRR :cite:`MercuryChronology2014`, :cite:`History-of-Project-Mercury`.
 
-.. csv-table:: Astronauci programu Mercury wraz z czasem lotu oraz znakiem wywoławczym kapsuły :cite:`Manned-Space-from-Mercury-to-the-Shuttle`
-    :name: table-mercury-astronauts
-    :file: ../data/selection-mercury.csv
-    :header-rows: 1
-
 .. figure:: ../img/selection-mercury.jpg
     :name: figure-selection-mercury
     :scale: 7%
@@ -94,11 +89,6 @@ W celu sprostania wymaganiom postawionym przez prezydenta J. F. Kennedy'ego doty
 Amerykańska agencja kosmiczna NASA podczas projektu Gemini przeprowadziła dwa nabory na astronautów (:numref:`figure-selection-gemini-1`, :numref:`figure-selection-gemini-2`).
 
 Podczas przygotowań do misji Gemini 12 amerykański astronauta Buzz Aldrin jako pierwszy wykorzystał techniki nurkowania w celu symulacji spacerów kosmicznych co zapoczątkowało rozpoczęcie badań i stworzenie ośrodków pływalności neutralnej (ang. *NBL - Neutral Buoyancy Laboratory*).
-
-.. csv-table:: Astronauci programu Gemini :cite:`Manned-Space-from-Mercury-to-the-Shuttle`
-    :name: table-selection-gemini
-    :file: ../data/selection-gemini.csv
-    :header-rows: 1
 
 .. figure:: ../img/selection-gemini-1.jpg
     :name: figure-selection-gemini-1
@@ -140,16 +130,6 @@ Krótka charakterystyka misji Apollo:
 .. csv-table:: Typy misji w ramach programu Apollo :cite:`ApolloChronology2007`
     :name: table-apollo-mission-types
     :file: ../data/apollo-mission-types.csv
-    :header-rows: 1
-
-.. csv-table:: Przydział do misji i daty lotu oraz lądowania na księżycu :cite:`Manned-Space-from-Mercury-to-the-Shuttle`, :cite:`FrenchBurgess2007`, :cite:`AldrinAbraham2009`
-    :name: table-apollo-mission-list
-    :file: ../data/apollo-mission-list.csv
-    :header-rows: 1
-
-.. csv-table:: Astronauci programu Apollo :cite:`Manned-Space-from-Mercury-to-the-Shuttle`
-    :name: table-selection-apollo
-    :file: ../data/selection-apollo.csv
     :header-rows: 1
 
 .. figure:: ../img/selection-apollo.jpg
@@ -214,11 +194,6 @@ Związek Socjalistycznych Republik Radzieckich wiódł prym w tematach kosmiczny
 Program Wostok
 --------------
 Wostok był pierwszym załogowym programem kosmonautycznym w Związku Socjalistycznych Republik Radzieckich. Punktem kulminacyjnym programu był lot 12 kwietnia 1961 roku radzieckiego majora Jurija Gagarina - pierwszego człowieka w kosmosie. W trakcie trwania programu 1961 do 1963 roku odbyło się 6 lotów załogowych a najdłuższy trwał 5 dni. Cztery ostatnie loty były wystrzeliwane parami w odstępie jednego dnia od siebie. Listę kosmonautów programu przedstawia :numref:`table-wostok-cosmonauts`.
-
-.. csv-table:: Lista kosmonautów programu Wostok wraz z wiekiem w czasie selekcji :cite:`Siddiqi2000`
-    :name: table-wostok-cosmonauts
-    :file: ../data/wostok-cosmonauts.csv
-    :header-rows: 1
 
 .. csv-table:: Lista lotów programu Wostok :cite:`Siddiqi2000`
     :name: table-wostok-flights
@@ -301,11 +276,6 @@ Głównym celem programu Interkosmos były badania naukowe w obszarach:
 - medycyny kosmicznej.
 
 W ramach programu odbywały się międzynarodowe loty załogowe, które umożliwiły kosmonautom spoza ZSRR oraz USA lot w kosmos. Kosmonautów w ramach programu Interkosmos wybierano z najlepszych pilotów w ramach państw, które ratyfikowały porozumienie. Pierwszym kosmonautą nie będącym obywatelem powyższych państw był czech Vladimír Remek, który poleciał 2 marca 1978 roku. Drugą osobą był generał Mirosław Hermaszewski (27 czerwca 1978). :numref:`table-selection-interkosmos` przedstawia listę kosmonautów programu Interkosmos.
-
-.. csv-table:: Lista kosmonautów w ramach programu Interkosmos. Źródło: Wikipedia
-    :name: table-selection-interkosmos
-    :file: ../data/selection-interkosmos.csv
-    :header-rows: 1
 
 .. figure:: ../img/map-interkosmos.png
     :name: figure-map-interkosmos

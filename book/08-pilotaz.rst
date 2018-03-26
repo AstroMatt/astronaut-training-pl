@@ -25,7 +25,7 @@ W ramach ćwiczeń trenowane są:
 - latanie w formacji,
 - zapoznanie się w wysokimi wartościami przeciążenia (ang. *g-load*),
 - szybkie podejmowanie decyzji, gdy konsekwencje mogą stanowić o życiu,
-- loty wokościowe,
+- loty wysokościowe,
 - monitorowanie paliwa i parametrów samolotu,
 - monitorowanie stanu atmosfery,
 - lądowania awaryjne,
@@ -41,24 +41,6 @@ Za czasów programu Apollo astronauci byli szkoleni również z pilotażu śmig�
 
 Pilotaż oraz wykorzystanie systemów statku kosmicznego Sojuz
 ============================================================
-.. figure:: ../img/spacecraft-soyuz-systems.png
-    :name: figure-spacecraft-soyuz-systems
-    :scale: 50%
-    :align: center
-
-    Schemat statku Sojuz. Źródło: Wikipedia
-
-.. csv-table:: Parametry techniczne statków kosmicznych Soyuz w różnych wersjach
-    :name: table-soyuz-characteristics
-    :file: ../data/soyuz-characteristics.csv
-    :header-rows: 1
-    :stub-columns: 1
-
-.. csv-table:: Systemy statku Soyuz
-    :name: table-soyuz-systems
-    :file: ../data/soyuz-systems.csv
-    :header-rows: 1
-
 Na chwilę obecną jednym z najważniejszych aspektów szkolenia astronautów przed lotem kosmicznym jest szkolenie z wykorzystywania systemów rosyjskiego statku kosmicznego Sojuz. Operacje wykonywane przez ten statek są w pełni zautomatyzowane, ale w sytuacjach awaryjnych istnieje możliwość przejścia na tzw. ręczny tryb i samodzielne przejęcie kontroli nad kapsułą. Z tego też powodu zarówno astronautów jak i kosmonautów poddaje się szkoleniu, które trwa około 790h i obejmuje aspekty:
 
 Sytuacje normalne:
@@ -83,6 +65,13 @@ Sytuacje awaryjne:
 - kolizja,
 - wejście wykorzustując profil balistyczny,
 - problemy przy lądowaniu.
+
+.. figure:: ../img/spacecraft-soyuz-systems.png
+    :name: figure-spacecraft-soyuz-systems
+    :scale: 50%
+    :align: center
+
+    Schemat statku Sojuz. Źródło: Wikipedia
 
 Podejście do ISS i manewr dokowania
 -----------------------------------

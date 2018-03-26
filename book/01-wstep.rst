@@ -84,7 +84,7 @@ Posiadanie astronautów jest prestiżem na skalę międzynarodową, a rozwój te
 Podsumowując: dzięki otworzeniu polskiego programu przygotowującego do lotów w kosmos obywateli Polski, można wymienić następujące korzyści:
 
 - aplikacja technologii wytworzonych w ramach programu HSF może stymulować ekonomię i gospodarkę,
-- rozwój infrastruktury i kadry szkoleniowej (zagospodarowanie inżynierów kosminczych kształconych w Polsce),
+- rozwój infrastruktury i kadry szkoleniowej (zagospodarowanie inżynierów kosmicznych kształconych w Polsce),
 - stworzenie kompetencji w ramach HSF,
 - współpraca z sektorem prywatnym,
 - wykorzystanie parytetu reprezentacyjnego Polski w ESA,
@@ -98,7 +98,7 @@ Niniejsza praca poprzez analizę procesu selekcji, programów szkolenia oraz inf
 
 - Polska jest w stanie stworzyć infrastrukturę szkoleniową i uczestniczyć w programie astronautycznym,
 - stworzenie programu szkolenia i jego wdrożenie pozwoli na obniżenie kosztów posiadania polskiego astronauty,
-- bogata i unikalna infrastuktura w polsce pozwala na obniżenie kosztów i optymalizację procesu szkolenia  europejskich astronautów,
+- bogata i unikalna infrastruktura w polsce pozwala na obniżenie kosztów i optymalizację procesu szkolenia  europejskich astronautów,
 - Polska zyska na stworzeniu programu oraz posiadaniu astronauty.
 
 
