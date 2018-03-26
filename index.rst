@@ -23,32 +23,32 @@ Selekcja
 --------
 .. csv-table:: Przydział do misji i daty lotu oraz lądowania na księżycu :cite:`Manned-Space-from-Mercury-to-the-Shuttle`, :cite:`FrenchBurgess2007`, :cite:`AldrinAbraham2009`
     :name: table-apollo-mission-list
-    :file: ../data/apollo-mission-list.csv
+    :file: data/apollo-mission-list.csv
     :header-rows: 1
 
 .. csv-table:: Astronauci programu Apollo :cite:`Manned-Space-from-Mercury-to-the-Shuttle`
     :name: table-selection-apollo
-    :file: ../data/selection-apollo.csv
+    :file: data/selection-apollo.csv
     :header-rows: 1
 
 .. csv-table:: Astronauci programu Mercury wraz z czasem lotu oraz znakiem wywoławczym kapsuły :cite:`Manned-Space-from-Mercury-to-the-Shuttle`
     :name: table-mercury-astronauts
-    :file: ../data/selection-mercury.csv
+    :file: data/selection-mercury.csv
     :header-rows: 1
 
 .. csv-table:: Astronauci programu Gemini :cite:`Manned-Space-from-Mercury-to-the-Shuttle`
     :name: table-selection-gemini
-    :file: ../data/selection-gemini.csv
+    :file: data/selection-gemini.csv
     :header-rows: 1
 
 .. csv-table:: Lista kosmonautów programu Wostok wraz z wiekiem w czasie selekcji :cite:`Siddiqi2000`
     :name: table-wostok-cosmonauts
-    :file: ../data/wostok-cosmonauts.csv
+    :file: data/wostok-cosmonauts.csv
     :header-rows: 1
 
 .. csv-table:: Lista kosmonautów w ramach programu Interkosmos. Źródło: Wikipedia
     :name: table-selection-interkosmos
-    :file: ../data/selection-interkosmos.csv
+    :file: data/selection-interkosmos.csv
     :header-rows: 1
 
 .. csv-table:: Lista rosyjskich kosmonautów
@@ -58,13 +58,13 @@ Selekcja
 
 .. csv-table:: Parametry techniczne statków kosmicznych Soyuz w różnych wersjach
     :name: table-soyuz-characteristics
-    :file: ../data/soyuz-characteristics.csv
+    :file: data/soyuz-characteristics.csv
     :header-rows: 1
     :stub-columns: 1
 
 .. csv-table:: Systemy statku Soyuz
     :name: table-soyuz-systems
-    :file: ../data/soyuz-systems.csv
+    :file: data/soyuz-systems.csv
     :header-rows: 1
 
 
