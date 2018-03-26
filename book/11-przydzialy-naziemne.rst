@@ -1,8 +1,8 @@
-***************************
-Praca astronautów na Ziemii
-***************************
+*******************
+Przydziały naziemne
+*******************
 
-Czas astronauty pomiędzy misjami (ang. *Ground Assignmnets*) jest wykorzystywany zarówno na treningi w celu podtrzymania umiejętności, szkolenie inncy astronautów, pomoc w opracowaniu nowych rozwiązań inżynieryjnych, stworzeniu procedur operacyjnych i choreografii EVA, testowanie nowych symulatorów oraz rozwiązań robotycznych jak również na popularyzację nauki i eksploracji kosmosu :cite:`ESAAstronautsGroundAssignments`.
+Przydziały naziemne (ang. *Ground Assignmnets*) to czas astronauty pomiędzy misjami, który jest wykorzystywany zarówno na treningi w celu podtrzymania umiejętności, szkolenie inncy astronautów, pomoc w opracowaniu nowych rozwiązań inżynieryjnych, stworzeniu procedur operacyjnych i choreografii EVA, testowanie nowych symulatorów oraz rozwiązań robotycznych jak również na popularyzację nauki i eksploracji kosmosu :cite:`ESAAstronautsGroundAssignments`.
 
 Ponadto astronauci odwiedzają różne prywatne agencje tj. SpaceX, Virgin Gallactic oraz Scaled Composits w celu zaciśnienia współpracy.
 

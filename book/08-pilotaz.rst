@@ -22,17 +22,17 @@ Szkolenie pilotażowe kosmonautów rosyjsjich i wcześniej radzieckich podobnie 
 Europejscy astronauci uzyskują licencję pilota prywatnego PPL(A) na lotnisku w Kolonii w Niemczech. Podczas ćwiczeń wykonują zadania zgodnie z programem szkolenia pilotów cywilnych.
 ​
 .. todo::
-    aerobatic flying
-    Formation flying
-    High g familiarity
-    Fast response with life and death consequences
-    Nothing is automated
-    High-altitude flying
-    Monitoring fuel, weather conditions
-    Emergency landing on
-    Survive ejection
-    PLF - parachute landing failure
-    Survive after ejection in the wilderness
+    - aerobatic flying
+    - Formation flying
+    - High g familiarity
+    - Fast response with life and death consequences
+    - Nothing is automated
+    - High-altitude flying
+    - Monitoring fuel, weather conditions
+    - Emergency landing on
+    - Survive ejection
+    - PLF - parachute landing failure
+    - Survive after ejection in the wilderness
 
 Trening pilotażu innych statków powietrznych
 ============================================

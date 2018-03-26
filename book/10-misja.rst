@@ -1,6 +1,6 @@
-**********************************************
-Misja, procedury i tradycje przed i po wylocie
-**********************************************
+*************************************************
+Misja, procedury i tradycje przed oraz po wylocie
+*************************************************
 
 
 Procedury i tradycje przed wylotem

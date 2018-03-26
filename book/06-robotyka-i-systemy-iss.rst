@@ -1,6 +1,6 @@
-************************************
-Robotyka i systemy stacji kosmicznej
-************************************
+****************************************************
+Robotyka i systemy Międzynarodowej Stacji Kosmicznej
+****************************************************
 
 Istotną częścią podstawowego szkolenia astronautów jest trening wykorzystania podstawowych urządzeń robotyki kosmicznej oraz systemów ISS. Jednakże należy zwrócić uwagę na fakt, iż planowo w 2024 Międzynarodowa Stacja Kosmiczna zostanie zdeorbitowana a wykształcenie Polskiego astronauty do tego czasu jest mało prawdopodobne. Nawet jeżeli zaistniałaby możliwość, że program ISS zostanie przedłużony, to i tak wszyskie przydziały do lotów załogowych zostaną zaplanowane z dużym wyprzedzeniem. Zważywszy na powyższy fakt w ramach porgramu polskiego astronauty proponuje się odrzucenie wszelkich tematów związanych z obsługą systemów ISS.
 

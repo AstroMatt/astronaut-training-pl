@@ -13,7 +13,7 @@
     book/08-pilotaz.rst
     book/09-szkolenie-do-misji.rst
     book/10-misja.rst
-    book/11-praca-na-ziemii.rst
+    book/11-przydzialy-naziemne.rst
     book/12-zakonczenie.rst
 
 Załączniki

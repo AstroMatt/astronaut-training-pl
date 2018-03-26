@@ -192,7 +192,6 @@ Crew Medical Officer
 Educator Mission Specialist
 ---------------------------
 
-.. _iss:
 
 *************************************************************************
 Przygotowanie do wykorzystania systemów Międzynarodowej Stacji Kosmicznej
