@@ -284,11 +284,6 @@ Poza charakterem edukacyjnym szkolenia geologiczne pełnią jeszcze rolę integr
 
 Odmiennym aczkolwiek skorelowanym szkoleniem są wyjazdy speleologiczne. Podczas eksploracji jaskiń w ramach programu CAVES (ESA) astronauci różnych narodowości brali udział w mapowaniu podziemnych korytarzy, identyfikacji i dokumentowaniu próbek skalnych i mikrobiologicznych, identyfikowaniu nowych gatunków organizmów oraz zaawansowanej wspinaczce jaskiniowej. Temat szerzej omówiony w rozdziale :ref:`Wyprawy w ramach programu CAVES`.
 
-.. csv-table:: Zestawienie wybranych lokalizacji używanych w szkoleniu geologicznym astronautów w programie Apollo
-    :name: table-apollo-geological-locations
-    :file: ../data/apollo-geological-locations.csv
-    :header-rows: 1
-
 
 Przygotowanie do pracy w ekstremalnych warunkach
 ================================================
@@ -316,7 +311,7 @@ Ponadto podczas szkolenia astronauci odgrywają scenariusz pomocy osobie poszkod
     :scale: 33%
     :align: center
 
-    Astronauci przywdziewają strój pozwalający na przetrwanie w niskich temperaturach podczas szkolenia survivalowego w zimowych warunkach w Centrum Przygotowania Kosmonautów w Gwiezdnym Miasteczki. Źródło: Roscosmos/CPK
+    Astronauci przywdziewają strój pozwalający na przetrwanie w niskich temperaturach podczas szkolenia survivalowego w zimowych warunkach w Centrum Przygotowania Kosmonautów w Gwiezdnym Miasteczku. Źródło: Roscosmos/CPK
 
 Przetrwanie w warunkach pustynnych
 ----------------------------------
@@ -390,11 +385,6 @@ Kurs został podzielony na trzy etapy:
 - kurs astrobiologiczny i mikrobiologiczny na uniwersytetach w Niemczech i w ośrodku EAC oraz DLR.
 
 Ponadto wykorzystywane są również obszary krateru Ries w okolicach Nördlingen, Niemcy oraz teren Bletterbach we włoskich Dolomitach.
-
-.. csv-table:: Członkowie wyprawy PANGAEA 2017
-    :name: table-survival-pangaea
-    :file: ../data/survival-pangaea.csv
-    :header-rows: 1
 
 Misje NEEMO
 -----------

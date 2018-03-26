@@ -101,7 +101,7 @@ Systemy wsparcia robotycznego
 
 Manipulator SSRMS Canadarm 2
 ----------------------------
-Głównym urządzeniem użytym podczas konstrukcji stacji jak również dla jej prawidłowego rozwoju był Manipulator SSRMS Canadarm 2. To ramie robotyczne o długości 15,25 m pozwala na manipulację siedmioma stawami (trzy w nadgarstku, trzy w barku i jedno w łokciu) ramienia i obrót o 540 stopni. Dzięki kontrolerowi wykorzystującemu technologię Force Feedback obsługujący go astronauta może zachować precyzję nawet podczas dokowania statku o masie 113,4 tony metrycznej. Ramię wyposażone jest w podstawowy system unikania kolizji (ang. *Basic Collision avoidance system*) oraz zaawansowany automatyczny system wizyjny (ang. *Advanced automatic vision system*)
+Głównym urządzeniem użytym podczas konstrukcji stacji jak również dla jej prawidłowego rozwoju był Manipulator SSRMS Canadarm 2. To ramię robotyczne o długości 15,25 m pozwala na manipulację siedmioma stawami (trzy w nadgarstku, trzy w barku i jedno w łokciu) ramienia i obrót o 540 stopni. Dzięki kontrolerowi wykorzystującemu technologię Force Feedback obsługujący go astronauta może zachować precyzję nawet podczas dokowania statku o masie 113,4 tony metrycznej. Ramię wyposażone jest w podstawowy system unikania kolizji (ang. *Basic Collision avoidance system*) oraz zaawansowany automatyczny system wizyjny (ang. *Advanced automatic vision system*)
 
 .. figure:: ../img/iss-robotics-controller.jpg
     :name: figure-iss-robotics-controller

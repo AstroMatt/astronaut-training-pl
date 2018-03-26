@@ -256,7 +256,7 @@ Klasy astronautów podobnie jak zespoły przydzielone do misji tworzą tzw. insy
 
 Roskosmos (Federacja Rosyjska)
 ------------------------------
-Do końca roku 2015 agencja kosmiczna Roskosmos podlegała strukturom wojskowym Federacji Rosyjskiej i wcześniej Związkowi Socjalistycznych Republik Radzieckich. Z tego powodu kandydaci na kosmonautów byli wybierani wśród oficerów sił powietrznych i pilotów wojskowych. Wraz ze zmianami organizacyjnymi z 31 grudnia 2015 Roskosmos przekształcił się w cywilną agencję zarządzaną na wzór amerykańskiej NASA :cite:`Cosmonauts-Biographical-Data`. Z tego powodu proces rekrutacji kosmonautów uległ zmianie i w najbliższych latach wśród rosyjskich kosmonautów znajdzie się więcej cywili, naukowców i inżynierów. Listę wszystkich rosyjskich i radzieckich komonautów przedstawia :numref:`table-astronauts-roscosmos`.
+Do końca roku 2015 agencja kosmiczna Roskosmos podlegała strukturom wojskowym Federacji Rosyjskiej i wcześniej Związkowi Socjalistycznych Republik Radzieckich. Z tego powodu kandydaci na kosmonautów byli wybierani wśród oficerów sił powietrznych i pilotów wojskowych. Wraz ze zmianami organizacyjnymi z 31 grudnia 2015 Roskosmos przekształcił się w cywilną agencję zarządzaną na wzór amerykańskiej NASA :cite:`Cosmonauts-Biographical-Data`. Z tego powodu proces rekrutacji kosmonautów uległ zmianie i w najbliższych latach wśród rosyjskich kosmonautów znajdzie się więcej cywili, naukowców i inżynierów. Listę wszystkich rosyjskich i radzieckich kosmonautów przedstawia :numref:`table-astronauts-roscosmos`.
 
 ESA - Europejska Agencja Kosmiczna
 ----------------------------------

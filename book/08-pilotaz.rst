@@ -41,7 +41,7 @@ Za czasów programu Apollo astronauci byli szkoleni również z pilotażu śmig�
 
 Pilotaż oraz wykorzystanie systemów statku kosmicznego Sojuz
 ============================================================
-Na chwilę obecną jednym z najważniejszych aspektów szkolenia astronautów przed lotem kosmicznym jest szkolenie z wykorzystywania systemów rosyjskiego statku kosmicznego Sojuz. Operacje wykonywane przez ten statek są w pełni zautomatyzowane, ale w sytuacjach awaryjnych istnieje możliwość przejścia na tzw. ręczny tryb i samodzielne przejęcie kontroli nad kapsułą. Z tego też powodu zarówno astronautów jak i kosmonautów poddaje się szkoleniu, które trwa około 790h i obejmuje aspekty:
+Na chwilę obecną jednym z najważniejszych aspektów szkolenia astronautów przed lotem kosmicznym jest szkolenie z wykorzystywania systemów rosyjskiego statku kosmicznego Sojuz. Operacje wykonywane przez ten statek są w pełni zautomatyzowane, ale w sytuacjach awaryjnych istnieje możliwość przejścia na tzw. ręczny tryb i samodzielne przejęcie kontroli nad kapsułą. Z tego też powodu zarówno astronautów jak i kosmonautów poddaje się szkoleniu, które trwa około 790 godzin i obejmuje aspekty:
 
 Sytuacje normalne:
 
@@ -63,7 +63,7 @@ Sytuacje awaryjne:
 - problemy na orbicie,
 - przejście na manualne sterowanie,
 - kolizja,
-- wejście wykorzustując profil balistyczny,
+- wejście wykorzystując profil balistyczny,
 - problemy przy lądowaniu.
 
 .. figure:: ../img/spacecraft-soyuz-systems.png
@@ -75,7 +75,7 @@ Sytuacje awaryjne:
 
 Podejście do ISS i manewr dokowania
 -----------------------------------
-Statek Sojuz wyposażony jest w system *KURS*, który pozwala na automatyczne naprowadzenie oraz dokownie kapsuły do Międzynarowej Stacji Kosmicznej. System ten był opracowany dla kapsuł dokujących do stacji Salut :cite:`Siddiqi2000` oraz dla stacji MIR. Obecnie system jest wypierany przez nowszy i dokładniejszy system, którego podzespoły w kapsule są znaczenie lżejsze.
+Statek Sojuz wyposażony jest w system *KURS*, który pozwala na automatyczne naprowadzanie oraz dokownie kapsuły do Międzynarodowej Stacji Kosmicznej. System ten był opracowany dla kapsuł dokujących do stacji Salut :cite:`Siddiqi2000` oraz dla stacji MIR. Obecnie system jest wypierany przez nowszy i dokładniejszy system, którego podzespoły w kapsule są znacznie lżejsze.
 
 Wejście w atmosferę
 -------------------
@@ -83,16 +83,16 @@ Ze względu na przesunięty środek ciężkości kapsuły Sojuz istnieje możliw
 
 Lądowanie
 ---------
-Kapsuła Souyz używa tzw. *systemu miękkiego lądowania*. System ten składa się z niewielkich silniczków rakietowych z wektorem ciągu przeciwnie skierowanym do lotu kapsuły. System ten jest aktywowany na dwa metry :cite:`Hadfield2013` przed uderzeniem w ziemię pozwalając na zminimalizowanie w znacznym stopniu siły uderzenia o grunt. Jego użycie powoduje charakterystyczny płomień oraz dym przy uderzaniu w ziemię co mylnie kojarzone jest z sytuacją niebezpieczną. Aktywacja tego systemu oraz *miękkie lądowanie* zostało uwiecznione na taśmach video :cite:`Soyuz-undocking-reentry-landing`.
+Kapsuła Soujz używa tzw. *systemu miękkiego lądowania*. System ten składa się z niewielkich silniczków rakietowych z wektorem ciągu przeciwnie skierowanym do lotu kapsuły. System ten jest aktywowany na dwa metry :cite:`Hadfield2013` przed uderzeniem w ziemię pozwalając na zminimalizowanie w znacznym stopniu siły uderzenia o grunt. Jego użycie powoduje charakterystyczny płomień i dym przy uderzeniu w ziemię co mylnie kojarzone jest z sytuacją niebezpieczną. Aktywacja tego systemu oraz *miękkie lądowanie* zostało uwiecznione na taśmach wideo :cite:`Soyuz-undocking-reentry-landing`.
 
 
 Sytuacje awaryjne statku kosmicznego
 ====================================
-Loty kosmiczne są obarczone wysokim stopniem ryzyka. Większość z godzin przeprowadzonych w symulatorze statku kosmicznego Sojuz ma za zadanie przygotować załogę na umiejętność reakcji w tych krytycznych sytuacjach. Do najbardziej prawdopodobnych i najgroźniejszych sytucji należy: rozszczelnienie o raz pożar.
+Loty kosmiczne są obarczone wysokim stopniem ryzyka. Większość z godzin przeprowadzonych w symulatorze statku kosmicznego Sojuz ma za zadanie przygotować załogę na umiejętność reakcji w tych krytycznych sytuacjach. Do najbardziej prawdopodobnych i najgroźniejszych sytuacji należy: rozszczelnienie oraz pożar.
 
 Rozszczelnienie
 ---------------
-Do rozszczelnienia kapsuły może dość na skutek kolizji z mikrometeorytem, który niszcząc poszycie pozostawia otwór, z którego uchodzi powietrze. W zależności od wielkości uszkodzenia są różne procedury. Jedną z najważniejszych rzeczy należących do załogi jest uszczelnienie skafandra IVA Orlan oraz odkręcenie dopływu powietrza. Do czasu misji Souyz 11 podczas, której przy wejściu w atmosferę doszło do rozszczelnienia kapsuły i ujścia powietrza co skutkowało śmiercią załogi, kosmonauci nosili strojów wewnątrz kapsuły :cite:`Soyuz11`. Od czasu tego incydentu zarówno podczas startu, dokowania, odejścia, i wejścia w atmosferę astronauci muszą znajdować się w stroju IVA :cite:`Sokol`.
+Do rozszczelnienia kapsuły może dojść na skutek kolizji z mikrometeorytem, który niszcząc poszycie pozostawia otwór, z którego uchodzi powietrze. W zależności od wielkości uszkodzenia są różne procedury. Jedną z najważniejszych rzeczy należących do załogi jest uszczelnienie skafandra IVA Orlan oraz odkręcenie dopływu powietrza. Do czasu misji Sojuz-11 podczas, której przy wejściu w atmosferę doszło do rozszczelnienia kapsuły i ujścia powietrza co skutkowało śmiercią załogi, kosmonauci nosili strojów wewnątrz kapsuły :cite:`Soyuz11`. Od czasu tego incydentu zarówno podczas startu, dokowania, odejścia, i wejścia w atmosferę astronauci muszą znajdować się w stroju IVA :cite:`Sokol`.
 
 Podobny incydent zdarzył się podczas lotu Apollo-Sojuz gdy do amerykańskiej kapsuły Apollo podczas wejścia w atmosferę zaczął wdzierać się toksyczny gaz Tetratlenek diazotu :math:`N_2O_4` :cite:`Kranz2001`, :cite:`Manned-Space-from-Mercury-to-the-Shuttle`. Tylko dzięki szybkiej reakcji astronautów udało się uniknąć ich śmierci.
 
@@ -108,7 +108,7 @@ W środowisku mikrograwitacji nie występuje wymuszona konwekcja ciepła i ruchu
 
 Wyłączenie urządzeń elektrycznych ma na celu wyeliminowanie źródeł powstania ognia. W przerwy w zasilaniu ogień powinien sam zgasnąć. Po odczekaniu określonego czasu następuje ponowne włączenie urządzeń pokładowych.
 
-Najbardziej drastycznym sposobem na wyeliminowanie pożaru jest rozszczelnienie statku kosmicznego (ang. depressuzization). Wraz z pozbawieniem atmosfery tlenu ogień zgaśnie. Jest to najbardziej niebezpieczny sposób gaszenia i to rozwiązanie pozostaje do użycia tylko w ostateczności. Przed procesem rozszczelnienia kapsuły astronauci muszą sprawdzić szczelność swoich skafandrów aby upewnić się czy sami nie będą narażeni na niebezpieczeństwo wystawienia na działanie próżni. Przy wykorzystaniu tego sposobu misja jest przerywana i kapsuła musi skierować się do awaryjnego wejścia w atmosferę w ciągu 125 minut. Czas ten odpowiada 1.5 okrążeniu Ziemi i powinien być wystarczający aby powrócić do jednego z wyznaczonych uprzednio miejsc awaryjnego lądowania. Podczas tego czasu temperatura ciała astronautów powoli zacznie wzrastać ze względu na tempo pompowania powietrza do skafandra - 22 litry na minutę. Tempo to jest wystarczające aby pozwolić astronautom bezpiecznie oddychać, ale nie pozwala na chłodzenie ciała. Z tego względu czas 125 minut jest krytyczny aby zapobiec śmierci astronautów ze względu na przegrzanie organizmu.
+Najbardziej drastycznym sposobem na wyeliminowanie pożaru jest rozszczelnienie statku kosmicznego (ang. *depressurization*). Wraz z pozbawieniem atmosfery tlenu ogień zgaśnie. Jest to najbardziej niebezpieczny sposób gaszenia i to rozwiązanie pozostaje do użycia tylko w ostateczności. Przed procesem rozszczelnienia kapsuły astronauci muszą sprawdzić szczelność swoich skafandrów aby upewnić się czy sami nie będą narażeni na niebezpieczeństwo wystawienia na działanie próżni. Przy wykorzystaniu tego sposobu misja jest przerywana i kapsuła musi skierować się do awaryjnego wejścia w atmosferę w ciągu 125 minut. Czas ten odpowiada 1.5 okrążeniu Ziemi i powinien być wystarczający aby powrócić do jednego z wyznaczonych uprzednio miejsc awaryjnego lądowania. Podczas tego czasu temperatura ciała astronautów powoli zacznie wzrastać ze względu na tempo pompowania powietrza do skafandra - 22 litry na minutę. Tempo to jest wystarczające aby pozwolić astronautom bezpiecznie oddychać, ale nie pozwala na chłodzenie ciała. Z tego względu czas 125 minut jest krytyczny aby zapobiec śmierci astronautów ze względu na przegrzanie organizmu.
 
 
 System przerwania startu (Launch Escape System)
@@ -123,7 +123,7 @@ System ewakuacji załogi podczas startu może być aktywowany:
 - ręcznie przez kontrolerów lotu na polecenie kierownika lotu (ang. Flight Director),
 - ręcznie przez dowódcę załogi.
 
-Astronauci są szkoleni z wykorzystywania systemu lecz nie zdazył się przypadek gdy system ten zadziałał z tego powodu. Podczas misji Apollo 12 po starcie rakiety piorun trafił w strukturę pojazdu i dowódca Charles "Pete" Conrad był bliski aktywowania systemu. Piorun trafiał w rakietę dwukrotnie, ale w żadnym z tych wydarzeń system nie został aktywowany i misja przebiegła bez incydentów :cite:`Kranz2001`.
+Astronauci są szkoleni z wykorzystywania systemu lecz nie zdarzył się przypadek gdy system ten zadziałał z tego powodu. Podczas misji Apollo 12 po starcie rakiety piorun trafił w strukturę pojazdu i dowódca Charles "Pete" Conrad był bliski aktywowania systemu. Piorun trafił w rakietę dwukrotnie, ale w żadnym z tych wydarzeń system nie został aktywowany i misja przebiegła bez incydentów :cite:`Kranz2001`.
 
 System ten został użyty podczas misji Sojuz T-10-1 (26 września 1983) i pozwolił załodze na bezpieczne oddalenie się od rakiety, która wybuchła na platformie startowej. Astronauci podczas tego wydarzenia byli poddani przeciążeniu chwilowemu równemu 14G do 17G (137 do 167 :math:`\frac{m}{s^2}`).
 
