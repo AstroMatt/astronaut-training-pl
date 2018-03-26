@@ -281,7 +281,7 @@ Stacje wyposażone były w port dokowania, dzięki któremu zarówno załogowe j
     :file: ../data/salyut-timeline.csv
     :header-rows: 1
 
-.. figure:: ../img/spacestation-salyut-6.svg
+.. figure:: ../img/spacestation-salyut-6.png
     :name: figure-spacestation-salyut-6
     :scale: 100%
     :align: center
@@ -335,7 +335,7 @@ Stacja kosmiczna Mir (ros. pokój) była bezpośrednim kontynuatorem programu Sa
 
 Jej konstrukcja rozpoczęła się od przeniesienia zasobów dostarczonych przez Progress-25 i Progress-26. Zadanie wykonała załoga Sojuz T-15 (Leonid Kizim i Władimir Sołowjow). Podczas 50 dniowego pobytu załoga również odwiedziła stację Salut-7 w celu przewiezienia części wyposażenia na Mir. Na chwilę obecną jest to jedyny przypadek w historii aby astronauci w trakcie jednego lotu odwiedzili dwie stacje.
 
-.. figure:: ../img/spacestation-mir.svg
+.. figure:: ../img/spacestation-mir.png
     :name: figure-spacestation-mir
     :scale: 50%
     :align: center
@@ -347,7 +347,7 @@ Międzynarodowa Stacja Kosmiczna
 ===============================
 Program międzynarodowej stacji rozpoczął się od połączenia konceptów projektów Freedom (ang. wolność) oraz Mir-2 (DOS-8). Następnie przekształcił się w pierwszą międzynarodową stację badawczą o nazwie International Space Station. Program jest tworzony wspólnie przez pięć największych agencji kosmicznych: NASA, Roskosmos, JAXA, ESA, i CSA. Budowa rozpoczęła się od umieszczenia rosyjskich modułów w 1998 roku. Pierwsza załoga przyleciała 2 listopada 2000 roku. Od tego czasu stacja jest stale zamieszkiwana przez załogi 3 lub 6 osobowe w ramach tzw. ekspedycji. Temat ISS szczegółowo przedstawiono w części dotyczącej :ref:`przygotowania załóg do lotów na jej pokład <Robotyka i systemy Międzynarodowej Stacji Kosmicznej>`.
 
-.. figure:: ../img/spacestation-iss.svg
+.. figure:: ../img/spacestation-iss.png
     :name: figure-spacestation-iss
     :scale: 66%
     :align: center

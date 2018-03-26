@@ -48,7 +48,7 @@ Od czasów przygotowania do lotu w ramach misji Gemini 12, gdy amerykański astr
     :file: ../data/infrastructure-neutral-buoyancy-pools.csv
     :header-rows: 1
 
-.. figure:: ../img/infrastructure-neutral-buoyancy-comparision.svg
+.. figure:: ../img/infrastructure-neutral-buoyancy-comparision.png
     :name: figure-infrastructure-neutral-buoyancy-comparision
     :scale: 125%
     :align: center
