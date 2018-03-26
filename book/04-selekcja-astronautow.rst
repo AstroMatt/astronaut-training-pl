@@ -341,4 +341,6 @@ Wybrane agencje kosmiczne w podobny sposób dokonują rekrutacji. Wymagania, kt�
 
 We wszytkich analizowanych programach kandydat poddawany jest testom umiejętności działania pod presją, odporności na stres, badaniu kondycji fizycznej i wydolności organizmu, stabilności psychicznej, umiejętności kojarzenia i przewidywania jak również wytrzymałości na przeciążenia i aktywności psychomotorycznej.
 
+W kwestii wymagań formalnych sugeruje się kompatybilność z programem ESA, który wysoko ceni najlepszych specjalistów. Dzięki temu osoby biorące udział w polskim programie astronautycznym będą w stanie ubiegać się również o kandydowanie w przyszłych rekrutacjach ESA. Pozwoli to również na interoperacyjność kandydatów.
+
 Polska posiada dojrzały proces selekcji kandydatów na pilotów wojskowych, który jest wykorzystywany przez WSOSP od wielu lat. W ramach programu polskiego astronauty proponuje się skorzystanie z obecnej infrastruktury oraz opracowanie metod rozszerzających badania psychologiczne o wyżej wymienione elementy.

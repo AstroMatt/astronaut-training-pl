@@ -405,6 +405,7 @@ Polska obecnie posiada część infrastruktury wykorzystywanej podczas szkolenia
 - infrastruktura gimnastyczno-szkoleniowa Wyższej Szkoły Oficerskiej Sił Powietrznych (WSOSP),
 - symulator METS w Ośrodku Szkolenia Nurków i Płetwonurków Wojska Polskiego w Gdyni,
 - komora niskich ciśnień w Gdyni oraz na WIML,
+- komora termalna na WIML w Warszawie,
 - program szkolenia survivalowego oraz SERE (kadra byłych żołnierzy sił specjalnych),
 - lotnisko oraz program szkolenia lotniczego zgodnego z FAA i EASA,
 - głębokie baseny pozwalające na stworzenie ośrodka neutralnej pływalności,
@@ -415,3 +416,5 @@ Polska obecnie posiada część infrastruktury wykorzystywanej podczas szkolenia
 - symulatory rzeczywistości wirtualnej (wraz z oprogramowaniem wnętrza ISS).
 
 Powyższa infrastruktura pozwala na odtworzenie części szkolenia w Polsce. Brakującym elementem jest plan szkolenia łączący ośrodku w charakterze wspólnego konsorcium udostępniającego wyposażenie oraz lokalizację w ramach programu astronautycznego.
+
+W Polsce nie istnieje statek powietrzny zdolny do prowadzenia szkolenia w środowisku mikrograwitacji, ale zgodnie z trendem NASA oraz ESA administrator programu może wynająć usługi takiego lotu, który jest dostępny komercyjnie. Przy odpowiednim zaplanowaniu lotu, przygotowaniu badań naukowych oraz kadry koszt jest w stanie być akceptowalny.
