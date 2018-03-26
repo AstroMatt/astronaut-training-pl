@@ -60,30 +60,30 @@ Infrastruktura
 --------------
 .. csv-table:: Lista ośrodków szkoleniowych astronautów.
     :name: table-infrastructure-training-centers
-    :file: ../data/infrastructure-training-centers.csv
+    :file: data/infrastructure-training-centers.csv
     :header-rows: 1
     :widths: 10, 20, 40, 10, 10, 10
 
 .. csv-table:: Lista wirówek przeciążeniowych używanych do przygotowania astronautów w załogowych lotach
     :name: table-infrastructure-centrifuge-human
-    :file: ../data/infrastructure-centrifuge-human.csv
+    :file: data/infrastructure-centrifuge-human.csv
     :header-rows: 1
 
 .. csv-table:: Zestawienie samolotów używanych do lotów parabolicznych
     :name: table-infrastructure-parabollic
-    :file: ../data/infrastructure-parabollic.csv
+    :file: data/infrastructure-parabollic.csv
     :header-rows: 1
 
 .. csv-table:: Lista basenów neutralnej pływalności
     :name: table-infrastructure-neutral-buoyancy-pools
-    :file: ../data/infrastructure-neutral-buoyancy-pools.csv
+    :file: data/infrastructure-neutral-buoyancy-pools.csv
     :header-rows: 1
 
 Selekcja
 --------
 .. csv-table:: Dotychczasowe selekcje astronautów NASA :cite:`Active-NASA-Astronauts`, :cite:`Inactive-NASA-Astronauts`
     :name: table-selection-nasa
-    :file: ../data/selection-nasa.csv
+    :file: data/selection-nasa.csv
     :header-rows: 1
     :widths: 10, 10, 30, 50
 
