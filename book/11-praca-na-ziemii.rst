@@ -2,41 +2,11 @@
 Praca astronautów na Ziemii
 ***************************
 
-.. todo::
-    Praca na ziemii nazywa się Ground Assignment
-    - http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/ongoing-training.asp
-    - The astronaut's responsibilities on Earth include:
+Czas astronauty pomiędzy misjami (ang. *Ground Assignmnets*) jest wykorzystywany zarówno na treningi w celu podtrzymania umiejętności, szkolenie inncy astronautów, pomoc w opracowaniu nowych rozwiązań inżynieryjnych, stworzeniu procedur operacyjnych i choreografii EVA, testowanie nowych symulatorów oraz rozwiązań robotycznych jak również na popularyzację nauki i eksploracji kosmosu :cite:`ESAAstronautsGroundAssignments`.
 
-        - acting as capcoms
-        - testing robotic procedures
-        - developing spacewalk choreography,
-        - training other astronauts
-        - educating Canadians about space and motivating young people to study science and technology
-        - conducting any other tasks required by the CSA or NASA
+Ponadto astronauci odwiedzają różne prywatne agencje tj. SpaceX, Virgin Gallactic oraz Scaled Composits w celu zaciśnienia współpracy.
 
-    - Participating in research and development activities
-    - Jeremy Hansen in a helicopter, The National Research Council's (NRC's) Bell 205 helicopter turned moon lander. (Credit: CSA)
-    - Some astronauts help advance space technologies. For example, Jeremy Hansen underwent intensive helicopter flight training at the Flight Research Laboratory of the NRC of Canada. A former CF-18 pilot with the Royal Canadian Air Force, he was asked to test NRC technologies by simulating a lunar landing! These flights enabled Jeremy to evaluate the feasibility of using a Bell 205 helicopter as planetary lander simulator. The technology could potentially be commercialized and shared with the private industry and other space agencies.
-    - Learning to survive in extreme conditions, Canadian astronaut Bob Thirsk, Robert Thirsk (left), in front of a Soyuz descent module, during a winter survival exercise in Russia. (Credit: Roskosmos), At the end of a mission in orbit, astronauts return to Earth aboard a Soyuz capsule to a designated location in the steppes of Kazakhstan. Ground crews generally manage to extract the crew members within a few minutes of their landing. However, in the event of a problem or a deviation from the intended trajectory, the astronauts must be prepared to survive in remote or hostile environments (e.g. at sea, in a forest or in a desert), in summer or in winter. In such cases, it might take the ground crew hours or even days to reach them!
-    - This type of training also helps the astronauts build their:
-
-        - sense of team spirit
-        - decision-making ability
-        - leadership skills
-        - Finally, once an astronaut receives an assignment to a space mission, he or she may begin mission-specific training.
-
-    - Odwiedzają różne agencje
-
-        - SpaceX
-        - Virgin Gallactic
-        - Scaled Composits
-
-    - http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/ongoing-training.asp
-    - http://www.asc-csa.gc.ca/eng/astronauts/about-the-job/default.asp
-    - http://www.esa.int/Our_Activities/Human_Spaceflight/Astronauts/European_astronauts_in_new_functions
-
-Czas astronauty na Ziemi jest wykorzystywany zarówno na treningi i przygotowania oraz na popularyzację nauki i eksploracji kosmos.
-
+Biorą również udział w badaniach naukowych oraz opracowaniu technologii dla przyszłych misji. Przykładem tego ostatniego może być kanadyjski astronauta Jeremy Hansen, który będąc z zawodu pilotem samolotu CF-18 przeszedł kolejne intensywne szkolenie lotnicze w Flight Research Laboratory, NRC, Kanada. Gdzie nauczył się pilotować zmodyfikowaną werję śmigłowca Bell 205 przekształconą w symulator lądownika Księżycowego. Rozwój tego rozwiązania pozwoli na wykorzystwanie maszyny w szkoleniu przyszłych astronautów, których zadaniem będzie powrót na Księżyc czy lądowanie na Marsie :cite:`CSAAstronautsFAQ`.
 
 Testowanie sprzętu
 ==================
@@ -94,22 +64,6 @@ Popularyzacja nauki i obszaru S.T.E.M.
 ======================================
 Astronauci są rozpoznawanymi osobami publicznymi, które najsilniej reprezentują agencje kosmiczne i z tego powodu stają się ich ambasadorami. Jednym z najważniejszych i zajmujących najwięcej czasu zadań astronautów podcas pobutu na Ziemii jest popularyzacja nauki w ramach obszaru S.T.E.M. (Science, Technology, Engineering, Mathematics - ang. Nauka, Technologia, Inżynieria, Matematyka). Członkowie misji przemawiają publicznie na konferencjach, podczas pikników technologicznych oraz w szkołach zwiększając świadomość wykorzystywania rzeczy opracowanych dla przemysłu kosmicznego, które znalazły zastosowanie na codzień. Ponadto do ich zadań należy również uzasadnianie wysokich wydatków agencji kosmicznych na projekty badania i rozwoju.
 
-
-Czynności astronautów programu Mercury, Gemini, Apollo i Apollo Applications
-============================================================================
-.. todo::
-    - 5 przypisanych do Lunar Module
-    - być kiedy były budowane, spędził śpiąc na podłodze LM nr 6 więcej czasu niż załoga, która nim leciała
-    - support crew of Apollo 8
-    - support assignment of Apollo 12
-    - miał być w prime crew Apollo 19 (ale odwołali)
-    - miał zostać commander Skylab 3
-    - Astronaut: Jim Carr
-        - 1 full year (1.5 roku)
-        - astronomy
-        - astrophysics
-        - flight physiology
-        - orbital trajectories (orbital management)
 
 Coroczna ewaluacja kondycyjna
 =============================
