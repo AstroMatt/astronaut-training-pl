@@ -343,7 +343,7 @@ Istnieje również wariant łączący szkolenie przetrwania oraz obóz przywódz
 
 .. figure:: ../img/survival-leadership-nasa.jpg
     :name: figure-survival-leadership-nasa
-    :scale: 33%
+    :scale: 25%
     :align: center
 
     Kandydaci na astronautów podczas szkolenia przetrwania w dziczy w Rangeley w stanie Maine, USA. Źródło: NASA/JSC
@@ -358,7 +358,7 @@ Dla astronautów NASA szkolenie z przetrwania na morzu jest kluczowe. Ze względ
 
 .. figure:: ../img/survival-water-soyuz-wetsuit.jpg
     :name: figure-survival-water-soyuz-wetsuit
-    :scale: 33%
+    :scale: 50%
     :align: center
 
     Rosyjski kosmonauta podczas szkolenia ratownictwa morskiego wykonuje skok do wody z kapsuł Soyuz. Kosmonauta jest ubrany w suchy skafander pozwalający na utrzymanie ciepła w zimnej wodzie. Źródło: Roskosmos/CPK
@@ -369,7 +369,7 @@ Misja CAVES (Cooperative Adventure for Valuing and Exercising human behaviour an
 
 .. figure:: ../img/survival-caves-pool.jpg
     :name: figure-survival-caves-pool
-    :scale: 50%
+    :scale: 33%
     :align: center
 
     Astronauci Europejskiej Agencji kosmicznej podczas misji CAVES w 2016 roku do jaskini Sa Grutta na Sardynii we Włoszech. W wyprawie wzięli udział astronauci z CNSA (Ye Guangfu), Roskosmos (Sergei Vladimirovich), JAXA (Aki Hoshide), ESA (Pedro Duque) i NASA (Ricky Arnold, Jessica Muir). Źródło: ESA/V. Crobu
@@ -394,14 +394,14 @@ W trakcie misji używane są techniki neutralnej pływalności oraz zmniejszonej
 
 .. figure:: ../img/survival-neemo-overview.jpg
     :name: figure-survival-neemo-overview
-    :scale: 33%
+    :scale: 25%
     :align: center
 
     Astronauta NASA na tle habitatu Aquarius . Źródło: ESA/EAC
 
 .. figure:: ../img/survival-neemo-lesa.jpg
     :name: figure-survival-neemo-lesa
-    :scale: 33%
+    :scale: 50%
     :align: center
 
     Astronauta NASA Kjell Lindgren rozkłada Lunar Evacuation System Assembly. Źródło: ESA/EAC

@@ -27,7 +27,7 @@ System ECLSS jest podstawowym systemem każdego statku kosmicznego i stacji.
 
 .. figure:: ../img/spacestation-iss-eclss.png
     :name: spacestation-iss-eclss
-    :scale: 33%
+    :scale: 50%
     :align: center
 
     System Systemy kontroli środowiskowej i podtrzymania życia na ISS. Źródło: Wikipedia
