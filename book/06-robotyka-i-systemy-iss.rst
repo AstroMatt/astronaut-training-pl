@@ -26,3 +26,12 @@ Sterowanie robotami na Ziemi z orbity
 
 Urządzenia wirtualnej rzeczywistości
 ======================================
+
+
+Analiza szkolenia robotycznego i systemów ISS w kontekście celu pracy
+=====================================================================
+Ze względu na brak trenażerów systemów ISS, jego wewnętrznej i zewnętrznej części jak również na chwilę obecną brak basenu nadającego się do prowadzenia szkolenia z EVA niemożliwe jest odtworzenie tych elementów szkolenia. Jednakże należy zwrócić uwagę na fakt, iż planowo w 2024 Międzynarodowa Stacja Kosmiczna zostanie zdeorbitowana a wykształcenie kandydata do tego czasu jest niemożliwe. Jeżeli zaistniałaby możliwość, że program ISS zostanie przedłużony, to i tak wszyskie przydziały do lotów załogowych zostaną zaplanowane z dużym wyprzedzeniem. Zważywszy na powyższy fakt w ramach porgramu polskiego astronauty proponuje się odrzucenie wszelkich tematów  związanych z obsługą systemów ISS.
+
+Szkolenie z wykorzystywania i utrzymywania ISS jest jednym z najbardziej czasochłonnych oraz zasobochłonnych aspektów szkolenia astronautów. Proponowane rozwiązanie wykluczenia powyższych elementów ze szkolenia pozwoli nie tylko na optymalizację kosztów, jak również zwiększy możliwość procentowego udziału w szkoleniu w Polsce.
+
+Obecnie planowane są misje na Księżyc, Mars oraz asteroidy i inne ciała o niewielkim przyciąganiu grawitacyjnym. Autor pracy sugeruje aby wykorzystać nowatorskie badania i unikalną infrastrukturę aby rozwinąć program szkolenia przygotowujący do lotów na inne ciała niebieskie. Dzięki habitatowi Lunares Polska nie tylko jest w stanie szkolić astronautów, ale również wieść prym w nowej klasie treningów.

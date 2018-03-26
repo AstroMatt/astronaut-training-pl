@@ -429,12 +429,6 @@ Analiza szkolenia podstawowego w kontekście celu pracy
 ======================================================
 Za wyjątkiem lotów parabolicznych omówionych już wcześniej część szkolenia można przeprowadzić w Polsce. W programie szkolenia podstawowego dla kandydatów na astronautów najważniejsza jest wiedza teoretyczna oraz przygotowanie praktyczne.
 
-Ze względu na brak trenażerów systemów ISS, jego wewnętrznej i zewnętrznej części jak również na chwilę obecną brak basenu nadającego się do prowadzenia szkolenia z EVA niemożliwe jest odtworzenie tych elementów szkolenia. Jednakże należy zwrócić uwagę na fakt, iż planowo w 2024 Międzynarodowa Stacja Kosmiczna zostanie zdeorbitowana a wykształcenie kandydata do tego czasu jest niemożliwe. Jeżeli zaistniałaby możliwość, że program ISS zostanie przedłużony, to i tak wszyskie przydziały do lotów załogowych zostaną zaplanowane z dużym wyprzedzeniem. Zważywszy na powyższy fakt w ramach porgramu polskiego astronauty proponuje się odrzucenie wszelkich tematów  związanych z obsługą systemów ISS.
-
-Szkolenie z wykorzystywania i utrzymywania ISS jest jednym z najbardziej czasochłonnych oraz zasobochłonnych aspektów szkolenia astronautów. Proponowane rozwiązanie wykluczenia powyższych elementów ze szkolenia pozwoli nie tylko na optymalizację kosztów, jak również zwiększy możliwość procentowego udziału w szkoleniu w Polsce.
-
-Obecnie planowane są misje na Księżyc, Mars oraz asteroidy i inne ciała o niewielkim przyciąganiu grawitacyjnym. Autor pracy sugeruje aby wykorzystać nowatorskie badania i unikalną infrastrukturę aby rozwinąć program szkolenia przygotowujący do lotów na inne ciała niebieskie. Dzięki habitatowi Lunares Polska nie tylko jest w stanie szkolić astronautów, ale również wieść prym w nowej klasie treningów.
-
 Posiadana infrastuktura akademicja pozwala na realizację teoretycznych przedmiotów z większości tematów poruszanych podczas dotychczasowych procesów szkolenia astronautów, tj.
 
 - orientacja w strukturach organizacyjnych i w działalności agencji kosmicznych,
@@ -462,3 +456,5 @@ W ramach przeprowadzonych analiz i poszukiwania źródeł w Polsce nie ma dobrze
 - inżynieria kosmiczna oraz systemy statków kosmicznych.
 
 Autorowi pracy udało się dotrzeć do osób (Polaków) przebywających za granicą posiadających wyżej wymienione kompetencje, którzy mogliby stanowić zalążek kadry naukowej.
+
+Niestety ze względu na położenie geograficzne niemożliwe jest przeprowadzenie zaawansowanych szkoleń przetrwania w warunkach pustynnych, dżungli oraz stworzenie analogicznych programów jak CAVES, PANGAEA czy NEEMO. Obecnie jednak agencje kosmiczne odeszły od szkoleń pustynnych oraz w terenach równikowych. Całkowicie do zagospodarowania pozostaje temat wypraw geologicznych, geofizycznych oraz spaleologicznych. Ze względu na niewielkie zróżnicowanie terenu oraz brak analogicznych terenów do eksploracji geologicznej i astrobiologicznej proponuje się rozwiązanie aby pierwsza połowa szkolenia prowadzona była w kraju a reszta przy współpracy międzynarodowej w obszarach o dużej różnorodności wraz z ukształtowaniem terenu pozwalającym na prowadzenie symulacji księżycowych i marsjańskich. Takie ułożenie programu pozwoli na optymalizację kosztów jak również na wysoki poziom kształcenia kandydatów.
