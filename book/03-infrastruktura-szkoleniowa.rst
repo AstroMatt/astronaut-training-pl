@@ -361,7 +361,7 @@ Długotrwały pobyt w przestrzeni kosmicznej przy niezmiennym towarzystwie wpły
 
 Personal Rescue Enclosure
 -------------------------
-Personal Rescue Enclosure zostały stworzone na potrzeby prototypowego systemu ratownictwa załóg promów Space Shuttle. Mają kształt przypominający piłkę plażową o 86 cm średnicy i 0,33 :math:`m^3` objętości i są skonstruowane z materiału na bazie Kevlaru :cite:`Shayler2009`. Obecnie wykorzystywane są podczas selekcji astronautów w celu weryfikacji braku klaustrofobii, ciemności, percepcji czasu oraz izolacji.
+Personal Rescue Enclosure zostały stworzone na potrzeby prototypowego systemu ratownictwa załóg promów Space Shuttle. Mają kształt przypominający piłkę plażową o 86 cm średnicy i 0,33 metrów sześciennych objętości i są skonstruowane z materiału na bazie Kevlaru :cite:`Shayler2009`. Obecnie wykorzystywane są podczas selekcji astronautów w celu weryfikacji braku klaustrofobii, ciemności, percepcji czasu oraz izolacji.
 
 Badania izolacyjne w ośrodkach medycznych
 -----------------------------------------
