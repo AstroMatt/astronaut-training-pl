@@ -339,7 +339,7 @@ Analiza selekcji astronautów w kontekście celu pracy
 ====================================================
 Wybrane agencje kosmiczne w podobny sposób dokonują rekrutacji. Wymagania, które stawiane są kandydatom na astronautę są równoznaczne z poziomem zdrowia wymaganym dla pilota samolotów wojskowych. Ponadto ogromny wpływ ma również doświadczenie, multidyscyplinarność i formalna edukacja. Równie duży nacisk kładzie się na badania psychologiczne, jednakże testy wzbogacone są o elementy oceniające umiejętność pracy w izolacji.
 
-We wszytkich analizowanych programach kandydat poddawany jest testom umiejętności działania pod presją, odporności na stres, badaniu kondycji fizycznej i wydolności organizmu, stabilności psychicznej, umiejętności kojarzenia i przewidywania jak również wytrzymałości na przeciążenia i aktywności psychomotorycznej.
+We wszystkich analizowanych programach kandydat poddawany jest testom umiejętności działania pod presją, odporności na stres, badaniu kondycji fizycznej i wydolności organizmu, stabilności psychicznej, umiejętności kojarzenia i przewidywania jak również wytrzymałości na przeciążenia i aktywności psychomotorycznej.
 
 W kwestii wymagań formalnych sugeruje się kompatybilność z programem ESA, który wysoko ceni najlepszych specjalistów. Dzięki temu osoby biorące udział w polskim programie astronautycznym będą w stanie ubiegać się również o kandydowanie w przyszłych rekrutacjach ESA. Pozwoli to również na interoperacyjność kandydatów.
 

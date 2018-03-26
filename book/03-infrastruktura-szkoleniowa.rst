@@ -415,6 +415,6 @@ Polska obecnie posiada część infrastruktury wykorzystywanej podczas szkolenia
 - szkoły nurkowe specjalizujące się w neutralnej pływalności oraz pracy pod powierzchnią wody,
 - symulatory rzeczywistości wirtualnej (wraz z oprogramowaniem wnętrza ISS).
 
-Powyższa infrastruktura pozwala na odtworzenie części szkolenia w Polsce. Brakującym elementem jest plan szkolenia łączący ośrodku w charakterze wspólnego konsorcium udostępniającego wyposażenie oraz lokalizację w ramach programu astronautycznego.
+Powyższa infrastruktura pozwala na odtworzenie części szkolenia w Polsce. Brakującym elementem jest plan szkolenia łączący ośrodku w charakterze wspólnego konsorcjum udostępniającego wyposażenie oraz lokalizację w ramach programu astronautycznego.
 
-W Polsce nie istnieje statek powietrzny zdolny do prowadzenia szkolenia w środowisku mikrograwitacji, ale zgodnie z trendem NASA oraz ESA administrator programu może wynająć usługi takiego lotu, który jest dostępny komercyjnie. Przy odpowiednim zaplanowaniu lotu, przygotowaniu badań naukowych oraz kadry koszt jest w stanie być akceptowalny.
+W Polsce nie istnieje statek powietrzny zdolny do prowadzenia szkolenia w środowisku mikrograwitacji, ale zgodnie z trendem NASA i ESA administrator programu może wynająć usługi takiego lotu, który jest dostępny komercyjnie. Przy odpowiednim zaplanowaniu lotu, przygotowaniu badań naukowych oraz kadry koszt jest w stanie być akceptowalny.

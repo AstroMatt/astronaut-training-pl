@@ -1,42 +1,42 @@
-.. _pilotaz:
+******************************************************************
+Trening pilotażu statków kosmicznych i samolotów wysokomanewrowych
+******************************************************************
 
-*******
-Pilotaż
-*******
-
-Szkolenie pilotażowe jest jednym z najtrudniejszych elementów szkolenia astronautycznego. Konieczność podejmowania podejmowania decyzji stanowiących o życiu lub śmierciu w reżimie wysokiego ryzyka i stresu jest domeną pilotów. Dotychczas więszkość z astronautów była wybierana z korpusu testowych pilotów wojskowych. Na ten fakt wpływały następujące cechy:
+Szkolenie pilotażowe jest jednym z najtrudniejszych elementów szkolenia astronautycznego. Konieczność podejmowania podejmowania decyzji stanowiących o życiu lub śmierci w reżimie wysokiego ryzyka i stresu jest domeną pilotów. Dotychczas większość z astronautów była wybierana z korpusu testowych pilotów wojskowych. Na ten fakt wpłynęły następujące cechy:
 
 - specyfika pracy,
-- umiejętność pilotowania ekperymentalnych statków powietrznych,
-- wykonywanie procedur w ekstremalnych wartunkach,
+- umiejętność pilotowania eksperymentalnych statków powietrznych,
+- wykonywanie procedur w ekstremalnych warunkach,
 - przyzwyczajenie pilota i jego rodziny do ciągłej nieobecności w domu,
 - przyzwyczajenie pilota i jego rodziny do niebezpiecznego charakteru pracy :cite:`Glover2016`.
 
 
 Trening pilotażu samolotów
 ==========================
-Szkolenie pilotażowe astronautów zwykle przebiega podobnie jak szkolenie pilota z wyłączeniem zadań specjalnych tj. użycie broni. W zależności od agencji kosmicznej astronauci mają różny stopień przeszkolenia. Amerykańscy astronauci szkoleni są w bazie Elington Air Force Base (Elington AFB) na samolotach szkolno-treningowych T-38. Uprzedio uzyskują także *Space Flight Readiness Training* (ang. trening przygotowujący do lotów kosmicznych) na samolocie WB-57 w Beale AFB, North Carolina. Jednym z elementów szkolenia jest tzw. *formation flying* (ang. latanie w formacji). Ta umiejętność ćwiczy prezycję i pracę zespołową. Pilotowanie statku powietrznego, który poruszając się 900 km/h zbliża się do drugiego na odległość 2-3 metrów i razem w tej odległości wykonuje z nim figury akrobatyczne wymaga od pilota umiejętności, które są w inny sposób nieosiągalne. Manewry typu "Wyciskanie G" (ang. *Pulling G's*) w różnych pozycjach szególnie w locie odwróconym wymagaj fizycznej wytrzymałości organizmu w szególności mięśni i serca oraz wysokiej adaptacji fizjologicznej. Szkolenie na samolotach T-38 jest ostatnim etapem szkolenia kandydatów na astronautów NASA.
+Szkolenie pilotażowe astronautów zwykle przebiega podobnie jak szkolenie pilota z wyłączeniem zadań specjalnych tj. użycie broni. W zależności od agencji kosmicznej astronauci mają różny stopień przeszkolenia. Amerykańscy astronauci szkoleni są w bazie Ellington Air Force Base (Ellington AFB) na samolotach szkolno-treningowych T-38. Uprzednio uzyskują również trening przygotowujący do lotów kosmicznych (ang. *Space Flight Readiness Training*) na samolocie WB-57 w Beale AFB, North Carolina. Jednym z elementów szkolenia jest tzw. *formation flying* (ang. latanie w formacji). Ta umiejętność ćwiczy precyzję i pracę zespołową. Pilotowanie statku powietrznego, który poruszając się 900 km/h zbliża się do drugiego na odległość 2-3 metrów i razem w tej odległości wykonuje z nim figury akrobatyczne wymaga od pilota umiejętności, które są w inny sposób nieosiągalne. Manewry typu "Wyciskanie G" (ang. *Pulling G's*) w różnych pozycjach szczególnie w locie odwróconym wymagaj fizycznej wytrzymałości organizmu w szczególności mięśni i serca oraz wysokiej adaptacji fizjologicznej. Szkolenie na samolotach T-38 jest ostatnim etapem szkolenia kandydatów na astronautów NASA.
 
-Szkolenie pilotażowe kosmonautów rosyjsjich i wcześniej radzieckich podobnie jak u amerykanów również odbywają się na samolotach odrzutowych. Program szkolenia i zakres ćwiczeń jest analogiczny do NASA.
+Szkolenie pilotażowe kosmonautów rosyjskich i wcześniej radzieckich podobnie jak u amerykanów również odbywają się na samolotach odrzutowych. Program szkolenia i zakres ćwiczeń jest analogiczny do NASA.
 
 Europejscy astronauci uzyskują licencję pilota prywatnego PPL(A) na lotnisku w Kolonii w Niemczech. Podczas ćwiczeń wykonują zadania zgodnie z programem szkolenia pilotów cywilnych.
-​
-.. todo::
-    - aerobatic flying
-    - Formation flying
-    - High g familiarity
-    - Fast response with life and death consequences
-    - Nothing is automated
-    - High-altitude flying
-    - Monitoring fuel, weather conditions
-    - Emergency landing on
-    - Survive ejection
-    - PLF - parachute landing failure
-    - Survive after ejection in the wilderness
+
+W ramach ćwiczeń trenowane są:
+
+- loty akrobacyjne na wysokomanewrowych samolotach,
+- latanie w formacji,
+- zapoznanie się w wysokimi wartościami przeciążenia (ang. *g-load*),
+- szybkie podejmowanie decyzji, gdy konsekwencje mogą stanowić o życiu,
+- loty wokościowe,
+- monitorowanie paliwa i parametrów samolotu,
+- monitorowanie stanu atmosfery,
+- lądowania awaryjne,
+- treningi katapultowania,
+- symulacja problemów spadochronu hamującego (ang. *PLF - Parachute Landing Failure*),
+- przeżycie po katapultowaniu w środowisku nieprzygodnym.
+
 
 Trening pilotażu innych statków powietrznych
 ============================================
-Za czasów programu Apollo astronauci byli szkoleni również z pilotażu śmigłowców oraz LLRV (ang. Lunar Landing Research Vechicle) czyli pojazdu pionowego startu i lądowania wyglądem przypominającego pająka z silnikiem odrzutowym umiejsciowionym w spodniej części. Zarówno szkolenie śmigłowcowe jak i LLRV przygotowywały astronautów do umiejętności startu, zawisu i lądowania.
+Za czasów programu Apollo astronauci byli szkoleni również z pilotażu śmigłowców oraz LLRV (ang. Lunar Landing Research Vehicle) czyli pojazdu pionowego startu i lądowania wyglądem przypominającego pająka z silnikiem odrzutowym umiejscowionym w spodniej części. Zarówno szkolenie śmigłowcowe jak i LLRV przygotowywały astronautów do umiejętności startu, zawisu i lądowania.
 
 
 Pilotaż oraz wykorzystanie systemów statku kosmicznego Sojuz
@@ -58,77 +58,6 @@ Pilotaż oraz wykorzystanie systemów statku kosmicznego Sojuz
     :name: table-soyuz-systems
     :file: ../data/soyuz-systems.csv
     :header-rows: 1
-
-.. todo::
-    Prelaunch preparation of the spacecraft;
-    Insertion to the orbit;
-    Orbital maneuvering;
-    Approaching and docking, joint flight with the ISS;
-    Undocking from the ISS;
-    Reentry from the orbit;
-    Landing and final operations after landing.
-
-
-.. todo:: PTT; Part Tasks Trainier; 1on1 computer simulation Training failures one at a time, instructor shows on a display normal conditions and then simulates what it would look like if for example pomp would not work
-    ptt of thermal systems of Soyuz
-    Pump failure
-    Sensor failure
-    Symptoms of false alarms, vs actual systems failures
-    Pressure regulation
-    Atmospheric constituant control
-    Randevouz sensing System
-    What triggers the most negatives situations
-    What to pay attention to
-    What to disregard
-    Which risks are the greatest
-    Which triggers the most negative consequences
-
-.. todo:: Then Soyuz simulations:
-    Staring with individual failures
-    Then integrated failures
-    Thermo regulation system malefunctions and a digital control loop in central computer failure
-    Do This problems compound each other or they are unrelated ?
-    Now engine is failed, and we’re on backup thrusters.
-    Prioritizing risks, which problem has to be dealt first
-
-.. todo:: Dynamic Operations
-    Launch
-    Reentry
-    Meteorite strike
-    (Practiced hundreds or even thousands of times)
-
-.. todo:: Soyuz has communication only above Russian territory. Why flying, all other time is peace and quiet
-    24 immediate action buttons. Cover with flip lids, to prevent accidental pushes:
-    switch main engine off
-    Turn the backup thrusters
-    Motto astronautów "nic nie jest ważniejsze niż to co robisz teraz"
-    Aby utrzymać panele słoneczne skierowane na słońce Sojuz kręci się jak kurczak na rożnie
-
-.. todo:: Oprogramowanoe Sojuza ma okolo 50 displays
-    Speed
-    Altitude
-    Ships oxygen system
-    Mathematical summaries of the orbital target
-    Fuel pressure
-    Steering
-    Propellant flow
-
-.. todo:: Na orbicie
-    Sprawdzanie ciśnienia (pierwsze i najważniejsze)
-    Upewnienie się czy systemy automatyczne działają
-    Czy RCS Fuel lines są pełne
-    Wyłączenie Oxygen supply
-    Measure the pressure in reentry vehicle and orbital capsules for an hour. Jeżeli choćby trochę przecieka, to trzeba szykować powrót awaryjny na backupowe miejsca lądowania.
-    Ściągnięcie skafandra
-    Ściągnięcie pieluchy
-    Zostają tylko w underwear 100% cotton, bo w przypadku pożaru nie płonie ani się nie topi tylko zwegla
-
-.. todo:: Soyuz
-    explosion
-    Computer meltdown
-    Engine problem
-    ​
-.. todo:: Dwie minuty po starcie, jest najgorszy moment. Jak coś się stanie, to mają za mała prędkość i zaczną spadać. W przy takim spadku mogą mieć nawet do 24g, przeżywalne ale bardzo niedobre dla ludzi i sprzętu. Dowódca może w ciągu 4 sekund wcisnąć przyciski które zmienia ustawienie kapsuły i trajektorię, co może obniżyć load nawet o 8-9g.
 
 Na chwilę obecną jednym z najważniejszych aspektów szkolenia astronautów przed lotem kosmicznym jest szkolenie z wykorzystywania systemów rosyjskiego statku kosmicznego Sojuz. Operacje wykonywane przez ten statek są w pełni zautomatyzowane, ale w sytuacjach awaryjnych istnieje możliwość przejścia na tzw. ręczny tryb i samodzielne przejęcie kontroli nad kapsułą. Z tego też powodu zarówno astronautów jak i kosmonautów poddaje się szkoleniu, które trwa około 790h i obejmuje aspekty:
 
@@ -224,57 +153,3 @@ Przy misjach amerykańskiego promu Space Shuttle musiano zmodyfikować system. P
 .. todo:: wypisać procedury z książki water egress z project PoSSUM
 
 Podczas pierwszych testowych lotów prom był wyposażony w fotele katapultowe dla pierwszego i drugiego pilota. Z systemu tego zrezygnowano w późniejszych lotach ze względu na niewielkie prawdopodobieństwo przeżycia załogi. W zamian za to zastosowano system tzw. Mode VIII - Bail-out, w którym wyposażeni w spadochrony astronauci mieli zsunąć się z wyciągniętej z promu grubej rury chroniącej przed uderzeniem w usterzenie i skrzydła a następnie na spadochronach wylądować w oceanie i rozpocząć procedurę wodnego przetrwania (opis w :numref:`Przetrwanie w warunkach wodnych` dotyczącym przetrwania w warunkach morskich i oceanicznych).
-
-Awaryjne opuszczanie orbity
----------------------------
-Istnieje wiele powodów dla których statek kosmczny może być zmuszony do opuszczenia orbity. Przy opracowywaniu procedur wymienia się:
-
-.. todo:: wypisać procedury z książki water egress z project PoSSUM
-
-Najbardziej krytycznym
-
-Unikanie śmieci kosmicznych i kolizje na orbicie
-------------------------------------------------
-
-Sytuacje awaryjne przy dokowaniu
---------------------------------
-
-Sytuacje awaryjne przy wejściu w atmosferę
-------------------------------------------
-Kapsuła Sojuz jest wyposażona w dwa systemy uruchamiania bolców wybuchowych odstrzeliwujących moduł serwisowy oraz silnik. System automatyczny jest uruchamiany w sytuacji normalnej a system zapasowy jest samoczynnie wyzwalany gdy bolce wybuchowe rozgrzeją się do dużej temperatury.
-
-Wejście w atmosferę po krzywej balistycznej
--------------------------------------------
-
-Problemy przy lądowaniu
------------------------
-
-
-Sytuacje awaryjne
-=================
-.. todo:: :cite:`NASACrewEscapeWorkbook`
-
-Przygotowanie do wyławiania z oceanu
-------------------------------------
-.. todo::
-    - Przy szkoleniu wodnym, opuszczanie kapsuły w wodzie są dwie opcje
-        - w skafandrze wodnym suchym (zdążyli się przebrać)
-        - Awaryjne w skafandrze Sokol
-    - Odpalanie racy i dmuchanie jacketów jak nurkowie
-
-Awaryjne opuszczanie platformy startowej
-----------------------------------------
-.. todo::
-    - MRAP - Mine resistant ambush protected vehicles  - opancerzony samochód do ewakuacji astronautów z launch pad
-    - Wagoniki ze space shuttle
-
-Systemy przerywania startu
---------------------------
-
-
-Odprawa po symulacjach
-======================
-.. todo::
-    - debriefing
-    - Każda osoba biorąca udział w symulacji może się wypowiedzieć na debriefingu
-    - Po 4h simie, debriefują przez godzinę

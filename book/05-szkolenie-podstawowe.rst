@@ -11,12 +11,12 @@ Po selekcji osoba wybrana przez komisję ma za zadanie stawić się na tzw. szko
 Podczas szkolenia podstawowego kanadyjscy astronauci mają zajęcia z :cite:`CSAFlightTraining`, :cite:`CSAOngoingTraining`, :cite:`CSABasicTraining`:
 
 - orientacja w strukturze organizacyjnej CSA i w działalności agencji,
-- historia lotów kosminczych,
-- podstawy lotów kosminczych,
+- historia lotów kosmicznych,
+- podstawy lotów kosmicznych,
 - procedury operacyjne i kontrola lotów,
 - systemy ISS,
 - nauki przyrodnicze i o życiu,
-- inżyniera materiałowa i dynamika płynów,
+- inżynieria materiałowa i dynamika płynów,
 - obserwacja ziemi i wykorzystanie danych satelitarnych,
 - kosmologia,
 - robotyka,
@@ -30,14 +30,14 @@ Podczas szkolenia podstawowego kanadyjscy astronauci mają zajęcia z :cite:`CSA
 - kontakt z mediami,
 - szkolenie survivalowe i przetrwania.
 
-Chociaż kanadyjscy astronauci odbywają więszkość szkolenia w JSC w Houston to powyższy program CSA jest reprezentacyjnym cyklem szkolenia astronautów we wszystkich agencjach. Szkolenie podstawowe astronautów we wszystkich analizowanych agencjach, dzieli się na 4 główne części:
+Chociaż kanadyjscy astronauci odbywają większość szkolenia w JSC w Houston to powyższy program CSA jest reprezentacyjnym cyklem szkolenia astronautów we wszystkich agencjach. Szkolenie podstawowe astronautów we wszystkich analizowanych agencjach, dzieli się na 4 główne części:
 
 - wiedza ogólna,
 - robotyka i systemy ISS,
 - trening spacerów kosmicznych,
 - pilotaż.
 
-W kolejnych rozdziałach autor przybliży każdy z powyższych tematów.
+W kolejnych rozdziałach autor przybliża każdy z powyższych tematów.
 
 
 Przygotowanie teoretyczne i wiedza ogólna
@@ -127,9 +127,9 @@ Podczas pobytu na międzynarodowej stacji kosmicznej oraz w trakcie długotrwał
 - pobieranie krwi (ang. *drawing blood*),
 - pobieranie próbek śliny i płynów ustrojowych,
 - badanie ultrasonograficzne (oczu, żył, mięśni, serca, tętnic),
-- obrazowanie oczu (optyczna tomografia coherancji siatkówki) (urządzeniem ophthalmoscope),
+- obrazowanie oczu (optyczna tomografia koherencji siatkówki) (urządzeniem ophthalmoscope),
 - mierzenie ciśnienia płynu wewnątrz gałki ocznej (tonometria),
-- nawilżenia skóry (coliometria),
+- nawilżenia skóry (kliometria),
 - biopsja mięśni (przed, w trakcie i po misji),
 - resuscytacja krążeniowo oddechowa (ang. *cardio-pulmonary resuscitation*),
 - szycie (ang. *suture*).
@@ -176,16 +176,16 @@ W ramach zajęć z fotografii astronauci uczą się fotografować:
 - kratery uderzeniowe po asteroidach,
 - wulkanicznej aktywności,
 - łańcuchów górskich, tj. Himalaye,
-- obiektów zanczenia historycznego, tj. piramidy w Gizie.
+- obiektów znaczenia historycznego, tj. piramidy w Gizie.
 
 
 Treningi i symulacje
 ====================
-Treningi i symulacje stanowią główny przedmiot szkolenia astronautów. Już w ramach programu Mercury wykorzystano pierwsze urządzenia elektoniczne pozwalające na przygotwanie astronautów do lotów kosmicznych. Urządzenia pozwoliły na symulację 276 problemów i sytuacji awaryknych, kóre mogłyby wydarzyć się podczas lotu. Dla programu Gemini udostępniono kolejny symulator, który pozwolił na testowanie kilku tysięcy problemów związanych z lotem kosmicznym, wejściem w atmosferę itd. Wszystkie urządzenia zlokalizowane były w ośrodku w Langley, Virgnia do czasu wybudowania w 1964 roku Manned Space Center w Houston, TX (obecnie Johnson Space Center) :cite:`Monchaux2011`. Należy zwrócić uwagę na pierwsze zastosowanie basenu neutralnej pływalności w przygotowywaniu wyjść EVA. W ramach programu Mercury i Gemini astronauci spędzali około 1/3 czasu w symulatorach.
+Treningi i symulacje stanowią główny przedmiot szkolenia astronautów. Już w ramach programu Mercury wykorzystano pierwsze urządzenia elektroniczne pozwalające na przygotowanie astronautów do lotów kosmicznych. Urządzenia pozwoliły na symulację 276 problemów i sytuacji awaryjnych, które mogłyby wydarzyć się podczas lotu. Dla programu Gemini udostępniono kolejny symulator, który pozwolił na testowanie kilku tysięcy problemów związanych z lotem kosmicznym, wejściem w atmosferę itd. Wszystkie urządzenia zlokalizowane były w ośrodku w Langley, Virginia do czasu wybudowania w 1964 roku Manned Space Center w Houston, TX (obecnie Johnson Space Center) :cite:`Monchaux2011`. Należy zwrócić uwagę na pierwsze zastosowanie basenu neutralnej pływalności w przygotowywaniu wyjść EVA. W ramach programu Mercury i Gemini astronauci spędzali około 1/3 czasu w symulatorach.
 
 Następnie w programie Apollo rozwinięto oprzyrządowanie i zastosowano 11 symulatorów testujących m.in. następujące sytuacje :cite:`Monchaux2011`:
 
-- symulator dezorientacyjny wieloosiowy (ang. *Multi-Axes*),
+- wieloosiowy symulator dezorientacji (ang. *Multi-Axial*),
 - symulator-fotel 1/6g kompensujący 5/6g do symulowania grawitacji księżycowej,
 - symulator-fotel 5DL używany do szkolenia poruszania się w przestrzeni kosmicznej wyłącznie za pomocą rąk (bez użycia nóg),
 - symulator-ściana 0g obniżająca odczuwalne przeciążenie,
@@ -198,17 +198,17 @@ W programie Apollo czas spędzony w symulatorach zajmował około 50% szkolenia.
 
 Wczesne symulatory były ogromnymi urządzeniami elektronicznymi, które pozwalały na wyświetlanie na ekranach wizji z kamer mechaniczne ustawionych na szynach i wysięgnikach nad ręcznie malowanymi makietami powierzchni Księżyca. Makiety były odtworzone na podstawie zdjęć z poprzednich załogowych i bezzałogowych misji na tego naturalnego satelitę.
 
-Wyżej wymieniony LLRV był konstrukcją metalową wyposarzoną w silnik odrzutowy, którego dysza była skierowana w dół. Umieszczone po bokach silniczki manewrowe pozwalały na zmianę kierunku lotu za pomocą impulsowych strzałów gazów. Pilot był umieszczony w kabinie. Urządzenie okazało się być bardzo niebezpieczne w użytkowaniu i narażało astronautów na niepotrzebne ryzyko. Z tego powodu po awarii silnika i awaryjnym katapulotowaniu się przez Neila Armstronga symulacje LLRV zawieszono :cite:`Peterson2017`.
+Wyżej wymieniony LLRV był konstrukcją metalową wyposażoną w silnik odrzutowy, którego dysza była skierowana w dół. Umieszczone po bokach silniczki manewrowe pozwalały na zmianę kierunku lotu za pomocą impulsowych strzałów gazów. Pilot był umieszczony w kabinie. Urządzenie okazało się być bardzo niebezpieczne w użytkowaniu i narażało astronautów na niepotrzebne ryzyko. Z tego powodu po awarii silnika i awaryjnym katapultowaniu się przez Neila Armstronga symulacje LLRV zawieszono :cite:`Peterson2017`.
 
 W kolejnych programach wzbogacono trening m.in. o:
 
-- symulator systemu manewrowego MMU (Manned Manouvered Unit),
-- symulator SMS (Shuttle Motion Simulator) orbitera Space Shuttle,
+- symulator systemu manewrowego MMU (Manned Maneuvered Unit),
+- symulator SMS (Shuttle Motion Simulator) dla promu Space Shuttle,
 - symulator awaryjnego opuszczania Space Shuttle.
 
 Ćwiczenia kondycyjne i badania wydolności organizmu
 ---------------------------------------------------
-Przeciążenia podczas startu i wchodzenia w atmosferę oraz wysiłek fizyczny w trakcie EVA są głównymi czynnikami wpływającymi na konieczność utrzymania wysokiej sprawności fizycznej. Ponadto astronauci w trakcie lotu, a w szczególności lotów długotrwałych ze względu na dystrofię mięśni i demineralizację układu kostnego muszą ćwiczyć minimum dwie godziny dziennie. Aby zapobiec negatywnemu wpływowi braku grawitacji na organizm astronauci już w trakcie szkolenia są poddawani treningowi kondycyjnemu oraz badaniu wydolności organizmu. Do powyższych ćwiczeń są wykorzystywane urządzenia gimnastyczne ogólnego przeznaczenia. tj:
+Przeciążenia podczas startu i wchodzenia w atmosferę oraz wysiłek fizyczny w trakcie EVA są głównymi czynnikami wpływającymi na konieczność utrzymania wysokiej sprawności fizycznej. Ponadto astronauci w trakcie lotu, a w szczególności lotów długotrwałych ze względu na dystrofię mięśni i demineralizację układu kostnego muszą ćwiczyć minimum dwie godziny dziennie. Aby zapobiec negatywnemu wpływowi braku grawitacji na organizm astronauci już w trakcie szkolenia są poddawani treningom kondycyjnym oraz badaniu wydolności organizmu. Do powyższych ćwiczeń są wykorzystywane urządzenia gimnastyczne ogólnego przeznaczenia. tj:
 
 - ergometr,
 - sztangi,
@@ -220,15 +220,15 @@ Przeciążenia podczas startu i wchodzenia w atmosferę oraz wysiłek fizyczny w
 - Adaptability Training System,
 - system bieżni nadciśnieniowych (ALTER).
 
-Ze względu na brak przyspiszenia grawitacyjnego wszelkie urządzenia, które bazują na podnoszeniu ciężarów lub oporowi wywołanemu przeciwdziałaniu grawitacji są niefunkcjonalne. We zwzględu na specifikę stanu nieważkości inżynierowie skonstruowali urządzania, które dzięki komorom próżniowym symulują zachowanie podobnego przyrządu na Ziemi. Ponadto zastosowane są również specjalistyczne urządzenia opracowane do treningu w środowisku zmniejszonej grawitacji, tj.:
+Ze względu na brak przyspieszenia grawitacyjnego wszelkie urządzenia, które bazują na podnoszeniu ciężarów lub oporowi wywołanemu przeciwdziałaniu grawitacji są niefunkcjonalne. We względu na specyfikę stanu nieważkości inżynierowie skonstruowali urządzania, które dzięki komorom próżniowym symulują zachowanie podobnego przyrządu na Ziemi. Ponadto stosowane są również specjalistyczne urządzenia opracowane do treningu w środowisku zmniejszonej grawitacji, tj.:
 
 - bieżnia T2,
-- Advanced Resistance Excercise Device (ARED),
+- Advanced Resistance Exercise Device (ARED),
 - Cycle Ergometer with Vibration Isolation and Stabilization (CEVIS).
 
 Podczas przeszkolenia do misji astronauci odbywają trening obsługi oraz poprawności wykonywania ćwiczeń.
 
-Na specjalną uwagę zasługuje fakt, iż aby mierzyć zmianę masy ciała u astronautów w stanie nieważkości konieczne było opracowanie rozwiązania technicznego ​​Body Mass Measuring Device (BMMD). Przyrząd podczas pomiaru, który wśród astronautów zwany jest ujeżdżaniem osła (ang. *ride the donkey*), potrząsa przyczepionym do niego astronautom i mierzy siłę bezwładności. Pomiar dokonywany jest trzykronie i wyciągana jest z niego średnia. Urządzenie pozwala na określenie masy astronauty z błędem rzędu 1kg. Czynność wykonywana jest raz w miesiącu :cite:`Peake2017`.
+Na specjalną uwagę zasługuje fakt, iż aby mierzyć zmianę masy ciała u astronautów w stanie nieważkości konieczne było opracowanie rozwiązania technicznego ​​Body Mass Measuring Device (BMMD). Przyrząd podczas pomiaru, który wśród astronautów zwany jest ujeżdżaniem osła (ang. *ride the donkey*), potrząsa przyczepionym do niego astronautom i mierzy siłę bezwładności. Pomiar dokonywany jest trzykrotnie i wyciągana jest z niego średnia. Urządzenie pozwala na określenie masy astronauty z błędem rzędu 1kg. Czynność wykonywana jest raz w miesiącu :cite:`Peake2017`.
 
 .. figure:: ../img/training-fitness.jpg
     :name: figure-training-fitness
@@ -239,15 +239,15 @@ Na specjalną uwagę zasługuje fakt, iż aby mierzyć zmianę masy ciała u ast
 
 Przygotowanie psychologiczne do pracy w odosobnieniu
 ----------------------------------------------------
-Dotychczas tematy związane z przygotowaniem psychologicznym do pracy w odosobnieniu nie miały najwyższego priorytetu. Długość misji kosmicznych nie przekraczała progu, w którym starannie wyselekcjonowani a później przygotowywani astronauci ulegali załamaniu. Wraz ze wzrostem długości pozostawania na orbicie bez kontaktu fizycznego z bliskimi i rodziną specyfika zawodu się zmienia. Ponadto środowisko, w którym przebywają astronauci wymaga stałego wysokiego poziom kocentracji i skupienia, a każda pomyłka może stanowić o śmierci osoby lub wszystkich członków załogi i końca programu. Presja której poddawani są kandydaci jest ogromna i wymaga dużej stabilności i dojrzałości emocjonalnej, psychicznej i umiejętności trzeźwego myślenia w sytuacjach stresowych.
+Dotychczas tematy związane z przygotowaniem psychologicznym do pracy w odosobnieniu nie miały najwyższego priorytetu. Długość misji kosmicznych nie przekraczała progu, w którym starannie wyselekcjonowani a później przygotowywani astronauci ulegają załamaniu. Wraz ze wzrostem długości pozostawania na orbicie bez kontaktu fizycznego z bliskimi i rodziną specyfika zawodu się zmienia. Ponadto środowisko, w którym przebywają astronauci wymaga stałego wysokiego poziom kocentracji i skupienia, a każda pomyłka może stanowić o śmierci osoby lub wszystkich członków załogi i końca programu. Presja której poddawani są kandydaci jest ogromna i wymaga dużej stabilności i dojrzałości emocjonalnej, psychicznej i umiejętności trzeźwego myślenia w sytuacjach stresowych.
 
-Ze względu na fakt, że temat jest dopiero rozpoznawany a badania w tym zakresie dopiero zaczynają być prowadzone, aby przygotować astronautów do pełnienia obowiązków w trakcie długotrwałych lotów kosmicznych w stałej wysokiej aktywności i sprawności intelektualnej wprowadzono do szkolenia wiele symulacji. I choć urządzenia symulujące awarie i sytuacje niebezpieczne są używane od początku programów to pokrywają jedynie niewielką część przygotownaia psychicznego astronautów do długotrwałych misji.
+Ze względu na fakt, że temat jest dopiero rozpoznawany a badania w tym zakresie dopiero zaczynają być prowadzone, aby przygotować astronautów do pełnienia obowiązków w trakcie długotrwałych lotów kosmicznych w stałej wysokiej aktywności i sprawności intelektualnej wprowadzono do szkolenia wiele symulacji. I choć urządzenia symulujące awarie i sytuacje niebezpieczne są używane od początku programów to pokrywają jedynie niewielką część przygotowania psychicznego astronautów do długotrwałych misji.
 
-Badania, które są obecnie prowadzone w różnych habitatach i ośrodkach medycznych na świecie pozwalają zbadać wpływ długotrwałej izolacji na psychikę człowieka. Podczas obserwacji grupy dokonywane są analizy zmian psychologicznych oraz dynamiki grupy. W tym celu stosuje się urządzenia zapisujące metaparametry głosu tj. poziom głośności, szybkość mówienia, intonację, częstość wypowiedzi oraz dynamikę rozmowy. Ponadto ocenie podlegają również zmiany tych parametrów w trakcie rozmowy jak i w stosunku do innych konwersjacji. Do badań wykorzystywane są również informacje tj. miejsce przeprowadzania rozmów, warunki atmosferyczne (ciśneinie, temperatura), czas dnia oraz skład osobowy dyskursu. Wszystkie te elementy wpływają na charakter prowadzania konwersjacji oraz na stosunki i ich zmianę podczas trwania izolacji.
+Badania, które są obecnie prowadzone w różnych habitatach i ośrodkach medycznych na świecie pozwalają zbadać wpływ długotrwałej izolacji na psychikę człowieka. Podczas obserwacji grupy dokonywane są analizy zmian psychologicznych oraz dynamiki grupy. W tym celu stosuje się urządzenia zapisujące metadane głosu tj. poziom głośności, szybkość mówienia, intonację, częstość wypowiedzi oraz dynamikę rozmowy. Ponadto ocenie podlegają również zmiany tych parametrów w trakcie rozmowy jak i w stosunku do innych konwersacji. Do badań wykorzystywane są również informacje tj. miejsce przeprowadzania rozmów, warunki atmosferyczne (ciśnienie, temperatura), czas dnia oraz skład osobowy dyskursu. Wszystkie te elementy wpływają na charakter prowadzenia konwersacji oraz na stosunki i ich zmianę podczas trwania izolacji.
 
-W trakcie badań przeprowadzanych w habitatach naukowcy mają dostęp do informacji na temat symulowanej długości doby, która dla misji marsjańskich i księżycowych ma inną wartośc. Ponadto obciążenie zadaniami, terminowość ich wykonywania, tzw. gonienie czerwonej kresji (markera czasu na planie) jak również ilość wolnego czasu na odpoczynek i jego jakość ma ogromny wpływ na interakcje między członkami zespołów.
+W trakcie badań przeprowadzanych w habitatach naukowcy mają dostęp do informacji na temat symulowanej długości doby, która dla misji marsjańskich i księżycowych ma inną wartość. Ponadto obciążenie zadaniami, terminowość ich wykonywania, tzw. gonienie czerwonej kreski (markera czasu na planie) jak również ilość wolnego czasu na odpoczynek i jego jakość ma ogromny wpływ na interakcje między członkami zespołów.
 
-Szkolenia geologiczne i spaleologiczne
+Szkolenia geologiczne i speleologiczne
 --------------------------------------
 Jednym z najbardziej charakterystycznych elementów szkolenia, szczególnie w kontekście eksploracji innych ciał niebieskich jest szkolenie geologiczne. :numref:`table-apollo-geological-locations` przedstawia zestawienie wybranych lokalizacji używanych w szkoleniu geologicznym astronautów w programie Apollo.
 
@@ -262,9 +262,9 @@ Na przykładzie Apollo 15 możemy przedstawić strukturę szkolenia geologiczneg
 
 Każdy z astronautów programu Apollo otrzymał około 1030-1040 godzin szkolenia geologicznego. Ponadto astronautów trenowano również w rozstawianiu sprzętu, tj. kamery i flagi, oraz urządzeń badawczych.
 
-W szkoleniach geologicznych do misji Apollo 15-17, które odbywały się pomiędzy majem 1970 a listopadem 1972 wzięło udział 59 doświadczonych badaczy w charakterze trenerów. Na każdego astronautę, który miał stanać na księżycu przypadało 10 szkoleniowców. W programie zorganizowano 375 indywidualnych wypraw badawczych do 27 unikalnych miejsc.
+W szkoleniach geologicznych do misji Apollo 15-17, które odbywały się pomiędzy majem 1970 a listopadem 1972 wzięło udział 59 doświadczonych badaczy w charakterze trenerów. Na każdego astronautę, który miał stanąć na księżycu przypadało 10 szkoleniowców. W programie zorganizowano 375 indywidualnych wypraw badawczych do 27 unikalnych miejsc.
 
-W ramach szkolenia geologicznego tj. DRATS 2010 (NASA) czy PANGAEA (ESA) astronaucji uczą się:
+W ramach szkolenia geologicznego tj. DRATS 2010 (NASA) czy PANGAEA (ESA) astronauci uczą się:
 
 - identyfikacja i dokumentacja próbek,
 - rozstawianie sprzętu i urządzeń badawczych,
@@ -273,7 +273,7 @@ W ramach szkolenia geologicznego tj. DRATS 2010 (NASA) czy PANGAEA (ESA) astrona
 - eksploracja tuneli lawy (ang. *Lava tubes*),
 - zbieranie danych geologicznych i geofizycznych,
 - identyfikacja i pobieranie próbek geobiologicznych,
-- dyskusja o hipotezach powstawania warst,
+- dyskusja o hipotezach powstawania warstw,
 - uzyskują umiejętność komunikacji z profesjonalnymi geologami,
 - opis skał, minerałów i warstw skalnych,
 - umiejętność pobierania próbek w ograniczającym ruch skafandrze,
@@ -282,7 +282,7 @@ W ramach szkolenia geologicznego tj. DRATS 2010 (NASA) czy PANGAEA (ESA) astrona
 
 Poza charakterem edukacyjnym szkolenia geologiczne pełnią jeszcze rolę integracyjną dla budowania zespołu.
 
-Odmiennym aczkolwiek skorelowanym szkoleniem są wyjazdy spaleologiczne. Podczas eksploracji jaskiń w ramach programu CAVES (ESA) astronauci różnych narodowości brali udział w mapowaniu podziemnych korytarzy, identyfikacji i dokumentowaniu próbek skalnych i mikrobiologicznych, identyfikowaniu nowych gatunktów organizmów oraz zaawansowanej wspinaczce jaskiniowej. Temat szerzej omówiony w rozdziale :ref:`Wyprawy w ramach programu CAVES`.
+Odmiennym aczkolwiek skorelowanym szkoleniem są wyjazdy speleologiczne. Podczas eksploracji jaskiń w ramach programu CAVES (ESA) astronauci różnych narodowości brali udział w mapowaniu podziemnych korytarzy, identyfikacji i dokumentowaniu próbek skalnych i mikrobiologicznych, identyfikowaniu nowych gatunków organizmów oraz zaawansowanej wspinaczce jaskiniowej. Temat szerzej omówiony w rozdziale :ref:`Wyprawy w ramach programu CAVES`.
 
 .. csv-table:: Zestawienie wybranych lokalizacji używanych w szkoleniu geologicznym astronautów w programie Apollo
     :name: table-apollo-geological-locations
@@ -294,7 +294,7 @@ Przygotowanie do pracy w ekstremalnych warunkach
 ================================================
 Kandydaci, którzy są wybierani w procesie selekcji są bardzo aktywnymi osobami. Często zajmują się ekstremalnymi sportami oraz uprawiają zaawansowaną turystykę kwalifikowaną. Ponadto podczas szkolenia podstawowego astronauci są poddawani treningom survivalowym i obozom przetrwania, które również na celu mają integrację zespołu. Wśród zajęć terenowych można wyróżnić:
 
-- szkolenie z geologi planetarnej i geofizyki,
+- szkolenie z geologii planetarnej i geofizyki,
 - wycieszki piesze (ang. *hiking*) i wysokogórskie,
 - ekspedycje naukowe, tj. wyprawy na Arktykę czy Antarktydę,
 - obozy przywództwa i pracy zespołowej,
@@ -305,9 +305,9 @@ Kandydaci, którzy są wybierani w procesie selekcji są bardzo aktywnymi osobam
 
 Przetrwanie w warunkach zimowych
 --------------------------------
-W trakcie programu kandydackiego NASA astronauci są wysyłani ma dwutygodniową ekspedycję podczas, której w trudnych warunkach pogodowych wraz z realnym zagrożeniem mają przetrwać przez określony czas i dotrzeć do punków kontrolnych. Najczęściej szkolenie zimowe odbywa się w regionach Alaski lub północnej Kanady. Do zadań astronautów należy nawigacja w zaśnieżonych górach z uwagą na lawiny, konstrukcja schronienia, organizacja pożywienia oraz wody. W zalezności od szkolenia astronauci mogą być wyposażeni w narty biegowe oraz 75 kg ekwipunki, które ciągną pokonując niedostepne arktyczne tereny. Ponadto w trakcie ekspedycji członkowie zmianiają tury przywództwa dzięki czemu uczą się również komunikacji i różnych ról w zespole. Do zadań symulowanych podczas szkolenia należy również poszukiwanie ofiar lawin wykorzystując specjalny system nadajników (ang. *avalanche homing beacon and monitor*). Pierwsze dni szkolenia prowadzone są pod nadzorem instruktorów, którymi zwykle sa żołnieże sił specjalnych lub przeskoleni profesjonaliści. Po określonym czasie instruktor odłącza się od grupy a astronauci muszą przetrwać i wykorzystać nabytą wiedzę.
+W trakcie programu kandydackiego NASA astronauci są wysyłani na dwutygodniową ekspedycję podczas, której w trudnych warunkach pogodowych wraz z realnym zagrożeniem mają przetrwać przez określony czas i dotrzeć do punktów kontrolnych. Najczęściej szkolenie zimowe odbywa się w regionach Alaski lub północnej Kanady. Do zadań astronautów należy nawigacja w zaśnieżonych górach z uwagą na lawiny, konstrukcja schronienia, organizacja pożywienia oraz wody. W zależności od szkolenia astronauci mogą być wyposażeni w narty biegowe oraz 75 kg ekwipunki, które ciągną pokonując niedostępne arktyczne tereny. Ponadto w trakcie ekspedycji członkowie zmieniają tury przywództwa dzięki czemu uczą się również komunikacji i różnych ról w zespole. Do zadań symulowanych podczas szkolenia należy również poszukiwanie ofiar lawin wykorzystując specjalny system nadajników (ang. *avalanche homing beacon and monitor*). Pierwsze dni szkolenia prowadzone są pod nadzorem instruktorów, którymi zwykle są żołnierze sił specjalnych lub przeszkoleni profesjonaliści. Po określonym czasie instruktor odłącza się od grupy a astronauci muszą przetrwać i wykorzystać nabytą wiedzę.
 
-Każdy kosmonauta i astronauta, który za pośrednictwem statku Soyuz jest wynoszony na Międzynarodową Stację kosmiczną musi przejść szkolenie przetrwania w warunckach letnich (wodnych) oraz zimowych. Szkolenie zimowe jest przeprowadzane w lesie 15 km od Ośrodka Szkolenia Kosmonautów rosyjskiej agencji kosmicznej. Szkolenie odbywa się przy temperaturze około -20 stopni celsjusza i trwa dwa dni i noce. Podczas nocy temperatura spada do -26 stopni, a kandydaci są zachęcani do budowania szałasów i rozpalania ognisk dla utrzymania ciepła. Przed szkoleniem kursanci otrzymują jednodniowe szkolenie teoretyczne i instrukcje niezbędne do przetrwania w ekstremalnych warunkach. Każdy przyszły uczestnik lotu kosmicznego bez względu na doświadczenie i liczbę odbytych dotychczasowych szkoleń survivalowych musi przejść to szkolenie. Podczas symulacji astronauci i kosmonauci uczą się jak przywdziewać w niewielkiej kabinie statku Soyuz odpowiedni zimowy strój, jak używać strzelby do odstraszania zwierząt, jak budować odpowiedni wigwam pozwalający na cyrkulację powietrza i odprowadzenie monotlenku węgla (CO). Rozpalają dwa ogniska, jedno sygnalizacyjne płonące szybko, dające dużo dymu i wysoko sięgającymi płomieniami oraz drugie w schronieniu do zapewnienia ciepła dla załogi - niewysokie, płonące wolno i niedymiące. Drugie musi być stale poddtrzymywane, również w nocy. Uczestnicy szkolenia żywią się wojskowymi racjami żywnościowymi MRE (ang. *Meal Ready to Eat*), które dzięki reakcji egzotermicznej zawartych w opakowaniu substancji chemicznych podgrzewają się.
+Każdy kosmonauta i astronauta, który za pośrednictwem statku Soyuz jest wynoszony na Międzynarodową Stację kosmiczną musi przejść szkolenie przetrwania w warunkach letnich (wodnych) oraz zimowych. Szkolenie zimowe jest przeprowadzane w lesie 15 km od Ośrodka Szkolenia Kosmonautów rosyjskiej agencji kosmicznej. Szkolenie odbywa się przy temperaturze około -20 stopni celsjusza i trwa dwa dni i noce. Podczas nocy temperatura spada do -26 stopni, a kandydaci są zachęcani do budowania szałasów i rozpalania ognisk dla utrzymania ciepła. Przed szkoleniem kursanci otrzymują jednodniowe szkolenie teoretyczne i instrukcje niezbędne do przetrwania w ekstremalnych warunkach. Każdy przyszły uczestnik lotu kosmicznego bez względu na doświadczenie i liczbę odbytych dotychczasowych szkoleń survivalowych musi przejść to szkolenie. Podczas symulacji astronauci i kosmonauci uczą się jak przywdziewać w niewielkiej kabinie statku Soyuz odpowiedni zimowy strój, jak używać strzelby do odstraszania zwierząt, jak budować odpowiedni wigwam pozwalający na cyrkulację powietrza i odprowadzenie monotlenku węgla (CO). Rozpalają dwa ogniska, jedno sygnalizacyjne płonące szybko, dające dużo dymu i wysoko sięgającymi płomieniami oraz drugie w schronieniu do zapewnienia ciepła dla załogi - niewysokie, płonące wolno i niedymiące. Drugie musi być stale podtrzymywane, również w nocy. Uczestnicy szkolenia żywią się wojskowymi racjami żywnościowymi MRE (ang. *Meal Ready to Eat*), które dzięki reakcji egzotermicznej zawartych w opakowaniu substancji chemicznych podgrzewają się.
 
 Ponadto podczas szkolenia astronauci odgrywają scenariusz pomocy osobie poszkodowanej. W tym celu jeden z astronautów pozoruje złamanie nogi a pozostali muszą udzielić pierwszej pomocy oraz przetransportować poszkodowanego do obozu a później do miejsca ewakuacji, gdzie za pomocą rac sygnalizacyjnych ściągają uwagę ekipy ratunkowej.
 
@@ -320,7 +320,7 @@ Ponadto podczas szkolenia astronauci odgrywają scenariusz pomocy osobie poszkod
 
 Przetrwanie w warunkach pustynnych
 ----------------------------------
-Podczas nieprzewidzianych problemów na orbicie lub sytuacji awaryjnych lądownik po wejściu w atmosferę może wlecieć na teren pustynny i tam do czasu przybycia ekipy ratunkowej załoga statku kosmicznego musi również umieć przetrwać. Podczas szkoleń w ramach misji Mercury, Gemini, Apollo i dalszych astronauci byli po instruktarzu pozostawiani na terenach pustynnych. Podczas szkolenia musieli zaznajomić się w jaki sposób rozpalić ogień, jak złapać i przygotować węża oraz jak pozyskać wodę pitną w suchym środowisku.
+Podczas nieprzewidzianych problemów na orbicie lub sytuacji awaryjnych lądownik po wejściu w atmosferę może wlecieć na teren pustynny i tam do czasu przybycia ekipy ratunkowej załoga statku kosmicznego musi również umieć przetrwać. Podczas szkoleń w ramach misji Mercury, Gemini, Apollo i dalszych astronauci byli po instruktarzu pozostawieni na terenach pustynnych. Podczas szkolenia musieli zaznajomić się w jaki sposób rozpalić ogień, jak złapać i przygotować węża oraz jak pozyskać wodę pitną w suchym środowisku.
 
 .. figure:: ../img/survival-desert-nasa.jpg
     :name: figure-survival-desert-nasa
@@ -331,7 +331,7 @@ Podczas nieprzewidzianych problemów na orbicie lub sytuacji awaryjnych lądowni
 
 Przetrwanie w warunkach dżungli
 -------------------------------
-W trakcie programów Mercury, Gemini i Apollo astronauci byli transportowani do dżungli w Panamie i tam pozostawiani na kilka dni. Podczas tego okresu musieli wykorzystać umiejętności nabyte podczas wcześniejszych szkoleń, zbudować szałas oraz ochronić się przed insektami i zwierzętami. Istotnym elementem było również nawigowanie w terenie nieprzychylnym.
+W trakcie programów Mercury, Gemini i Apollo astronauci byli transportowani do dżungli w Panamie i tam pozostawieni na kilka dni. Podczas tego okresu musieli wykorzystać umiejętności nabyte podczas wcześniejszych szkoleń, zbudować szałas oraz ochronić się przed insektami i zwierzętami. Istotnym elementem było również nawigowanie w terenie nieprzychylnym.
 
 .. figure:: ../img/survival-jungle-nasa.jpg
     :name: figure-survival-jungle-nasa
@@ -357,7 +357,7 @@ Przetrwanie w warunkach wodnych
 -------------------------------
 Jednym z istotniejszych elementów szkolenia przetrwania jest umiejętność przeżycia po lądowaniu na morzu. Ze względu na specyfikę lądowania, rosyjskie kapsuły lądują z założenia na lądzie, amerykańskie na wodzie, nacisk poszczególnych agencji jest różny.
 
-Rosyjscy kosmonauci praktykują, krótkie jednodniowe szkolenie na jeziorze. W skład szkolenia wchodzi: skok ze śmigłowca (platformy imitującej wiszący śmigłowiec), procedury operacyjne po wodowaniu, umiejętność dobierania odpowiedniego stróju ochronnego w zalezności od temperatury powietrza oraz wody, oraz formacje ratunkowe na powierzchni. Ponadto uczestnicy kursu uczą się rozstawiania tratwy i obsługi odsalarki do produkcji wody pitnej. W trakcie pierwszych czterech dekad rosyjskiego programu kosmonautycznego szkolenie było przeprowadzane na morzu a kapsuła wraz z kosmonautami była zrzucana ze statku "Apszeron" :cite:`Hermaszewski2013`.
+Rosyjscy kosmonauci praktykują, krótkie jednodniowe szkolenie na jeziorze. W skład szkolenia wchodzi: skok ze śmigłowca (platformy imitującej wiszący śmigłowiec), procedury operacyjne po wodowaniu, umiejętność dobierania odpowiedniego stroju ochronnego w zależności od temperatury powietrza oraz wody, oraz formacje ratunkowe na powierzchni. Ponadto uczestnicy kursu uczą się rozstawiania tratwy i obsługi odsalarki do produkcji wody pitnej. W trakcie pierwszych czterech dekad rosyjskiego programu kosmonautycznego szkolenie było przeprowadzane na morzu a kapsuła wraz z kosmonautami była zrzucana ze statku "Apszeron" :cite:`Hermaszewski2013`.
 
 Dla astronautów NASA szkolenie z przetrwania na morzu jest kluczowe. Ze względu na sposób lądowania kapsuły wyróżnia się lądowanie w pozycji stabilnej pierwszej lub drugiej (wyjście z kapsuły jest pod wodą). Astronauci praktykują powyższe sytuacje najpierw w basenie neutralnej pływalności a następnie na otwartym oceanie przy różnych warunkach atmosferycznych i różnym stanie morza tj. wielkość fal i siła wiatru.
 
@@ -370,18 +370,18 @@ Dla astronautów NASA szkolenie z przetrwania na morzu jest kluczowe. Ze względ
 
 Wyprawy w ramach programu CAVES
 -------------------------------
-Misja CAVES (Cooperative Adventure for Valuing and Exercising human behaviour and performance Skills) jest tworem Europejskiej Agencji Kosmicznej i ma na celu zaznajomienie członków wyprawy z życiem w ekstremalnych warunkach tj. jaskinie. Podczas szkolenia astronauci różnych agencji biorą udział w mapowaniu korytarzy jaskini Sa Grutta na Sardinii we Włoszech. Ponadto uczą się dokumentowania i pobierania próbek skalnych oraz materiału mikrobiologicznego wraz z późniejszym jego zabezpieczaniem jak również identyfikowaniem minerałów.
+Misja CAVES (Cooperative Adventure for Valuing and Exercising human behaviour and performance Skills) jest tworem Europejskiej Agencji Kosmicznej i ma na celu zaznajomienie członków wyprawy z życiem w ekstremalnych warunkach tj. jaskinie. Podczas szkolenia astronauci różnych agencji biorą udział w mapowaniu korytarzy jaskini Sa Grutta na Sardynii we Włoszech. Ponadto uczą się dokumentowania i pobierania próbek skalnych oraz materiału mikrobiologicznego wraz z późniejszym jego zabezpieczaniem jak również identyfikowaniem minerałów.
 
 .. figure:: ../img/survival-caves-pool.jpg
     :name: figure-survival-caves-pool
     :scale: 50%
     :align: center
 
-    Astronauci Europejskiej Agencji kosmicznej podczas misji CAVES w 2016 roku do jaskini Sa Grutta na Sardinii we Włoszech. W wyprawie wzięli udział astronauci z CNSA (Ye Guangfu), Roskosmos (Sergei Vladimirovich), JAXA (Aki Hoshide), ESA (Pedro Duque) i NASA (Ricky Arnold, Jessica Muir). Źródło: ESA/V. Crobu
+    Astronauci Europejskiej Agencji kosmicznej podczas misji CAVES w 2016 roku do jaskini Sa Grutta na Sardynii we Włoszech. W wyprawie wzięli udział astronauci z CNSA (Ye Guangfu), Roskosmos (Sergei Vladimirovich), JAXA (Aki Hoshide), ESA (Pedro Duque) i NASA (Ricky Arnold, Jessica Muir). Źródło: ESA/V. Crobu
 
 Wyprawy w ramach programu PANGAEA
 ---------------------------------
-Wyprawy w ramach programu PANGAEA mają na cel przybliżenie astronautom umiejętności eksploracji geologicznej terenów przypominających Księżyc, asteroidy i Mars. Ponadto w trakcie programu prowadzone są wykłady z astrobiologii, geofizyki, geologii i geobiologi. U astronautów kształcona jest umiejętność obserwacyjna i decyzyjna w kwestii identyfikacji cech geologicznych. Ponadto tak jak w przypadku CAVES testowane są nowe sposoby podejmowania próbek, dokumentacji złóż i umiejętności efektywnego komunikowania elementów krajobrazu do MCC i badaczy geologicznych.
+Wyprawy w ramach programu PANGAEA mają na celu przybliżenie astronautom umiejętności eksploracji geologicznej terenów przypominających Księżyc, asteroidy i Mars. Ponadto w trakcie programu prowadzone są wykłady z astrobiologii, geofizyki, geologii i geobiologii. U astronautów kształcona jest umiejętność obserwacyjna i decyzyjna w kwestii identyfikacji cech geologicznych. Ponadto tak jak w przypadku CAVES testowane są nowe sposoby podejmowania próbek, dokumentacji złóż i umiejętności efektywnego komunikowania elementów krajobrazu do MCC i badaczy geologicznych.
 
 Kurs został podzielony na trzy etapy:
 
@@ -400,7 +400,7 @@ Misje NEEMO
 -----------
 Misje NASA Extreme Environment Mission Operations (NEEMO) organizowane są dla astronautów agencji ESA, NASA, CSA, Roskosmos i JAXA. Ośrodek Aquarius - podwodny habitat znajduje się 12 km na wschód od Key Largo na Florydzie w USA. Habitat jest położony 20 metrów pod wodą a misje w nim trwają zwykle 12 dni. W trakcie trwania misji astronauci przebywają w tzw. stanie nurkowania nasyconego (ang. *saturation diving*) i nie istnieje możliwość swobodnego wypłynięcia na powierzchnię oceanu bez konsekwencji poważnej choroby dekompresyjnej. Proces dekompresji trwa 18 godzin.
 
-W trakcie misji używane są techniki neutralnej pływalności oraz zmniejszonej pływalności aby testować pojazdy i urządzdenia przeznaczone do wykorzystywania na powierzchni innych ciał niebieskich. Przykładem takiego testu jest system Lunar Evacuation System Assembly (LESA) zaprojektowany przez Centrum Szkolenia Astronautów ESA.
+W trakcie misji używane są techniki neutralnej pływalności oraz zmniejszonej pływalności aby testować pojazdy i urządzenia przeznaczone do wykorzystywania na powierzchni innych ciał niebieskich. Przykładem takiego testu jest system Lunar Evacuation System Assembly (LESA) zaprojektowany przez Centrum Szkolenia Astronautów ESA.
 
 .. figure:: ../img/survival-neemo-overview.jpg
     :name: figure-survival-neemo-overview
@@ -429,13 +429,13 @@ Analiza szkolenia podstawowego w kontekście celu pracy
 ======================================================
 Za wyjątkiem lotów parabolicznych omówionych już wcześniej część szkolenia można przeprowadzić w Polsce. W programie szkolenia podstawowego dla kandydatów na astronautów najważniejsza jest wiedza teoretyczna oraz przygotowanie praktyczne.
 
-Posiadana infrastuktura akademicja pozwala na realizację teoretycznych przedmiotów z większości tematów poruszanych podczas dotychczasowych procesów szkolenia astronautów, tj.
+Posiadana infrastruktura akademicka pozwala na realizację teoretycznych przedmiotów z większości tematów poruszanych podczas dotychczasowych procesów szkolenia astronautów, tj.
 
 - orientacja w strukturach organizacyjnych i w działalności agencji kosmicznych,
-- historia lotów kosminczych,
-- podstawy lotów kosminczych,
+- historia lotów kosmicznych,
+- podstawy lotów kosmicznych,
 - nauki przyrodnicze i o życiu,
-- inżyniera materiałowa i dynamika płynów,
+- inżynieria materiałowa i dynamika płynów,
 - obserwacja ziemi i wykorzystanie danych satelitarnych,
 - kosmologia,
 - robotyka,
@@ -457,4 +457,4 @@ W ramach przeprowadzonych analiz i poszukiwania źródeł w Polsce nie ma dobrze
 
 Autorowi pracy udało się dotrzeć do osób (Polaków) przebywających za granicą posiadających wyżej wymienione kompetencje, którzy mogliby stanowić zalążek kadry naukowej.
 
-Niestety ze względu na położenie geograficzne niemożliwe jest przeprowadzenie zaawansowanych szkoleń przetrwania w warunkach pustynnych, dżungli oraz stworzenie analogicznych programów jak CAVES, PANGAEA czy NEEMO. Obecnie jednak agencje kosmiczne odeszły od szkoleń pustynnych oraz w terenach równikowych. Całkowicie do zagospodarowania pozostaje temat wypraw geologicznych, geofizycznych oraz spaleologicznych. Ze względu na niewielkie zróżnicowanie terenu oraz brak analogicznych terenów do eksploracji geologicznej i astrobiologicznej proponuje się rozwiązanie aby pierwsza połowa szkolenia prowadzona była w kraju a reszta przy współpracy międzynarodowej w obszarach o dużej różnorodności wraz z ukształtowaniem terenu pozwalającym na prowadzenie symulacji księżycowych i marsjańskich. Takie ułożenie programu pozwoli na optymalizację kosztów jak również na wysoki poziom kształcenia kandydatów.
+Niestety ze względu na położenie geograficzne niemożliwe jest przeprowadzenie zaawansowanych szkoleń przetrwania w warunkach pustynnych, dżungli oraz stworzenie analogicznych programów jak CAVES, PANGAEA czy NEEMO. Obecnie jednak agencje kosmiczne odeszły od szkoleń pustynnych oraz w terenach równikowych. Całkowicie do zagospodarowania pozostaje temat wypraw geologicznych, geofizycznych oraz speleologicznych. Ze względu na niewielkie zróżnicowanie terenu oraz brak analogicznych terenów do eksploracji geologicznej i astrobiologicznej proponuje się rozwiązanie aby pierwsza połowa szkolenia prowadzona była w kraju a reszta przy współpracy międzynarodowej w obszarach o dużej różnorodności wraz z ukształtowaniem terenu pozwalającym na prowadzenie symulacji księżycowych i marsjańskich. Takie ułożenie programu pozwoli na optymalizację kosztów jak również na wysoki poziom kształcenia kandydatów.

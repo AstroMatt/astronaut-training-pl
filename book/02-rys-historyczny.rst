@@ -431,7 +431,7 @@ Dla upamiętnienia lotu pierwszego Polaka załoga zabrała na pokład flagę i g
 
 Analiza rysu historycznego w kontekście celu pracy
 ==================================================
-Programy kosmiczne były prowadzone głównie przez dwa państwa USA i Federację Rosyjską (ZSRR). ZSRR był inicjatorem współpracy międzynarodowej. W ramach programu Interkosmos polecieli pierwsi kosmonauci niebędący obywaletami wyżej wymienionych mocarstw, a generał Hermaszewski został pierwszym polakiem, który polecał w kosmos.
+Programy kosmiczne były prowadzone głównie przez dwa państwa USA i Federację Rosyjską (ZSRR). ZSRR był inicjatorem współpracy międzynarodowej. W ramach programu Interkosmos polecieli pierwsi kosmonauci niebędący obywatelami wyżej wymienionych mocarstw, a generał Hermaszewski został pierwszym polakiem, który poleciał w kosmos.
 
 Podczas selekcji kosmonauci i astronauci wybierani byli głównie ze względu na doświadczenie w pilotażu, chociaż pojawiały się również grupy osób z innych specjalności tj. inżynieria, nauka, medycyna czy również nauczyciele.
 
