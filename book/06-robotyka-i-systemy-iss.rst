@@ -50,34 +50,27 @@ System ECLSS jest podstawowym systemem każdego statku kosmicznego i stacji.
 
     System Systemy kontroli środowiskowej i podtrzymania życia na ISS. Źródło: Wikipedia
 
-Moduł badań naukowych i danych
-------------------------------
-- Eksperymenty bazujące na danych automatycznie zbierających się w systemie
-- Eksperymenty bazujące na danych wprowadzanych przez użytkownika
-- Sterowanie systemem hydroponiki i aquaponiki (monitoring, kontrola parametrów środowiska, stan urządzeń technicznych, wizualizacja procesu)
-- Moduł zbierania danych geologicznych i geofizycznych
-- Moduł zbierania danych psychologicznych i socjodynamicznych
-- Moduł zbierania danych medycznych (ewaluacja, kwestionariusze, choroby, stan załogi)
-- Zastosowanie algorytmów uczenia maszynowego w analizie anomalii danych medycznych
-- Zastosowanie algorytmów uczenia maszynowego w analizie danych psychologicznych i socjodynamicznych
-- Zastosowanie algorytmów uczenia maszynowego w wykrywaniu intencji w raportach dziennych i snach astronautów
-- Śledzenie aktywności fizycznej astronautów (spalane kalorie, ćwiczenia, intensywność)
-- Śledzenie poruszania się w habitacie i położenia załogi
-- Śledzenie jakości i parametrów snu
+Moduł badań naukowych i obsługi danych
+--------------------------------------
+Badania naukowe są głównym powodem ekploracji kosmosu. System wspierający składowanie i obróbkę danych jest więc niezwykle istotnym elementem całości. Dane, które znajdują się w systemie można podzielić na dwie kategorie: dane zbierane automatycznie oraz dane wprowazane przez astronautów. W tym celu konieczne jest zaprojektowanie odpowiedniego interfejsu.
+
+Oprogramowanie sterujące badaniami naukowymi ma wpływ na monitoring, kontrolę parametrów środowiska w trakcie badania, informację na temat stanu urządzeń technicznych. Dla eksploracji powierzchni ciał niebieskich należy wzbogacić oporogramowanie o funkcje analizy danych geologicznych, astrobiologicznych oraz geofizycznych.
+
+Ponadto jeżeli oprogramowanie ma być wykorzystywane do wsparcia załogi, konieczna jest również analiza danych psychologicznych i socjodynamicznych. Pozwoli to na reagowanie na wcześniejszym etapie na nieprawidłowości w zachowaniu i aktywności astronauty.
+
+Wsparcie medyczne w długotrwałych lotach kosmicznych jest niezwykle istotnym elementem. W tym celu system musi pomóc w ewaluacji stanu astronauty i diagnozie wszelkich chorób. W tym celu można zastosować algorytmy uczenia maszynowego wykrywające anomalie w napływających danych biometrycznych oraz medycznych jak również systemy eksperckie pozwalające na wsparcie diagnozy.
+
+Dane te mogą posłużyć również do planowania aktywności astronautów, dostosowania intensywności i długości ćwiczeń jak również w optymalizacji poruszania się załogi.
 
 System śledzenia inwentarza
 ---------------------------
-- Baza danych przedmiotów i identyfikacja (QR, barcode)
-- Śledzenie daty zdatności do wykorzystania
-- Śledzenie położenia przedmiotów
-- Śledzenie stanu magazynowego przedmiotów jednorazowych
-- Śledzenie lekarstw i przedmiotów medycznych
-- Śledzenie pożywienia, kaloryczności oraz wartości odżywczych
-- Monitoring stanu zapasów pożywienia i daty zdatności do spożycia
-- Monitoring konsumpcji oraz wartości kalorycznych i odżywczych przyjmowanych przez załogę
-- Raportowanie incydentów i napraw
-- Monitorowanie stanu sprzętu i detekcja uszkodzeń
-- Zastosowanie algorytmów uczenia maszynowego w analizie stanu i detekcji uszkodzeń
+Ogromna objętość i złożoność stacji kosmicznej sprzyja możliwości gubienia przedmiotów i narzędzi. Ponadto międzynarodowy i rotacyjny charakter załóg powoduje, że konieczne stało się stworzenie systemu śledzenia inwentarza. Każdy przedmiot wykorzystywany na ISS ma unikalny identyfikator, dzięki czemu astronauta, który go używa może w szybki sposób oznaczyć ten fakt skanując jego kod kreskowy.
+
+Informacje na temat położenia przedmiotów, daty ważności (w przypadku lekarstw i pożywienia) są przetrzymywane w systemie. Prowadzenie elektronicznego inwentarza pozwala na monitorowanie poziomu zapasów zasobów zużywających się (ang. *consumables*).
+
+Dobrze użyty system potrafi śledzić kaloryczność oraz wartości odżywcze pokarmów przyjmowanych przez załogę co jest konieczne przy utrzymywaniu zbalansowanej diety zawierającej minerały spowalniające niekorzystne czynniki działania w środowisku mikrograwitacji.
+
+System ponadto pozwala na monitorowanie stanu przedmiotów, ich uszkodzeń oraz prowadzenie dziennika napraw.
 
 Komunikacja
 -----------
