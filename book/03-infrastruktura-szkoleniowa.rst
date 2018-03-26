@@ -8,12 +8,6 @@ Centra szkolenia astronautów
 ============================
 Szkolenie astronautów odbywa się w wyspecjalizowanych ośrodkach treningowych. Skala i złożoność procesu szkolenia wymaga współpracy wielu agencji. Na chwilę obecną astronauci szkoleni są w ramach programów wymiany we wszystkich ośrodkach szkoleniowych. Ze względu na amerykańską regulację ITAR (International Traffic in Arms Regulations) określającą przemysł kosmiczny i rakietowy jako broń i zakazujący współpracy z Chinami, astronauci NASA nie odbywają szkolenia w ośrodkach ACC. Pozostałe kraje kooperują i wzajemnie szkolą astronautów w zakresie swojej specjalizacji. :numref:`table-infrastructure-training-centers` przedstawia listę centrów szkoleniowych.
 
-.. csv-table:: Lista ośrodków szkoleniowych astronautów.
-    :name: table-infrastructure-training-centers
-    :file: ../data/infrastructure-training-centers.csv
-    :header-rows: 1
-    :widths: 10, 20, 40, 10, 10, 10
-
 Centrum Przygotowania Kosmonautów, Gwiezdne Miasteczko, Moskwa, Rosja
 ---------------------------------------------------------------------
 Jednym z najstarszych miejsc w którym szkoli się astronautów i kosmonautów jest Centrum Przygotowania Kosmonautów im. Jurija Gagarina (CPK) znajdujące się na terenie Gwiezdnego Miasteczka 20 km na północny wschód od Moskwy. W obiekcie tym trenują obecnie wszyscy astronauci, którzy są przydzieleni do lotów na ISS. Ośrodek posiada basen neutralnej pływalności Hydro Lab oraz zestaw symulatorów rosyjskich segmentów ISS i statku kosmicznego Sojuz, który jest obecnie jedynym środkiem transportu z i na ISS. CPK jest ostatnim ośrodkiem szkoleniowym. Bezpośrednio z tego miejsca astronauci są transportowani na kosmodrom Bajkonur (również nazywany Gwiezdnym Miasteczkiem) gdzie przechodzą ostatnie badania i przygotowania do startu rakietą Sojuz.
@@ -42,11 +36,6 @@ John H. Chapman Space Centre jest siedzibą Kanadyjskiej Agencji Kosmicznej oraz
 Baseny doskonałej pływalności
 =============================
 Od czasów przygotowania do lotu w ramach misji Gemini 12, gdy amerykański astronauta Buzz Aldrin jako pierwszy wykorzystał techniki nurkowania w celu symulacji EVA agencje kosmiczne zaczęły wykorzystywać ośrodki neutralnej pływalności (ang. *Neutral Buoyancy*) do szkolenia astronautów.
-
-.. csv-table:: Lista basenów neutralnej pływalności
-    :name: table-infrastructure-neutral-buoyancy-pools
-    :file: ../data/infrastructure-neutral-buoyancy-pools.csv
-    :header-rows: 1
 
 .. figure:: ../img/infrastructure-neutral-buoyancy-comparision.png
     :name: figure-infrastructure-neutral-buoyancy-comparision
@@ -154,11 +143,6 @@ Do najważniejszych wirówek przeciążeniowych wykorzystywanych w załogowych l
 - 20-G Centrifuge, NASA,
 - Human Performance Centrifuge, NASA,
 - Short Radius Centrifuge, NASA.
-
-.. csv-table:: Lista wirówek przeciążeniowych używanych do przygotowania astronautów w załogowych lotach
-    :name: table-infrastructure-centrifuge-human
-    :file: ../data/infrastructure-centrifuge-human.csv
-    :header-rows: 1
 
 CPK - CF-7
 ----------
@@ -315,11 +299,6 @@ W celu zapoznania astronautów z wpływem mikrograwitacji na organizm człowieka
     :align: center
 
     Profil lotu parabolicznego podczas symulacji stanu braku grawitacji. Źródło: Nature
-
-.. csv-table:: Zestawienie samolotów używanych do lotów parabolicznych
-    :name: table-infrastructure-parabollic
-    :file: ../data/infrastructure-parabollic.csv
-    :header-rows: 1
 
 
 Komory niskich ciśnień i komory próżniowe

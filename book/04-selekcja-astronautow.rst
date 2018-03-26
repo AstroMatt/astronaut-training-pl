@@ -241,17 +241,6 @@ Amerykańska agencja kosmiczna NASA organizuje rekrutację na kandydata na astro
 
 Klasy astronautów podobnie jak zespoły przydzielone do misji tworzą tzw. insygnia klasy (ang. *class patch*). Każda z grup (:numref:`table-selection-nasa`) kandydatów ma swoją unikalną nazwę, która jest nadawana przez poprzedzającą selekcję :cite:`Anderson2015`.
 
-.. csv-table:: Dotychczasowe selekcje astronautów NASA :cite:`Active-NASA-Astronauts`, :cite:`Inactive-NASA-Astronauts`
-    :name: table-selection-nasa
-    :file: ../data/selection-nasa.csv
-    :header-rows: 1
-    :widths: 10, 10, 30, 50
-
-.. csv-table:: Lista aktywnych astronautów NASA :cite:`Active-NASA-Astronauts`
-    :name: table-astronauts-nasa
-    :file: ../data/astronauts-nasa.csv
-    :header-rows: 1
-
 .. figure:: ../img/selection-nasa-2017.jpg
     :name: figure-selection-nasa-2017
     :scale: 10%
@@ -259,9 +248,15 @@ Klasy astronautów podobnie jak zespoły przydzielone do misji tworzą tzw. insy
 
     Selekcja astronautów NASA rozpoczynających szkolenie w 2017 roku (ang. *2017 NASA Astronaut Class*): (od lewej) Zena Cardman, Jasmin Moghbeli, Jonny Kim, Frank Rubio, Matthew Dominick, Warren Hoburg, Robb Kulin, Kayla Barron, Bob Hines, Raja Chari, Loral O'Hara and Jessica Watkins. Źródło: NASA/Robert Markowitz
 
+.. csv-table:: Lista aktywnych astronautów NASA :cite:`Active-NASA-Astronauts`
+    :name: table-astronauts-nasa
+    :file: ../data/astronauts-nasa.csv
+    :header-rows: 1
+
+
 Roskosmos (Federacja Rosyjska)
 ------------------------------
-Do końca roku 2015 agencja kosmiczna Roskosmos podlegała strukturom wojskowym Federacji Rosyjskiej i wcześniej Związkowi Socjalistycznych Republik Radzieckich. Z tego powodu kandydaci na kosmonautów byli wybierani wśród oficerów sił powietrznych i pilotów wojskowych. Wraz ze zmianami organizacyjnymi z 31 grudnia 2015 Roskosmos przekształcił się w cywilną agencję zarządzaną na wzór amerykańskiej NASA :cite:`Cosmonauts-Biographical-Data`. Z tego powodu proces rekrutacji kosmonautów uległ zmianie i w najbliższych latach wśród rosyjskich kosmonautów znajdzie się więcej cywili, naukowców i inżynierów.
+Do końca roku 2015 agencja kosmiczna Roskosmos podlegała strukturom wojskowym Federacji Rosyjskiej i wcześniej Związkowi Socjalistycznych Republik Radzieckich. Z tego powodu kandydaci na kosmonautów byli wybierani wśród oficerów sił powietrznych i pilotów wojskowych. Wraz ze zmianami organizacyjnymi z 31 grudnia 2015 Roskosmos przekształcił się w cywilną agencję zarządzaną na wzór amerykańskiej NASA :cite:`Cosmonauts-Biographical-Data`. Z tego powodu proces rekrutacji kosmonautów uległ zmianie i w najbliższych latach wśród rosyjskich kosmonautów znajdzie się więcej cywili, naukowców i inżynierów. Listę wszystkich rosyjskich i radzieckich komonautów przedstawia :numref:`table-astronauts-roscosmos`.
 
 ESA - Europejska Agencja Kosmiczna
 ----------------------------------
