@@ -11,10 +11,11 @@
     book/06-robotyka-i-systemy-iss.rst
     book/07-spacery-kosmiczne.rst
     book/08-pilotaz.rst
-    book/09-szkolenie-do-misji.rst
-    book/10-misja.rst
     book/11-przydzialy-naziemne.rst
     book/12-zakonczenie.rst
+
+..    book/09-szkolenie-do-misji.rst
+..    book/10-misja.rst
 
 Załączniki
 ==========

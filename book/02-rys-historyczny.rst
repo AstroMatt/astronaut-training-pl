@@ -247,7 +247,7 @@ Program Sojuz i Progress
 ------------------------
 Program Sojuz jest jednym z najdłużej trwających programów kosmicznych. Był bezpośrednim następcą programu Woschod i rozpoczął się w połowie lat sześćdziesiątych XX wieku. Pierwotnie celem programu miało być stworzenie podstaw do lotów księżycowych, ale później wymagania zostały zmienione.
 
-Program Sojuz wraz z kolejnymi modyfikacjami trwa do dziś. Rakieta i kapsuła Sojuz jest najbardziej niezawodnym statkiem kosmicznym. Od czasu wycofania z użycia amerykańskich promów Space Shuttle jest jedynym środkiem transportu do i z Międzynarodowej Stacji Kosmicznej. Więcej na temat programu w rozdziale poświęconym :ref:`szkoleniu w pilotowaniu statku kosmicznego Sojuz <pilotaz>`.
+Program Sojuz wraz z kolejnymi modyfikacjami trwa do dziś. Rakieta i kapsuła Sojuz jest najbardziej niezawodnym statkiem kosmicznym. Od czasu wycofania z użycia amerykańskich promów Space Shuttle jest jedynym środkiem transportu do i z Międzynarodowej Stacji Kosmicznej. Więcej na temat programu w rozdziale poświęconym :ref:`szkoleniu w pilotowaniu statku kosmicznego Sojuz <Trening pilotażu statków kosmicznych i samolotów wysokomanewrowych>`.
 
 Równocześnie z kapsułą załogową Sojuz tworzona była jej bezzałogowa wersja Progress. Podobnie jak Sojuz tak i Progress jest wciąż użytkowany i stanowi główne źródło zaopatrzenia dla ISS.
 
@@ -316,8 +316,6 @@ W ramach programu odbywały się międzynarodowe loty załogowe, które umożliw
 
 Program Buran
 -------------
-.. todo:: dopisać coś o selekcji
-
 Program Buran był odpowiedzią na amerykański program Space Shuttle. Pojazd, który został stworzony był podobny wizualnie, ale znacząco się różnił i przewyższał osiągami promy STS. W ramach programu została stworzona również rakieta Energia, która wykorzystywała zmodyfikowane silniki RD-170 z programu księżycowego. Buran wykonał jeden lot testowy 15 listopada 1988 bez załogi. Podczas lotu wykonał dwa okrążenia Ziemi i dokonał autonomicznego lądowania na pasie startowym *Site 251* - Yubileyniy Airfield otrzymując precyzję lądowania na poziomie 10 m w osi pasa.
 
 Ze względów geopolitycznych program został zamknięty, a orbitery trafiły kolejno do hangaru na kosmodromie Bajkonur oraz do muzeum techniki w niemieckim mieście Speyer. W maju 2002 ze względu na obciążenia dachu wywołane potężną burzą dach hangaru, w którym przebywał Buran oraz rakieta Energia zawalił się niszcząc prom i nosiciela.
@@ -366,8 +364,6 @@ Największy kumulacyjnie czas spędzony podczas EVA zanotował kosmonauta Roskos
 
 Lot generała Hermaszewskiego
 ============================
-.. todo:: dopisać coś o selekcji
-
 Lot Sojuz-30 miał miejsce w dniach 27 czerwca – 5 lipca 1978. Skład głównej załogi stanowił zespół: Mirosław Hermaszewski (promotor pomocniczego tej pracy) oraz Piotr Iljicz Klimuk. W zespole rezerwowym byli Walerij Nikołajewicz Kubasow oraz Zenon Jankowski. :numref:`figure-soyuz-30-crew` przedstawia skład pierwszej załogi.
 
 Głównym zadaniem Sojuz-30 było dokowanie do stacji Salut-6 oraz wykonanie badań naukowych i biomedycznych zestawionych w :numref:`table-soyuz-30-experiments` dla jednostek badawczych, tj. :cite:`Hermaszewski2013`:

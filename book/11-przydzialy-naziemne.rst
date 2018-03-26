@@ -63,16 +63,3 @@ Przykładem dobrej komunikacji i efektywnego wykorzystania doświadczenia załog
 Popularyzacja nauki i obszaru S.T.E.M.
 ======================================
 Astronauci są rozpoznawanymi osobami publicznymi, które najsilniej reprezentują agencje kosmiczne i z tego powodu stają się ich ambasadorami. Jednym z najważniejszych i zajmujących najwięcej czasu zadań astronautów podcas pobutu na Ziemii jest popularyzacja nauki w ramach obszaru S.T.E.M. (Science, Technology, Engineering, Mathematics - ang. Nauka, Technologia, Inżynieria, Matematyka). Członkowie misji przemawiają publicznie na konferencjach, podczas pikników technologicznych oraz w szkołach zwiększając świadomość wykorzystywania rzeczy opracowanych dla przemysłu kosmicznego, które znalazły zastosowanie na codzień. Ponadto do ich zadań należy również uzasadnianie wysokich wydatków agencji kosmicznych na projekty badania i rozwoju.
-
-
-Coroczna ewaluacja kondycyjna
-=============================
-.. todo::
-    - 1.5 miles run
-    - Stationary bike ride
-    - Sit-ups
-    - Pull ups (minimum of two)
-    - Push-ups
-    - Hand and grip test
-    - Flexibility measurement to check whether you can touch your toes
-
