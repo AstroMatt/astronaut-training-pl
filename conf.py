@@ -46,6 +46,5 @@ latex_elements = {
 
 exclude_patterns = [
     'not-used/*',
-    'nie-skonczone-rozdzialy/*',
     'README.rst'
 ]
