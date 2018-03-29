@@ -384,6 +384,7 @@ Polska obecnie posiada część infrastruktury wykorzystywanej podczas szkolenia
 - infrastruktura gimnastyczno-szkoleniowa Wyższej Szkoły Oficerskiej Sił Powietrznych (WSOSP),
 - symulator METS w Ośrodku Szkolenia Nurków i Płetwonurków Wojska Polskiego w Gdyni,
 - komora niskich ciśnień w Gdyni oraz na WIML,
+- infrastruktura szkoleniowa Szkoły Głównej Służby Pożarniczej,
 - komora termalna na WIML w Warszawie,
 - program szkolenia survivalowego oraz SERE (kadra byłych żołnierzy sił specjalnych),
 - lotnisko oraz program szkolenia lotniczego zgodnego z FAA i EASA,
