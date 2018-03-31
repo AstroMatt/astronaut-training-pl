@@ -375,7 +375,7 @@ Habitat Lunares został wybudowany przez firmę Space Garden przy udziale autora
 
 Analiza infrastruktury szkoleniowej w kontekście celu pracy
 ===========================================================
-Jednym z celów tej pracy jest zaproponowanie planu stworzenia infrastruktury szkoleniowej. Aby Polska uczestniczyła w programie szkolenia astronautów rozwiązania muszą być unikalne lub pozwalające na przeprowadzenie optymalizację kosztów szkoleniowych.
+Jednym z celów tej pracy jest zaproponowanie planu stworzenia infrastruktury szkoleniowej. Aby Polska uczestniczyła w programie szkolenia astronautów rozwiązania muszą być unikalne l  ub pozwalające na przeprowadzenie optymalizację kosztów szkoleniowych.
 
 Polska obecnie posiada część infrastruktury wykorzystywanej podczas szkolenia astronautów. Są to m.in.:
 

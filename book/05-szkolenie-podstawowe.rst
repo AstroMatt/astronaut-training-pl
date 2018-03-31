@@ -30,12 +30,22 @@ Podczas szkolenia podstawowego kanadyjscy astronauci mają zajęcia z :cite:`CSA
 - kontakt z mediami,
 - szkolenie survivalowe i przetrwania.
 
-Chociaż kanadyjscy astronauci odbywają większość szkolenia w JSC w Houston to powyższy program CSA jest reprezentacyjnym cyklem szkolenia astronautów we wszystkich agencjach. Szkolenie podstawowe astronautów we wszystkich analizowanych agencjach, dzieli się na 4 główne części:
+Chociaż kanadyjscy astronauci odbywają większość szkolenia w JSC w Houston to powyższy program CSA jest reprezentacyjnym cyklem szkolenia astronautów we wszystkich agencjach. Szkolenie podstawowe astronautów we wszystkich analizowanych agencjach, dzieli się na 5 głównych części:
 
-- wiedza ogólna,
-- robotyka i systemy ISS,
-- trening spacerów kosmicznych,
-- pilotaż.
+- przygotowanie teoretyczne i wiedza ogólna, w tym nauka języków obcych,
+- szkolenie z systemów robotycznych i manipulatorów, tj. Canadarm 2,
+- szkolenie z systemów Międzynarodowej Stacji Kosmicznej,
+- nauka spacerów kosmicznych (ang. *EVA - ExtraVehicular Activity*),
+- nauka pilotażu samolotów odrzutowych oraz statków kosmicznych.
+
+:numref:`figure-astronaut-career-lifecycle` prezentuje cykl kariery astronauty od jego selekcji, treningu podstawowego, wsparcia obecnie trwających misji po szkolenie do przydzielonej misji (ang. *mission specific training*).
+
+.. figure:: /img/astronaut-career-lifecycle.png
+    :name: figure-astronaut-career-lifecycle
+    :align: center
+    :scale: 75%
+
+    Cykl kariery i szkoleń astronautów.
 
 W kolejnych rozdziałach autor przybliża każdy z powyższych tematów.
 
