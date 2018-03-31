@@ -35,8 +35,17 @@
     margin-top: 0;
 }
 
+#first-page #university {
+    text-transform: uppercase;
+}
+
+#first-page #faculty {
+    text-transform: uppercase;
+}
+
 #first-page #thesis {
     font-weight: bold;
+    text-transform: uppercase;
 }
 
 #first-page #title {

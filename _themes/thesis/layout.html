@@ -17,9 +17,9 @@
 
     {{ metatags }}
 
-    <title>Selekcja i proces szkolenia astronautów do długotrwałych lotów i spacerów kosmicznych</title>
-    <meta name="author" content="Matt Harasymczuk">
-    <meta name="description" content="Wyższa Szkoła Oficerska Sił Powietrznych - Wydzial Lotnictwa - praca magisterska - Analiza procesu selekcji, przygotowania do misji oraz treningu EVA w wybranych agencjach kosmicznych w celu zaproponowania programu szkolenia polskiego astronauty.">
+    <title>{{ name }} - {{ author }} - {{ thesis }} - {{ university }}</title>
+    <meta name="author" content="{{ author }}">
+    <meta name="description" content="{{ name }} - {{ author }} - {{ thesis }} - {{ university }}">
 
     <link rel="cannonical" href="http://thesis.astromatt.space">
 	<link rel="stylesheet" href="{{ pathto('_static/first-page.css', 1) }}" type="text/css" />
@@ -31,23 +31,23 @@
 <body>
     <section id="first-page">
         <header>
-            <h1 id="university">WYŻSZA SZKOŁA OFICERSKA SIŁ POWIETRZNYCH</h1>
-            <h2 id="faculty">WYDZIAŁ LOTNICTWA</h2>
+            <h1 id="university">{{ university }}</h1>
+            <h2 id="faculty">{{ faculty }}</h2>
         </header>
 
         <div id="main">
             <img src="{{ pathto('_static/wsosp-logo.png', 1) }}">
-            <h1 id="thesis">PRACA MAGISTERSKA</h1>
-            <h2 id="title">Analiza procesu selekcji, przygotowania do misji oraz treningu EVA w wybranych agencjach kosmicznych w celu zaproponowania programu szkolenia polskiego astronauty.</h2>
+            <h1 id="thesis">{{ thesis }}</h1>
+            <h2 id="title">{{ name }}</h2>
         </div>
 
         <div id="author">
-            <p id="first-author">Mateusz Harasymczuk<br>nr albumu 3094</p>
-            <p id="supervisor">Promotor pracy<br>prof. dr hab. inż. płk. rez. Marek Grzegorzewski</p>
-            <p id="proofreading">Promotor pomocniczy pracy<br>gen. bryg. pil. Mirosław Hermaszewski, kosmonauta Soyuz-30</p>
+            <p id="first-author">{{ author }}</p>
+            <p id="supervisor">Promotor pracy<br>{{ supervisor }}</p>
+            <p id="proofreading">Promotor pomocniczy pracy<br>{{ proofreading }}</p>
         </div>
 
-        <footer>Dęblin 2018</footer>
+        <footer>{{ city }} {{ year }}</footer>
     </section>
 
     <section id="content">

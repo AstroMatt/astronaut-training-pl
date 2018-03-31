@@ -1,10 +1,20 @@
 #!/usr/bin/env python3
-import os
-import sys
+import datetime
 
 
-project = 'Proces szkolenia astronautów do długotrwałych lotów i spacerów kosmicznych'
-author = 'Matt Harasymczuk'
+project = 'Analiza procesu selekcji, przygotowania do długotrwałych misji oraz treningu EVA w wybranych agencjach kosmicznych w celu zaproponowania programu szkolenia polskiego astronauty w kontekście przyszłych misji księżycowych'
+
+html_context = {
+    'university': 'Wyższa Szkoła Oficerska Sił Powietrznych',
+    'faculty': 'Wydział Lotnictwa',
+    'thesis': 'Praca Magisterska',
+    'name': project,
+    'author': 'Mateusz Harasymczuk<br>nr albumu 3094',
+    'supervisor': 'prof. dr hab. inż. płk. rez. Marek Grzegorzewski',
+    'proofreading': 'gen. bryg. pil. Mirosław Hermaszewski, kosmonauta Soyuz-30',
+    'city': 'Dęblin',
+    'year': '2018',
+}
 
 extensions = [
     'sphinx.ext.todo',
@@ -20,7 +30,7 @@ language = 'pl'
 master_doc = 'index'
 today_fmt = '%Y-%m-%d'
 source_suffix = ['.rst']
-imgmath_image_format = 'svg'
+imgmath_image_format = 'png'
 
 numfig = True
 numfig_format = {
@@ -30,8 +40,8 @@ numfig_format = {
     'code-block': 'List. %s',
 }
 
-version = '1.0'
-release = '1.0'
+version = '{now:%Y-%m-%d}'.format(now=datetime.datetime.now())
+release = '{now:%Y-%m-%d}'.format(now=datetime.datetime.now())
 
 html_theme = 'thesis'
 html_theme_path = ['_themes']

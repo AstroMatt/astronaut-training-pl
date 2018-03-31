@@ -28,6 +28,7 @@ Na chwilę obecną wyjścia w przestrzeń kosmiczną skupiają się głównie na
 
     Podział systemów oraz infrastruktury EVA. Źródło: NASA/JSC
 
+
 Podział skafandrów kosmicznych
 ==============================
 Najważniejszym podziałem skafandrów jest rozdzielenie ich ze względu na przeznaczenie:
