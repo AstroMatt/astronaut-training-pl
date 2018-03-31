@@ -8,7 +8,7 @@ html_context = {
     'university': 'Wyższa Szkoła Oficerska Sił Powietrznych',
     'faculty': 'Wydział Lotnictwa',
     'thesis': 'Praca Magisterska',
-    'name': project,
+    'thesis_title': project,
     'author': 'Mateusz Harasymczuk<br>nr albumu 3094',
     'supervisor': 'prof. dr hab. inż. płk. rez. Marek Grzegorzewski',
     'proofreading': 'gen. bryg. pil. Mirosław Hermaszewski, kosmonauta Soyuz-30',

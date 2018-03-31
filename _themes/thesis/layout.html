@@ -17,9 +17,9 @@
 
     {{ metatags }}
 
-    <title>{{ name }} - {{ author }} - {{ thesis }} - {{ university }}</title>
+    <title>{{ thesis_title }} - {{ author }} - {{ thesis }} - {{ university }}</title>
     <meta name="author" content="{{ author }}">
-    <meta name="description" content="{{ name }} - {{ author }} - {{ thesis }} - {{ university }}">
+    <meta name="description" content="{{ thesis_title }} - {{ author }} - {{ thesis }} - {{ university }}">
 
     <link rel="cannonical" href="http://thesis.astromatt.space">
 	<link rel="stylesheet" href="{{ pathto('_static/first-page.css', 1) }}" type="text/css" />
@@ -38,7 +38,7 @@
         <div id="main">
             <img src="{{ pathto('_static/wsosp-logo.png', 1) }}">
             <h1 id="thesis">{{ thesis }}</h1>
-            <h2 id="title">{{ name }}</h2>
+            <h2 id="title">{{ thesis_title }}</h2>
         </div>
 
         <div id="author">
