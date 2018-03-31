@@ -4,6 +4,7 @@ Infrastruktura szkoleniowa
 
 W tym rozdziale przedstawiono opis infrastruktury szkoleniowej wykorzystywanej w procesie szkolenia astronautów. Dalsza analiza jakościowa będzie się odnosiła do kwestii poruszanych poniżej.
 
+
 Centra szkolenia astronautów
 ============================
 Szkolenie astronautów odbywa się w wyspecjalizowanych ośrodkach treningowych. Skala i złożoność procesu szkolenia wymaga współpracy wielu agencji. Na chwilę obecną astronauci szkoleni są w ramach programów wymiany we wszystkich ośrodkach szkoleniowych. Ze względu na amerykańską regulację ITAR (International Traffic in Arms Regulations) określającą przemysł kosmiczny i rakietowy jako broń i zakazujący współpracy z Chinami, astronauci NASA nie odbywają szkolenia w ośrodkach ACC. Pozostałe kraje kooperują i wzajemnie szkolą astronautów w zakresie swojej specjalizacji. :numref:`table-infrastructure-training-centers` przedstawia listę centrów szkoleniowych.
@@ -133,6 +134,7 @@ Polski basen neutralnej pływalności
 Na chwilę obecną jest to jeden z najsłabiej reprezentowanych elementów infrastruktury szkolno-badawczej programu astronautycznego w Polsce. Polska nie posiada głębokich basenów i konieczne byłoby stworzenie tego typu ośrodka lub wykorzystanie centrum NBF w ESA. Ponadto w przypadku chęci tworzenia tego typu jednostki, konieczne jest stworzenie kadry szkoleniowej i jej długotrwałego procesu szkolenia. W tym przypadku najbardziej optymalne jest zawarcie umów międzynarodowych i skorzystanie z już istniejącej infrastruktury oraz rozpoczęcie programu budowy własnego centrum na potrzeby testowania i badań naukowych w zakresie bioastronautyki w przyszłości.
 
 Na dodatkową uwagę zasługuje fakt, iż w Ośrodku Szkolenia Nurków i Płetwonurków Wojska Polskiego w Gdyni znajduje się symulator M.E.T.S. identyczny z tym, który jest w laboratorium NBL oraz w kandayjskiej firmie Survival Systems (producent trenażera), która jest kontraktowana do szkolenia astronautów różnych agencji kosmicznych. Dodatkowo w Gdyni znajduje się komora niskich ciśnień.
+
 
 Wirówki przeciążeniowe
 ======================

@@ -330,8 +330,8 @@ Całość procesu rekrutacji jest dobrze udokumentowana i przedstawiona na kanal
     Aktywni kanadyjscy astronauci (od lewej): Joshua Kutryk, Jennifer Sidey, David Saint-Jacques, Jeremy Hansen. Źródło: CSA
 
 
-Analiza selekcji astronautów w kontekście celu pracy
-====================================================
+Analiza selekcji astronautów w kontekście stworzenia polskiego programu astronautycznego
+========================================================================================
 Wybrane agencje kosmiczne w podobny sposób dokonują rekrutacji. Wymagania, które stawiane są kandydatom na astronautę są równoznaczne z poziomem zdrowia wymaganym dla pilota samolotów wojskowych. Ponadto ogromny wpływ ma również doświadczenie, multidyscyplinarność i formalna edukacja. Równie duży nacisk kładzie się na badania psychologiczne, jednakże testy wzbogacone są o elementy oceniające umiejętność pracy w izolacji.
 
 We wszystkich analizowanych programach kandydat poddawany jest testom umiejętności działania pod presją, odporności na stres, badaniu kondycji fizycznej i wydolności organizmu, stabilności psychicznej, umiejętności kojarzenia i przewidywania jak również wytrzymałości na przeciążenia i aktywności psychomotorycznej.
