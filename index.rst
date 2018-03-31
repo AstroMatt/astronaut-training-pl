@@ -11,17 +11,15 @@
     book/06-robotyka-i-systemy-iss.rst
     book/07-spacery-kosmiczne.rst
     book/08-pilotaz.rst
-    book/11-przydzialy-naziemne.rst
-    book/12-zakonczenie.rst
-
-..    book/09-szkolenie-do-misji.rst
-..    book/10-misja.rst
+    book/09-przydzialy-naziemne.rst
+    book/10-polski-program-astronautyczny.rst
+    book/11-zakonczenie.rst
 
 .. toctree::
     :maxdepth: 4
     :hidden:
 
-    book/13-zalaczniki.rst
+    book/12-zalaczniki.rst
 
 Bibliografia
 ============
