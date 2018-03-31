@@ -125,7 +125,7 @@ Idealny kandydat posiada :cite:`ESA-Astronaut-Training-Requirements`:
 - umiejętność długotrwałej współpracy w międzykulturowym środowisku,
 - multidyscyplinarność.
 
-Proces badań wstępnych jest prowadzony przez zespół wykwalifikowanych specjalistów z zakresu psychologii. Ostatnim etapem w procesie selekcji jest rozmowa z komisją ekspertów. Wśród pytań zadawanych przez członków komisji wymienić można te, które pojawiają się najczęściej podczas rekrutacji :cite:`Hadfield2013`, :cite:`Hermaszewski2013`, :cite:`Anderson2015`, :cite:`Massimino2016`, :cite:`Wolfe1979` (pytania są tłumaczone przez autora pracy):
+Proces badań wstępnych jest prowadzony przez zespół wykwalifikowanych specjalistów z zakresu psychologii. Ostatnim etapem w procesie selekcji jest rozmowa z komisją ekspertów. Wśród pytań zadawanych przez członków komisji wymienić można te, które pojawiają się najczęściej podczas rekrutacji :cite:`Hadfield2013`, :cite:`Hermaszewski2013`, :cite:`Anderson2015`, :cite:`Massimino2016`, :cite:`Wolfe1979`, :cite:`Melvin2017` (pytania są tłumaczone przez autora pracy):
 
 - dlaczego chcesz zostać astronautą?
 - opisz swoje mocne strony i jak je wykorzystujesz,
@@ -237,43 +237,31 @@ Ponadto agencje kosmiczne Zjednoczonych Emiratów Arabskich oraz Indyjska Agencj
 
 NASA - Narodowa Agencja Aeronautyki i Astronautyki (USA)
 --------------------------------------------------------
-Amerykańska agencja kosmiczna NASA organizuje rekrutację na kandydata na astronautę (ang. *ASCAN - Astronaut Candidate*) regularnie co dwa lata. Ostatnia tego typu rekrutacja miała miejsce na przełomie 2015/2016 roku i zakończyła się 15 lutego 2016 :cite:`NASA-Astronaut-Selection-Proces`. Dzięki zaangażowaniu mediów społecznościowych oraz innych środków masowego przekazu swoje aplikacje złożyło rekordowo dużo osób. Komisja rekrutacyjna musiała rozpatrzyć 18000 podań i wybrać 12 najlepszych kandydatów (:numref:`figure-selection-nasa-2017`), którzy rozpoczęli przygotowanie i szkolenie podstawowe :cite:`NASA-Astronaut-Selection`.
+Amerykańska agencja kosmiczna NASA organizuje rekrutację na kandydata na astronautę (ang. *ASCAN - Astronaut Candidate*) regularnie co dwa lata. Ostatnia tego typu rekrutacja miała miejsce na przełomie 2015/2016 roku i zakończyła się 15 lutego 2016 :cite:`NASA-Astronaut-Selection-Proces`. Dzięki zaangażowaniu mediów społecznościowych oraz innych środków masowego przekazu swoje aplikacje złożyło rekordowo dużo osób. Komisja rekrutacyjna musiała rozpatrzyć 18000 podań i wybrać 12 najlepszych kandydatów, którzy rozpoczęli przygotowanie i szkolenie podstawowe :cite:`NASA-Astronaut-Selection`.
 
-Klasy astronautów podobnie jak zespoły przydzielone do misji tworzą tzw. insygnia klasy (ang. *class patch*). Każda z grup (:numref:`table-selection-nasa`) kandydatów ma swoją unikalną nazwę, która jest nadawana przez poprzedzającą selekcję :cite:`Anderson2015`.
+Klasy astronautów podobnie jak zespoły przydzielone do misji tworzą tzw. insygnia klasy (ang. *class patch*). Każda z grup kandydatów ma swoją unikalną nazwę, która jest nadawana przez poprzedzającą selekcję :cite:`Anderson2015`, :cite:`Inactive-NASA-Astronauts`.
 
 .. figure:: ../img/selection-nasa-2017.jpg
     :name: figure-selection-nasa-2017
     :scale: 10%
     :align: center
 
-    Selekcja astronautów NASA rozpoczynających szkolenie w 2017 roku (ang. *2017 NASA Astronaut Class*): (od lewej) Zena Cardman, Jasmin Moghbeli, Jonny Kim, Frank Rubio, Matthew Dominick, Warren Hoburg, Robb Kulin, Kayla Barron, Bob Hines, Raja Chari, Loral O'Hara and Jessica Watkins. Źródło: NASA/Robert Markowitz
-
-.. csv-table:: Lista aktywnych astronautów NASA :cite:`Active-NASA-Astronauts`
-    :name: table-astronauts-nasa
-    :file: ../data/astronauts-nasa.csv
-    :header-rows: 1
-
+    Selekcja astronautów NASA rozpoczynających szkolenie w 2017 roku (ang. *2017 NASA Astronaut Class*): (od lewej) Zena Cardman, Jasmin Moghbeli, Jonny Kim, Frank Rubio, Matthew Dominick, Warren Hoburg, Robb Kulin, Kayla Barron, Bob Hines, Raja Chari, Loral O'Hara and Jessica Watkins. Źródło: NASA/Robert Markowitz :cite:`Active-NASA-Astronauts`
 
 Roskosmos (Federacja Rosyjska)
 ------------------------------
-Do końca roku 2015 agencja kosmiczna Roskosmos podlegała strukturom wojskowym Federacji Rosyjskiej i wcześniej Związkowi Socjalistycznych Republik Radzieckich. Z tego powodu kandydaci na kosmonautów byli wybierani wśród oficerów sił powietrznych i pilotów wojskowych. Wraz ze zmianami organizacyjnymi z 31 grudnia 2015 Roskosmos przekształcił się w cywilną agencję zarządzaną na wzór amerykańskiej NASA :cite:`Cosmonauts-Biographical-Data`. Z tego powodu proces rekrutacji kosmonautów uległ zmianie i w najbliższych latach wśród rosyjskich kosmonautów znajdzie się więcej cywili, naukowców i inżynierów. Listę wszystkich rosyjskich i radzieckich kosmonautów przedstawia :numref:`table-astronauts-roscosmos`.
+Do końca roku 2015 agencja kosmiczna Roskosmos podlegała strukturom wojskowym Federacji Rosyjskiej i wcześniej Związkowi Socjalistycznych Republik Radzieckich. Z tego powodu kandydaci na kosmonautów byli wybierani wśród oficerów sił powietrznych i pilotów wojskowych. Wraz ze zmianami organizacyjnymi z 31 grudnia 2015 Roskosmos przekształcił się w cywilną agencję zarządzaną na wzór amerykańskiej NASA :cite:`Cosmonauts-Biographical-Data`. Z tego powodu proces rekrutacji kosmonautów uległ zmianie i w najbliższych latach wśród rosyjskich kosmonautów znajdzie się więcej cywili, naukowców i inżynierów.
 
 ESA - Europejska Agencja Kosmiczna
 ----------------------------------
 Jednym z warunków kandydowania na stanowisko astronauty ESA jest narodowość. Kandydat musi posiadać obywatelstwo państwa członkowskiego (ang. *ESA Member State*) tej agencji. Ostatni proces rekrutacji Europejskiej Agencji Kosmicznej rozpoczął się w maju 2008 a zakończył rok później w 2009 roku. Selekcję prowadziła jednostka EAC (ang. *European Astronaut Centre*) w Kolonii w Niemczech. Wzięło w nim udział 8413 kandydatów. 20 maja 2009 sześciu nowych kandydatów na astronautów zostało przedstawionych na konferencji prasowej w siedzibie ESA w Paryżu. Kandydaci rozpoczęli swoje wstępne przeszkolenie 1 września 2009 roku. W tej selekcji wybrano następujących kandydatów :cite:`How-to-Become-an-ESA-Astronaut`, :cite:`International-Astronauts`:
-
-.. csv-table:: Lista aktywnych astronautów ESA :cite:`European-Astronaut-Corps`
-    :name: table-astronauts-esa
-    :file: ../data/astronauts-esa.csv
-    :header-rows: 1
-    :widths: 20, 10, 10, 10, 50
 
 .. figure:: ../img/selection-esa-2009.jpg
     :name: figure-selection-esa-2009
     :scale: 20%
     :align: center
 
-    Sześciu nowych rekrutów European Astronaut Corps w European Astronaut Centre w roku 2009. Timothy Peake, Andreas Mogensen, Alexander Gerst, Luca Parmitano, Samantha Cristoforetti, Thomas Pesquet. Źródło: ESA–M. Koell
+    Sześciu nowych rekrutów European Astronaut Corps w European Astronaut Centre w roku 2009. Timothy Peake, Andreas Mogensen, Alexander Gerst, Luca Parmitano, Samantha Cristoforetti, Thomas Pesquet. Źródło: ESA–M. Koell :cite:`European-Astronaut-Corps`
 
 JAXA - Japońska Agencja Eksploracji Kosmicznej
 ----------------------------------------------
@@ -282,11 +270,6 @@ Przez ponad 20 lat od lotu Mamoru Mohri, pierwszego Japończyka, który polecia�
 Podczas jednej z selekcji kandydatów obserwowano bardzo wnikliwie, śledząc ich zachowania również poza oficjalnym czasem. Brano pod uwagę w jaki sposób zachowują się w restauracji, czy zostawiają jedzenie na talerzu, czy sprzątają po sobie i jak zachowują się pod presją. Jednym z zadań podczas rekrutacji było złożenie tysiąca łabędzi origami w określonym czasie. Komisja rekrutacyjna obserwowała staranność zgięć, przyłożenie się kandydata do powtarzającego zadania, jakość wykonania oraz działanie pod presją upływającego czasu.
 
 Na chwilę obecną nie są znane dalsze plany na temat rekrutacji kolejnych astronautów JAXA.
-
-.. csv-table:: Lista astronautów JAXA
-    :name: table-astronauts-jaxa
-    :file: ../data/astronauts-jaxa.csv
-    :header-rows: 1
 
 .. figure:: ../img/selection-jaxa.jpg
     :name: figure-selection-jaxa
@@ -300,11 +283,6 @@ CNSA - Agencja Kosmiczna Chińskiej Republiki Ludowej
 Proces selekcji Chińskich astronautów jest utajniony przez rząd Chińskiej Republiki Ludowej. Wiadomo, że kandydaci są oficerami sił powietrznych i mają doświadczenie jako piloci wojskowi. Ponadto mają być w wieku od 25 do 30 lat, z minimalnym nalotem 800 godzin. Muszą także posiadać wykształcenie naukowe. Wzrost kandydatów musi zawierać się w przedziale 160 cm do 172 cm, a waga 50 kg do 70 kg.
 
 Z informacji podanych do publicznej wiadomości wynika, że w niedalekiej przyszłości CNSA planuje rekrutację 12 astronautów w tym dwóch kobiet. Głównym celem jest stworzenie załogi, która będzie odbywała misje do Chińskiej Stacji Orbitalnej *Tiangong*.
-
-.. csv-table:: Lista astronautów CNSA
-    :name: table-astronauts-cnsa
-    :file: ../data/astronauts-cnsa.csv
-    :header-rows: 1
 
 CSA - Kanadyjska Agencja Kosmiczna
 ----------------------------------

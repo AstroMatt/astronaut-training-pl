@@ -89,3 +89,18 @@ Odprawa po symulacjach
     - debriefing
     - Każda osoba biorąca udział w symulacji może się wypowiedzieć na debriefingu
     - Po 4h simie, debriefują przez godzinę
+
+
+Tabele
+======
+
+.. csv-table:: Parametry techniczne statków kosmicznych Soyuz w różnych wersjach
+    :name: table-soyuz-characteristics
+    :file: ../data/soyuz-characteristics.csv
+    :header-rows: 1
+    :stub-columns: 1
+
+.. csv-table:: Systemy statku Soyuz
+    :name: table-soyuz-systems
+    :file: ../data/soyuz-systems.csv
+    :header-rows: 1

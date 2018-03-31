@@ -57,8 +57,6 @@ Program Apollo
 --------------
 Najbardziej ambitnym programem w historii astronautyki był program Apollo. W ciągu niespełna dekady udało się opracować technologię oraz procedury pozwalające człowiekowi stanąć na powierzchni Księżyca i bezpiecznie powrócić na Ziemię. Program Apollo był próbą realizacji oświadczenia prezydenta USA J. F. Kennedy'ego z 12 września 1962 roku :cite:`Kennedy1962`.
 
-:numref:`table-selection-apollo` przedstawia listę astronautów programu Apollo wraz z przydziałem do misji (:numref:`table-apollo-mission-list`) oraz datami pobytu na Księżycu.
-
 Każda z misji programu Apollo cechowała się innym zadaniem w zależności od kategorii do której była przydzielona :cite:`ApolloChronology2007`. :numref:`table-apollo-mission-types` przedstawia typy misji oraz opis każdej z kategorii.
 
 Krótka charakterystyka misji Apollo:

@@ -15,7 +15,7 @@ Szkolenie pilotażowe kosmonautów rosyjskich i wcześniej radzieckich podobnie 
 
 Europejscy astronauci uzyskują licencję pilota prywatnego PPL(A) na lotnisku w Kolonii w Niemczech. Podczas ćwiczeń wykonują zadania zgodnie z programem szkolenia pilotów cywilnych.
 
-W ramach ćwiczeń trenowane są :cite:`Parazynski2017`, :cite:`Massimino2017`:
+W ramach ćwiczeń trenowane są :cite:`Parazynski2017`, :cite:`Massimino2016`:
 
 - loty akrobacyjne na wysokomanewrowych samolotach,
 - latanie w formacji,
@@ -109,7 +109,7 @@ Wszystkie załogowe statki kosmiczne są wyposażone w system ewakuacji podczas 
 
 Na specjalną uwagę zasługuje fakt, iż w programie Gemini zdecydowano się na zmianę systemu awaryjnego opuszczania pojazdu przy starcie i zastąpiono go wyrzucanymi fotelami katapultowymi. W podobny system był wyposażony statek Wostok, którym Gagarin jako pierwszy okrążył Ziemię. W późniejszych lotach radzieckich Woschod ze względu na brak miejsca w kabinie zrezygnowano z systemu awaryjnego.
 
-System ewakuacji załogi podczas startu może być aktywowany:
+System ewakuacji załogi podczas startu może być aktywowany :cite:`AstronautTrainingJournals2005`:
 
 - automatycznie (przerwanie minimum dwóch z trzech obwodów),
 - ręcznie przez kontrolerów lotu na polecenie kierownika lotu (ang. Flight Director),
@@ -121,7 +121,7 @@ System ten został użyty podczas misji Sojuz T-10-1 (26 września 1983) i pozwo
 
 Z systemem ewakuacji podczas startu związany jest również wypadek, w którym zginęli inżynierowie pracujący na platformie w kosmodromie Bajkonur w Kazachstanie. System będąc uzbrojonym błędnie zinterpretował dane na temat awarii i uruchomił silniki odrzutowe. Od tego momentu system uzbraja się bezpośrednio przed startem po opuszczeniu przez wszystkich platformy startowej i okolic rakiety Sojuz 7K-OK No.1 :cite:`Kamanin-Diaries`.
 
-Podczas pierwszych testowych lotów prom był wyposażony w fotele katapultowe dla pierwszego i drugiego pilota. Z systemu tego zrezygnowano w późniejszych lotach ze względu na niewielkie prawdopodobieństwo przeżycia załogi. W zamian za to zastosowano system tzw. Mode VIII - Bail-out, w którym wyposażeni w spadochrony astronauci mieli zsunąć się z wyciągniętej z promu grubej rury chroniącej przed uderzeniem w usterzenie i skrzydła a następnie na spadochronach wylądować w oceanie i rozpocząć procedurę wodnego przetrwania (opis w :numref:`Przetrwanie w warunkach wodnych` dotyczącym przetrwania w warunkach morskich i oceanicznych).
+Podczas pierwszych testowych lotów prom był wyposażony w fotele katapultowe dla pierwszego i drugiego pilota. Z systemu tego zrezygnowano w późniejszych lotach ze względu na niewielkie prawdopodobieństwo przeżycia załogi. W zamian za to zastosowano system tzw. Mode VIII - Bail-out, w którym wyposażeni w spadochrony astronauci mieli zsunąć się z wyciągniętej z promu grubej rury chroniącej przed uderzeniem w usterzenie i skrzydła a następnie na spadochronach wylądować w oceanie i rozpocząć procedurę wodnego przetrwania (opis w :numref:`Przetrwanie w warunkach wodnych` dotyczącym przetrwania w warunkach morskich i oceanicznych) :cite:`NASACrewEscapeWorkbook`.
 
 
 Polski udział w symulacjach i szkoleniu pilotażowym
