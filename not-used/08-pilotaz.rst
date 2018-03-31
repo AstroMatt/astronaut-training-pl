@@ -1,3 +1,12 @@
+Na ten fakt wpłynęły następujące cechy:
+
+- specyfika pracy,
+- umiejętność pilotowania eksperymentalnych statków powietrznych,
+- wykonywanie procedur w ekstremalnych warunkach,
+- przyzwyczajenie pilota i jego rodziny do ciągłej nieobecności w domu,
+- przyzwyczajenie pilota i jego rodziny do niebezpiecznego charakteru pracy :cite:`Glover2016`.
+
+
 
 .. todo::
     Reentry contingency: :cite:`Hadfield2013`
@@ -14,6 +23,17 @@ Przy misjach amerykańskiego promu Space Shuttle musiano zmodyfikować system. P
 
 
 
+Podejście do ISS i manewr dokowania
+-----------------------------------
+Statek Sojuz wyposażony jest w system *KURS*, który pozwala na automatyczne naprowadzanie oraz dokownie kapsuły do Międzynarodowej Stacji Kosmicznej. System ten był opracowany dla kapsuł dokujących do stacji Salut :cite:`Siddiqi2000` oraz dla stacji MIR. Obecnie system jest wypierany przez nowszy i dokładniejszy system, którego podzespoły w kapsule są znacznie lżejsze.
+
+Wejście w atmosferę
+-------------------
+Ze względu na przesunięty środek ciężkości kapsuły Sojuz istnieje możliwość za pomocą niewielkich silniczków sterowania miejscem położenia tego punktu. Dzięki temu astronauci uzyskują możliwość sterowania kapsułą a zasięg korekty profilu lądowania może wynieść nawet do kilkunastu kilometrów.
+
+Lądowanie
+---------
+Kapsuła Soujz używa tzw. *systemu miękkiego lądowania*. System ten składa się z niewielkich silniczków rakietowych z wektorem ciągu przeciwnie skierowanym do lotu kapsuły. System ten jest aktywowany na dwa metry :cite:`Hadfield2013` przed uderzeniem w ziemię pozwalając na zminimalizowanie w znacznym stopniu siły uderzenia o grunt. Jego użycie powoduje charakterystyczny płomień i dym przy uderzeniu w ziemię co mylnie kojarzone jest z sytuacją niebezpieczną. Aktywacja tego systemu oraz *miękkie lądowanie* zostało uwiecznione na taśmach wideo :cite:`Soyuz-undocking-reentry-landing`.
 
 
 Awaryjne opuszczanie orbity

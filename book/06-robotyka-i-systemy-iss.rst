@@ -126,6 +126,8 @@ Polska jest liderem na skalę światową w tematyce konstrukcji łazików księ�
 
 Korzystając z unikalnych kompetencji możliwe jest stworzenie części szkolenia opierającego się o posiadane już zasoby w postaci łazików jak również planu szkolenia dla operatorów tych pojazdów.
 
+W Europejskiej Agencji Kosmicznej w Centrum Inżynierii, Technologii i Nauki (ESTEC) przy projekcie europejskiego ramienia robotycznego (ERA) pracuje Polski inżynier, którego kompetencje pomogłyby stworzyć plan rozwoju podobnych technologii w Polsce.
+
 
 Analiza szkolenia robotycznego i systemów ISS w kontekście celu pracy
 =====================================================================

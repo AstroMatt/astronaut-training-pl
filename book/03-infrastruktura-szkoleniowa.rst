@@ -313,8 +313,9 @@ System Vertical Treadmill dzięki zmianie kąta nachylenia bieżni i odległośc
 
 W ramach polskiej infrastruktury można wyróżnić ośrodki przygotowania kondycyjnego WSOSP oraz sprzęt Głównej Szkoły Służby Pożarniczej. Miejsca te są dobrze przygotowane na wykorzystanie ich w ramach programu.
 
-Loty paraboliczne
-=================
+
+Loty paraboliczne symulujące środowisko mikrograwitacji
+=======================================================
 W celu zapoznania astronautów z wpływem mikrograwitacji na organizm człowieka oraz specyficznym zachowaniem podczas spadku swobodnego agencje kosmiczne zaczęły stosować samoloty w lotach parabolicznych. W zależności od parametrów paraboli można otrzymać:
 
 - mikrograwitacja 0g,
@@ -333,8 +334,8 @@ W celu zapoznania astronautów z wpływem mikrograwitacji na organizm człowieka
 Polska na chwilę obecną nie posiada samolotu zdolnego do prowadzenia pełnego szkolenia przygotowującego do lotów w środowisku mikrograwitacji. Zakup samolotu, jego dostosowanie oraz utrzymanie byłoby wysoce nieefektywne ekonomicznie i optymalniejszym rozwiązaniem byłoby skorzystanie z usług francuskiej firmy Novespace w modelu identycznym jak Europejska Agencja Kosmiczna.
 
 
-Komory niskich ciśnień i komory próżniowe
-=========================================
+Komory niskich ciśnień, próżniowe oraz termalne
+===============================================
 Zastosowanie komór niskich ciśnieniowych oraz komór próżniowych (ang. *vacuum chamber*) w trakcie szkolenia ma swoje początki wraz z pierwszymi prototypami skafandrów. Wówczas stosowano je do sprawdzania szczelności wytwarzanych iteracji ubrań ciśnieniowych. Obecnie podczas treningu komora ciśnieniowa wykorzystywana jest na cztery główne sposoby:
 
 - zapoznanie się z objawami hypoxii (ćwiczenia bez skafandra),
@@ -346,16 +347,13 @@ Astronauci podobnie jak piloci samolotów stratosferycznych tj. U2, są poddawan
 
 W Polsce istnieje kilka ośrodków zdolnych do prowadzenia zajęć tego typu, są to m.in. komora ciśnieniowa w Klinice Medycyny Hiperbarycznej i Ratownictwa Morskiego na Uniwersytecie Gdańskim oraz komora ciśnieniowa na WIML w Warszawie.
 
-
-Komory termalne
-===============
 Komory termalne (ang. *thermal chamber*) wykorzystuje się aby zapoznać astronautów ze zmiennym środowiskiem cieplnym występującym na zewnątrz pojazdu. Podczas ćwiczeń w komorach termalnych ćwiczący uczy się regulacji temperatury za pomocą systemu klimatyzacji skafandra.
 
 Polska posiada komorę termalną w ramach infrastruktury WIML w Warszawie, jednakże jest ona niewystarczająca do prowadzenia wyżej wymienionych badań oraz części szkolenia. W ramach tego etapu sugeruje się skorzystanie z urządzeń innych agencji.
 
 
-Systemy podwieszania
-====================
+Systemy podwieszania symulujące środowisko obniżonej grawitacji
+===============================================================
 Do przygotowania astronautów w ograniczonym zakresie ruchu oraz przy zmieniającej się perspektywie widoku w programach szkolenia zastosowano system podwieszania. Ponadto to rozwiązanie pozwala na symulację grawitacji panującej na Księżycu, Marsie i innych ciałach niebieskich poprzez odciążenie astronauty i zastosowanie lin o odpowiedniej sprężystości.
 
 .. figure:: ../img/infrastructure-suspension-schematics.png
@@ -411,8 +409,8 @@ Habitat Lunares został wybudowany przez firmę Space Garden przy udziale autora
 - systemu operacyjnego habitatów pozaziemskich.
 
 
-Analiza infrastruktury szkoleniowej w kontekście celu pracy
-===========================================================
+Analiza infrastruktury szkoleniowej w kontekście polskiego wkładu w program astronautyczny
+==========================================================================================
 Jednym z celów tej pracy jest zaproponowanie planu stworzenia infrastruktury szkoleniowej. Aby Polska uczestniczyła w programie szkolenia astronautów rozwiązania muszą być unikalne lub pozwalające na przeprowadzenie optymalizacji kosztów szkoleniowych.
 
 Polska obecnie posiada część infrastruktury wykorzystywanej podczas szkolenia astronautów. Są to m.in.:
