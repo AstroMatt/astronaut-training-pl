@@ -62,7 +62,7 @@ Obszerną część zadań astronauty na Ziemi stanowi praca jako kontroler misji
 
 Przykładem dobrej komunikacji i efektywnego wykorzystania doświadczenia załogi może być praca astronautów Europejskiej Agencji Kosmicznej podczas EVA, które odbyło się w styczniu 2017 roku. Podczas tego wydarzenia astronauta Luca Parmitano wspierał Thomasa Pesqueta w wypełnieniu zadań, a dzięki temu udało się osiągnąć wszystkie założone cele dla tego EVA na dużo przed czasem.
 
-Uczestnictwo w roli CAPCOMa wymaga stałego kontaktu z załogą w kosmosie. Jednakże aby przygotować astroautów do specyficznego języka, skrótów myślowych i akronimów używanych przy lotach załogowych można wykorzystać infrastrukturę obecnie istniejącą w kraju.
+Uczestnictwo w roli CAPCOMa wymaga stałego kontaktu z załogą w kosmosie. Jednakże aby przygotować astronautów do specyficznego języka, skrótów myślowych i akronimów używanych przy lotach załogowych można wykorzystać infrastrukturę obecnie istniejącą w kraju.
 
 
 Popularyzacja nauki i obszaru S.T.E.M.
