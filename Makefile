@@ -1,10 +1,22 @@
-build:
-    rm -fr _book/
-    clear
-    sphinx-build -j 4 -b singlehtml . _book/
+book = /tmp/astronauts-polish-book/
+slides = /tmp/astronauts-polish-slides/
+cpu_cores = 11
+format = singlehtml
 
-rebuild:
-    sphinx-build -j 4 -b singlehtml . _book/
+
+book:
+	rm -fr $(book)
+	clear
+	sphinx-build -j $(cpu_cores) -b $(format) . $(book)
+
+slides:
+	rm -fr $(book)
+	clear
+	sphinx-build -j $(cpu_cores) -b $(format) _slides/ $(slides)
+
+help:
+	@sphinx-build -M help help help
 
 clean:
-    -rm -fr _book/
+	-rm -fr $(book)
+	-rm -fr $(slides)

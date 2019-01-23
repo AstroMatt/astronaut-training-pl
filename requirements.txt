@@ -1,2 +1,6 @@
-Sphinx==1.8.3
+sphinx==1.8.3
+sphinx_rtd_theme
 sphinxcontrib-bibtex
+
+# sphinxcontrib-book
+# sphinxjp.themes.revealjs
