@@ -13,7 +13,7 @@ html_context = {
     'supervisor': 'prof. dr hab. inż. płk. rez. Marek Grzegorzewski',
     'proofreading': 'gen. bryg. pil. Mirosław Hermaszewski, kosmonauta Soyuz-30',
     'city': 'Dęblin',
-    'year': '2018',
+    'year': '2019',
 }
 
 extensions = [
