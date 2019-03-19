@@ -1,5 +1,5 @@
-book = /tmp/astronauts-polish-book/
-slides = /tmp/astronauts-polish-slides/
+book = /tmp/book-astro/
+slides = /tmp/slides-astro/
 cpu_cores = 11
 format = singlehtml
 
