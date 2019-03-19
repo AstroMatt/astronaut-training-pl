@@ -56,11 +56,7 @@ latex_elements = {
 
 exclude_patterns = [
     'not-used/*',
-    'README.rst'
 ]
-
-
-
 
 todo_emit_warnings = False
 todo_include_todos = True
@@ -70,7 +66,7 @@ exclude_patterns = []
 # Standard book config
 # -----------------------------------------------------------------------------
 
-import datetime
+from datetime import datetime
 import os
 import re
 import subprocess
@@ -80,8 +76,6 @@ import sys
 html_theme = 'sphinx_rtd_theme'
 
 exclude_patterns = exclude_patterns + [
-    '*/_template.rst',
-    '*/solution/*',
     '.*',
     'venv*',
     'virtualenv*',
@@ -91,9 +85,13 @@ exclude_patterns = exclude_patterns + [
     '_static',
     '_themes',
     '_tmp',
+    '*/_template.rst',
+    '*/contrib/*',
+    '*/solution/*',
     '*/solutions/*',
     '**.ipynb_checkpoints',
-    'README.rst'
+    'README.rst',
+    'TODO.rst',
 ]
 
 numfig_format = {
@@ -116,10 +114,13 @@ today_fmt = '%Y-%m-%d'
 
 project_slug = re.sub(r'[\W]+', '', project)
 sha1 = subprocess.Popen('git log -1 --format="%h"', stdout=subprocess.PIPE, shell=True).stdout.read().decode().replace('\n', '')
-today = datetime.date.today()
-version = f'#{sha1}, {today:%Y-%m-%d}'
-release = f'#{sha1}, {today:%Y-%m-%d}'
-copyright = f'{today:%Y}, {author} <{email}>'
+now = datetime.now()
+year = now.year
+today = now.strftime('%Y-%m-%d')
+
+version = f'#{sha1}, {today}'
+release = f'#{sha1}, {today}'
+copyright = f'{year}, {author} <{email}>'
 
 extensions_dir = os.path.join(os.path.dirname(__file__), '', '_extensions')
 sys.path.append(extensions_dir)
