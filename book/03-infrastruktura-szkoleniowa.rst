@@ -160,7 +160,7 @@ Do najważniejszych wirówek przeciążeniowych wykorzystywanych w załogowych l
 
 CPK - CF-7
 ----------
-Wirówka przeciążeniowa CF-7 została uruchomiona w 1973 roku. Wybrane parametry technicze przedstawia :numref:`table-infrastructure-centrifuge-human`. Zakres badań prowadzonych w urządzeniu :cite:`CPKCentrifuge`:
+Wirówka przeciążeniowa CF-7 została uruchomiona w 1973 roku. Wybrane parametry techniczne przedstawia :numref:`table-infrastructure-centrifuge-human`. Zakres badań prowadzonych w urządzeniu :cite:`CPKCentrifuge`:
 
 - test tolerancji przyspieszenia podczas szkolenia i selekcji pilotów i kosmonautów,
 - badanie wpływu ekstremalnych warunków lotów kosmicznych na organizm człowieka,
@@ -178,7 +178,7 @@ Wirówka przeciążeniowa CF-7 została uruchomiona w 1973 roku. Wybrane paramet
 
 CPK - CF-18
 -----------
-W 1980 roku w Centrum Przygotowania Kosmonautów otworzono drugą wirówkę przeciążeniową, która umożliwia wymianę wnętrza kabiny, oraz parametrów wewnątrz kabiny tj.: temperatura, skład powietrza, wilgotność i ciśnienie. Wirówka CF-18 ma większy gradient przyspieszenia oraz maksymalną prędkość obrotową dającą symulowane przeciążenie rzędu 30g :cite:`CPKCentrifuge`. Wybrane parametry technicze przedstawia :numref:`table-infrastructure-centrifuge-human`.
+W 1980 roku w Centrum Przygotowania Kosmonautów otworzono drugą wirówkę przeciążeniową, która umożliwia wymianę wnętrza kabiny, oraz parametrów wewnątrz kabiny tj.: temperatura, skład powietrza, wilgotność i ciśnienie. Wirówka CF-18 ma większy gradient przyspieszenia oraz maksymalną prędkość obrotową dającą symulowane przeciążenie rzędu 30g :cite:`CPKCentrifuge`. Wybrane parametry techniczne przedstawia :numref:`table-infrastructure-centrifuge-human`.
 
 .. figure:: ../img/infrastructure-centrifuge-cf-18.jpg
     :name: figure-infrastructure-centrifuge-cf-18
@@ -189,7 +189,7 @@ W 1980 roku w Centrum Przygotowania Kosmonautów otworzono drugą wirówkę prze
 
 NASA - Ames Research Center 20-G Centrifuge
 -------------------------------------------
-Amerykańska wirówka przeciążeniowa 20-G Centrifuge znajduje się w ośrodku Ames Research Center, Moffett Field, CA w USA przedstawiona jest na :numref:`figure-infrastructure-centrifuge-20g`. Urządzenie służy do szkolenia personelu latającego Air Force, US Navy oraz dla astronautów NASA :cite:`NASACentrifuge`. Wybrane parametry technicze przedstawia :numref:`table-infrastructure-centrifuge-human`. Niezależnie przed lotem statkiem Sojuz astronauci NASA i ESA przechodzą szkolenie w Rosyjskich wirówkach CF-7 i CF-18.
+Amerykańska wirówka przeciążeniowa 20-G Centrifuge znajduje się w ośrodku Ames Research Center, Moffett Field, CA w USA przedstawiona jest na :numref:`figure-infrastructure-centrifuge-20g`. Urządzenie służy do szkolenia personelu latającego Air Force, US Navy oraz dla astronautów NASA :cite:`NASACentrifuge`. Wybrane parametry techniczne przedstawia :numref:`table-infrastructure-centrifuge-human`. Niezależnie przed lotem statkiem Sojuz astronauci NASA i ESA przechodzą szkolenie w Rosyjskich wirówkach CF-7 i CF-18.
 
 .. figure:: ../img/infrastructure-centrifuge-20g.jpg
     :name: figure-infrastructure-centrifuge-20g
