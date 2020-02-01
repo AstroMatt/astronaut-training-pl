@@ -2,7 +2,7 @@
 Rys historyczny załogowych lotów kosmicznych
 ********************************************
 
-Programy kosmiczne były prowadzone głównie przez dwa państwa USA i Federację Rosyjską (ZSRR). ZSRR był inicjatorem współpracy międzynarodowej. W ramach programu Interkosmos polecieli pierwsi kosmonauci niebędący obywatelami wyżej wymienionych mocarstw, a generał Hermaszewski został pierwszym polakiem, który tego dokonał.
+Programy kosmiczne były dotychczas prowadzone głównie przez dwa państwa USA i Federację Rosyjską (wcześniej Związek Socjalistycznych Republik Radzieckich). ZSRR był inicjatorem współpracy międzynarodowej. W ramach programu Interkosmos polecieli pierwsi kosmonauci niebędący obywatelami wyżej wymienionych mocarstw, a generał Hermaszewski został pierwszym Polakiem, który tego dokonał.
 
 Podczas selekcji kosmonauci i astronauci wybierani byli głównie ze względu na doświadczenie w pilotażu, chociaż pojawiały się również grupy osób z innych specjalności tj. inżynieria, nauka, medycyna jak również nauczyciele.
 
@@ -29,7 +29,7 @@ Pierwszym zwierzęciem, które przekroczyło linię graniczną kosmosu był pies
 
 Pierwszym człowiekiem w kosmosie był major Jurij Gagarin (awansowany później na pułkownika). Gagarin był jednym z 20 osób, które zostały wybrane wśród pilotów wojskowych Związku Radzieckiego :cite:`Siddiqi2000`. Wg. podań świadków major wyróżniał się wytrzymałością, duchem oraz doświadczeniem. Major został wystrzelony przez Związek Radziecki 12 kwietnia 1961 w 108 minutowy lot orbitalny wokół Ziemi na pokładzie Vostok-1. Po okrążeniu Ziemi wszedł ponownie w atmosferę w tzw. krzywej balistycznej cechującej się wysokim poziomem przeciążeń działających na ciało kosmonauty. Ze względu na fakt, iż Radzieccy konstruktorzy nie dysponowali jeszcze techniką aby bezpiecznie wylądować statkiem kosmicznym na ziemi zdecydowano się na użycie fotela katapultowego i spadochronu. Na poziomie 20 000 stóp nad poziomem morza (ok. 6 tys. metrów) Gagarin katapultował się z kapsuły i za pomocą spadochronu bezpiecznie wrócił na powierzchnię :cite:`Why-Yuri-Gagarin-Remains-the-First-Man-in-Space`.
 
-Amerykańską odpowiedzią na plan wysłania człowieka w kosmos był program Mercury. W trakcie selekcji do programu wybrano siedmiu astronautów. 5 maja 1961 Alan Shepard jako pierwszy amerykanin poleciał w kosmos. 12 września 1962. Pół roku po locie Sheparda, prezydent Stanów Zjednoczonych Ameryki J. F. Kennedy wygłosił mowę na Uniwersytecie Rice :cite:`Kennedy1962`, w której zmobilizował naród i postawił cel, aby "do końca dekady człowiek postawił nogę na Księżycu i bezpiecznie wrócił na Ziemię". Cel ten udało się zrealizować w 1969 roku, gdy amerykański astronauta Neil Armstrong stanął na naturalnym satelicie Ziemi. Do najważniejszych amerykańskich programów należą:
+Amerykańską odpowiedzią na plan wysłania człowieka w kosmos był program Mercury. W trakcie selekcji do programu wybrano siedmiu astronautów. 5 maja 1961 Alan Shepard jako pierwszy amerykanin poleciał w kosmos. 12 września 1962. Pół roku po locie Sheparda, prezydent Stanów Zjednoczonych Ameryki J. F. Kennedy wygłosił mowę na Uniwersytecie Rice, w której zmobilizował naród i postawił cel, aby "do końca dekady człowiek postawił nogę na Księżycu i bezpiecznie wrócił na Ziemię" :cite:`Kennedy1962`. Cel ten udało się zrealizować w 1969 roku, gdy amerykański astronauta Neil Armstrong stanął na naturalnym satelicie Ziemi. Do najważniejszych amerykańskich programów należą:
 
 - project Mercury,
 - project Gemini,

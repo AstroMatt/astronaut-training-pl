@@ -206,10 +206,10 @@ Wirówki przeciążeniowe do badań naukowych na ludziach
 -----------------------------------------------------
 Istnieje wiele obiektów przeznaczonych do badań nad wpływem wysokich przeciążeń na organizm człowieka. Część z nich nie jest bezpośrednio wykorzystywana w procesie szkolenia astronautów, ale może uczestniczyć w eksperymentach przeprowadzanych na ich organizmie. Do najważniejszych ośrodków można zaliczyć:
 
-- Wirówka przeciążeniowa - symulator szkoleniowy, WIML, Polska,
 - Short Radius Centrifuge, University of Texas Medical Branch, Galveston, TX, USA,
 - Short Arm Human Centrifuge, DLR, Niemcy,
-- Dynamic Flight Simulator, Flight Physiological Center, Szwecja.
+- Dynamic Flight Simulator, Flight Physiological Center, Szwecja,
+- Wirówka przeciążeniowa - symulator szkoleniowy, WIML, Polska.
 
 Wirówki przeciążeniowe do badań naukowych
 -----------------------------------------
@@ -369,6 +369,8 @@ Do przygotowania astronautów w ograniczonym zakresie ruchu oraz przy zmieniają
 
     System podwieszania zastosowany do treningu astronautów w Centrum Przygotowania Kosmonautów w Gwiezdnym Miasteczku w Rosji. Źródło: NASA/JSC
 
+.. todo:: Rys. 3.15. System podwieszania "Partial Gravity Counterbalance System" zastosowany do treningu astronautów w Centrum Przygotowania Kosmonautów w Gwiezdnym Miasteczku w Rosji. Źródło: NASA/JSC
+
 Polska na chwilę obecną nie posiada systemu podwieszania, ale plany stworzenia tego typu trenażerów są rozwijane w ramach habitatu AATC.
 
 
@@ -382,7 +384,7 @@ Długotrwały pobyt w przestrzeni kosmicznej przy niezmiennym towarzystwie wpły
 
 Personal Rescue Enclosure
 -------------------------
-Personal Rescue Enclosure zostały stworzone na potrzeby prototypowego systemu ratownictwa załóg promów Space Shuttle. Mają kształt przypominający piłkę plażową o 86 cm średnicy i 0,33 metrów sześciennych objętości i są skonstruowane z materiału na bazie Kevlaru :cite:`Shayler2009`. Obecnie wykorzystywane są podczas selekcji astronautów w celu weryfikacji braku klaustrofobii, ciemności, percepcji czasu oraz izolacji.
+Urządzenia Personal Rescue Enclosure zostały stworzone na potrzeby prototypowego systemu ratownictwa załóg promów Space Shuttle. Mają kształt przypominający piłkę plażową o 86 cm średnicy i 0,33 metrów sześciennych objętości i są skonstruowane z materiału na bazie Kevlaru :cite:`Shayler2009`. Obecnie wykorzystywane są podczas selekcji astronautów w celu weryfikacji braku klaustrofobii, ciemności, percepcji czasu oraz izolacji.
 
 Badania izolacyjne w ośrodkach medycznych
 -----------------------------------------
