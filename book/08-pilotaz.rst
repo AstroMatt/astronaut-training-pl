@@ -123,7 +123,7 @@ System ewakuacji załogi podczas startu może być aktywowany :cite:`AstronautTr
 
 Astronauci są szkoleni z wykorzystywania systemu lecz nie zdarzył się przypadek gdy system ten zadziałał z tego powodu. Podczas misji Apollo 12 po starcie rakiety piorun trafił w strukturę pojazdu i dowódca Charles "Pete" Conrad był bliski aktywowania systemu. Piorun trafił w rakietę dwukrotnie, ale w żadnym z tych wydarzeń system nie został aktywowany i misja przebiegła bez incydentów :cite:`Kranz2001`.
 
-System ten został użyty podczas misji Sojuz T-10-1 (26 września 1983) i pozwolił załodze na bezpieczne oddalenie się od rakiety, która wybuchła na platformie startowej. Astronauci podczas tego wydarzenia byli poddani przeciążeniu chwilowemu równemu 14G do 17G (137 do 167 :math:`\frac{m}{s^2}`).
+System ten został użyty podczas misji Sojuz T-10-1 (26 września 1983) i pozwolił załodze na bezpieczne oddalenie się od rakiety, która wybuchła na platformie startowej. Astronauci podczas tego wydarzenia byli poddani przeciążeniu chwilowemu równemu 14G do 17G (137 do 167 :math:`m \over s^2`).
 
 Z systemem ewakuacji podczas startu związany jest również wypadek, w którym zginęli inżynierowie pracujący na platformie w kosmodromie Bajkonur w Kazachstanie. System będąc uzbrojonym błędnie zinterpretował dane na temat awarii i uruchomił silniki odrzutowe. Od tego momentu system uzbraja się bezpośrednio przed startem po opuszczeniu przez wszystkich platformy startowej i okolic rakiety Sojuz 7K-OK No.1 :cite:`Kamanin-Diaries`.
 

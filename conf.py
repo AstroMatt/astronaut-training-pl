@@ -9,7 +9,7 @@ todo_include_todos = True
 
 extensions = [
     'sphinx.ext.todo',
-    'sphinx.ext.imgmath',
+    'sphinx.ext.mathjax',
     'sphinx.ext.autosectionlabel',
     'sphinxcontrib.bibtex',
 ]
@@ -53,7 +53,8 @@ needs_sphinx = '2.2'
 imgmath_image_format = 'png'
 imgmath_latex = 'latex'
 
-mathjax_path = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML'
+# mathjax_path = '_static/mathjax.js'
+mathjax_path = 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js'
 mathjax_config = {
     'extensions': ['tex2jax.js'],
     'jax': ['input/TeX', 'output/HTML-CSS'],
@@ -119,12 +120,13 @@ html_sidebars = {'sidebar': ['localtoc.html', 'sourcelink.html', 'searchbox.html
 if html_theme == 'sphinx_rtd_theme':
     html_context.update({
         'css_files': ['_static/screen.css', '_static/print.css'],
-        'script_files': ['_static/jquery.min.js', '_static/onload.js'],
+        'script_files': ['_static/jquery.min.js', '_static/onload.js', mathjax_path],
     })
 
 if html_theme == 'thesis':
     html_context.update({
         'css_files': ['_static/theme-overrides.css'],
+        'script_files': [mathjax_path],
     })
 
 latex_documents = [('index', f'{project_slug}.tex', project, author, latex_documentclass)]
