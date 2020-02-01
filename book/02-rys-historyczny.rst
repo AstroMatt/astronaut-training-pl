@@ -6,7 +6,7 @@ Programy kosmiczne były dotychczas prowadzone głównie przez dwa państwa USA 
 
 Podczas selekcji kosmonauci i astronauci wybierani byli głównie ze względu na doświadczenie w pilotażu, chociaż pojawiały się również grupy osób z innych specjalności tj. inżynieria, nauka, medycyna jak również nauczyciele.
 
-Wraz z rozwojem technologicznym pozwalającym na autonomiczne prowadzenie statków kosmiczncyh oraz ich dokowanie, oraz wraz ze zwiększającą się liczbą startów, zwiększaniem stabilizacji i bezpieczeństwa lotów jak i pobytu w kosmosie nacisk na doświadczenie kandydata jako pilota maleje. Chociaż to wciąż wysoko cenieni specjaliści, to ilość badań, ich złożoność oraz specyfika promuje profil kandydatów z wykształceniem naukowym lub inżynieryjnym. Jednocześnie na uwagę zasługuje fakt, iż w większości przydziałów do misji, osoby które udawały się w kosmos były szkolone do prowadzenia badań wychodzących poza zakres specjalizacji danego astronauty.
+Wraz z rozwojem technologicznym pozwalającym na autonomiczne prowadzenie statków kosmicznych i ich dokowanie, oraz wraz ze zwiększającą się liczbą startów, zwiększaniem stabilizacji i bezpieczeństwa lotów jak i pobytu w kosmosie nacisk na doświadczenie pilotażowe kandydata maleje. Chociaż piloci to wciąż wysoko cenieni specjaliści, to ilość badań, ich złożoność oraz specyfika promuje profil kandydatów z wykształceniem naukowym lub inżynieryjnym. Jednocześnie na uwagę zasługuje fakt, iż w większości przydziałów do misji, osoby które udawały się w kosmos były szkolone do prowadzenia badań wychodzących poza zakres swojej specjalizacji, co silnie promuje osoby wszechstronne.
 
 Na podstawie dominujących cech wśród astronautów analizowanych programów w ramach proponowanego celu pracy kandydaci powinni cechować się multidyscyplinarnością, umiejętnością pracy w grupie oraz prowadzenia badań wychodzących z poza zakresu specjalizacji, gdyż to właśnie te elementy dominowały przy wyborze, szkoleniu i odbywaniu misji.
 
@@ -27,7 +27,7 @@ Wystrzelony 4 października 1957 należący do ZSRR Sputnik został pierwszym sz
 
 Pierwszym zwierzęciem, które przekroczyło linię graniczną kosmosu był pies Łajka wystrzelony za pomocą rakiety Sputnik 8K71PS w kapsule Sputnik-2 :cite:`Siddiqi2000`. Ze względu na wysoką temperaturę spowodowaną uszkodzeniem i niepełnym rozczepieniem członu rakiety od satelity zwierzę zdechło po kilku godzinach od startu. Pies planowo miał żyć na orbicie 10 dni. Po 162-óch dniach (około 2000 orbit) kapsuła z martwym ciałem weszła w atmosferę i spłonęła :cite:`Harford1997`.
 
-Pierwszym człowiekiem w kosmosie był major Jurij Gagarin (awansowany później na pułkownika). Gagarin był jednym z 20 osób, które zostały wybrane wśród pilotów wojskowych Związku Radzieckiego :cite:`Siddiqi2000`. Wg. podań świadków major wyróżniał się wytrzymałością, duchem oraz doświadczeniem. Major został wystrzelony przez Związek Radziecki 12 kwietnia 1961 w 108 minutowy lot orbitalny wokół Ziemi na pokładzie Vostok-1. Po okrążeniu Ziemi wszedł ponownie w atmosferę w tzw. krzywej balistycznej cechującej się wysokim poziomem przeciążeń działających na ciało kosmonauty. Ze względu na fakt, iż Radzieccy konstruktorzy nie dysponowali jeszcze techniką aby bezpiecznie wylądować statkiem kosmicznym na ziemi zdecydowano się na użycie fotela katapultowego i spadochronu. Na poziomie 20 000 stóp nad poziomem morza (ok. 6 tys. metrów) Gagarin katapultował się z kapsuły i za pomocą spadochronu bezpiecznie wrócił na powierzchnię :cite:`Why-Yuri-Gagarin-Remains-the-First-Man-in-Space`.
+Pierwszym człowiekiem w kosmosie był major Jurij Gagarin (awansowany później na pułkownika). Gagarin był jednym z 20 osób, które zostały wybrane wśród pilotów wojskowych Związku Radzieckiego. Major wyróżniał się wytrzymałością, duchem oraz doświadczeniem :cite:`Siddiqi2000`. Gagarin został wystrzelony przez Związek Radziecki 12 kwietnia 1961 w 108 minutowy lot orbitalny wokół Ziemi na pokładzie Vostok-1. Po okrążeniu Ziemi wszedł ponownie w atmosferę wg. tzw. krzywej balistycznej cechującej się wysokim poziomem przeciążeń działających na ciało kosmonauty. Ze względu na fakt, iż Radzieccy konstruktorzy nie dysponowali jeszcze techniką aby bezpiecznie wylądować statkiem kosmicznym na ziemi zdecydowano się na użycie fotela katapultowego i spadochronu. Na poziomie 20 000 stóp nad poziomem morza (ok. 6 tys. metrów) Gagarin katapultował się z kapsuły i za pomocą spadochronu bezpiecznie wylądował na terytorium ZSRR :cite:`Why-Yuri-Gagarin-Remains-the-First-Man-in-Space`.
 
 Amerykańską odpowiedzią na plan wysłania człowieka w kosmos był program Mercury. W trakcie selekcji do programu wybrano siedmiu astronautów. 5 maja 1961 Alan Shepard jako pierwszy amerykanin poleciał w kosmos. 12 września 1962. Pół roku po locie Sheparda, prezydent Stanów Zjednoczonych Ameryki J. F. Kennedy wygłosił mowę na Uniwersytecie Rice, w której zmobilizował naród i postawił cel, aby "do końca dekady człowiek postawił nogę na Księżycu i bezpiecznie wrócił na Ziemię" :cite:`Kennedy1962`. Cel ten udało się zrealizować w 1969 roku, gdy amerykański astronauta Neil Armstrong stanął na naturalnym satelicie Ziemi. Do najważniejszych amerykańskich programów należą:
 
@@ -49,7 +49,6 @@ Związek Socjalistycznych Republik Radzieckich wiódł prym w tematach kosmiczny
 - program Buran,
 - stacja kosmiczna Mir,
 - uczestnictwo w programie ISS.
-
 
 Ze względu na obecny plan powrotu człowieka na Księżyc warto w szczegółach przyjrzeć się programowi Apollo oraz N1-L3. W ramach tych misji i całego cyklu przygotowania do lotów stworzone zostały mechanizmy, procedury oraz infrastruktura szkoleniowo-badawcza. Część technologii i opracowań, które w 1969 roku pozwoliły człowiekowi stanąć na powierzchni Księżyca wciąż są aktualne i mogą być wykorzystane przy szkoleniu astronautów do przyszłych misji na inne ciała niebieskie.
 
@@ -91,7 +90,7 @@ W 1966 roku zaczęto symulacje lądowania a kosmonauci zostali przydzieleni do t
 
 W ramach programu N1-L3 zaplanowano 18 misji. Ze względu na przewodzenie grupie opracowujących lądowanie Leonow miał największą szansę być nominowany do bycia pierwszym kosmonautą na Księżycu :cite:`LeonovScott2006`.
 
-Rakieta N1 w przeciwieństwie amerykańskiego podejścia składała się nie z trzech a z 5 segmentów (ang. *stage*) oraz 30 silników pierwszego poziomu. Ze względu na złożoność systemu rakieta każdorazowo eksplodowała przy starcie. Po czwartym nieudanym podejściu i utracie nosiciela, zmianie geopolitycznej i przegraniu wyścigu kosmicznego Komitet Centralny Partii postanowił zamknąć program.
+Rakieta N1 w przeciwieństwie amerykańskiego podejścia składała się nie z trzech a z 5 segmentów (ang. *stage*) oraz 30 silników pierwszego poziomu. Ze względu na złożoność systemu rakieta każdorazowo eksplodowała przy starcie. Po czwartym nieudanym starcie rakiety N1 oraz zmianie geopolitycznej i przegraniu wyścigu kosmicznego Komitet Centralny Partii postanowił zamknąć program.
 
 .. csv-table:: Lista kosmonautów przypisanych do grup szkoleniowych w ramach programu księżycowego :cite:`Kamanin-Diaries`
     :name: table-selection-n1-l3
@@ -109,7 +108,7 @@ Rakieta N1 w przeciwieństwie amerykańskiego podejścia składała się nie z t
 
 Program Interkosmos i lot generała Hermaszewskiego
 ==================================================
-W trakcie zjazdu przedstawicieli krajów socjalistycznych w Moskwie 5-13 kwietnia 1967 roku przyjęto program współpracy w zakresie eksploracji kosmosu - Interkosmos. W ramach programu odbywały się loty zarówno załogowe jak i bezzałogowe. Głównym założeniem współpracy było korzystanie z infrastruktury naziemnej oraz  rakiet radzieckich. Międzynarodowa współpraca miała dotyczyć badań naukowych oraz lotów załogowych. Prawną stronę porozumienia i działania państw członkowskich regulował dokument zawarty 13 lipca 1976 roku, a który zaczął obowiązywać od 25 marca 1977 roku. W późniejszym czasie w ramach programu Interkosmos powstała stacja Mir.
+W trakcie zjazdu przedstawicieli krajów socjalistycznych w Moskwie 5-13 kwietnia 1967 roku przyjęto program współpracy w zakresie eksploracji kosmosu - Interkosmos. W ramach programu odbywały się loty zarówno bezzałogowe jak i załogowe, które umożliwiły kosmonautom spoza ZSRR oraz USA lot w kosmos. Głównym założeniem współpracy było korzystanie z infrastruktury naziemnej oraz  rakiet radzieckich. Międzynarodowa współpraca miała dotyczyć badań naukowych oraz lotów załogowych. Prawną stronę porozumienia i działania państw członkowskich regulował dokument zawarty 13 lipca 1976 roku, a który zaczął obowiązywać od 25 marca 1977 roku. W późniejszym czasie w ramach programu Interkosmos powstała stacja Mir.
 
 Głównym celem programu Interkosmos były badania naukowe w obszarach:
 
@@ -119,7 +118,7 @@ Głównym celem programu Interkosmos były badania naukowe w obszarach:
 - biologii,
 - medycyny kosmicznej.
 
-W ramach programu odbywały się międzynarodowe loty załogowe, które umożliwiły kosmonautom spoza ZSRR oraz USA lot w kosmos. Kosmonautów w ramach programu Interkosmos wybierano z najlepszych pilotów wśród państw, które ratyfikowały porozumienie. Pierwszym kosmonautą nie będącym obywatelem powyższych państw był czech Vladimír Remek, który poleciał 2 marca 1978 roku. Drugą osobą był generał Mirosław Hermaszewski (27 czerwca 1978). :numref:`table-selection-interkosmos` przedstawia listę kosmonautów programu Interkosmos.
+Kosmonautów w ramach programu Interkosmos wybierano z najlepszych pilotów wśród państw, które ratyfikowały porozumienie. Pierwszym kosmonautą nie będącym obywatelem USA i ZSRR był czech Vladimír Remek, który poleciał 2 marca 1978 roku. Drugą osobą był generał Mirosław Hermaszewski (27 czerwca 1978). :numref:`table-selection-interkosmos` przedstawia listę kosmonautów programu Interkosmos.
 
 .. figure:: ../img/map-interkosmos.png
     :name: figure-map-interkosmos
@@ -128,7 +127,7 @@ W ramach programu odbywały się międzynarodowe loty załogowe, które umożliw
 
     Państwa uczestniczące w ramach programu Interkosmos. Źródło: Wikipedia
 
-Lot Sojuz-30 miał miejsce w dniach 27 czerwca – 5 lipca 1978. Skład głównej załogi stanowił zespół: Mirosław Hermaszewski oraz Piotr Iljicz Klimuk. W zespole rezerwowym byli Walerij Nikołajewicz Kubasow oraz Zenon Jankowski. :numref:`figure-soyuz-30-crew` przedstawia skład pierwszej załogi.
+Lot Sojuz-30 miał miejsce w dniach 27 czerwca – 5 lipca 1978. Skład głównej załogi stanowił zespół: Mirosław Hermaszewski oraz Piotr Iljicz Klimuk (:numref:`figure-soyuz-30-crew`). W zespole rezerwowym byli Walerij Nikołajewicz Kubasow oraz Zenon Jankowski.
 
 Głównym zadaniem Sojuz-30 było dokowanie do stacji Salut-6 oraz wykonanie badań naukowych i biomedycznych zestawionych w :numref:`table-soyuz-30-experiments` dla jednostek badawczych, tj. :cite:`Hermaszewski2013`:
 
@@ -174,13 +173,6 @@ Dla upamiętnienia lotu pierwszego Polaka załoga zabrała na pokład flagę i g
 
     Załoga Sojuz-30 (od lewej): Piotr Iljicz Klimuk oraz Mirosław Hermaszewski
 
-.. figure:: ../img/soyuz-30-onboard.jpg
-    :name: figure-soyuz-30-onboard
-    :scale: 33%
-    :align: center
-
-    Załoga Salut-6 (od lewej): Piotr Klimuk, Mirosław Hermaszewski, Aleksandr Ivanchenkov oraz Vladimir Kovalyonok
-
 .. figure:: ../img/soyuz-30-simulator.jpg
     :name: figure-soyuz-30-simulator
     :scale: 50%
@@ -188,12 +180,19 @@ Dla upamiętnienia lotu pierwszego Polaka załoga zabrała na pokład flagę i g
 
     Załoga Sojuz-30 (od lewej): Piotr Iljicz Klimuk oraz Mirosław Hermaszewski w trakcie szkolenia na symulatorze statku Sojuz.
 
+.. figure:: ../img/soyuz-30-onboard.jpg
+    :name: figure-soyuz-30-onboard
+    :scale: 33%
+    :align: center
+
+    Załoga Salut-6 (od lewej): Piotr Klimuk, Mirosław Hermaszewski, Aleksandr Ivanchenkov oraz Vladimir Kovalyonok
+
 
 Międzynarodowa Stacja Kosmiczna
 ===============================
 Program Międzynarodowej Stacji Kosmicznej rozpoczął się od połączenia konceptów projektów Freedom (ang. wolność) oraz Mir-2 (DOS-8). Następnie przekształcił się w pierwszą międzynarodową platformę badawczą o nazwie International Space Station. Program jest tworzony wspólnie przez pięć największych agencji kosmicznych: NASA, Roskosmos, JAXA, ESA, i CSA. Budowa rozpoczęła się od umieszczenia rosyjskich modułów w 1998 roku. Pierwsza załoga przyleciała 2 listopada 2000 roku. Od tego czasu stacja jest stale zamieszkiwana przez załogi 3 lub 6 osobowe w ramach tzw. ekspedycji. Temat ISS szczegółowo przedstawiono w części dotyczącej :ref:`przygotowania załóg do lotów na jej pokład <Robotyka i systemy Międzynarodowej Stacji Kosmicznej>`.
 
-Na chwilę obecną najbardziej czasochłonną częścią procesu szkolenia astronautów jest ich przygotowanie do pracy na Międzynarodowej Stacji Kosmicznej. Jednakże należy zwrócić uwagę na fakt, iż planowo w 2024 ISS zostanie zdeorbitowana a wykształcenie Polskiego astronauty do tego czasu jest mało prawdopodobne. Nawet jeżeli zaistniałaby możliwość, że program ISS zostanie przedłużony, to i tak wszystkie przydziały do lotów załogowych zostaną zaplanowane z dużym wyprzedzeniem. Zważywszy na powyższy stan w ramach Polskiego Programu Astronautycznego proponuje się odrzucenie wszelkich tematów związanych z obsługą systemów ISS oraz skupienie się na misjach eksploracyjnych w kierunku Księżyca i platformy LOP-G.
+Na chwilę obecną najbardziej czasochłonną częścią procesu szkolenia astronautów jest ich przygotowanie do pracy na Międzynarodowej Stacji Kosmicznej. Jednakże należy zwrócić uwagę na fakt, iż planowo w 2030 ISS zostanie zdeorbitowana.
 
 .. figure:: ../img/spacestation-iss.png
     :name: figure-spacestation-iss
@@ -210,4 +209,3 @@ Najdłuższy pobyt w przestrzeni kosmicznej zanotował kosmonauta Roskosmos Dr. 
 Największy kumulacyjny "nalot" zgromadził kosmonauta Roskosmos Gennady Padalka, który przybywał łącznie 879 dni na orbicie podczas 5 lotów kosmicznych.
 
 Największy kumulacyjnie czas spędzony podczas EVA zanotował kosmonauta Roskosmos Anatoly Solovyev, który przebywał łącznie 82 godziny 22 minuty w trakcie 16 spacerów kosmicznych. Kosmonauta ten jest również osobą, która wykonała najwięcej spacerów kosmicznych w historii.
-

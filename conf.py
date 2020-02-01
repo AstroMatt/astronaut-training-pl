@@ -24,6 +24,7 @@ numfig_format = {
 
 exclude_patterns = [
     'not-used/*',
+    'data/*',
 ]
 
 # article - for articles in scientific journals, presentations, short reports, program documentation, invitations, ...
@@ -50,6 +51,8 @@ from datetime import date
 needs_sphinx = '2.2'
 
 imgmath_image_format = 'png'
+imgmath_latex = 'latex'
+
 mathjax_path = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML'
 mathjax_config = {
     'extensions': ['tex2jax.js'],

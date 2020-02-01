@@ -19,8 +19,8 @@ Załączniki
     :header-rows: 1
 
 .. csv-table:: Zestawienie samolotów używanych do lotów parabolicznych
-    :name: table-infrastructure-parabollic
-    :file: ../data/infrastructure-parabollic.csv
+    :name: table-infrastructure-parabolic
+    :file: ../data/infrastructure-parabolic.csv
     :header-rows: 1
 
 .. csv-table:: Lista basenów neutralnej pływalności
@@ -32,4 +32,6 @@ Załączniki
     :name: table-apollo-geological-locations
     :file: ../data/apollo-geological-locations.csv
     :header-rows: 1
+
+.. include:: ../data/survey-en.rst
 

@@ -2,6 +2,7 @@
 Trening pilotażu statków kosmicznych i samolotów wysokomanewrowych
 ******************************************************************
 
+
 Za czasów programu Apollo astronauci byli szkoleni również z pilotażu śmigłowców oraz trenażera lądowania księżycowego (ang. *LLRV - Lunar Landing Research Vehicle*) tj. pojazdu pionowego startu i lądowania wyglądem przypominającego pająka z silnikiem odrzutowym umiejscowionym w spodniej części. Zarówno szkolenie śmigłowcowe jak i LLRV przygotowywały astronautów do umiejętności startu, zawisu i lądowania.
 
 Ponadto astronauci biorą również udział w badaniach naukowych oraz opracowaniu technologii dla przyszłych misji. Przykładem tego ostatniego może być kanadyjski astronauta Jeremy Hansen, który będąc z zawodu pilotem samolotu CF-18 przeszedł kolejne intensywne szkolenie lotnicze w Flight Research Laboratory, NRC, Kanada. Gdzie nauczył się pilotować zmodyfikowaną wersję śmigłowca Bell 205 przekształconą w symulator lądownika Księżycowego. Rozwój tego rozwiązania pozwoli na wykorzystanie maszyny w szkoleniu przyszłych astronautów, których zadaniem będzie powrót na Księżyc czy lądowanie na Marsie :cite:`CSAAstronautsFAQ`.
@@ -76,7 +77,7 @@ Sytuacje awaryjne:
 
     Schemat statku Sojuz. Źródło: Roskosmos
 
-Statek Sojuz wyposażony jest w system *KURS*, który pozwala na automatyczne naprowadzanie oraz dokownie kapsuły do Międzynarodowej Stacji Kosmicznej. System ten był opracowany dla kapsuł dokujących do stacji Salut :cite:`Siddiqi2000` oraz dla stacji MIR. Obecnie system jest wypierany przez nowszy i dokładniejszy system, którego podzespoły w kapsule są znacznie lżejsze.
+Statek Sojuz wyposażony jest w system *KURS*, który pozwala na automatyczne naprowadzanie oraz dokowanie kapsuły do Międzynarodowej Stacji Kosmicznej. System ten był opracowany dla kapsuł dokujących do stacji Salut :cite:`Siddiqi2000` oraz dla stacji MIR. Obecnie system jest wypierany przez nowszy i dokładniejszy system, którego podzespoły w kapsule są znacznie lżejsze.
 
 Ze względu na przesunięty środek ciężkości kapsuły Sojuz istnieje możliwość za pomocą niewielkich silniczków sterowania miejscem położenia tego punktu. Dzięki temu astronauci uzyskują możliwość sterowania kapsułą a zasięg korekty profilu lądowania może wynieść nawet do kilkunastu kilometrów.
 
@@ -84,13 +85,15 @@ Kapsuła Sojuz używa tzw. "systemu miękkiego lądowania". System ten składa s
 
 Sytuacje awaryjne statku kosmicznego
 ====================================
-Loty kosmiczne są obarczone wysokim stopniem ryzyka. Większość z godzin przeprowadzonych w symulatorze statku kosmicznego Sojuz ma za zadanie przygotować załogę na umiejętność reakcji w tych krytycznych sytuacjach. Do najbardziej prawdopodobnych i najgroźniejszych sytuacji należy: rozszczelnienie oraz pożar.
+Loty kosmiczne są obarczone wysokim stopniem ryzyka. Większość z godzin przeprowadzonych w symulatorze statku kosmicznego Sojuz ma za zadanie przygotować załogę na umiejętność reakcji w krytycznych sytuacjach. Do najbardziej prawdopodobnych i najgroźniejszych sytuacji należy: rozszczelnienie oraz pożar.
 
 Rozszczelnienie
 ---------------
 Do rozszczelnienia kapsuły może dojść na skutek kolizji z mikrometeorytem, który niszcząc poszycie pozostawia otwór, z którego uchodzi powietrze. W zależności od wielkości uszkodzenia są różne procedury. Jedną z najważniejszych rzeczy należących do załogi jest uszczelnienie skafandra IVA Orlan oraz odkręcenie dopływu powietrza. Do czasu misji Sojuz-11 podczas, której przy wejściu w atmosferę doszło do rozszczelnienia kapsuły i ujścia powietrza co skutkowało śmiercią załogi, kosmonauci nosili strojów wewnątrz kapsuły :cite:`Soyuz11`. Od czasu tego incydentu zarówno podczas startu, dokowania, odejścia, i wejścia w atmosferę astronauci muszą znajdować się w stroju IVA :cite:`Sokol`.
 
-Podobny incydent zdarzył się podczas lotu Apollo-Sojuz gdy do amerykańskiej kapsuły Apollo podczas wejścia w atmosferę zaczął wdzierać się toksyczny gaz Tetratlenek diazotu :math:`N_2O_4` :cite:`Kranz2001`, :cite:`Manned-Space-from-Mercury-to-the-Shuttle`. Szybka i właściwa reakcja astronautów zapobiegła utracie załogi.
+Podobny incydent zdarzył się podczas lotu Apollo-Sojuz gdy do amerykańskiej kapsuły Apollo podczas wejścia w atmosferę zaczął wdzierać się toksyczny gaz tetratlenek diazotu |N2O4| (ang. *dinitrogen tetroxide*) :cite:`Kranz2001`, :cite:`Manned-Space-from-Mercury-to-the-Shuttle`. Szybka i właściwa reakcja astronautów zapobiegła utracie załogi.
+
+.. |N2O4| replace:: N\ :sub:`2`\ O\ :sub:`4`
 
 Pożar na pokładzie statku kosmicznego
 -------------------------------------
@@ -126,7 +129,4 @@ Z systemem ewakuacji podczas startu związany jest również wypadek, w którym 
 
 Podczas pierwszych testowych lotów prom był wyposażony w fotele katapultowe dla pierwszego i drugiego pilota. Z systemu tego zrezygnowano w późniejszych lotach ze względu na niewielkie prawdopodobieństwo przeżycia załogi. W zamian za to zastosowano system tzw. Mode VIII - Bail-out, w którym wyposażeni w spadochrony astronauci mieli zsunąć się z wyciągniętej z promu grubej rury chroniącej przed uderzeniem w usterzenie i skrzydła a następnie na spadochronach wylądować w oceanie i rozpocząć procedurę wodnego przetrwania (opis w :numref:`Przetrwanie w warunkach wodnych` dotyczącym przetrwania w warunkach morskich i oceanicznych) :cite:`NASACrewEscapeWorkbook`.
 
-
-Polski udział w symulacjach i szkoleniu pilotażowym
-===================================================
-Polska ma możliwość zbudowania symulatorów, o których dyskusja była przeprowadzona już wcześniej (por. :ref:`Symulatory lotu`). Wraz z zakupem nowym myśliwców szkolno bojowych przez polską armię, które są na wyposażeniu LAW w Dęblinie szkolenie pilotażowe na najwyższym światowym poziomie może być również realizowane na terenie kraju.
+.. todo:: Opisać przypadek Soyuz MS-10

@@ -17,9 +17,9 @@ Ponadto wyjścia w przestrzeń kosmiczną dzieli się na:
 
 Astronauci podczas szkolenia podstawowego, a później dla utrzymania sprawności w trakcie swojej kariery ćwiczą wyjścia EVA w basenie neutralnej pływalności. Podczas tych zajęć szkolą się z rozwiązywania sytuacji awaryjnych, m.in. ewakuacja astronauty, który ma niesprawny kombinezon lub nie może się poruszać.
 
-Spacery kosmiczne wymagają wysokiej sprawności oraz dużej siły fizycznej. Z tego względu nie wszyscy astronauci mają możliwość wykorzystania w kosmosie wyuczonych uprzednio umiejętności. Ay astronauta mógł wyjść w przestrzeń kosmiczną musi udowodnić znajomość stroju przechodząc stosowny egzamin jak również musi posiadać odpowiednią kondycję i formę.
+Spacery kosmiczne wymagają wysokiej sprawności oraz dużej siły fizycznej. Z tego względu nie wszyscy astronauci mają możliwość wykorzystania w kosmosie wyuczonych uprzednio umiejętności. Aby astronauta mógł wyjść w przestrzeń kosmiczną musi udowodnić znajomość stroju przechodząc stosowny egzamin jak również musi posiadać odpowiednią kondycję i formę.
 
-Na chwilę obecną wyjścia w przestrzeń kosmiczną skupiają się głównie na pracach na orbicie przy konstrukcji i naprawy międzynarodowej stacji kosmicznej. Przed erą ISS astronauci wychodzili w celu prowadzenia prac technicznych w ramach programów MIR, Skylab, podczas programu Apollo w celu demontażu kamery oraz w programie STS, Gemini i Wostok. Dotychczas EVA na innych ciałach niebieskich doświadczyło dwanaście osób.
+Na chwilę obecną wyjścia w przestrzeń kosmiczną skupiają się głównie na pracach na orbicie przy konstrukcji i naprawy międzynarodowej stacji kosmicznej. Przed erą ISS astronauci wychodzili w celu prowadzenia prac technicznych w ramach programów MIR, Skylab, podczas programu Apollo aby dokonać demontażu kamery oraz w programie STS, Gemini i Wostok. Dotychczas EVA na innych ciałach niebieskich doświadczyło dwanaście osób.
 
 
 .. figure:: ../img/eva-infrastructure-and-supporting-systems.png
@@ -48,7 +48,9 @@ Skafandry kosmiczne wykorzystywane podczas startu i lądowania
 -------------------------------------------------------------
 Wcześniejsze loty w ramach programów Wostok, Woschod oraz Sojuz odbywały się przy załodze w skafandrach do użycia wewnątrz pojazdu (ang. *IVA - Intravehicular Activity*). Jednakże zwiększenie załogi z jednego, później do dwóch i docelowo trzech astronautów spowodowało brak miejsca w kapsule i decyzję o nieużywaniu skafandrów. Od czasów śmierci załogi Sojuz-11, którego załogę stanowili Georgy Dobrovolsky (dowódca), Vladislav Volkov (inżynier pokładowy), Viktor Patsayev (inżynier testów) w skutek rozszczelnienia kapsuły i utraty powietrza wszystkie loty kosmiczne odbywają się w skafandrach IVA. Skafandry te są lżejsze od skafandrów EVA i nie posiadają własnego przenośnego systemu podtrzymywania życia (ang. *PLSS - Portable Life Support System*), co czynie je zależne od statku kosmicznego do którego zostały przystosowane. :numref:`table-spacesuits-iva` przedstawia zestawienie historyczne skafandrów *IVA*. Głównymi skafandrami wykorzystywanymi obecnie w lotach załogowych są  skafandry *Sokol*.
 
-W amerykańskim programie załogowym również doszło do sytuacji, w której niemalże utracono załogę. Podczas powrotu z misji "Apollo-Sojuz" astronauci: Thomas P. Stafford (Commander), Vance D. Brand (Command Module Pilot), Donald K. "Deke" Slayton (Docking Module Pilot) zostali poddani wpływowi tetratlenku diazotu :math:`N_2O_2` (ang. *nitrogen tetroxide*) stosowanemu jako utleniacz dla hydrazyny i silników pozycyjnych, który uwolnił się z nieszczelnej instalacji i przedostał się do kabiny.
+W amerykańskim programie załogowym również doszło do sytuacji, w której niemalże utracono załogę. Podczas powrotu z misji "Apollo-Sojuz" astronauci: Thomas P. Stafford (Commander), Vance D. Brand (Command Module Pilot), Donald K. "Deke" Slayton (Docking Module Pilot) zostali poddani wpływowi tetratlenku diazotu |N2O4| (ang. *dinitrogen tetroxide*) stosowanemu jako utleniacz dla hydrazyny i silników pozycyjnych, który uwolnił się z nieszczelnej instalacji i przedostał się do kabiny.
+
+.. |N2O4| replace:: N\ :sub:`2`\ O\ :sub:`4`
 
 Za wyjątkiem *STS-1* loty amerykańskich promów kosmicznych zabierały na pokład załogi bez skafandrów. Fakt ten odwrócił się po tragedii promu *Challenger* w 1986. Od tamtego czasu wszystkie loty odbywały się przy użyciu skafandrów *ACES*, które były w charakterystycznym kolorze pomarańczowym, ułatwiającym odnalezienie na morzu w przypadku konieczności awaryjnego opuszczenia promu.
 
@@ -78,10 +80,6 @@ Na uwagę zasługuje fakt, że podobnie jak w skafandrach *IVA* tak przy EVA cz�
     :name: table-spacesuits-eva
     :file: ../data/spacesuits-eva.csv
     :header-rows: 1
-
-Polski wkład w stworzenie skafandra
------------------------------------
-W Polsce nie istnieją zarówno kompetencje dotyczące zaawansowanych skafandrów IVA jak i EVA. Badania w tym kierunku dopiero rozpoczęto w habitacie Lunares. W tej kwestii Polska nie posiada infrastruktury umożliwiającej samodzielnego wzięcia udziału w programie astronautycznym. Ponadto regulacje eksportowe Stanów Zjednoczonych uniemożliwiają importowanie istniejących rozwiązań w tym również rozwiązań firm komercyjnych z USA.
 
 
 Zaznajomienie się ze skafandrem
@@ -169,19 +167,11 @@ Wykorzystanie urządzeń wspierających pracę w przestrzeni kosmicznej
 Urządzenia wspierające pozwalają na zachowanie pozycji względem stacji kosmicznej oraz na łatwiejsze posługiwanie się narzędziami. Do głównych urządzeń wspierających czynności podczas spacerów kosmicznych można zaliczyć:
 
 - przedłużki zmieniające ramię narzędzi,
-- liny stalowe (ang. tethering),
-- przymocowania stóp (ang. foot restraints).
+- liny stalowe (ang. *tether*),
+- przymocowania stóp (ang. *foot restraints*).
 
 Do zadania przedłużek należy zwiększenie długości ramienia klucza. Urządzenia te usadza się na końcu klucza przedłużając jego rączkę. Dzięki ich zastosowaniu astronauta może zwiększyć moment obrotowy działający na śrubę i dzięki temu przykręcić lub odkręcić śruby z większą siłą i precyzją.
 
 Urządzenia przymocowywania stóp były głównie wykorzystywane podczas misji amerykańskich promów kosmicznych, gdzie astronauta przymocowany nogami do specjalnego panelu zamontowanego na ramieniu robotycznym mógł być bezpiecznie i stabilnie być wspierany przy wykonywaniu prac w stanie nieważkości.
 
 Obecnie podstawowym elementem wyposażenia każdego stroju astronauty są tzw. uprzęże z bloczkami stalowych lin. Każdy strój do wyjść w przestrzeń kosmiczną posiada dwie takie uprzęże. Podczas spaceru kosmicznego astronauci muszą być przymocowane za pomocą przynajmniej jednej liny z klamrą do stacji kosmicznej aby nie odlecieć w przestrzeń. W celu przemieszczenia się astronauta zaczepia drugą klamrę do następnego punktu przymocowania i po upewnieniu się pewności zaczepu odczepia pierwszą przechodząc w dalsze miejsce.
-
-Polski udział w przygotowaniu do spacerów kosmicznych
------------------------------------------------------
-Polska nie posiada infrastruktury umożliwiającej pełne przygotowanie do spacerów kosmicznych. Jednakże biorąc pod uwagę unikalny charakter EVA na powierzchni innych ciał niebieskich i brak szkoleniowej infrastruktóry w pozostałych ośrodkach na świecie w Polsce możnaby stworzyć dedykowane miejsce do prowadzenia takich treningów.
-
-Infrastruktura, którą posiada obecnie habitat Lunares pozwala na odtworzenie procedur wejścia i wyjścia z airlock, czynności rutynowych na powierzchni tj. czyszczenie paneli słonecznych, obsługę i utrzymanie sprzętu elektronicznego i łazików jak również na symulowanie sytuacji awaryjnych podczas EVA. Gdy Lunares rozwinie budynek oraz część EVA o podwieszane systemy pozwalające na obniżenie odczuwalnej grawitacji możliwym będzie trenowanie również sytuacji tj. podnoszenie próbek skalnych i minerałów, dokumentowanie i fotografowanie miejsca pobierania próbek, ćwiczenie powstawania po upadku, poruszanie się w środowisku 1/6 i 1/3 g oraz sytuacje awaryjne jak pomoc astronaucie, który doznał kontuzji, procedury braku komunikacji głosowej jak również sytuacje rozszczelnienia skafandra lub awarii któregoś z podsystemów systemu *PLSS*.
-
-W Europejskiej Agencji Kosmicznej w Centrum Szkolenia Astronautów pracuje Polka, która tworzy urządzenia i narzędzia do wykorzystania w przyszłych misjach na Księżyc. Narzędzia te są testowane w basenie NBF w EAC. Korzystając z tych kompetencji możliwe byłoby stworzenie prac pozwalających na konstruowanie prototypów tego typu urządzeń w Polsce.

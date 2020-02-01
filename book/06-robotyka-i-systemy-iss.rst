@@ -123,14 +123,3 @@ Polska nie posiada tak zaawansowanego manipulatora. Jednakże w ramach uczelni p
 Polska jest liderem na skalę światową w tematyce konstrukcji łazików księżycowych i marsjańskich oraz autonomicznych pojazdów. Świadczą o tym wysokie miejsca w klasyfikacji ogólnej odbywającego się co rok konkursu University Rover Challenge organizowanego przez Mars Society przy wsparciu NASA na amerykańskiej pustyni w stanie Utah. W Polsce jest również organizowany European Rover Challenge, który jest najbardziej prestiżowym konkursem w Europie. Podobnie jak w przypadku URC tak i podczas ERC konstrukcje z Polski są w czołówce, a nierzadko również wygrywają zawody.
 
 Korzystając z unikalnych kompetencji możliwe jest stworzenie części szkolenia opierającego się o posiadane już zasoby w postaci łazików jak również planu szkolenia dla operatorów tych pojazdów.
-
-W Europejskiej Agencji Kosmicznej w Centrum Inżynierii, Technologii i Nauki (ESTEC) przy projekcie europejskiego ramienia robotycznego (ERA) pracuje Polski inżynier, którego kompetencje pomogłyby stworzyć plan rozwoju podobnych technologii w Polsce.
-
-
-Analiza szkolenia robotycznego i systemów ISS w kontekście stworzenia PPA
-=========================================================================
-Ze względu na brak trenażerów systemów ISS, jego wewnętrznej i zewnętrznej części jak również na chwilę obecną brak basenu nadającego się do prowadzenia szkolenia z EVA niemożliwe jest odtworzenie tych elementów szkolenia. Jednakże należy zwrócić uwagę na fakt, iż planowo w 2024 Międzynarodowa Stacja Kosmiczna zostanie zdeorbitowana a wykształcenie polskiego astronauty do tego czasu jest mało prawdopodobne. Nawet jeżeli zaistniałaby możliwość, że program ISS zostanie przedłużony, to i tak wszystkie przydziały do lotów załogowych zostaną zaplanowane z dużym wyprzedzeniem. Zważywszy na powyższy stan w ramach polskiego udziału w programie astronautycznym proponuje się odrzucenie wszelkich tematów związanych z obsługą systemów ISS oraz ukierunkowanie szkolenia pod kątem misji na Księżycu.
-
-Szkolenie z wykorzystywania i utrzymywania ISS jest jednym z najbardziej czasochłonnych oraz zasobochłonnych aspektów przygotowania astronautów do misji. Proponowane rozwiązanie wykluczenia powyższych elementów ze szkolenia pozwoli nie tylko na optymalizację kosztów, jak również zwiększy możliwość procentowego udziału w przygotowaniu astronautów na terenie Polski.
-
-Polska posiada wysokiej klasy specjalistów robotyków z doświadczeniem przy konstruowania systemów kosmicznych. Ponadto infrastruktura i systemy rozwijane w habitacie Lunares stanowią platformę do rozwoju nowych procedur operacyjnych. Obecnie planowane są misje na Księżyc, Mars oraz asteroidy i inne ciała o niewielkim przyciąganiu grawitacyjnym. Polska posiada nowatorską i unikalną infrastrukturę, która pozwoliłaby nie tylko uczestniczyć w programie szkolenia astronautów, ale również wieść prym w nowej klasie treningów.

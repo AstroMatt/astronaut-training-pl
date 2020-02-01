@@ -2,14 +2,53 @@
 Infrastruktura szkoleniowa
 **************************
 
-W tym rozdziale przedstawiono opis infrastruktury szkoleniowej wykorzystywanej w procesie szkolenia astronautów. Dalsza analiza jakościowa będzie się odnosiła do kwestii poruszanych poniżej.
-
-.. todo:: Tab. 3.1. Lista ośrodków szkoleniowych astronautów.
-
 
 Centra szkolenia astronautów
 ============================
 Szkolenie astronautów odbywa się m.in. w wyspecjalizowanych ośrodkach treningowych. Skala i złożoność procesu szkolenia wymaga współpracy wielu agencji. Na chwilę obecną astronauci szkoleni są w ramach programów wymiany we wszystkich ośrodkach szkoleniowych. Ze względu na amerykańską regulację ITAR (International Traffic in Arms Regulations) określającą przemysł kosmiczny i rakietowy jako broń i zakazujący współpracy z Chinami, astronauci NASA nie odbywają szkolenia w ośrodkach ACC. Pozostałe kraje kooperują i wzajemnie szkolą astronautów w zakresie swojej specjalizacji. :numref:`table-infrastructure-training-centers` przedstawia listę centrów szkoleniowych.
+
+.. todo:: Tab. 3.1. Lista ośrodków szkoleniowych astronautów.
+    Agencja
+    Lokacja
+    Nazwa ośrodka
+    Skrót
+    Szerokość geograficzna
+    Długość geograficzna
+    Roscosmos
+    Moskwa, Rosja
+    Centrum Przygotowania Kosmonautów, Gwiezdne Miasteczko
+    CPK
+    55.880585°N
+    38.110542°E
+    NASA
+    Houston, TX, USA
+    Johnson Space Center
+    JSC
+    29.563°N
+    -95.091°W
+    ESA
+    Kolonia, Niemcy
+    European Astronaut Centre
+    EAC
+    50.851944°N
+    7.131111°E
+    JAXA
+    Tsukuba, Ibaraki, Japonia
+    Tsukuba Space Center
+    TKSC
+    36.065778°N
+    140.129806°E
+    CNSA
+    Beijing, China
+    Astronaut Centre of China
+    ACC
+    40.071989°N
+    116.257092°E
+    CSA
+    Longueuil, Québec, Canada
+    John H. Chapman Space Centre
+    45.52239°N
+    -73.39582°W
 
 Centrum Przygotowania Kosmonautów, Gwiezdne Miasteczko, Moskwa, Rosja
 ---------------------------------------------------------------------
@@ -35,16 +74,121 @@ John H. Chapman Space Centre, Longueuil, QC, Kanada
 ---------------------------------------------------
 John H. Chapman Space Centre jest siedzibą Kanadyjskiej Agencji Kosmicznej oraz kanadyjskich astronautów. W tym ośrodku astronauci przydzieleni do ekspedycji ISS odbywają szkolenie z manipulatora robotycznego Canadarm 2 (SRMS - Shuttle Remote Manipulator System) oraz kanadyjskich eksperymentów.
 
-Polskie centrum szkolenia astronautów
--------------------------------------
-Na chwilę obecną Polska nie posiada centrum szkolenia astronautów. Biorąc pod uwagę charakter przygotowania i konieczność częstych wyjazdów międzynarodowych oraz rozproszenie infrastruktury szkoleniowej w Polsce wątpliwa jest konieczność tworzenia zintegrowanego centrum. Usprawiedliwionym może być fakt konieczności ulokowania Polskich astronautów, a w tym celu sugeruje się obecną infrastrukturę biurową należącą do Polskiej Agencji Kosmicznej.
-
 
 Baseny neutralnej pływalności
 =============================
 Od czasów przygotowania do lotu w ramach misji Gemini 12, gdy amerykański astronauta Buzz Aldrin jako pierwszy wykorzystał techniki nurkowania w celu symulacji EVA agencje kosmiczne zaczęły wykorzystywać ośrodki neutralnej pływalności (ang. *Neutral Buoyancy*) do szkolenia astronautów.
 
 Ponadto baseny neutralnej pływalności wykorzystywane są również w szkoleniu awaryjnego opuszczania statku kosmicznego. Przykładem tego typu urządzeń jest symulator H.U.E.T. (Helicopter Underwater Egress Trainer) oraz M.E.T.S. (Modular Egress Training Simulator). W tego typu urządzenia wyposażone jest jedynie laboratorium NBL należące do NASA. Astronauci innych agencji w celu odbycia szkolenia z ratownictwa morskiego wykorzystują infrastrukturę należącą do firm prywatnych.
+
+.. todo:: Tab. 3.2. Lista basenów neutralnej pływalności
+    Właściciel
+    Nazwa pełna
+    Skrót
+    Lokacja
+    Plan
+    Średnica / Wymiary
+    Głębokość [m]
+    Okres operacji
+    Komentarz
+    NASA
+    Neutral Buoyancy Laboratory
+    NBL
+    Johnson Space Center, Houston, TX, USA
+    prostokąt
+    62 x 31 m
+    12 m
+    od 1997
+    Certyfikacja EMU
+    NASA
+    Neutral Buoyancy Simulator Tank 1
+    NBS 1
+    Marshall Space Flight Center, Alabama, USA
+    koło
+    2,4m
+    2,4m
+    1967 - 1997
+
+    NASA
+    Neutral Buoyancy Simulator Tank 2
+    NBS 2
+    Marshall Space Flight Center, Alabama, USA
+    koło
+    7,6m
+    4,6m
+    1967 - 1997
+
+    NASA
+    Neutral Buoyancy Simulator Tank 3
+    NBS 3
+    Marshall Space Flight Center, Alabama, USA
+    koło
+    23m
+    12m
+    1967 - 1997
+
+    NASA
+    Water Immersion Facility
+    WIF
+    Building 5, Johnson Space Center, Houston, TX, USA
+    koło
+    7,6m
+    4,9 m
+    Używany podczas Apollo i Gemini
+
+    NASA
+    Weightless Environment Training Facility
+    WETF
+    Building 29, Johnson Space Center, Houston, TX, USA
+    prostokąt
+    29 x 10 m
+    7,6 m
+    1980 - 1998
+
+    ESA
+    Neutral Buoyancy Facility
+    NBF
+    European Astronaut Center, Kolonia, Niemcy
+    ośmiokąt
+    22 x 17 m
+    10 m
+    od 2007
+    EVA pre-familiarization
+    Roscosmos
+    Hydro Lab
+    Hydro Lab
+    Gagarin Cosmonaut Training Center, Zvyozdny gorodok, Moskwa, Rosja
+    koło
+    23 m
+    12 m
+    od 1980
+    Certyfikacja Orlan
+    CNSA
+    Neutral Buoyancy Facility
+    ACC
+    China Astronaut Research and Training Center, Pekin, Chiny
+    koło
+    23 m
+    10 m
+    b/d
+    Certyfikacja Feitian
+    JAXA
+    Weightlessness Environment Test System
+    WETS
+    Tsukuba Space Center, Ibaraki, Japan
+    koło
+    16 m
+    10.5 m
+    1997 - 2011
+
+    University of Maryland
+    Neutral Buoyancy Research Facility
+    NBRF
+    University of Maryland, USA
+    koło
+    15 m
+    7,6 m
+    od 1992
 
 .. figure:: ../img/infrastructure-neutral-buoyancy-comparision.png
     :name: figure-infrastructure-neutral-buoyancy-comparision
@@ -131,12 +275,6 @@ Ośrodek badawczy neutralnej pływalności (NBRF) został wybudowany w ramach gr
 
     Basen neutralnej pływalności NBRF znajdujący się na Uniwersytecie Maryland w USA. Źródło: Diamondback/Julia Reed
 
-Polski basen neutralnej pływalności
------------------------------------
-Na chwilę obecną jest to jeden z najsłabiej reprezentowanych elementów infrastruktury szkolno-badawczej programu astronautycznego w Polsce. Polska nie posiada głębokich basenów i konieczne byłoby stworzenie tego typu ośrodka lub wykorzystanie centrum NBF w ESA. Ponadto w przypadku chęci tworzenia tego typu jednostki, konieczne jest stworzenie kadry szkoleniowej i jej długotrwałego procesu szkolenia. W tym przypadku najbardziej optymalne jest zawarcie umów międzynarodowych i skorzystanie z już istniejącej infrastruktury oraz rozpoczęcie programu budowy własnego centrum na potrzeby testowania i badań naukowych w zakresie bioastronautyki w przyszłości.
-
-Na dodatkową uwagę zasługuje fakt, iż w Ośrodku Szkolenia Nurków i Płetwonurków Wojska Polskiego w Gdyni znajduje się symulator M.E.T.S. identyczny z tym, który jest w laboratorium NBL oraz w kanadyjskiej firmie Survival Systems (producent trenażera), która jest kontraktowana do szkolenia astronautów różnych agencji kosmicznych. Dodatkowo w Gdyni znajduje się komora niskich ciśnień.
-
 
 Wirówki przeciążeniowe
 ======================
@@ -161,6 +299,60 @@ Do najważniejszych wirówek przeciążeniowych wykorzystywanych w załogowych l
 - Short Radius Centrifuge, NASA.
 
 .. todo:: Tab. 3.3. Lista wirówek przeciążeniowych używanych do przygotowania astronautów w załogowych lotach
+    Właściciel
+    Lokacja
+    Nazwa
+    Certyfikacja do badań na człowieku
+    Używana w programie szkolenia astronautów
+    Promień [m]
+    Przysp. maks. [g]
+    Maks. prędkość obrotowa [RPM]
+    Udźwig maks. [kg]
+    NASA
+    Ames Research Center, CA, USA
+    20-G Centrifuge
+    tak
+    tak
+    8.84
+    20 (człowiek 12.5)
+    50
+    544.31
+    Roscosmos
+    CPK, Gwiezdne Miasteczko, Rosja
+    CF-7
+    tak
+    tak
+    7
+    20
+    50.7
+    b/d
+    Roscosmos
+    CPK, Gwiezdne Miasteczko, Rosja
+    CF-18
+    tak
+    tak
+    18
+    30
+    b/d
+    b/d
+    NASA
+    Ames Research Center, CA, USA
+    Human Performance Centrifuge
+    tak
+    tak
+    1.98
+    5
+    50
+    226.8
+    NASA
+    University of Texas Medical Branch, Galveston, TX, USA
+    Short Radius Centrifuge
+    tak
+    tak
+    3
+    2.5
+    30
+    b/d
 
 CPK - CF-7
 ----------
@@ -211,6 +403,8 @@ Istnieje wiele obiektów przeznaczonych do badań nad wpływem wysokich przecią
 - Dynamic Flight Simulator, Flight Physiological Center, Szwecja,
 - Wirówka przeciążeniowa - symulator szkoleniowy, WIML, Polska.
 
+Polska posiada jedną z najnowocześniejszych wirówek przeciążeniowych certyfikowanych do badań z udziałem ludzi oraz do prowadzenia treningów przeciążeniowych. Wirówka ta znajduje się w ośrodku Wojskowego Instytutu Medycyny Lotniczej w Warszawie. Infrastruktura ta jest unikalna w skali światowej, gdyż jako jedna z trzech potrafi symulować przeciążenia w osi Gx+ oraz Gx-.
+
 Wirówki przeciążeniowe do badań naukowych
 -----------------------------------------
 Do badań naukowych wykorzystujących zwiększone przyspieszenie grawitacyjne i siłę odśrodkową, lecz nie certyfikowanych do wykorzystania przy badaniach na ludziach można zaliczyć wybrane wirówki przeciążeniowe:
@@ -219,10 +413,6 @@ Do badań naukowych wykorzystujących zwiększone przyspieszenie grawitacyjne i 
 - 8-Foot Diameter Centrifuge, NASA Ames Research Center, CA, USA,
 - 2-Meter Diameter Centrifuge, NASA Ames Research Center, CA, USA,
 - 24-Foot Diameter Centrifuge, NASA Ames Research Center, CA, USA.
-
-Polska wirówka przeciążeniowa
------------------------------
-Polska posiada jedną z najnowocześniejszych wirówek przeciążeniowych certyfikowanych do badań z udziałem ludzi oraz do prowadzenia treningów przeciążeniowych. Wirówka ta znajduje się w ośrodku Wojskowego Instytutu Medycyny Lotniczej w Warszawie. Infrastruktura ta jest unikalna w skali europejskiej i warto jest wykorzystać ją do prowadzenia szkolenia astronautów.
 
 
 Laboratoria Wirtualnej Rzeczywistości
@@ -260,10 +450,6 @@ Laboratorium Haptics Europejskiej Agencji Kosmicznej znajduje się w Centrum In�
 
     X-Arm-II exoskeleton jest wykorzystywany do symulacji odczuć podczas sterowania maszynami. Źródło: ESA
 
-Polskie laboratoria VR i AR
----------------------------
-Polska nie posiada wyspecjalizowanego laboratorium VR oraz AR, przystosowanego do szkolenia astronautów. Jednakże w kraju są firmy, które przygotowały fotorealistyczne symulacje wirtualnej rzeczywistości dla Międzynarodowej Stacji Kosmicznej. Wykorzystując kompetencje posiadane w ramach tych instytucji możliwe jest stworzenie wyspecjalizowanych doświadczeń VR, które pozwoliłyby na trening procedur operacyjnych dla przyszłych misji kosmicznych.
-
 
 Symulatory lotu
 ===============
@@ -287,12 +473,6 @@ Symulatory lotu służą nie tylko szkoleniu astronautów ale również pozwalaj
 
     Astronauci Oleg Novitskiy (Roskosmos) oraz Thomas Pesquet (ESA) ćwiczą procedury w symulatorze Sojuz w CPK w Gwiezdnym Miasteczku. Źródło: ESA
 
-Polskie uczelnie lotnicze tj. WSOSP w Dęblinie, Politechnika Rzeszowska oraz Państwowa Wyższa Szkoła Zawodowa w Chełmie posiadają symulatory lotów zdolne do kształcenia pilotów. Infrastruktura do prowadzenia szkolenia w kontekście lotów kosmicznych, w tym prowadzenia statku Sojuz powstaje w ramach habitatu Lunares. Wykorzystując kompetencje firm tworzących symulacje VR oraz tradycyjne oprogramowanie możliwym stałoby się aby Polska była liderem w kategorii symulowanego przygotowania do przyszłych misji.
-
-W celu stworzenia oprogramowania skutecznie imitującego kapsuły rosyjskie lub amerykańskie konieczne byłoby podpisanie stosownych umów międzynarodowych. Jednocześnie można przyjąć również inną strategię, tj. stworzenie uniwersalnego symulatora kosmicznego. Zajęcia szkoleniowe pozwalałyby na zaznajomienie się z podstawowymi systemami wykorzystywanymi w statkach kosmicznych, tj. silniki RCS, ogólną teorię sterowania orbitalnego, systemy podtrzymania życia, systemy elektryczne, sytuacje awaryjne itp. Szkolenie takie miałoby na celu wstępne przygotowanie personelu do dalszego wyspecjalizowanego szkolenia w ośrodkach posiadających symulatory odpowiednich statków.
-
-Na podstawie analogii do "pre-familiarization" w kontekście szkolenia EVA w basenach NBF można przyjąć, że tego typu ogólne szkolenie symulatorowe pozwoli na zaoszczędzenie czasu oraz zasobów finansowych jak również podniesie kompetencje i wiedzę Polskich kandydatów.
-
 
 Przyrządy ćwiczeniowe
 =====================
@@ -315,8 +495,6 @@ System Vertical Treadmill dzięki zmianie kąta nachylenia bieżni i odległośc
 
     Astronauta podczas ćwiczenia na Vertical Treadmill. Źródło: NASA
 
-W ramach polskiej infrastruktury można wyróżnić ośrodki przygotowania kondycyjnego WSOSP oraz sprzęt Głównej Szkoły Służby Pożarniczej. Miejsca te są dobrze przygotowane na wykorzystanie ich w ramach programu.
-
 
 Loty paraboliczne symulujące środowisko mikrograwitacji
 =======================================================
@@ -326,16 +504,14 @@ W celu zapoznania astronautów z wpływem mikrograwitacji na organizm człowieka
 - przyciąganie na powierzchni Księżyca (16,6% przyciągania ziemskiego),
 - przyciąganie na powierzchni Marsa (40% przyciągania ziemskiego).
 
-:numref:`table-infrastructure-parabollic` przedstawia zestawienie samolotów używanych przez agencje kosmiczne i prywatne firmy do lotów parabolicznych.
+:numref:`table-infrastructure-parabolic` przedstawia zestawienie samolotów używanych przez agencje kosmiczne i prywatne firmy do lotów parabolicznych.
 
-.. figure:: ../img/infrastructure-parabollic-profile.jpg
-    :name: figure-infrastructure-parabollic-profile
+.. figure:: ../img/infrastructure-parabolic-profile.jpg
+    :name: figure-infrastructure-parabolic-profile
     :scale: 75%
     :align: center
 
     Profil lotu parabolicznego podczas symulacji stanu braku grawitacji. Źródło: Nature
-
-Polska na chwilę obecną nie posiada samolotu zdolnego do prowadzenia pełnego szkolenia przygotowującego do lotów w środowisku mikrograwitacji. Zakup samolotu, jego dostosowanie oraz utrzymanie byłoby wysoce nieefektywne ekonomicznie i bardziej optymalnym rozwiązaniem byłoby skorzystanie z usług francuskiej firmy Novespace w modelu identycznym jak Europejska Agencja Kosmiczna.
 
 .. todo:: Tab. 3.4. Zestawienie samolotów używanych do lotów parabolicznych
 
@@ -351,11 +527,7 @@ Zastosowanie komór niskich ciśnieniowych oraz komór próżniowych (ang. *vacu
 
 Astronauci podobnie jak piloci samolotów stratosferycznych tj. U2, są poddawani szkoleniom w skafandrze wewnątrz komór ciśnieniowych. Podczas szkolenia trenujący doświadcza momentu gwałtownego rozhermetyzowania kabiny na dużej wysokości oraz uruchomienia automatycznego systemu podtrzymania życia w skafandrze.
 
-W Polsce istnieje kilka ośrodków zdolnych do prowadzenia zajęć tego typu, są to m.in. komora ciśnieniowa w Klinice Medycyny Hiperbarycznej i Ratownictwa Morskiego na Uniwersytecie Gdańskim oraz komora ciśnieniowa na WIML w Warszawie.
-
 Komory termalne (ang. *thermal chamber*) wykorzystuje się aby zapoznać astronautów ze zmiennym środowiskiem cieplnym występującym na zewnątrz pojazdu. Podczas ćwiczeń w komorach termalnych ćwiczący uczy się regulacji temperatury za pomocą systemu klimatyzacji skafandra.
-
-Polska posiada komorę termalną w ramach infrastruktury WIML w Warszawie, jednakże jest ona niewystarczająca do prowadzenia wyżej wymienionych badań oraz części szkolenia. W ramach tego etapu sugeruje się korzystanie z urządzeń innych agencji.
 
 
 Systemy podwieszania symulujące środowisko obniżonej grawitacji
@@ -370,8 +542,6 @@ Do przygotowania astronautów w ograniczonym zakresie ruchu oraz przy zmieniają
     System podwieszania zastosowany do treningu astronautów w Centrum Przygotowania Kosmonautów w Gwiezdnym Miasteczku w Rosji. Źródło: NASA/JSC
 
 .. todo:: Rys. 3.15. System podwieszania "Partial Gravity Counterbalance System" zastosowany do treningu astronautów w Centrum Przygotowania Kosmonautów w Gwiezdnym Miasteczku w Rosji. Źródło: NASA/JSC
-
-Polska na chwilę obecną nie posiada systemu podwieszania, ale plany stworzenia tego typu trenażerów są rozwijane w ramach habitatu AATC.
 
 
 Eksperymenty izolacyjne
@@ -416,30 +586,3 @@ Habitat Lunares został wybudowany przez firmę Space Garden przy udziale autora
 - badania nad domknięciem półotwartego systemu podtrzymywania życia,
 - wykorzystanie zasobów dostępnych w środowisku (ang. *ISRU - In-Situ Resource Utilization*),
 - systemu operacyjnego habitatów pozaziemskich.
-
-
-Analiza infrastruktury szkoleniowej w kontekście polskiego wkładu w program astronautyczny
-==========================================================================================
-Jednym z celów tej pracy jest zaproponowanie planu stworzenia infrastruktury szkoleniowej. Aby Polska uczestniczyła w programie szkolenia astronautów rozwiązania muszą być unikalne lub pozwalające na przeprowadzenie optymalizacji kosztów szkoleniowych.
-
-Polska obecnie posiada część infrastruktury wykorzystywanej podczas szkolenia astronautów. Są to m.in.:
-
-- wirówka przeciążeniowa na WIML,
-- habitat Lunares
-- infrastruktura gimnastyczno-szkoleniowa Wyższej Szkoły Oficerskiej Sił Powietrznych (WSOSP),
-- symulator METS w Ośrodku Szkolenia Nurków i Płetwonurków Wojska Polskiego w Gdyni,
-- komora niskich ciśnień w Gdyni oraz na WIML,
-- infrastruktura szkoleniowa Szkoły Głównej Służby Pożarniczej,
-- komora termalna na WIML w Warszawie,
-- program szkolenia survivalowego oraz SERE (kadra byłych żołnierzy sił specjalnych),
-- lotnisko oraz program szkolenia lotniczego zgodnego z FAA i EASA,
-- głębokie baseny pozwalające na stworzenie ośrodka neutralnej pływalności,
-- kadra uniwersytecka przygotowująca z przedmiotów teoretycznych,
-- symulacje ogniowe w ramach współpracy ze szkołą straży pożarnej,
-- szkoły skoków spadochronowych,
-- szkoły nurkowe specjalizujące się w neutralnej pływalności oraz pracy pod powierzchnią wody,
-- symulatory rzeczywistości wirtualnej (wraz z oprogramowaniem wnętrza ISS).
-
-Powyższa infrastruktura pozwala na odtworzenie części szkolenia w Polsce. Brakującym elementem jest plan szkolenia łączący ośrodku w charakterze wspólnego konsorcjum udostępniającego wyposażenie oraz lokalizację w ramach programu astronautycznego.
-
-W Polsce nie istnieje statek powietrzny zdolny do prowadzenia szkolenia w środowisku mikrograwitacji, ale zgodnie z trendem NASA i ESA administrator programu może wynająć usługi takiego lotu, który jest dostępny komercyjnie. Przy odpowiednim zaplanowaniu lotu, przygotowaniu badań naukowych oraz kadry koszt jest w stanie być akceptowalny.

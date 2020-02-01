@@ -365,7 +365,7 @@ Przetrwanie w warunkach wodnych
 -------------------------------
 Jednym z istotniejszych elementów szkolenia przetrwania jest umiejętność przeżycia po lądowaniu na morzu. Ze względu na specyfikę lądowania, rosyjskie kapsuły lądują z założenia na lądzie, amerykańskie na wodzie, nacisk poszczególnych agencji jest różny.
 
-Rosyjscy kosmonauci praktykują, krótkie jednodniowe szkolenie na jeziorze. W skład szkolenia wchodzi: skok ze śmigłowca (platformy imitującej wiszący śmigłowiec), procedury operacyjne po wodowaniu, umiejętność dobierania odpowiedniego stroju ochronnego w zależności od temperatury powietrza oraz wody, oraz formacje ratunkowe na powierzchni. Ponadto uczestnicy kursu uczą się rozstawiania tratwy i obsługi odsalarki do produkcji wody pitnej. W trakcie pierwszych czterech dekad rosyjskiego programu kosmonautycznego szkolenie było przeprowadzane na morzu a kapsuła wraz z kosmonautami była zrzucana ze statku "Apszeron" :cite:`Hermaszewski2013`.
+Rosyjscy kosmonauci praktykują, krótkie jednodniowe szkolenie na jeziorze. W skład szkolenia wchodzi: skok ze śmigłowca (platformy imitującej wiszący śmigłowiec), procedury operacyjne po wodowaniu, umiejętność dobierania odpowiedniego stroju ochronnego w zależności od temperatury powietrza oraz wody, oraz formacje ratunkowe na powierzchni. Ponadto uczestnicy kursu uczą się rozstawiania tratwy i obsługi odsalarki do produkcji wody pitnej. W trakcie pierwszych czterech dekad rosyjskiego programu kosmonautycznego szkolenie było przeprowadzane na morzu, a kapsuła wraz z kosmonautami była zrzucana ze statku "Apszeron" :cite:`Hermaszewski2013`.
 
 Dla astronautów NASA szkolenie z przetrwania na morzu jest kluczowe. Ze względu na sposób lądowania kapsuły wyróżnia się lądowanie w pozycji stabilnej pierwszej lub drugiej (wyjście z kapsuły jest pod wodą). Astronauci praktykują powyższe sytuacje najpierw w basenie neutralnej pływalności a następnie na otwartym oceanie przy różnych warunkach atmosferycznych i różnym stanie morza tj. wielkość fal i siła wiatru.
 
@@ -375,6 +375,9 @@ Dla astronautów NASA szkolenie z przetrwania na morzu jest kluczowe. Ze względ
     :align: center
 
     Rosyjski kosmonauta podczas szkolenia ratownictwa morskiego wykonuje skok do wody z kapsuł Soyuz. Kosmonauta jest ubrany w suchy skafander pozwalający na utrzymanie ciepła w zimnej wodzie. Źródło: Roskosmos/CPK
+
+Misje Analogiczne
+=================
 
 Wyprawy w ramach programu CAVES
 -------------------------------
@@ -394,7 +397,7 @@ Wyprawy w ramach programu PANGAEA mają na celu przybliżenie astronautom umiej�
 Kurs został podzielony na trzy etapy:
 
 - geologia planetarna i kurs wprowadzający w Bressanone we Włoszech,
-- geologia terenowa (ang. *field*) i wulkaniczna na wyspie Lanzarote, Wyspy Kanaryjskie, Hiszpania,
+- geologia terenowa (ang. *field geology*) i wulkaniczna na wyspie Lanzarote, Wyspy Kanaryjskie, Hiszpania,
 - kurs astrobiologiczny i mikrobiologiczny na uniwersytetach w Niemczech i w ośrodku EAC oraz Niemiecką Agencję Kosmiczną i Lotniczą (DLR).
 
 Ponadto wykorzystywane są również obszary krateru Ries w okolicach Nördlingen, Niemcy oraz teren Bletterbach we włoskich Dolomitach.
@@ -426,38 +429,3 @@ Chociaż 99% kariery astronauty jest na Ziemi to dla pozostałego 1% konieczne j
 - urządzenia symulujące obniżoną grawitację (systemy podwieszania, bieżnie pionowe, MAT),
 - treningi w wirówce przeciążeniowej zwiększający odporność organizmu na przyspieszenia,
 - loty paraboliczne symulujące stan nieważkości.
-
-
-Analiza szkolenia podstawowego w kontekście stworzenia PPA
-==========================================================
-Za wyjątkiem lotów parabolicznych omówionych już wcześniej część szkolenia można przeprowadzić w Polsce. W programie szkolenia podstawowego dla kandydatów na astronautów najważniejsza jest wiedza teoretyczna oraz przygotowanie praktyczne.
-
-Posiadana infrastruktura akademicka pozwala na realizację teoretycznych przedmiotów z większości tematów poruszanych podczas dotychczasowych procesów szkolenia astronautów, tj.
-
-- orientacja w strukturach organizacyjnych i w działalności agencji kosmicznych,
-- historia lotów kosmicznych,
-- podstawy lotów kosmicznych,
-- nauki przyrodnicze i o życiu,
-- inżynieria materiałowa i dynamika płynów,
-- obserwacja ziemi i wykorzystanie danych satelitarnych,
-- kosmologia,
-- robotyka,
-- szkolenie lotnicze,
-- skoki spadochronowe,
-- ćwiczenia kondycyjne,
-- pierwsza pomoc i pomoc krążeniowo-oddechowa,
-- szkolenie językowe (głównie język rosyjski),
-- korzystanie ze sprzętu fotograficznego,
-- kontakt z mediami,
-- szkolenie survivalowe i przetrwania.
-
-W ramach przeprowadzonych analiz i poszukiwania źródeł w Polsce nie ma dobrze rozwiniętej kadry w ramach tematów:
-
-- człowiek, jego zachowanie i możliwości w otoczeniu kosmicznym,
-- procedury operacyjne i kontrola lotów,
-- robotyka kosmiczna,
-- inżynieria kosmiczna oraz systemy statków kosmicznych.
-
-Autorowi pracy udało się dotrzeć do osób (Polaków) przebywających za granicą posiadających wyżej wymienione kompetencje, którzy mogliby stanowić zalążek kadry naukowej.
-
-Niestety ze względu na położenie geograficzne niemożliwe jest przeprowadzenie zaawansowanych szkoleń przetrwania w warunkach pustynnych, dżungli oraz stworzenie analogicznych programów jak CAVES, PANGAEA czy NEEMO. Obecnie jednak agencje kosmiczne odeszły od szkoleń pustynnych oraz w terenach równikowych. Całkowicie do zagospodarowania pozostaje temat wypraw geologicznych, geofizycznych oraz speleologicznych. Ze względu na niewielkie zróżnicowanie terenu oraz brak analogicznych terenów do eksploracji geologicznej i astrobiologicznej proponuje się rozwiązanie aby pierwsza połowa szkolenia prowadzona była w kraju a reszta przy współpracy międzynarodowej w obszarach o dużej różnorodności wraz z ukształtowaniem terenu pozwalającym na prowadzenie symulacji księżycowych i marsjańskich. Takie ułożenie programu pozwoli na optymalizację kosztów jak również na wysoki poziom kształcenia kandydatów.
