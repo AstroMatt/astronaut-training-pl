@@ -12,18 +12,20 @@
     book/07-spacery-kosmiczne.rst
     book/08-pilotaz.rst
     book/09-przydzialy-naziemne.rst
-    book/10-polski-program-astronautyczny.rst
-    book/11-zakonczenie.rst
+    book/10-ankieta.rst
+    book/11-polski-program-astronautyczny.rst
+    book/12-zakonczenie.rst
 
 .. toctree::
     :maxdepth: 4
     :hidden:
 
-    book/12-zalaczniki.rst
+    book/13-zalaczniki.rst
+    LICENSE.rst
+
 
 Bibliografia
 ============
-
 .. bibliography:: bibliografia.bib
     :style: unsrt
     :all:

@@ -1,20 +1,11 @@
+project = 'Analiza procesu selekcji, przygotowania do długotrwałych misji oraz treningu EVA w wybranych agencjach kosmicznych w celu zaproponowania programu szkolenia polskiego astronauty w kontekście przyszłych misji księżycowych'
 author = 'Matt Harasymczuk'
 email = 'matt@astronauta.pl'
-project = 'Analiza procesu selekcji, przygotowania do długotrwałych misji oraz treningu EVA w wybranych agencjach kosmicznych w celu zaproponowania programu szkolenia polskiego astronauty w kontekście przyszłych misji księżycowych'
-description = "Matt Harasymczuk's Python 3: from None to Machine Learning"
 
+html_theme = 'sphinx_rtd_theme'
 
-html_context = {
-    'university': 'Wyższa Szkoła Oficerska Sił Powietrznych',
-    'faculty': 'Wydział Lotnictwa',
-    'thesis': 'Praca Magisterska',
-    'thesis_title': project,
-    'author': 'Mateusz Harasymczuk<br>nr albumu 3094',
-    'supervisor': 'prof. dr hab. inż. płk. rez. Marek Grzegorzewski',
-    'proofreading': 'gen. bryg. pil. Mirosław Hermaszewski, kosmonauta Soyuz-30',
-    'city': 'Dęblin',
-    'year': '2019',
-}
+todo_emit_warnings = False
+todo_include_todos = True
 
 extensions = [
     'sphinx.ext.todo',
@@ -23,16 +14,7 @@ extensions = [
     'sphinxcontrib.bibtex',
 ]
 
-todo_emit_warnings = False
-todo_include_todos = True
-
 language = 'pl'
-master_doc = 'index'
-today_fmt = '%Y-%m-%d'
-source_suffix = ['.rst']
-imgmath_image_format = 'png'
-
-numfig = True
 numfig_format = {
     'section': 'Rozdz. %s',
     'figure': 'Ryc. %s',
@@ -40,98 +22,109 @@ numfig_format = {
     'code-block': 'List. %s',
 }
 
-html_theme = 'thesis'
-html_theme_path = ['_themes']
-
-todo_emit_warnings = False
-todo_include_todos = True
 exclude_patterns = [
     'not-used/*',
 ]
 
-# -----------------------------------------------------------------------------
-# Standard book config
-# -----------------------------------------------------------------------------
+# article - for articles in scientific journals, presentations, short reports, program documentation, invitations, ...
+# proc - a class for proceedings based on the article class.
+# minimal - is as small as it can get. It only sets a page size and a base font. It is mainly used for debugging purposes.
+# report - for longer reports containing several chapters, small books, thesis, ...
+# book - for real books
+# slides - for slides. The class uses big sans serif letters.
+# memoir - for changing sensibly the output of the document. It is based on the book class, but you can create any kind of document with it (1)
+# letter - For writing letters.
+# beamer - For writing presentations (see LaTeX/Presentations).
+latex_documentclass = 'report'
+
+html_context = {}
+
+# -- Standard book config -----------------------------------------------------
 
 import os
 import re
 import subprocess
 import sys
-from datetime import datetime
+from datetime import date
 
 needs_sphinx = '2.2'
 
+imgmath_image_format = 'png'
 mathjax_path = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML'
 mathjax_config = {
     'extensions': ['tex2jax.js'],
     'jax': ['input/TeX', 'output/HTML-CSS'],
 }
 
-html_theme = 'sphinx_rtd_theme'
-
-exclude_patterns = exclude_patterns + [
+exclude_patterns += [
     '.*',
     'venv*',
     'virtualenv*',
+    '_build',
     '_extensions',
     '_img',
     '_slides',
     '_static',
     '_themes',
     '_tmp',
-    '*/_template.rst',
-    '*/contrib/*',
-    '*/solution/*',
-    '*/solutions/*',
+    '**/contrib/*',
+    '**/solution/*',
+    '**/solutions/*',
     '**.ipynb_checkpoints',
     'README.rst',
     'TODO.rst',
+    'Thumbs.db',
+    '.DS_Store',
 ]
 
-numfig_format = {
-    'section': 'Sect. %s.',
-    'figure': 'Fig. %s.',
-    'table': 'Tab. %s.',
-    'code-block': 'Code Listing %s.',
-}
-
-language = 'en'
-source_directory = '.'
 master_doc = 'index'
+templates_path = ['_templates']
 highlight_language = 'python3'
 pygments_style = 'borland'
+sys.path.insert(0, os.path.abspath('_extensions'))
+
+
+# 0 - sequence number of image in whole document
+# 1 - sequence number of image in header level 1 (only if :numbered: option is present at toctree directive)
+# 2 - sequence number of image in header level 2
+#       will use x.1, x.2, … if located directly under a header level 1,
+#       will use 1, 2, … if at the document level
+numfig_secnum_depth = 0
 numfig = True
-templates_path = ['_templates']
-source_suffix = ['.rst']
-imgmath_image_format = 'svg'
-today_fmt = '%Y-%m-%d'
+smartquotes = False
 
 project_slug = re.sub(r'[\W]+', '', project)
-sha1 = subprocess.Popen('git log -1 --format="%h"', stdout=subprocess.PIPE, shell=True).stdout.read().decode().replace('\n', '')
-now = datetime.now()
-year = now.year
-today = now.strftime('%Y-%m-%d')
+sha1 = subprocess.run('git log -1 --format="%h"', stdout=subprocess.PIPE, shell=True, encoding='utf-8').stdout.strip()
+year = date.today().year
+today = date.today().strftime('%Y-%m-%d')
 
 version = f'#{sha1}, {today}'
 release = f'#{sha1}, {today}'
 copyright = f'{year}, {author} <{email}>'
 
-extensions_dir = os.path.join(os.path.dirname(__file__), '', '_extensions')
-sys.path.append(extensions_dir)
-
-htmlhelp_basename = project
-html_theme_path = ['_themes']
-html_static_path = ['_static']
-html_favicon = '_static/favicon.png'
-html_sidebars = {'sidebar': ['localtoc.html', 'sourcelink.html', 'searchbox.html']}
 html_show_sphinx = False
-html_context = {
-    'css_files': [
-        '_static/theme-overrides.css',
-    ],
-}
+html_use_smartypants = False
+html_search_language = language
+html_add_permalinks = ""
+html_theme_path = ['_themes']
+html_secnumber_suffix = '. '
+html_title = project
+html_favicon = '_static/favicon.png'
+html_static_path = ['_static']
+html_sidebars = {'sidebar': ['localtoc.html', 'sourcelink.html', 'searchbox.html']}
 
-latex_documents = [(master_doc, f'{project_slug}.tex', project, author, 'manual')]
+if html_theme == 'sphinx_rtd_theme':
+    html_context.update({
+        'css_files': ['_static/screen.css', '_static/print.css'],
+        'script_files': ['_static/jquery.min.js', '_static/onload.js'],
+    })
+
+if html_theme == 'thesis':
+    html_context.update({
+        'css_files': ['_static/theme-overrides.css'],
+    })
+
+latex_documents = [('index', f'{project_slug}.tex', project, author, latex_documentclass)]
 latex_elements = {
     'papersize': 'a4paper',
     'pointsize': '10pt',

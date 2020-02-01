@@ -4,15 +4,15 @@
 version: 2
 
 sphinx:
-  builder: singlehtml
+  builder: html
   configuration: conf.py
   fail_on_warning: false
 
 # Additional formats
 formats:
+  - pdf
   - htmlzip
   - epub
-  - pdf
 
 python:
   version: 3.7

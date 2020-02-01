@@ -45,18 +45,19 @@ Chociaż kanadyjscy astronauci odbywają większość szkolenia w JSC w Houston 
     :align: center
     :scale: 75%
 
-    Cykl kariery i szkoleń astronautów.
+    Schemat prezentuje cykl kariery astronauty od jego selekcji, treningu podstawowego, wsparcia obecnie trwających misji po szkolenie do przydzielonej misji (ang. mission specific training).
 
-W kolejnych rozdziałach autor przybliża każdy z powyższych tematów.
 
+W kolejnych rozdziałach szczegółowo omówione zostaną wszystkie z powyższych tematów.
 
 Przygotowanie teoretyczne i wiedza ogólna
 =========================================
-Głównym celem szkolenia jest wyrównanie poziomu wiedzy i umiejętności kandydatów pochodzących z różnych specjalizacji i dziedzin i wprowadzenie spójnego zasobu wiedzy, który stanowi podstawę do dalszego szkolenia. Ukończenie kursu podstawowego pozwala na zmianę tytułu z "kandydat na astronautę" na "astronauta" :cite:`NASA-Astronaut-Candidate-Program`. Jest to proces wymagający wielu poświęceń z życia prywatnego, który determinuje zasadność dalszych inwestycji przez agencję kosmiczną. W trakcie zbierania materiałów autor dotarł źródła pragnącego zachować anonimowość, które przekazało informację, że tylko 60% astronautów nadaje się do przydziałów do dalszych misji. Zgodnie z wywiadem pozostali "osiadają na laurach i przestają się uczyć", a ciągłe kształcenie jest podstawą specyfiki tego zawodu. Proces szkolenia podstawowego stanowi jeden z etapów weryfikacji umiejętności i zaangażowania.
+
+Głównym celem szkolenia jest wyrównanie poziomu wiedzy i umiejętności kandydatów pochodzących z różnych specjalizacji i dziedzin i wprowadzenie spójnego zasobu wiedzy, który stanowi podstawę do dalszego szkolenia. Ukończenie kursu podstawowego pozwala na zmianę tytułu z "kandydat na astronautę" na "astronauta" :cite:`NASA-Astronaut-Candidate-Program`. Jest to proces wymagający wielu poświęceń z życia prywatnego, który determinuje zasadność dalszych inwestycji przez agencję kosmiczną. W trakcie zbierania materiałów autor dotarł do źródła pragnącego zachować anonimowość, które przekazało informację, że tylko 60% astronautów nadaje się do przydziałów do dalszych misji. Zgodnie z wywiadem pozostali "osiadają na laurach i przestają się uczyć", a ciągłe kształcenie jest podstawą specyfiki tego zawodu. Proces szkolenia podstawowego stanowi jeden z etapów weryfikacji umiejętności i zaangażowania.
 
 Nauka języków obcych i przygotowanie kulturowe
 ----------------------------------------------
-Wg. wielu astronautów dla których język rosyjski nie jest ojczystym najtrudniejszym etapem szkolenia jego nauka. Przed wysłaniem na szkolenie do Centrum Przygotowania Kosmonautów każdy astronauta musi przejść kurs składający się z 1000 godzin praktyki tego języka :cite:`ESA-Astronaut-Training-Requirements`, :cite:`Peake2017`.
+Przed wysłaniem na szkolenie do Centrum Przygotowania Kosmonautów każdy astronauta musi przejść kurs składający się z 1000 godzin praktyki tego języka :cite:`ESA-Astronaut-Training-Requirements`, :cite:`Peake2017`. Wg. nierosyjskojęzycznych astronautów jest to najtrudniejszy etap szkolenia.
 
 Praca w międzynarodowym środowisku wymaga znajomości zachowań i różnic kulturowych, dlatego wśród zajęć w ramach szkolenia podstawowego prowadzi się przedmiot związany z przygotowaniem kulturowym.
 
@@ -78,16 +79,16 @@ Podstawą badań prowadzonych w kosmosie są nauki przyrodnicze i techniczne. Ze
 
 Kurs inżynierii kosmicznej i systemowej
 ---------------------------------------
-Każdy astronauta z założenia powinien przyswoić sobie działanie systemów statków kosmicznych i stacji orbitalnej. W tym celu podczas kursu kandydackiego wykładane są przedmioty z zakresu inżynierii kosmicznej (ang. *aerospace engineering*) i inżynierii systemowej (ang. *systems engineering*). Wśród przedmiotów wykładanych w formie zajęć teoretycznych można wymienić:
+Każdy astronauta z założenia powinien opanować działanie systemów statków kosmicznych i stacji orbitalnej. W tym celu podczas kursu kandydackiego wykładane są przedmioty z zakresu inżynierii kosmicznej (ang. *aerospace engineering*) i inżynierii systemowej (ang. *systems engineering*). Wśród przedmiotów wykładanych w formie zajęć teoretycznych można wymienić:
 
-- aerodynamika lotów atmosferycznych dużych prędkości (lot i przejście między prędkościami):
+- aerodynamika lotów dużych prędkości (lot i przejście między prędkościami):
 
     - poddźwiękowe (ang. *subsonic*) <0,8 Ma,
     - okołodźwiękowe (ang. *transonic*) 0,8-1,3 Ma,
     - naddźwiękowe (ang. *supersonic*) 1,3–5,0 Ma,
     - hiperdźwiękowe (ang. *hypersonic*) 5,0–10,0 Ma,
     - wysoko hiperdźwiękowe (ang. *high-hypersonic*) 10,0–25,0 Ma,
-    - wejścia atmosferycznego (ang. *re-entry*) >25,0 Ma,
+    - wejścia w atmosferę (ang. *re-entry*) >25,0 Ma,
 
 - materiały i kompozyty używane w technice kosmicznej,
 - konstrukcja rakiet i silników rakietowych,
@@ -132,7 +133,7 @@ W ramach kursu wyrównującego wiedzę kandydaci na astronautów muszą przyswoi
 
 Przygotowanie medyczne i dentystyczne
 -------------------------------------
-Podczas pobytu na międzynarodowej stacji kosmicznej oraz w trakcie długotrwałego lotu astronauci są zdani wyłącznie na pomoc medyczną udzieloną w ramach zespołu :cite:`CSAOngoingTraining`. Operacje medyczne dotyczą nie tylko sytuacji awaryjnych, lecz również rutynowych zadań wykonywanych podczas badań naukowych. Do typowych czynności należą:
+Podczas pobytu na międzynarodowej stacji kosmicznej oraz w trakcie długotrwałego lotu astronauci są zdani wyłącznie na pomoc medyczną udzieloną w ramach zespołu :cite:`CSAOngoingTraining`. Operacje medyczne dotyczą nie tylko sytuacji awaryjnych tj. nagłe zatrzymanie krążenia, porażenie prądem, czy ostre stany zapalne, lecz również rutynowych zadań wykonywanych podczas badań naukowych. Do typowych czynności należą:
 
 - pobieranie krwi (ang. *drawing blood*),
 - pobieranie próbek śliny i płynów ustrojowych,
@@ -153,14 +154,14 @@ Podczas lotu Jurija Romanenko w 1973 roku w ramach misji Salut 6 kosmonauta dozn
 
     Astronauta CSA David Saint-Jacques podczas kursu dentystycznego. Źródło: Canadian Space Agency
 
-Komunikacja nauki
------------------
-Agencje kosmiczne działają w oparciu o środki publiczne uzyskane w ramach uchwalonego budżetu państwa lub państw członkowskich (w przypadku ESA). Aby zwiększyć świadomość publiczną a co za tym idzie poparcie i dofinansowanie programów konieczna jest działalność w kontekście popularyzacji nauki, technologii, inżynierii (sztuki) i matematyki (and. *S.T.E.M./S.T.E.A.M. - Science Technology Engineering (Arts) Mathematics*).
+Działalność edukacyjna na rzecz popularyzacja nauki i obszaru S.T.E.M.
+----------------------------------------------------------------------
+Agencje kosmiczne działają w oparciu o środki publiczne uzyskane w ramach uchwalonego budżetu państwa lub państw członkowskich (w przypadku ESA). Aby zwiększyć świadomość publiczną a co za tym idzie poparcie i dofinansowanie programów konieczna jest działalność w kontekście popularyzacji nauki, technologii, inżynierii (sztuki) i matematyki (ang. *S.T.E.M. lub S.T.E.A.M. - Science Technology Engineering (Arts) Mathematics*).
 
 W ramach szkolenia kandydackiego astronautów poruszane są tematy:
 
 - wykorzystanie mediów społecznościowych do popularyzacji nauki i misji,
-- nauka wystąpień publicznych i "Space Advocacy",
+- nauka wystąpień publicznych i komunikacji nauki (ang. *Space Advocacy*),
 - wykorzystanie amatorskiego radia krótkofalowego.
 
 Astronauci są osobami publicznymi często występującymi przed zgromadzeniami. Od ich prezencji i sposoby wypowiadania się zależy wizerunek agencji i całego programu kosmicznego. Z tego powodu agencje kosmiczne już podczas selekcji cenią umiejętność przemówień publicznych. Ponadto konieczna jest umiejętność prezentacji skomplikowanych problemów w prosty i przystępny sposób nawet dla najmłodszego odbiorcy.
@@ -185,7 +186,7 @@ W ramach zajęć z fotografii astronauci uczą się fotografować:
 - regiony przybrzeżne i nadmorskie,
 - kratery uderzeniowe po asteroidach,
 - wulkanicznej aktywności,
-- łańcuchów górskich, tj. Himalaye,
+- łańcuchów górskich, tj. Himalaje,
 - obiektów znaczenia historycznego, tj. piramidy w Gizie.
 
 
@@ -230,7 +231,7 @@ Przeciążenia podczas startu i wchodzenia w atmosferę oraz wysiłek fizyczny w
 - Adaptability Training System,
 - system bieżni nadciśnieniowych (ALTER).
 
-Ze względu na brak przyspieszenia grawitacyjnego wszelkie urządzenia, które bazują na podnoszeniu ciężarów lub oporowi wywołanemu przeciwdziałaniu grawitacji są niefunkcjonalne. We względu na specyfikę stanu nieważkości inżynierowie skonstruowali urządzania, które dzięki komorom próżniowym symulują zachowanie podobnego przyrządu na Ziemi. Ponadto stosowane są również specjalistyczne urządzenia opracowane do treningu w środowisku zmniejszonej grawitacji, tj.:
+Ze względu na brak przyspieszenia grawitacyjnego wszelkie urządzenia, które bazują na podnoszeniu ciężarów lub oporowi wywołanemu przeciwdziałaniu grawitacji są niefunkcjonalne. We względu na specyfikę stanu nieważkości inżynierowie skonstruowali urządzenia, które dzięki komorom próżniowym symulują zachowanie podobnego przyrządu na Ziemi. Ponadto stosowane są również specjalistyczne urządzenia opracowane do treningu w środowisku zmniejszonej grawitacji, tj.:
 
 - bieżnia T2,
 - Advanced Resistance Exercise Device (ARED),
@@ -249,9 +250,9 @@ Na specjalną uwagę zasługuje fakt, iż aby mierzyć zmianę masy ciała u ast
 
 Przygotowanie psychologiczne do pracy w odosobnieniu
 ----------------------------------------------------
-Dotychczas tematy związane z przygotowaniem psychologicznym do pracy w odosobnieniu nie miały najwyższego priorytetu. Długość misji kosmicznych nie przekraczała progu, w którym starannie wyselekcjonowani a później przygotowywani astronauci ulegają załamaniu. Wraz ze wzrostem długości pozostawania na orbicie bez kontaktu fizycznego z bliskimi i rodziną specyfika zawodu się zmienia. Ponadto środowisko, w którym przebywają astronauci wymaga stałego wysokiego poziom kocentracji i skupienia, a każda pomyłka może stanowić o śmierci osoby lub wszystkich członków załogi i końca programu. Presja której poddawani są kandydaci jest ogromna i wymaga dużej stabilności i dojrzałości emocjonalnej, psychicznej i umiejętności trzeźwego myślenia w sytuacjach stresowych.
+Dotychczas tematy związane z przygotowaniem psychologicznym do pracy w odosobnieniu nie miały najwyższego priorytetu. Długość misji kosmicznych nie przekraczała progu, w którym starannie wyselekcjonowani a później przygotowywani astronauci ulegają załamaniu. Wraz z wydłużaniem czasu pozostawania na orbicie bez kontaktu fizycznego z bliskimi i rodziną agencje kosmiczne zaczęły dostrzegać konieczność badań w zakresie dynamiki grupy oraz psychologii osób przebywających w izolacji. Ponadto środowisko, w którym przebywają astronauci wymaga stałego wysokiego poziom koncentracji i skupienia, a każda pomyłka może stanowić o śmierci osoby lub wszystkich członków załogi i końca programu. Presja której poddawani są kandydaci jest ogromna i wymaga dużej stabilności i dojrzałości emocjonalnej, psychicznej i umiejętności trzeźwego myślenia w sytuacjach stresowych.
 
-Ze względu na fakt, że temat jest dopiero rozpoznawany a badania w tym zakresie dopiero zaczynają być prowadzone, aby przygotować astronautów do pełnienia obowiązków w trakcie długotrwałych lotów kosmicznych w stałej wysokiej aktywności i sprawności intelektualnej wprowadzono do szkolenia wiele symulacji. I choć urządzenia symulujące awarie i sytuacje niebezpieczne są używane od początku programów to pokrywają jedynie niewielką część przygotowania psychicznego astronautów do długotrwałych misji.
+Badania dotyczące zachowania człowieka w izolacji były prowadzone od początków ery kosmicznej. Jednakże obecnie ich charakter uległ zmianie. Ze względu na fakt, iż temat długotrwałych misji na inne ciała niebieskie jest dopiero rozpoznawany, a badania w tym zakresie dopiero zaczynają być prowadzone wprowadzono do szkolenia wiele symulacji tj. misje analogowe (ang. analog missions). Aby przygotować astronautów do pełnienia obowiązków w trakcie takich lotów kosmicznych w stałej wysokiej aktywności i sprawności intelektualnej wykonuje się wcześniejsze testy w środowisku analogicznym do operacyjnego, w którym będą w przyszłości pracować. Misje analogowe dotyczą głównie pobytu w habitatach lub symulacji geologicznych w terenie przypominającym powierzchnię Marsa lub Księżyc. :numref:`table-apollo-geological-locations` przedstawia listę miejsc wybranych dla programu Apollo w celu przeprowadzenia szkolenia geologicznego. Chociaż urządzenia symulujące awarie i sytuacje niebezpieczne są używane od początku programów to pokrywają jedynie niewielką część przygotowania psychicznego astronautów do długotrwałych misji.
 
 Badania, które są obecnie prowadzone w różnych habitatach i ośrodkach medycznych na świecie pozwalają zbadać wpływ długotrwałej izolacji na psychikę człowieka. Podczas obserwacji grupy dokonywane są analizy zmian psychologicznych oraz dynamiki grupy. W tym celu stosuje się urządzenia zapisujące metadane głosu tj. poziom głośności, szybkość mówienia, intonację, częstość wypowiedzi oraz dynamikę rozmowy. Ponadto ocenie podlegają również zmiany tych parametrów w trakcie rozmowy jak i w stosunku do innych konwersacji. Do badań wykorzystywane są również informacje tj. miejsce przeprowadzania rozmów, warunki atmosferyczne (ciśnienie, temperatura), czas dnia oraz skład osobowy dyskursu. Wszystkie te elementy wpływają na charakter prowadzenia konwersacji oraz na stosunki i ich zmianę podczas trwania izolacji.
 
@@ -312,7 +313,7 @@ Przetrwanie w warunkach zimowych
 --------------------------------
 W trakcie programu kandydackiego NASA astronauci są wysyłani na dwutygodniową ekspedycję podczas, której w trudnych warunkach pogodowych wraz z realnym zagrożeniem mają przetrwać przez określony czas i dotrzeć do punktów kontrolnych. Najczęściej szkolenie zimowe odbywa się w regionach Alaski lub północnej Kanady. Do zadań astronautów należy nawigacja w zaśnieżonych górach z uwagą na lawiny, konstrukcja schronienia, organizacja pożywienia oraz wody. W zależności od szkolenia astronauci mogą być wyposażeni w narty biegowe oraz 75 kg ekwipunki, które ciągną pokonując niedostępne arktyczne tereny. Ponadto w trakcie ekspedycji członkowie zmieniają tury przywództwa dzięki czemu uczą się również komunikacji i różnych ról w zespole. Do zadań symulowanych podczas szkolenia należy również poszukiwanie ofiar lawin wykorzystując specjalny system nadajników (ang. *avalanche homing beacon and monitor*). Pierwsze dni szkolenia prowadzone są pod nadzorem instruktorów, którymi zwykle są żołnierze sił specjalnych lub przeszkoleni profesjonaliści. Po określonym czasie instruktor odłącza się od grupy a astronauci muszą przetrwać i wykorzystać nabytą wiedzę.
 
-Każdy kosmonauta i astronauta, który za pośrednictwem statku Soyuz jest wynoszony na Międzynarodową Stację kosmiczną musi przejść szkolenie przetrwania w warunkach letnich (wodnych) oraz zimowych. Szkolenie zimowe jest przeprowadzane w lesie 15 km od Ośrodka Szkolenia Kosmonautów rosyjskiej agencji kosmicznej. Szkolenie odbywa się przy temperaturze około -20 stopni celsjusza i trwa dwa dni i noce. Podczas nocy temperatura spada do -26 stopni, a kandydaci są zachęcani do budowania szałasów i rozpalania ognisk dla utrzymania ciepła. Przed szkoleniem kursanci otrzymują jednodniowe szkolenie teoretyczne i instrukcje niezbędne do przetrwania w ekstremalnych warunkach. Każdy przyszły uczestnik lotu kosmicznego bez względu na doświadczenie i liczbę odbytych dotychczasowych szkoleń survivalowych musi przejść to szkolenie. Podczas symulacji astronauci i kosmonauci uczą się jak przywdziewać w niewielkiej kabinie statku Soyuz odpowiedni zimowy strój, jak używać strzelby do odstraszania zwierząt, jak budować odpowiedni wigwam pozwalający na cyrkulację powietrza i odprowadzenie monotlenku węgla (CO). Rozpalają dwa ogniska, jedno sygnalizacyjne płonące szybko, dające dużo dymu i wysoko sięgającymi płomieniami oraz drugie w schronieniu do zapewnienia ciepła dla załogi - niewysokie, płonące wolno i niedymiące. Drugie musi być stale podtrzymywane, również w nocy. Uczestnicy szkolenia żywią się wojskowymi racjami żywnościowymi MRE (ang. *Meal Ready to Eat*), które dzięki reakcji egzotermicznej zawartych w opakowaniu substancji chemicznych podgrzewają się.
+Każdy kosmonauta i astronauta, który za pośrednictwem statku Soyuz jest wynoszony na Międzynarodową Stację kosmiczną musi przejść szkolenie przetrwania w warunkach letnich (wodnych) oraz zimowych. Szkolenie zimowe jest przeprowadzane w lesie 15 km od Ośrodka Szkolenia Kosmonautów rosyjskiej agencji kosmicznej. Szkolenie odbywa się przy temperaturze około -20 stopni celsjusza i trwa dwa dni i dwie noce. Podczas nocy temperatura spada do -26 stopni, a kandydaci są zachęcani do budowania szałasów i rozpalania ognisk dla utrzymania ciepła. Przed szkoleniem kursanci otrzymują jednodniowe szkolenie teoretyczne i instrukcje niezbędne do przetrwania w ekstremalnych warunkach. Każdy przyszły uczestnik lotu kosmicznego bez względu na doświadczenie i liczbę odbytych dotychczasowych szkoleń survivalowych musi przejść to szkolenie. Podczas symulacji astronauci i kosmonauci uczą się jak przywdziewać w niewielkiej kabinie statku Soyuz odpowiedni zimowy strój, jak używać strzelby do odstraszania zwierząt, jak budować odpowiedni wigwam pozwalający na cyrkulację powietrza i odprowadzenie monotlenku węgla (CO). Rozpalają dwa ogniska, jedno sygnalizacyjne płonące szybko, dające dużo dymu i wysoko sięgającymi płomieniami oraz drugie w schronieniu do zapewnienia ciepła dla załogi - niewysokie, płonące wolno i niedymiące. Drugie musi być stale podtrzymywane, również w nocy. Uczestnicy szkolenia żywią się wojskowymi racjami żywnościowymi MRE (ang. *Meal Ready to Eat*), które dzięki reakcji egzotermicznej zawartych w opakowaniu substancji chemicznych podgrzewają się.
 
 Ponadto podczas szkolenia astronauci odgrywają scenariusz pomocy osobie poszkodowanej. W tym celu jeden z astronautów pozoruje złamanie nogi a pozostali muszą udzielić pierwszej pomocy oraz przetransportować poszkodowanego do obozu a później do miejsca ewakuacji, gdzie za pomocą rac sygnalizacyjnych ściągają uwagę ekipy ratunkowej.
 
@@ -326,6 +327,8 @@ Ponadto podczas szkolenia astronauci odgrywają scenariusz pomocy osobie poszkod
 Przetrwanie w warunkach pustynnych
 ----------------------------------
 Podczas nieprzewidzianych problemów na orbicie lub sytuacji awaryjnych lądownik po wejściu w atmosferę może wlecieć na teren pustynny i tam do czasu przybycia ekipy ratunkowej załoga statku kosmicznego musi również umieć przetrwać. Podczas szkoleń w ramach misji Mercury, Gemini, Apollo i dalszych astronauci byli po instruktarzu pozostawieni na terenach pustynnych. Podczas szkolenia musieli zaznajomić się w jaki sposób rozpalić ogień, jak złapać i przygotować węża oraz jak pozyskać wodę pitną w suchym środowisku.
+
+.. todo:: Dopisać, że rosyjscy kosmonauci przechodzą szkolenie raz w karierze na stepach Bajkonuru
 
 .. figure:: ../img/survival-desert-nasa.jpg
     :name: figure-survival-desert-nasa
@@ -392,7 +395,7 @@ Kurs został podzielony na trzy etapy:
 
 - geologia planetarna i kurs wprowadzający w Bressanone we Włoszech,
 - geologia terenowa (ang. *field*) i wulkaniczna na wyspie Lanzarote, Wyspy Kanaryjskie, Hiszpania,
-- kurs astrobiologiczny i mikrobiologiczny na uniwersytetach w Niemczech i w ośrodku EAC oraz DLR.
+- kurs astrobiologiczny i mikrobiologiczny na uniwersytetach w Niemczech i w ośrodku EAC oraz Niemiecką Agencję Kosmiczną i Lotniczą (DLR).
 
 Ponadto wykorzystywane są również obszary krateru Ries w okolicach Nördlingen, Niemcy oraz teren Bletterbach we włoskich Dolomitach.
 
@@ -407,7 +410,7 @@ W trakcie misji używane są techniki neutralnej pływalności oraz zmniejszonej
     :scale: 25%
     :align: center
 
-    Astronauta NASA na tle habitatu Aquarius . Źródło: ESA/EAC
+    Astronauta NASA na tle habitatu Aquarius . Źródło: NASA/JSC
 
 .. figure:: ../img/survival-neemo-lesa.jpg
     :name: figure-survival-neemo-lesa
@@ -425,8 +428,8 @@ Chociaż 99% kariery astronauty jest na Ziemi to dla pozostałego 1% konieczne j
 - loty paraboliczne symulujące stan nieważkości.
 
 
-Analiza szkolenia podstawowego w kontekście celu pracy
-======================================================
+Analiza szkolenia podstawowego w kontekście stworzenia PPA
+==========================================================
 Za wyjątkiem lotów parabolicznych omówionych już wcześniej część szkolenia można przeprowadzić w Polsce. W programie szkolenia podstawowego dla kandydatów na astronautów najważniejsza jest wiedza teoretyczna oraz przygotowanie praktyczne.
 
 Posiadana infrastruktura akademicka pozwala na realizację teoretycznych przedmiotów z większości tematów poruszanych podczas dotychczasowych procesów szkolenia astronautów, tj.
