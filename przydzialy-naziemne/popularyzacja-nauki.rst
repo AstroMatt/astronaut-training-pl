@@ -1,0 +1,4 @@
+Popularyzacja nauki i obszaru S.T.E.M.
+======================================
+
+Astronauci są rozpoznawalnymi osobami publicznymi, które najsilniej reprezentują agencje kosmiczne i z tego powodu stają się ich ambasadorami. Jednym z najważniejszych i zajmujących najwięcej czasu zadań astronautów podczas pobytu na Ziemi jest popularyzacja nauki w ramach obszaru S.T.E.M. (Science, Technology, Engineering, Mathematics - ang. Nauka, Technologia, Inżynieria, Matematyka). Członkowie misji przemawiają publicznie na konferencjach, podczas pikników technologicznych oraz w szkołach zwiększając świadomość wykorzystywania rzeczy opracowanych dla przemysłu kosmicznego, które znalazły zastosowanie na co dzień. Ponadto do ich zadań należy również uzasadnianie wysokich wydatków agencji kosmicznych na projekty badania i rozwoju :cite:`Massimino2016`.

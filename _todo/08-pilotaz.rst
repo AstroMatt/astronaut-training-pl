@@ -17,7 +17,7 @@ Na ten fakt wpłynęły następujące cechy:
     Solution: turn the spaceship around and drop as fast as possible
 
 
-Przy misjach amerykańskiego promu Space Shuttle musiano zmodyfikować system. Prom kosminczy miał 8 procedur awaryjnego przerwania startu:
+Przy misjach amerykańskiego promu Space Shuttle musiano zmodyfikować system. Prom kosmiczny miał 8 procedur awaryjnego przerwania startu:
 
 .. todo:: wypisać procedury z książki water egress z project PoSSUM
 
@@ -25,7 +25,7 @@ Przy misjach amerykańskiego promu Space Shuttle musiano zmodyfikować system. P
 
 Podejście do ISS i manewr dokowania
 -----------------------------------
-Statek Sojuz wyposażony jest w system *KURS*, który pozwala na automatyczne naprowadzanie oraz dokownie kapsuły do Międzynarodowej Stacji Kosmicznej. System ten był opracowany dla kapsuł dokujących do stacji Salut :cite:`Siddiqi2000` oraz dla stacji MIR. Obecnie system jest wypierany przez nowszy i dokładniejszy system, którego podzespoły w kapsule są znacznie lżejsze.
+Statek Sojuz wyposażony jest w system *KURS*, który pozwala na automatyczne naprowadzanie oraz dokowanie kapsuły do Międzynarodowej Stacji Kosmicznej. System ten był opracowany dla kapsuł dokujących do stacji Salut :cite:`Siddiqi2000` oraz dla stacji MIR. Obecnie system jest wypierany przez nowszy i dokładniejszy system, którego podzespoły w kapsule są znacznie lżejsze.
 
 Wejście w atmosferę
 -------------------
@@ -33,12 +33,12 @@ Ze względu na przesunięty środek ciężkości kapsuły Sojuz istnieje możliw
 
 Lądowanie
 ---------
-Kapsuła Soujz używa tzw. *systemu miękkiego lądowania*. System ten składa się z niewielkich silniczków rakietowych z wektorem ciągu przeciwnie skierowanym do lotu kapsuły. System ten jest aktywowany na dwa metry :cite:`Hadfield2013` przed uderzeniem w ziemię pozwalając na zminimalizowanie w znacznym stopniu siły uderzenia o grunt. Jego użycie powoduje charakterystyczny płomień i dym przy uderzeniu w ziemię co mylnie kojarzone jest z sytuacją niebezpieczną. Aktywacja tego systemu oraz *miękkie lądowanie* zostało uwiecznione na taśmach wideo :cite:`Soyuz-undocking-reentry-landing`.
+Kapsuła Sojuz używa tzw. *systemu miękkiego lądowania*. System ten składa się z niewielkich silniczków rakietowych z wektorem ciągu przeciwnie skierowanym do lotu kapsuły. System ten jest aktywowany na dwa metry :cite:`Hadfield2013` przed uderzeniem w ziemię pozwalając na zminimalizowanie w znacznym stopniu siły uderzenia o grunt. Jego użycie powoduje charakterystyczny płomień i dym przy uderzeniu w ziemię co mylnie kojarzone jest z sytuacją niebezpieczną. Aktywacja tego systemu oraz *miękkie lądowanie* zostało uwiecznione na taśmach wideo :cite:`Soyuz-undocking-reentry-landing`.
 
 
 Awaryjne opuszczanie orbity
 ---------------------------
-Istnieje wiele powodów dla których statek kosmczny może być zmuszony do opuszczenia orbity. Przy opracowywaniu procedur wymienia się:
+Istnieje wiele powodów dla których statek kosmiczny może być zmuszony do opuszczenia orbity. Przy opracowywaniu procedur wymienia się:
 
 .. todo:: wypisać procedury z książki water egress z project PoSSUM
 
@@ -87,7 +87,7 @@ Odprawa po symulacjach
 ======================
 .. todo::
     - debriefing
-    - Każda osoba biorąca udział w symulacji może się wypowiedzieć na debriefingu
+    - Każda osoba biorąca udział w symulacji może się wypowiedzieć na debriefing
     - Po 4h simie, debriefują przez godzinę
 
 

@@ -5,4 +5,4 @@ Najdłuższy pobyt w przestrzeni kosmicznej zanotował kosmonauta Roskosmos Dr. 
 
 Największy kumulacyjny "nalot" zgromadził kosmonauta Roskosmos Gennady Padalka, który przybywał łącznie 879 dni na orbicie podczas 5 lotów kosmicznych.
 
-Największy kumulacyjnie czas spędzony podczas EVA zanotował kosmonauta Roskosmos Anatoly Solovyev, który przebywał łącznie 82 godziny 22 minuty w trakcie 16 spacerów kosmicznych. Kosmonauta ten jest również osobą, która wykonała najwięcej spacerów kosmicznych w historii.
+Największy łączny czas spędzony podczas EVA zanotował kosmonauta Roskosmos Anatoly Solovyev, który przebywał łącznie 82 godziny 22 minuty w trakcie 16 spacerów kosmicznych. Kosmonauta ten jest również osobą, która wykonała najwięcej spacerów kosmicznych w historii.

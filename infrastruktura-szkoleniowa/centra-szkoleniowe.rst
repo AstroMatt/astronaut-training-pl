@@ -26,7 +26,7 @@ Tsukuba Space Center jest miejscem gdzie astronauci lecący na ISS odbywają szk
 
 Astronaut Centre of China, Pekin, Chiny
 ---------------------------------------
-Ośrodek szkolenia Chińskich Astronautów (ACC) usytuowany jest w północno wschodniej części Pekinu :cite:`CNSAAstronautSelectionAndTraining`. Jest siedzibą chińskich astronautów i jako, że Chiny nie są państwem kontrybuującym do ISS nie odbywają się tutaj treningi przygotowujące do lotów na stację. W tym miejscu Chiński korpus astronautów szkoli się i przygotowuje do załogowych misji na stacje orbitalne w ramach programu Tiangong.
+Ośrodek szkolenia Chińskich Astronautów (ACC) usytuowany jest w północno wschodniej części Pekinu :cite:`CNSAAstronautSelectionAndTraining`. Jest siedzibą chińskich astronautów i jako, że Chiny nie są państwem biorącym udział w programie ISS nie odbywają się tutaj treningi przygotowujące do lotów na stację. W tym miejscu Chiński korpus astronautów szkoli się i przygotowuje do załogowych misji na stacje orbitalne w ramach programu Tiangong.
 
 John H. Chapman Space Centre, Longueuil, QC, Kanada
 ---------------------------------------------------

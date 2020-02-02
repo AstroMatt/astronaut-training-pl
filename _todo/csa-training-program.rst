@@ -30,7 +30,7 @@
 
         - MMU Simulator - how astronauts move in space
         - Simulator Multi-Axes - Rotate in three different axis. Learn how to concentrate facing complete disorientation situation.
-        - Simulator 1/6 chair - during Apollo program. used to train astronauts how to walk on the moon. Elastic suspension compansate 5/6 body weight.
+        - Simulator 1/6 chair - during Apollo program. used to train astronauts how to walk on the moon. Elastic suspension compensate 5/6 body weight.
         - Simulator 5DL Chair - Simulator used to train how to move in space using only arms and hands.
         - Simulator 0-gravity wall
-        - Simulator SSMT - Simulator acustoms trainee to move in Space Station - 1,83m diameter cylinder allows to rotate 360 degrees.
+        - Simulator SSMT - Simulator accustoms trainee to move in Space Station - 1,83m diameter cylinder allows to rotate 360 degrees.

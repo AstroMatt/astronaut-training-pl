@@ -9,7 +9,7 @@ Przygotowanie astronautów pod kątem przydzielonej misji
 Astronauta w trakcie szkolenia przygotowawczego do przydzielonej misji jest trenowany w używaniu każdego modułu ISS na jednym z trzech poziomów:
 
 - użytkownik (ang. *user*),
-- specialista (ang. *specialist*),
+- specjalista (ang. *specialist*),
 - operator (ang. *operator*).
 
 Poziom operatora wymaga dogłębnej znajomości modułów, jego architektury i umiejętności naprawy wszystkich jego elementów. Specjalista to osoba umiejąca posługiwać się systemami modułów oraz asystować operatorowi przy poważniejszych naprawach. Użytkownik to najbardziej podstawowy poziom i pozawala na podstawowe użytkowanie systemów w module.
@@ -21,10 +21,10 @@ Poziom wyszkolenia astronauty w danym module zależy od przynależności do agen
     - backup team
     - trenowanie poruszania robotami
         - Haptic
-    - Augumentacja
-        - hololense
+    - Augmentacja
+        - Microsoft HoloLens
         - mobiPV
-    - Assigmnets
+    - Assignments
         - ISS operations
         - ISS integrations
         - Safety
@@ -54,7 +54,7 @@ Badania biologiczne
 
 - Microbiology and sanitary and hygienic provision
 
-    - Assessment of human health and the microflora of the environment
+    - Assessment of human health and the micro-flora of the environment
     - Means of protection and countermeasures
 
 - Biological experiments inside and outside of the isolation facility
@@ -62,7 +62,7 @@ Badania biologiczne
     - Astrobiology
     - Microbiology
     - Life-support systems
-    - Biomaterials
+    - Bio-materials
     - Hydroponic gardens
 
 Badania chemiczne
@@ -74,7 +74,7 @@ Badania techniczne i inżynieryjne
 ---------------------------------
 - Operations and technological aspects
 
-    - Parameters of the environment and microclimate
+    - Parameters of the environment and micro-climate
     - Needs of the crew and consumption of resources
     - Organization of communication
     - Transmission and storage of information
@@ -114,7 +114,7 @@ Eksperymenty medyczne
 
 Procedury Operacyjne
 --------------------
-- Extravehicle activitiy (EVA) and activity on the surface of a simulator
+- Extravehicular activity (EVA) and activity on the surface of a simulator
 
     - Control systems over the activities and state of the health
     - Using special equipment and tools
@@ -122,7 +122,7 @@ Procedury Operacyjne
     - Using of augmented reality tools
 
 
-Badania dotyczące eksploracji Niskiej Orbity Okołoziemskiej (LEO)
+Badania dotyczące eksploracji Niskiej Orbity Okołoziemskiej (LEO)
 -----------------------------------------------------------------
 
 Specjalizacje astronautów
@@ -138,7 +138,7 @@ Specjalizacje astronautów
 
     - Każdy astronauta ma jakiś background, medyczny, lotniczy itp, i to prawdopodobnie wpływa na assignments do misji, np. ze względu na badania naukowe jakie chcą przeprowadzić na stacji.
     - Astronauci nie znają systemu dlaczego są przypisywani do misji
-    - Wcześniej byli Piloci i po drugiej stronie Mission Specialiści, czasami pojawiali się po środku Payload Specjaliści, ale już tego nie ma każdy na stacji jest Flight Engineerem :cite:`Massimino2016`
+    - Wcześniej byli Piloci i po drugiej stronie Mission Specjaliści, czasami pojawiali się po środku Payload Specjaliści, ale już tego nie ma każdy na stacji jest Flight Engineer :cite:`Massimino2016`
     - Long Duration space flight, you have to be a jack of all traits
     - https://en.wikipedia.org/wiki/Astronaut_badge
 
@@ -201,8 +201,8 @@ Przygotowanie do wykorzystania systemów Międzynarodowej Stacji Kosmicznej
     - mieszkanie w mockupie ISS, spanie, praca, symulacje
     - Jesteś przyzwyczajony do tego, że jak coś zostawiasz, to to tam zostaje, ale w mikrograwitacji wszystko gdzieś odlatuje i trzeba szukać
     - Ventilation system przyciąga
-    - Plastik bag Ziplock bag z zagubionymi rzeczami, śrubki, rzeczy itp
-    - Korzystają z rzepow i gumek bungie
+    - Plastic ziploc bag z zagubionymi rzeczami, śrubki, rzeczy itp
+    - Korzystają z rzepów i gumek bungie
     - Śpiąc albo przypinają śpiwór do ściany, albo korzystają z bungie aby nie odlatywać lub free-floater w zależności od preferencji astronauty
 
     http://www.asc-csa.gc.ca/eng/astronauts/faq.asp#details_45
@@ -212,7 +212,7 @@ Przygotowanie do wykorzystania systemów Międzynarodowej Stacji Kosmicznej
 Rozmieszczenie modułów i poruszanie się po stacji
 =================================================
 
-Wykorzystywanie, utrzymanie i naprawa systemów pokładowych
+Wykorzystywanie, utrzymanie i naprawa systemów pokładowych
 ==========================================================
 
 System podtrzymywania życia
@@ -261,7 +261,7 @@ Przygotowywanie i spożywanie posiłków
 Odpadki i śmieci
 ================
 
-Przykładowy rozkład dnia astronautów na Międzynarodowej Stacji Kosmicznej
+Przykładowy rozkład dnia astronautów na Międzynarodowej Stacji Kosmicznej
 =========================================================================
 .. todo::
     - Science and Technology
@@ -284,7 +284,7 @@ Spędzanie wolnego czasu
 .. todo::
     - gra na instrumentach
     - telekonferencja z rodziną
-    - obserwowanie Ziemii z Cupoli
+    - obserwowanie Ziemi z Cupola
     - fotografowanie
     - udzielanie się na social media
 
@@ -293,34 +293,34 @@ Sytuacje awaryjne na międzynarodowej stacji kosmicznej
 ======================================================
 .. todo::
     - Off nominal situations
-    - electronic sysyems failure
+    - electronic systems failure
     - Vhf radio system failure
-    - Smart switch router Brie ASU system failure (cieżko tłumaczki się słuchało)
+    - Smart switch router Brie ASU system failure (ciężko tłumaczki się słuchało)
     - Pożar w sojuz oraz na stacji
     - lithium hydroxide leaking
     - leak seals
     - tank leaking
-    - Soyus leaking
+    - Soyuz leaking
     - Russian segment training
        - Fire
        - Depressurization
     - używanie kolejnego modułu jako backup airlock
-    - thermal stress (kiedy jest gorąco, np niedzialająca klima w skafandrze
+    - thermal stress (kiedy jest gorąco, np niedziałająca klima w skafandrze
     - plucie na zamgloną szybkę hełmu EMU
-    - astronauta asystant dla małżonka astronauty podczas startu, który pomaga w pierwszych momentach bycia wdową gdyby cooś poszło nie tak
-    - wykorystywanie canadaarm do oglladania statku
+    - astronauta asystent dla małżonka astronauty podczas startu, który pomaga w pierwszych momentach bycia wdową gdyby coś poszło nie tak
+    - wykorzystywanie Canadarm do oglądania statku
     - symulacja manewru w symulatorze
     - brak zasilania prądu na iss i na statkach, brak thermal protection, radiation
     - space shuttle reentry angle 31 deg (nietypowy kąt wejścia)
-    - pressure in the space shuttle pressurized compartnent 14,7 psi
-    - dzień prze EVA STS-117 crew spent night in the aiir lock with 10.2 psi (plus maski z tlenem) by przygotować się
+    - pressure in the space shuttle pressurized compartment 14,7 psi
+    - dzień prze EVA STS-117 crew spent night in the air lock with 10.2 psi (plus maski z tlenem) by przygotować się
     - sytuacje awaryjne, np jak szycie powłoki testują w rękawicach wewnątrz statku, by wiedzieć że dadzą radę podczas EVA
-    - EVA training gdy czlonek straci przytomność
-    - trening EVA z obniżania ciśnienia w skafandrze (2.7 psi dla Leovova), depressure valve w skafandrach
+    - EVA training gdy członek straci przytomność
+    - trening EVA z obniżania ciśnienia w skafandrze (2.7 psi dla Leonowa), depressurize valve w skafandrach
     - Mission Control has had to deliver very bad news to astronauts while they are in space and yes there are protocols for how to do such things. While in orbit, astronauts have had family members die, friends and colleagues die, and drastic other events occur. In each case, the crew has a dedicated support team including a flight surgeon that can properly convey the information and work with the crew to handle the news. Nowadays, the crew can also have direct telephone and videocon access to their families.
     - https://www.quora.com/Has-Mission-Control-ever-had-to-deliver-very-bad-news-to-an-astronaut-while-they-were-in-space
 
-.. figure:: /img/iss-emergency-procedures-handbook.png
+.. figure:: img/iss-emergency-procedures-handbook.png
     :name: figure-iss-emergency-procedures-handbook
     :scale: 25%
     :align: center
@@ -332,12 +332,12 @@ Pożar na ISS
 .. todo::
     Protokół na gaszenie:
         Warn (może inni nie wiedza, sprawdzić które czujniki wskazują)
-        Geather (check with MCC What might the problem, and if they confirm)
+        Gather (check with MCC What might the problem, and if they confirm)
         Work
         Jeżeli dym jest za gesty (nie widać stop), zbierz zespół, przejdź do innego modułu zamknij hatch i myśl co można zrobić. Rosyjski protokół mówi, aby tego nie robić, tylko walczyć z ogniem.
-        Warn, Geather, work protocol. Nie chwytanie się za gaśnice od razu
+        Warn, Gather, work protocol. Nie chwytanie się za gaśnice od razu
 
-.. figure:: /img/iss-emergency-training.jpg
+.. figure:: img/iss-emergency-training.jpg
     :name: figure-iss-emergency-training
     :scale: 25%
     :align: center
@@ -347,9 +347,9 @@ Pożar na ISS
 Problemy medyczne członków załogi
 ---------------------------------
 
-Śmierć członka załogi
+Śmierć członka załogi
 ---------------------
-​.. todo:: Death sims usually operate as a roundtable discussion in which one astronaut is announced as having died and whoever is leading the exercise will throw curveballs into the hypothetical scenario that plays out. In his book, Hadfield explains what it was like listening to his own death sim played out: "We've just received word from the Station: Chris is dead." Immediately, people start working the problem. Okay, what are we going to do with his corpse? There are no body bags on Station, so should we shove it in a spacesuit and stick it in a locker? But what about the smell? Should we send it back to Earth on a resupply ship and let it burn up with the rest of the garbage on re-entry? Jettison it during a spacewalk and let it float away into space? The death sims force the astronauts to really think through how they should respond, Hadfield writes: "Who should tell my parents their son is dead? By phone or in person? Where will they even be - at the farm or at the cottage? Do we need two plans, then, depending on where my mom and dad are?" I'm guessing a similar sim might have been done for the Apollo astronauts.
+​.. todo:: Death sims usually operate as a round-table discussion in which one astronaut is announced as having died and whoever is leading the exercise will throw curveballs into the hypothetical scenario that plays out. In his book, Hadfield explains what it was like listening to his own death sim played out: "We've just received word from the Station: Chris is dead." Immediately, people start working the problem. Okay, what are we going to do with his corpse? There are no body bags on Station, so should we shove it in a spacesuit and stick it in a locker? But what about the smell? Should we send it back to Earth on a resupply ship and let it burn up with the rest of the garbage on re-entry? Jettison it during a spacewalk and let it float away into space? The death sims force the astronauts to really think through how they should respond, Hadfield writes: "Who should tell my parents their son is dead? By phone or in person? Where will they even be - at the farm or at the cottage? Do we need two plans, then, depending on where my mom and dad are?" I'm guessing a similar sim might have been done for the Apollo astronauts.
 
 .. todo:: Contingency sim (death sim)
     in a board room (some people can call in on a speaker)
@@ -367,7 +367,7 @@ Śmierć członka załogi
     How crew mates will deal with the trauma
     Put body in airlock and let it free on EVA?
     Put in the resupply ship to burn in the atmosphere?
-    (Green card: it’s just been tweeted that there was a report on ISS and NYtimes reporters are calling
+    (Green card: it’s just been tweeted that there was a report on ISS and New York Times reporters are calling
     New problems when still the old ones haven’t been dealt with
     How PR people should respond
     Should NASA or CSA take the lead (Hadfield Simulation)
@@ -401,7 +401,7 @@ Awaria systemu uzdatniania wody
 
 Awaria toalety
 --------------
-.. todo:: Tekst z aircrafts systems Engineering o umieszczeniu toalety na suficie
+.. todo:: Tekst z aircraft systems Engineering o umieszczeniu toalety na suficie
 
 
 Awaria systemu generowania i cyrkulacji powietrza

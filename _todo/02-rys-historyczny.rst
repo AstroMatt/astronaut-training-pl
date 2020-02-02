@@ -35,7 +35,7 @@ W dniu 9 kwietnia 1959, NASA przedstawiła pierwszą grupę astronautów tzw. "M
 
 Z przyczyn zdrowotnych Deke Slayton został zdyskwalifikowany z udziału w programie Mercury i uziemiony. Przez trzynaście lat od czasu pierwszego lotu Sheparda, Deke Slayton kierował *Astronauts Office* (ang. biurem astronautów i przydziału do misji), które zostało przemianowane później na *Flight Crew Operations Office* (ang. biuro operacji personelu latającego). Slayton po ostatecznym przejściu badań medycznych wziął udział w ostatnim locie programu Apollo tj. Apollo-Sojuz. W tym locie doszło do historycznego dokowania na orbicie okołoziemskiej statków Apollo i Sojuz oraz do symbolicznego uściśnięcia dłoni przedstawicieli USA i ZSRR :cite:`Grimwood2014`, :cite:`Swenson1966`.
 
-.. figure:: ../img/selection-mercury.jpg
+.. figure:: img/selection-mercury.jpg
     :name: figure-selection-mercury
     :scale: 7%
     :align: center
@@ -43,7 +43,7 @@ Z przyczyn zdrowotnych Deke Slayton został zdyskwalifikowany z udziału w progr
     Astronauci programu Mercury tzw. "Original Seven". Pierwszy rząd, od lewej do prawej: Walter M. Schirra, Jr., Donald K. "Deke" Slayton, John H. Glenn, Jr., and M. Scott Carpenter; tylny rząd, Alan B. Shepard, Jr., Virgil I. "Gus" Grissom, L. Gordon Cooper, Jr. źródło: NASA :cite:`Mercury7`.
 
 
-.. figure:: ../img/spacecraft-comparision-mercury-gemini-vostok-voshod.jpg
+.. figure:: img/spacecraft-comparision-mercury-gemini-vostok-voshod.jpg
     :name: spacecraft-comparision-mercury-gemini-vostok-voshod
     :scale: 75%
     :align: center
@@ -57,7 +57,7 @@ Project Gemini
 W celu sprostania wymaganiom postawionym przez prezydenta J. F. Kennedy'ego dotyczącego wysłania człowieka na Księżyc konieczne było stworzenie programu pomostowego pomiędzy programami Mercury oraz Apollo. Celem programu miało być stworzenie i przetestowanie technologii umożliwiającej realizację lotu księżycowego, tj.:
 
 - demonstracja wytrzymałości człowieka i ekwipunku w lotach kosmicznych trwających od 8 do 14 dni,
-- zbliżenie i dokowanie (ang. *randevouz and docking*) dwóch statków kosmicznych oraz manewrowanie połączonym zespołem na orbicie używając systemu napędowego dokowanego pojazdu,
+- zbliżenie i dokowanie (ang. *Rendezvous and docking*) dwóch statków kosmicznych oraz manewrowanie połączonym zespołem na orbicie używając systemu napędowego dokowanego pojazdu,
 - demonstracja spacerów kosmicznych (ang. *EVA - Extra-Vehicular Activity*) na zewnątrz pojazdu wraz z pokazaniem możliwości wykonywania operacji przez astronautę w ciśnieniowym skafandrze :cite:`McDivitt1965`,
 - udoskonalenie procedury wejścia w atmosferę (ang. *re-entry*) i precyzyjnego lądowania w określonym miejscu :cite:`Kranz2001`.
 
@@ -65,14 +65,14 @@ Amerykańska agencja kosmiczna NASA podczas projektu Gemini przeprowadziła dwa 
 
 Podczas przygotowań do misji Gemini 12 amerykański astronauta Buzz Aldrin jako pierwszy wykorzystał techniki nurkowania w celu symulacji spacerów kosmicznych co zapoczątkowało rozpoczęcie badań i stworzenie ośrodków pływalności neutralnej (ang. *NBL - Neutral Buoyancy Laboratory*).
 
-.. figure:: ../img/selection-gemini-1.jpg
+.. figure:: img/selection-gemini-1.jpg
     :name: figure-selection-gemini-1
     :scale: 20%
     :align: center
 
     Astronauci pierwszego naboru do programu Gemini. Rząd z tyłu, od lewej: See, McDivitt, Lovell, White, Stafford. Rząd z przodu: Conrad, Borman, Armstrong, Young. Źródło: NASA/JSC
 
-.. figure:: ../img/selection-gemini-2.jpg
+.. figure:: img/selection-gemini-2.jpg
     :name: figure-selection-gemini-2
     :scale: 7%
     :align: center
@@ -82,7 +82,7 @@ Podczas przygotowań do misji Gemini 12 amerykański astronauta Buzz Aldrin jako
 Program Apollo
 --------------
 
-.. figure:: ../img/selection-apollo.jpg
+.. figure:: img/selection-apollo.jpg
     :name: figure-selection-apollo
     :scale: 65%
     :align: center
@@ -120,7 +120,7 @@ Program Space Shuttle pozwolił na zwiększenie częstotliwości lotów załogow
 
 Podczas lotów promów kosmicznych amerykańska agencja NASA opracowała program szkolenia astronautów, który stał się podstawą dzisiejszych treningów. Stworzono również skafander EMU - Extravehicular Mobility Unit. Skafander ten był modyfikacją skafandra *A7L* wykorzystywanego w programie Apollo. EMU znajduje zastosowanie w misjach kosmicznych i w programie Międzynarodowej Stacji Kosmicznej.
 
-.. figure:: ../img/spacecraft-space-shuttle-and-soyuz.png
+.. figure:: img/spacecraft-space-shuttle-and-soyuz.png
     :name: figure-spacecraft-space-shuttle-and-soyuz
     :scale: 10%
     :align: center
@@ -146,14 +146,14 @@ Program Woschod
 ---------------
 Program Woschod był kontynuatorem programu Wostok. Wprowadzał modyfikację do kapsuły, wzrost jej objętości, oraz zwiększenie liczby członków załogi do trzech osób. Zastosowano również powiększoną rakietę nosiciela. W latach 1964 i 1965 odbyły się dwa loty w ramach programu.
 
-Największym dokonaniem podczas programu Woschod było pierwsze wyjście człowieka w otwarty kosmos, tzw. *EVA*. Dokonał tego rosyjski kosmonauta Alexey Leonov 18 marca 1965 roku. Pierwsze wyjście trwało 12 minut i niemalże zakończyło się śmiercią kosmonauty. Jego skafander ze względu na różnicę ciśnień spuchł do rozmiarów niepozwalających na powrót do śluzy. Leonov rozhermetyzował skafander i upuścił powietrze w skutek czego nabrał możliwości ponownego wejścia do kapsuły.
+Największym dokonaniem podczas programu Woschod było pierwsze wyjście człowieka w otwarty kosmos, tzw. *EVA*. Dokonał tego rosyjski kosmonauta Aleksiej Leonow 18 marca 1965 roku. Pierwsze wyjście trwało 12 minut i niemalże zakończyło się śmiercią kosmonauty. Jego skafander ze względu na różnicę ciśnień spuchł do rozmiarów niepozwalających na powrót do śluzy. Leonov rozhermetyzował skafander i upuścił powietrze w skutek czego nabrał możliwości ponownego wejścia do kapsuły.
 
 .. csv-table:: Lista lotów programu Woschod :cite:`Siddiqi2000`
-    :name: table-wosohod-flights
+    :name: table-woshod-flights
     :file: ../data/woshod-flights.csv
     :header-rows: 1
 
-.. figure:: ../img/spacecraft-voshod-2.png
+.. figure:: img/spacecraft-voshod-2.png
     :name: figure-voshod-2
     :scale: 75%
     :align: center
@@ -171,7 +171,7 @@ Równocześnie z kapsułą załogową Sojuz tworzona była jej bezzałogowa wers
 
 Program Salut
 -------------
-Pierwszym w historii programem orbitalnej stacji kosmicznej był Salut. Konstrukcja stacji była jednomodułowa i wynoszona na orbitę na rakiecie-nosicielu Proton. Kosmonauci za pomocą statków Sojuz dokowali do stacji, gdzie prowadzili badania nad efektami wpływu na organizm człowieka długotrwałego pobytu w stanie mikrograwitacji. Program również nosił nazwę Długoczasowa Stacja Orbitalna (ros. *DOS - Dołgowriemiennaja Orbitalnaja Stancija*), a równcześnie z nim był tworzony wojskowy program *Ałmaz* (ros. *Diament*).
+Pierwszym w historii programem orbitalnej stacji kosmicznej był Salut. Konstrukcja stacji była jednomodułowa i wynoszona na orbitę na rakiecie-nosicielu Proton. Kosmonauci za pomocą statków Sojuz dokowali do stacji, gdzie prowadzili badania nad efektami wpływu na organizm człowieka długotrwałego pobytu w stanie mikrograwitacji. Program również nosił nazwę Długoczasowa Stacja Orbitalna (ros. *DOS - Dołgowriemiennaja Orbitalnaja Stancija*), a równocześnie z nim był tworzony wojskowy program *Ałmaz* (ros. *Diament*).
 
 Stacje wyposażone były w port dokowania, dzięki któremu zarówno załogowe jak i bezzałogowe statki Progress mogły dołączać do stacji i zaopatrywać ją w paliwo, tlen i inne zasoby.
 
@@ -180,7 +180,7 @@ Stacje wyposażone były w port dokowania, dzięki któremu zarówno załogowe j
     :file: ../data/salyut-timeline.csv
     :header-rows: 1
 
-.. figure:: ../img/spacestation-salyut-6.png
+.. figure:: img/spacestation-salyut-6.png
     :name: figure-spacestation-salyut-6
     :scale: 100%
     :align: center
@@ -193,7 +193,7 @@ Program Buran był odpowiedzią na amerykański program Space Shuttle. Pojazd, k
 
 Ze względów geopolitycznych program został zamknięty, a orbitery trafiły kolejno do hangaru na kosmodromie Bajkonur oraz do muzeum techniki w niemieckim mieście Speyer. W maju 2002 ze względu na obciążenia dachu wywołane potężną burzą dach hangaru, w którym przebywał Buran oraz rakieta Energia zawalił się niszcząc prom i nosiciela.
 
-.. figure:: ../img/spacecraft-buran-vs-shuttle.png
+.. figure:: img/spacecraft-buran-vs-shuttle.png
     :name: figure-spacecraft-buran-vs-shuttle
     :scale: 25%
     :align: center
@@ -206,7 +206,7 @@ Stacja kosmiczna Mir (ros. pokój) była bezpośrednim kontynuatorem programu Sa
 
 Jej konstrukcja rozpoczęła się od przeniesienia zasobów dostarczonych przez Progress-25 i Progress-26. Zadanie wykonała załoga Sojuz T-15 (Leonid Kizim i Władimir Sołowjow). Podczas 50 dniowego pobytu załoga również odwiedziła stację Salut-7 w celu przewiezienia części wyposażenia na Mir. Na chwilę obecną jest to jedyny przypadek w historii aby astronauci w trakcie jednego lotu odwiedzili dwie stacje.
 
-.. figure:: ../img/spacestation-mir.png
+.. figure:: img/spacestation-mir.png
     :name: figure-spacestation-mir
     :scale: 50%
     :align: center
@@ -246,7 +246,6 @@ Tabele
     :name: table-wostok-cosmonauts
     :file: ../data/wostok-cosmonauts.csv
     :header-rows: 1
-
 
 .. csv-table:: Lista rosyjskich kosmonautów
     :name: table-astronauts-roscosmos

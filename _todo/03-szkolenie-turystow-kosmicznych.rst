@@ -56,7 +56,7 @@ Selekcja w organizacjach i programach prywatnych
 
 HE Space Operations
 -------------------
-.. todo:: Frima HE Space na początku roku 2016 rozpoczęła proces poszukiwania kandydatki na astronautę.
+.. todo:: Firma HE Space na początku roku 2016 rozpoczęła proces poszukiwania kandydatki na astronautę.
 
 Program Commercial Crew Transport
 =================================

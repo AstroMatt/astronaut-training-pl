@@ -1,0 +1,20 @@
+Metoda, techniki badawcze oraz procedura badań
+==============================================
+
+Praca jest próbą analizy jakościowej procesów szkolenia astronautów w wybranych agencjach kosmicznych, tj. NASA, ESA, CSA, JAXA, Roskosmos i CNSA wraz z przeglądem infrastruktury szkoleniowej. Praca ma na celu zaproponowanie rozwiązań tj. wskazanie miejsc udziału Polski w procesie szkolenia obecnych i przyszłych astronautów ESA jak również zaproponowanie programu szkolenia Polskiego astronauty.
+
+W trakcie opracowywania materiałów niniejszej publikacji autor, korzystając z faktu, iż był etatowym pracownikiem Europejskiej Agencji Kosmicznej miał możliwość dokładnej analizy procesów oraz przeprowadzenia rozmów z astronautami, dyrektorem ds. lotów załogowych i eksploracji robotycznej (ang. *HRE - Human Spaceflight and Robotic Exploration*), kontrolerami lotów jak również z trenerami astronautów.
+
+Programy kosmiczne były dotychczas prowadzone głównie przez dwa państwa USA i Federację Rosyjską (wcześniej Związek Socjalistycznych Republik Radzieckich). ZSRR był inicjatorem współpracy międzynarodowej. W ramach programu Interkosmos polecieli pierwsi kosmonauci niebędący obywatelami wyżej wymienionych mocarstw, a generał Hermaszewski został pierwszym polakiem, który tego dokonał.
+
+Podczas selekcji kosmonauci i astronauci wybierani byli głównie ze względu na doświadczenie w pilotażu, chociaż pojawiały się również grupy osób z innych specjalności tj. inżynieria, nauka, medycyna jak również nauczyciele.
+
+Wraz z rozwojem technologicznym pozwalającym na autonomiczne prowadzenie statków kosmicznych i ich dokowanie, oraz wraz ze zwiększającą się liczbą startów, stabilizacją i bezpieczeństwem lotów jak i pobytu w kosmosie nacisk na doświadczenie pilotażowe kandydata maleje. Chociaż piloci to wciąż wysoko cenieni specjaliści, to ilość badań, ich złożoność oraz specyfika promuje profil kandydatów z wykształceniem naukowym lub inżynieryjnym. Jednocześnie na uwagę zasługuje fakt, iż w większości przydziałów do misji, osoby które udawały się w kosmos były szkolone do prowadzenia badań wychodzących poza zakres swojej specjalizacji, co silnie promuje osoby wszechstronne.
+
+Na podstawie dominujących cech wśród astronautów analizowanych programów w ramach proponowanego celu pracy kandydaci powinni cechować się multidyscyplinarnością, umiejętnością pracy w grupie oraz prowadzenia badań wychodzących z poza zakresu specjalizacji, gdyż to właśnie te elementy dominowały przy wyborze, szkoleniu i odbywaniu misji.
+
+Procesowi analizy poddano każdy etap selekcji, szkolenia do długotrwałych lotów kosmicznych oraz EVA jak również infrastruktura naziemna i kosmiczna. Na podstawie porównania z literaturą naukową, rozmów z ww. osobami oraz próbie odtworzenia procesu szkolenia astronautów w ramach zalążka programów załogowych w Polsce (za co autor wraz z dr Agatą Kołodziejczyk otrzymał medal Kopernikański) wybrano kluczowe elementy w procesie. Ponadto korzystając z empirycznego poznania procesu od środka w ramach dwóch symulacji Księżycowych i jednej Marsjańskiej i uczestniczeniu w części szkolenia astronautycznego autor może przekazać subiektywne odczucia w doborze parametrów jakościowych.
+
+W ramach badań poddano analizie NASA, ESA, CSA, JAXA, Roskosmos i CNSA wraz z ich obecnym oraz historycznym programem selekcji i szkolenia. Przeanalizowano również profile wszystkich 556 osób, które przekroczyły umowną granicę kosmosu, tzw. linię Kármána. Wzięto pod uwagę dane z lotów krótkich, długotrwałych oraz księżycowych jak również dane z EVA. Ponadto zestawiono informacje dotyczące infrastruktury naziemnej oraz lotniczej.
+
+Zebrano i przeanalizowano również opinię dotyczącą załogowych lotów kosmicznych. Na podstawie udzielonych odpowiedzi określono zapotrzebowanie zarówno osób zajmujących się profesjonalnie branżą kosmiczną jak również niezwiązanych zawodowo z tym tematem.

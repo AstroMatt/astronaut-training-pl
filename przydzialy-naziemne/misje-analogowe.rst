@@ -1,0 +1,12 @@
+Misje analogowe
+===============
+
+Misje analogowe, właściwie analogiczne (ang. *analogous*) starają się jak najwierniej odzwierciedlić specyfikę problemu pracy na orbicie lub powierzchni innego ciała niebieskiego wykorzystując zasoby i tereny dostępne na Ziemi. Wykorzystanie charakterystycznego środowiska pozwala na przygotowanie nowych sposobów pracy na powierzchni przy planowaniu przyszłych misji. Jednymi z najbardziej popularnych miejsc prowadzenia badań oraz szkoleń astronautów są pustynie skaliste lub zbocza wulkanów imitujące powierzchnię Marsa, wnętrza jaskiń, tunele lawy oraz bazy podwodne :cite:`One-small-step-for-a-geologist`, :cite:`Preparing-astronauts-for-exploring-celestial-bodies`, :cite:`Anderson2015`.
+
+Misja Europejskiej Agencji Kosmicznej CAVES służy astronautom oraz obsłudze w nauce eksploracji trudno dostępnych miejsc. Ponadto przyczynia się do zrozumienia konieczności pracy w grupie, zacieśnia relacje w zespole oraz uczy geologii i mikrobiologii. Członkowie wyprawy do jaskiń Sardynii eksplorują trójwymiarowe struktury korytarzy i odkrywają nowe gatunki mikroorganizmów zamieszkujące te miejsca :cite:`Preparing-astronauts-for-exploring-celestial-bodies`.
+
+Kolejnym przykładem misji analogowej Europejskiej Agencji Kosmicznej jest cykl wypraw "Pangaea", która składa się z dwóch części: jednej na wyspie Lanzarote w archipelagu wysp Kanaryjskich oraz drugiej w pobliżu Bressanone we Włoszech. Pierwsze miejsce zostało wybrane ze względu na możliwość prowadzenia badań z zakresu geologii planetarnej na terenie przypominającym pustkowia Marsa :cite:`One-small-step-for-a-geologist`. Miejsce we Włoszech wybrano w celu prowadzenia analizy geologicznej i geomorfologicznej jak również poszukiwania śladów życia i pobranych próbkach :cite:`Preparing-astronauts-for-exploring-celestial-bodies`.
+
+Misje NEEMO w habitacie podwodnym Aquarius są projektem amerykańskiej agencji kosmicznej NASA. Poza obywatelami stanów zjednoczonych w misjach także uczestniczą astronauci z Europy, Kanady, Japonii i Rosji. Program NEEMO ma za zadanie zapoznać astronautów z problemami pobytu w długotrwałej izolacji, specyfiką pracy w trudnych warunkach na dnie oceanu oraz terminowym przestrzeganiem procedur :cite:`Anderson2015`.
+
+Polska posiada unikalną infrastrukturę w postaci habitatu, pozwalającą na odtworzenie warunków izolacji i prowadzenie badań nad dynamiką zespołu jak również optymalizacją procedur operacyjnych.

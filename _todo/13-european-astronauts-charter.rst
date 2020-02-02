@@ -22,10 +22,9 @@ We Share Space with the people of Europe by communicating our vision, goals, exp
 
 Our Values
 ==========
-
 - **Sapientia**: We believe that Human Space Exploration is a wise choice by and for humankind. Sapientia reflects our commitment to pursue our goals for the advancement of humanity.
 
-- **Populus**: We put people first, in two ways: First, the purpose of our mission is to contribute to a better future for people on Earth. Second: Populus serves as a reflection of our repect for the people with whom we work: that we value their opinions, praise their work and compliment them for their support.
+- **Populus**: We put people first, in two ways: First, the purpose of our mission is to contribute to a better future for people on Earth. Second: Populus serves as a reflection of our respect for the people with whom we work: that we value their opinions, praise their work and compliment them for their support.
 
 - **Audacia**: We acknowledge that Spaceflight is a dangerous endeavour. While accepting the risks inherently involved in space travel we work to minimise these risks whenever we can. Audacia reminds us that the rewards will be unparalleled if we succeed.
 
@@ -33,7 +32,7 @@ Our Values
 
 - **Exploratio**: We value exploration as an opportunity to discover, to learn and, ultimately, to grow. We are convinced that humankind must embrace the challenge of peaceful human space exploration. We, the European Astronauts, are willing to take the next step.
 
+
 Signature
 =========
-
-*Cologne, this fifteenth day of August twothousandone anno domini*
+*Cologne, this fifteenth day of August two thousand one anno domini*

@@ -1,0 +1,12 @@
+Szkolenie robotyki kosmicznej i systemów specjalnych habitatu
+=============================================================
+
+Polska posiada wysokiej klasy specjalistów robotyków z doświadczeniem przy konstruowania systemów kosmicznych. Ponadto infrastruktura i systemy rozwijane w habitacie Lunares stanowią platformę do rozwoju nowych procedur operacyjnych. Obecnie planowane są misje na Księżyc, Mars oraz asteroidy i inne ciała o niewielkim przyciąganiu grawitacyjnym. Polska posiada nowatorską i unikalną infrastrukturę, która pozwoliłaby nie tylko uczestniczyć w programie szkolenia astronautów, ale również wieść prym w nowej klasie treningów.
+
+Korzystając z unikalnych kompetencji możliwe jest stworzenie części szkolenia opierającego się o posiadane już zasoby w postaci łazików jak również planu szkolenia dla operatorów tych pojazdów.
+
+Ze względu na brak trenażerów systemów ISS, jego wewnętrznej i zewnętrznej części jak również na chwilę obecną brak basenu nadającego się do prowadzenia szkolenia z EVA niemożliwe jest odtworzenie tych elementów szkolenia. Jednakże należy zwrócić uwagę na fakt, iż planowo w 2024 Międzynarodowa Stacja Kosmiczna zostanie zdeorbitowana a wykształcenie polskiego astronauty do tego czasu jest mało prawdopodobne. Nawet jeżeli zaistniałaby możliwość, że program ISS zostanie przedłużony, to i tak wszystkie przydziały do lotów załogowych zostaną zaplanowane z dużym wyprzedzeniem. Zważywszy na powyższy stan w ramach polskiego udziału w programie astronautycznym proponuje się odrzucenie wszelkich tematów związanych z obsługą systemów ISS oraz ukierunkowanie szkolenia pod kątem misji na Księżycu.
+
+Szkolenie z wykorzystywania i utrzymywania ISS jest jednym z najbardziej czasochłonnych oraz zasobochłonnych aspektów przygotowania astronautów do misji. Proponowane rozwiązanie wykluczenia powyższych elementów ze szkolenia pozwoli nie tylko na optymalizację kosztów, jak również zwiększy możliwość procentowego udziału w przygotowaniu astronautów na terenie Polski.
+
+Polska posiada wysokiej klasy specjalistów robotyków z doświadczeniem przy konstruowania systemów kosmicznych. Ponadto infrastruktura i systemy rozwijane w habitacie Lunares stanowią platformę do rozwoju nowych procedur operacyjnych. Obecnie planowane są misje na Księżyc, Mars oraz asteroidy i inne ciała o niewielkim przyciąganiu grawitacyjnym. Polska posiada nowatorską i unikalną infrastrukturę, która pozwoliłaby nie tylko uczestniczyć w programie szkolenia astronautów, ale również wieść prym w nowej klasie treningów.
