@@ -5,7 +5,8 @@ email = 'matt@astronauta.pl'
 html_theme = 'sphinx_rtd_theme'
 
 todo_emit_warnings = False
-todo_include_todos = True
+todo_include_todos = False
+suppress_warnings = ['toc.secnum', 'autosectionlabel.*']
 
 extensions = [
     'sphinx.ext.todo',
@@ -23,8 +24,8 @@ numfig_format = {
 }
 
 exclude_patterns = [
-    'not-used/*',
-    'data/*',
+    '_todo/*',
+    '_data/*',
 ]
 
 # article - for articles in scientific journals, presentations, short reports, program documentation, invitations, ...
@@ -76,6 +77,7 @@ exclude_patterns += [
     '**/solutions/*',
     '**.ipynb_checkpoints',
     'README.rst',
+    'LICENSE.rst',
     'TODO.rst',
     'Thumbs.db',
     '.DS_Store',
