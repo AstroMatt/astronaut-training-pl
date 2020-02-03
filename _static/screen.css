@@ -20,9 +20,6 @@
     .wy-nav-content {max-width: 1000px}
     .wy-nav-content-wrap {background: none}
 
-    /* hide double entries on main page toc-tree */
-    .toctree-wrapper .caption {display: none}
-
     /* hyperlinks */
     a {color: var(--links) !important}
     a:hover {text-decoration: underline !important}
@@ -129,4 +126,7 @@
     /* Read the docs footer on bottom left menu */
     .rst-current-version {background: var(--menu-background) !important;}
     .rst-versions {display: none;}
+
+    .figure img {}
+    .figure p {font-size: 0.9rem !important;}
 }

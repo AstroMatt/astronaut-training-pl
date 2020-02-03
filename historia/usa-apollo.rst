@@ -25,3 +25,20 @@ Krótka charakterystyka misji Apollo:
     :file: data/apollo-mission-types.csv
     :widths: 5, 5, 20, 5, 20, 45
     :header-rows: 1
+
+.. figure:: img/selection-apollo.jpg
+    :name: figure-selection-apollo
+    :scale: 65%
+    :align: center
+
+    Astronauci pierwszego naboru do programu Apollo. Back, Swigert, Pogue, Evans, Weitz, Irwin, Carr, Roosa, Worden, Mattingly, Lousma. Front, Givens, Mitchell, Duke, Lind, Haise, Engle, Brand, Bull, McCandless. Źródło: NASA/JSC
+
+.. csv-table:: Przydział do misji i daty lotu oraz lądowania na księżycu :cite:`Slayton1994`, :cite:`French2007`, :cite:`Aldrin2009`
+    :name: table-apollo-mission-list
+    :file: data/apollo-mission-list.csv
+    :header-rows: 1
+
+.. csv-table:: Astronauci programu Apollo :cite:`Slayton1994`
+    :name: table-selection-apollo
+    :file: data/selection-apollo.csv
+    :header-rows: 1

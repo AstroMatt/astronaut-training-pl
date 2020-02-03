@@ -2,6 +2,7 @@
 Rys historyczny załogowych lotów kosmicznych
 ********************************************
 
+
 Programy kosmiczne były dotychczas prowadzone głównie przez dwa państwa USA i Federację Rosyjską (wcześniej Związek Socjalistycznych Republik Radzieckich). ZSRR był inicjatorem współpracy międzynarodowej. W ramach programu Interkosmos polecieli pierwsi kosmonauci niebędący obywatelami wyżej wymienionych mocarstw, a generał Hermaszewski został pierwszym Polakiem, który tego dokonał.
 
 Podczas selekcji kosmonauci i astronauci wybierani byli głównie ze względu na doświadczenie w pilotażu, chociaż pojawiały się również grupy osób z innych specjalności tj. inżynieria, nauka, medycyna jak również nauczyciele.
@@ -10,12 +11,58 @@ Wraz z rozwojem technologicznym pozwalającym na autonomiczne prowadzenie statk�
 
 Na podstawie dominujących cech wśród astronautów analizowanych programów w ramach proponowanego celu pracy kandydaci powinni cechować się multidyscyplinarnością, umiejętnością pracy w grupie oraz prowadzenia badań wychodzących z poza zakresu specjalizacji, gdyż to właśnie te elementy dominowały przy wyborze, szkoleniu i odbywaniu misji.
 
+Poniżej przedstawiono zestawienie największych programów astronautycznych i kosmonautycznych USA oraz Federacji Rosyjskiej (byłego ZSRR).
+
+
+Początek kosmonautyki
+=====================
+
 .. toctree::
 
-    wyscig-kosmiczny.rst
-    program-apollo.rst
-    program-n1-l3.rst
-    program-interkosmos.rst
+    poczatek-pionierzy.rst
+    poczatek-spacerace.rst
+
+
+Programy kosmiczne USA
+======================
+.. toctree::
+
+    usa-mercury.rst
+    usa-gemini.rst
+    usa-apollo.rst
+    usa-skylab.rst
+    usa-sts.rst
+
+
+Programy kosmiczne ZSRR i Federacji Rosyjskiej
+==============================================
+.. toctree::
+
+    zsrr-wostok.rst
+    zsrr-woshod.rst
+    zsrr-n1-l3.rst
+    zsrr-salut.rst
+    zsrr-soyuz-progress.rst
+    zsrr-interkosmos.rst
+    zsrr-mir.rst
+    zsrr-buran.rst
+
+.. csv-table:: Lista rosyjskich kosmonautów
+    :name: table-astronauts-roscosmos
+    :file: data/astronauts-roscosmos.csv
+    :header-rows: 1
+
+
+Polak w kosmosie
+================
+.. toctree::
+
     lot-hermaszewskiego.rst
-    program-iss.rst
-    rekordy.rst
+
+
+Kosmiczne Programy międzynarodowe
+=================================
+.. toctree::
+
+    worldwide-iss.rst
+    worldwide-rekordy.rst

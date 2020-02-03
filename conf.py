@@ -95,7 +95,7 @@ sys.path.insert(0, os.path.abspath('_extensions'))
 # 2 - sequence number of image in header level 2
 #       will use x.1, x.2, … if located directly under a header level 1,
 #       will use 1, 2, … if at the document level
-numfig_secnum_depth = 0
+numfig_secnum_depth = 1
 numfig = True
 smartquotes = False
 
