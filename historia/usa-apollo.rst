@@ -20,12 +20,6 @@ Krótka charakterystyka misji Apollo:
 - Apollo 17 - ostatnie lądowanie na Księżycu (pierwsza misja w której brał udział naukowiec - geolog), ikoniczne zdjęcie Ziemi z daleka (ang. *Blue Marble*) :cite:`Cernan2000`,
 - Apollo-Soyuz Test Project - ostatnia misja programu, podczas której doszło do dokowania na orbicie statków Apollo oraz Sojuz i historycznego uścisku dłoni między reprezentantami dwóch mocarstw.
 
-.. csv-table:: Typy misji w ramach programu Apollo :cite:`Ertel2007`
-    :name: table-apollo-mission-types
-    :file: data/apollo-mission-types.csv
-    :widths: 5, 5, 20, 5, 20, 45
-    :header-rows: 1
-
 .. figure:: img/selection-apollo.jpg
     :name: figure-selection-apollo
     :scale: 65%
@@ -33,12 +27,18 @@ Krótka charakterystyka misji Apollo:
 
     Astronauci pierwszego naboru do programu Apollo. Back, Swigert, Pogue, Evans, Weitz, Irwin, Carr, Roosa, Worden, Mattingly, Lousma. Front, Givens, Mitchell, Duke, Lind, Haise, Engle, Brand, Bull, McCandless. Źródło: NASA/JSC
 
+.. csv-table:: Astronauci programu Apollo :cite:`Slayton1994`
+    :name: table-selection-apollo
+    :file: data/selection-apollo.csv
+    :header-rows: 1
+
 .. csv-table:: Przydział do misji i daty lotu oraz lądowania na księżycu :cite:`Slayton1994`, :cite:`French2007`, :cite:`Aldrin2009`
     :name: table-apollo-mission-list
     :file: data/apollo-mission-list.csv
     :header-rows: 1
 
-.. csv-table:: Astronauci programu Apollo :cite:`Slayton1994`
-    :name: table-selection-apollo
-    :file: data/selection-apollo.csv
+.. csv-table:: Typy misji w ramach programu Apollo :cite:`Ertel2007`
+    :name: table-apollo-mission-types
+    :file: data/apollo-mission-types.csv
+    :widths: 5, 5, 20, 5, 20, 45
     :header-rows: 1

@@ -47,11 +47,6 @@ Programy kosmiczne ZSRR i Federacji Rosyjskiej
     zsrr-mir.rst
     zsrr-buran.rst
 
-.. csv-table:: Lista rosyjskich kosmonautów
-    :name: table-astronauts-roscosmos
-    :file: data/astronauts-roscosmos.csv
-    :header-rows: 1
-
 
 Polak w kosmosie
 ================
