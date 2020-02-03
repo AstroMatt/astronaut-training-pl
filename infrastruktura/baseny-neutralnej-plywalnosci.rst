@@ -12,7 +12,7 @@ Ponadto baseny neutralnej pływalności wykorzystywane są również w szkoleniu
 
 .. figure:: img/infrastructure-neutral-buoyancy-comparision.png
     :name: figure-infrastructure-neutral-buoyancy-comparision
-    :scale: 125%
+    :scale: 75%
     :align: center
 
     Porównanie skali oraz kształtów basenów neutralnej pływalności. Górny rząd pokazuje rzut z góry, dolny rzut z boku Źródło: Wikipedia
