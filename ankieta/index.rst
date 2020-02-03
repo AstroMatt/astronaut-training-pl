@@ -1,6 +1,6 @@
-**********************************************
-Ankieta dotycząca załogowych lotów kosmicznych
-**********************************************
+*****************************
+Ankieta polskiej astronautyki
+*****************************
 
 
 Wprowadzenie do tematyki oraz cel wykonania badań

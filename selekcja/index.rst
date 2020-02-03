@@ -1,6 +1,6 @@
-*************************************************
-Selekcja kandydatów do przeszkolenia podstawowego
-*************************************************
+*******************
+Selekcja kandydatów
+*******************
 ​
 
     Ability to parse and solve complex problems rapidly with incomplete information in a hostile environment, this is what makes you an astronaut. ​Astronaut is a person who can quickly without complete information make a decision when decisions can mean life or death.

@@ -1,6 +1,6 @@
-************************************************
-Szkolenie przygotowujące do spacerów kosmicznych
-************************************************
+*************
+Szkolenie EVA
+*************
 
 
 Jednym z najtrudniejszych elementów aktywności astronautów w przestrzeni kosmicznej jest wyjście na tzw. spacer kosmiczny (ang. *EVA - Extravehicular Activity*). Do przeprowadzenia takiego wyjścia astronauci przygotowują się przez dwa lata przed misją. Każdy trening jest oceniany przez zespół wykwalifikowanych i certyfikowanych instruktorów. Jednorazowe wejście do basenu neutralnej pływalności tj. NBL oraz Hydro Lab w celu ćwiczenia spacerów kosmicznych trwa sześć godzin. W trakcie astronauta wykonuje zadania pod wodą będąc umieszczonym w skafandrze EMU lub Orlan. Każdy późniejszy EVA w przestrzeni kosmicznej jest poprzedzony przynajmniej dwudziestokrotnym treningiem w środowisku symulującym stan nieważkości. W tym celu w basenie przy użyciu ciężarów i wyporników nadaje się skafandrowi kosmicznemu cechę neutralnego unoszenia się.

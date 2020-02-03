@@ -1,4 +1,7 @@
 @media print {
+    .wy-nav-content {margin: 1cm; padding: 0 !important; width: 100% !important;}
+    .rst-content, .document {margin: 0 !important; padding: 0 !important;}
+
     div[role="navigation"] { display: none; }
     div.pagebreak { page-break-after: always; }
     h1 { page-break-after: avoid; }
@@ -7,4 +10,12 @@
     h4 { page-break-after: avoid; }
     h5 { page-break-after: avoid; }
     h6 { page-break-after: avoid; }
+
+    .figure {text-align: center; width: 85%; margin: auto; page-break-inside: avoid}
+    .figure img {max-height: 40rem; page-break-after: avoid;}
+    .figure p {font-size: 0.9rem !important}
+
+    table {border-spacing: 0 !important; border-collapse: collapse !important;}
+    table * {font-size: 0.7rem !important; padding: 2px !important;}
+    table caption {font-size: 0.9rem !important}
 }

@@ -1,6 +1,6 @@
-********************************************
-Rys historyczny załogowych lotów kosmicznych
-********************************************
+*********************
+Historia astronautyki
+*********************
 
 
 Programy kosmiczne były dotychczas prowadzone głównie przez dwa państwa USA i Federację Rosyjską (wcześniej Związek Socjalistycznych Republik Radzieckich). ZSRR był inicjatorem współpracy międzynarodowej. W ramach programu Interkosmos polecieli pierwsi kosmonauci niebędący obywatelami wyżej wymienionych mocarstw, a generał Hermaszewski został pierwszym Polakiem, który tego dokonał.
@@ -14,9 +14,8 @@ Na podstawie dominujących cech wśród astronautów analizowanych programów w 
 Poniżej przedstawiono zestawienie największych programów astronautycznych i kosmonautycznych USA oraz Federacji Rosyjskiej (byłego ZSRR).
 
 
-Początek kosmonautyki
-=====================
-
+Rys historyczny załogowych lotów kosmicznych
+============================================
 .. toctree::
 
     poczatek-pionierzy.rst

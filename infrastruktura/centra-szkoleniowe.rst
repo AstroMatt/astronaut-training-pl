@@ -19,7 +19,7 @@ Historycznie centrum kosmiczne Johnsona (JSC) było kolebką amerykańskiego pro
 
 European Astronaut Centre, Kolonia, Niemcy
 ------------------------------------------
-Europejskie Centrum Astronautów (EAC) jest miejscem gdzie astronauci przygotowujący się do lotu na ISS odbywają szkolenie z zakresu obsługi modułu Columbus Europejskiej Agencji Kosmicznej. Budynek ten jest również siedzibą europejskich astronautów i miejscem ich szkolenia. W EAC znajduje się także basen Neutral Buoyancy Facility, w którym astronauci zapoznają się z procedurami oraz strojem do spacerów kosmicznych. Więcej w rozdziale :ref:`dotyczącym szkolenia EVA <Szkolenie przygotowujące do spacerów kosmicznych>`.
+Europejskie Centrum Astronautów (EAC) jest miejscem gdzie astronauci przygotowujący się do lotu na ISS odbywają szkolenie z zakresu obsługi modułu Columbus Europejskiej Agencji Kosmicznej. Budynek ten jest również siedzibą europejskich astronautów i miejscem ich szkolenia. W EAC znajduje się także basen Neutral Buoyancy Facility, w którym astronauci zapoznają się z procedurami oraz strojem do spacerów kosmicznych. Więcej w rozdziale :ref:`dotyczącym szkolenia EVA <Szkolenie EVA>`.
 
 Tsukuba Space Center, Tsukuba, Ibaraki, Japonia
 -----------------------------------------------

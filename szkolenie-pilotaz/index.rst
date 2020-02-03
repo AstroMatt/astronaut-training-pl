@@ -1,6 +1,6 @@
-******************************************************************
-Trening pilotażu statków kosmicznych i samolotów wysokomanewrowych
-******************************************************************
+******************
+Szkolenie pilotażu
+******************
 
 
 Za czasów programu Apollo astronauci byli szkoleni również z pilotażu śmigłowców oraz trenażera lądowania księżycowego (ang. *LLRV - Lunar Landing Research Vehicle*) tj. pojazdu pionowego startu i lądowania wyglądem przypominającego pająka z silnikiem odrzutowym umiejscowionym w spodniej części. Zarówno szkolenie śmigłowcowe jak i LLRV przygotowywały astronautów do umiejętności startu, zawisu i lądowania.
