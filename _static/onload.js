@@ -34,13 +34,18 @@ const ALPHABET = {
 
 document.addEventListener("DOMContentLoaded", () => {
 
+    /* Google Search Console verification */
+    google_verify = document.createElement("meta");
+    google_verify.setAttribute('name', 'google-site-verification');
+    google_verify.setAttribute('content', '_JhtvB_-W6bfRDtu30_XiFAlPPOOb5UZ9TphHPj_stc');
+    document.querySelector('head').appendChild(google_verify);
+
+
     /* Replace solution links to chapter */
     document.querySelectorAll('a.download').forEach( (a) => {
         let chapter = window.location.pathname.split('/')[1];
         a.innerHTML = a.innerHTML.replace('solution',  chapter);
     });
-
-
 
     let chapters = document.querySelectorAll("nav.wy-nav-side p.caption");
     let menuItems = document.querySelectorAll("nav.wy-nav-side p.caption + ul");
