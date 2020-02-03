@@ -13,3 +13,4 @@ Wostok był pierwszym załogowym programem kosmonautycznym w Związku Socjalisty
     :name: table-wostok-flights
     :file: data/wostok-flights.csv
     :header-rows: 1
+    :widths: 15, 15, 15, 25, 35

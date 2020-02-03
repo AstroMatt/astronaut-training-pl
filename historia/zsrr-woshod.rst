@@ -9,10 +9,9 @@ Największym dokonaniem podczas programu Woschod było pierwsze wyjście człowi
     :name: table-woshod-flights
     :file: data/woshod-flights.csv
     :header-rows: 1
+    :widths: 10, 10, 10, 40, 30
 
 .. figure:: img/spacecraft-voshod-2.png
     :name: figure-voshod-2
-    :scale: 75%
-    :align: center
 
     Schemat statku Voshod. Źródło: Wikipedia

@@ -6,7 +6,5 @@ Istnieje również wariant łączący szkolenie przetrwania oraz obóz przywódz
 
 .. figure:: img/survival-leadership-nasa.jpg
     :name: figure-survival-leadership-nasa
-    :scale: 25%
-    :align: center
 
     Kandydaci na astronautów podczas szkolenia przetrwania w dziczy w Rangeley w stanie Maine, USA. Źródło: NASA/JSC

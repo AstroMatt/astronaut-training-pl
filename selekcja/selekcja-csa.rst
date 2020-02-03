@@ -16,7 +16,5 @@ Całość procesu rekrutacji jest dobrze udokumentowana i przedstawiona na oficj
 
 .. figure:: img/selection-csa.jpg
     :name: figure-selection-csa
-    :scale: 33%
-    :align: center
 
     Aktywni kanadyjscy astronauci (od lewej): Joshua Kutryk, Jennifer Sidey, David Saint-Jacques, Jeremy Hansen. Źródło: CSA

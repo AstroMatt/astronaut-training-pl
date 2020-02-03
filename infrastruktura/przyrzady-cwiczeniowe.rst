@@ -15,7 +15,5 @@ System Vertical Treadmill dzięki zmianie kąta nachylenia bieżni i odległośc
 
 .. figure:: img/infrastructure-gym-vertical-treadmill.jpg
     :name: figure-infrastructure-gym-vertical-treadmill
-    :scale: 75%
-    :align: center
 
     Astronauta podczas ćwiczenia na Vertical Treadmill. Źródło: NASA

@@ -25,7 +25,5 @@ Na specjalną uwagę zasługuje fakt, iż aby mierzyć zmianę masy ciała u ast
 
 .. figure:: img/training-fitness.jpg
     :name: figure-training-fitness
-    :scale: 33%
-    :align: center
 
     Astronautka NASA Christina M. Hammock podczas ćwiczeń kondycyjnych i badań wydolności organizmu. Źródło: NASA/JSC

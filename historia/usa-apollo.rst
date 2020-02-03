@@ -22,8 +22,6 @@ Krótka charakterystyka misji Apollo:
 
 .. figure:: img/selection-apollo.jpg
     :name: figure-selection-apollo
-    :scale: 65%
-    :align: center
 
     Astronauci pierwszego naboru do programu Apollo. Back, Swigert, Pogue, Evans, Weitz, Irwin, Carr, Roosa, Worden, Mattingly, Lousma. Front, Givens, Mitchell, Duke, Lind, Haise, Engle, Brand, Bull, McCandless. Źródło: NASA/JSC
 

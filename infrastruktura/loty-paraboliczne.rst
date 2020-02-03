@@ -11,8 +11,6 @@ W celu zapoznania astronautów z wpływem mikrograwitacji na organizm człowieka
 
 .. figure:: img/infrastructure-parabolic-profile.jpg
     :name: figure-infrastructure-parabolic-profile
-    :scale: 75%
-    :align: center
 
     Profil lotu parabolicznego podczas symulacji stanu braku grawitacji. Źródło: Nature
 

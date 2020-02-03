@@ -25,6 +25,7 @@ Do najważniejszych wirówek przeciążeniowych wykorzystywanych w załogowych l
     :name: table-infrastructure-centrifuge-human
     :file: data/infrastructure-centrifuge-human.csv
     :header-rows: 1
+    :widths: 10, 20, 20, 5, 5, 5, 5, 30
 
 CPK - CF-7
 ----------
@@ -39,8 +40,6 @@ Wirówka przeciążeniowa CF-7 została uruchomiona w 1973 roku. Wybrane paramet
 
 .. figure:: img/infrastructure-centrifuge-cf-7.jpg
     :name: figure-infrastructure-centrifuge-cf-7
-    :scale: 75%
-    :align: center
 
     Wirówka przeciążeniowa CF-7 znajdująca się w Centrum Przygotowania Kosmonautów w Gwiezdnym Miasteczku w Rosji. Źródło: Roskosmos/CPK
 
@@ -50,8 +49,6 @@ W 1980 roku w Centrum Przygotowania Kosmonautów otworzono drugą wirówkę prze
 
 .. figure:: img/infrastructure-centrifuge-cf-18.jpg
     :name: figure-infrastructure-centrifuge-cf-18
-    :scale: 75%
-    :align: center
 
     Wirówka przeciążeniowa CF-18 znajdująca się w Centrum Przygotowania Kosmonautów w Gwiezdnym Miasteczku w Rosji. Źródło: Roskosmos/CPK
 
@@ -61,8 +58,6 @@ Amerykańska wirówka przeciążeniowa 20-G Centrifuge znajduje się w ośrodku 
 
 .. figure:: img/infrastructure-centrifuge-20g.jpg
     :name: figure-infrastructure-centrifuge-20g
-    :scale: 25%
-    :align: center
 
     Wirówka przeciążeniowa 20g znajdująca się w Ames Research Center, Moffett Field, CA w USA. Źródło: NASA/Ames
 

@@ -1,6 +1,10 @@
 Wprowadzenie
 ============
 
+    W emocji tej zawarta jest chyba, a może przede wszystkim, świadomość ogromnej odpowiedzialności, jaka spoczywa na mnie przed moimi rodakami, a także to, że lot ten wykonujemy dla dobra całej ludzkości. Robimy to w imię rozwoju nauki i postępu. Lot nasz to nie tylko wielka przygoda, ale trudna złożona praca w nowym, nierozpoznanym jeszcze środowisku pełnym niewiadomych i niebezpieczeństw. To także okazja uczestniczenia w czymś nowatorskim i niezwykłym, to możliwość uczestniczenia w realizacji eksperymentów naukowych, nad przygotowaniem których trudziły się znane w świecie autorytety. Nie mogę zawieść oczekiwań uczonych i moich rodaków zawieść nie mogę.
+
+    -- gen. Mirosław Hermaszewski, Ciężar Nieważkości :cite:`Hermaszewski2013`
+
 Eksploracja leży w naturze człowieka. Podbój nowych lądów na Ziemi pozwolił na znaczne przyspieszenie rozwoju cywilizacji i technologii. Dzięki postępom w nauce, inżynierii i medycynie wydłużyła się średnia długość życia oraz zwiększyła się jego jakość. Załogowe loty kosmiczne to nieunikniona przyszłość ludzkości. Obecnie prowadzone są badania weryfikujące studium wykonalności, a także trwają prace nad opracowywaniem technologii dla misji człowieka na Księżyc i Marsa planowanych odpowiednio na 2028 i 2035 rok.
 
 Długotrwałe kosmiczne loty załogowe wymagają rozwiązania wielu problemów inżynieryjnych oraz stworzenia technologii, których aplikacja znajduje się również w innych dziedzinach. Przez inwestycję w sektor kosmiczny państwo rozwija gospodarkę i stymuluje rozwój naukowy. Bezpośrednim przykładem wykorzystania technologii opracowanych w ramach rozwoju programów kosmicznych jest m.in. nawigacja satelitarna, telekomunikacja, telemedycyna i robotyka. Urządzenia i aparaty matematyczne tj. filtr Kalmana stworzony na potrzeby programu Apollo znajdują zastosowanie w każdym aspekcie życia i są szeroko używane a ich wpływ jest niewymierny. Na każde €1 zainwestowane w segment kosmiczny szacowany jest zwrot na poziomie €6 w postaci dochodów bezpośrednich, pośrednich i indukowanych :cite:`ESASpaceSolidInvestment2012`.

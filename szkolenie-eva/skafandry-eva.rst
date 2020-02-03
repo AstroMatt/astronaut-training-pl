@@ -17,3 +17,4 @@ Na uwagę zasługuje fakt, że podobnie jak w skafandrach *IVA* tak przy EVA cz�
     :name: table-spacesuits-eva
     :file: data/spacesuits-eva.csv
     :header-rows: 1
+    :widths: 15, 10, 15, 25, 35

@@ -29,8 +29,6 @@ Sytuacje awaryjne:
 
 .. figure:: img/spacecraft-soyuz-systems.png
     :name: figure-spacecraft-soyuz-systems
-    :scale: 50%
-    :align: center
 
     Schemat statku Sojuz. Źródło: Roskosmos
 

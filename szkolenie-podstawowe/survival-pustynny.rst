@@ -6,7 +6,5 @@ Podczas nieprzewidzianych problemów na orbicie lub sytuacji awaryjnych lądowni
 
 .. figure:: img/survival-desert-nasa.jpg
     :name: figure-survival-desert-nasa
-    :scale: 33%
-    :align: center
 
     Astronauci programu Apollo podczas szkolenia przetrwania na pustyni. Źródło: NASA/JSC

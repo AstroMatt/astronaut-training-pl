@@ -21,7 +21,5 @@ Rakieta N1 w przeciwieństwie amerykańskiego podejścia składała się nie z t
 
 .. figure:: img/spacecraft-lk-models.jpg
     :name: figure-spacecraft-lk-models
-    :scale: 100%
-    :align: center
 
     Różne prototypy lądowników księżycowych w ramach programu załogowego ZSRR. Źródło: Astronautics/Mark Wade :cite:`Wade2018`

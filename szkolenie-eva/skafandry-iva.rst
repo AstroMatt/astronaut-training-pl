@@ -14,3 +14,4 @@ Ze względu na całkowitą izolację od środowiska zewnętrznego w tym równie�
     :name: table-spacesuits-iva
     :file: data/spacesuits-iva.csv
     :header-rows: 1
+    :widths: 15, 10, 10, 15, 10, 40

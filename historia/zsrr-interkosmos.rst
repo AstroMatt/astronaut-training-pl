@@ -16,12 +16,10 @@ Kosmonautów w ramach programu Interkosmos wybierano z najlepszych pilotów wśr
 .. csv-table:: Lista kosmonautów w ramach programu Interkosmos. Źródło: Wikipedia
     :name: table-selection-interkosmos
     :file: data/selection-interkosmos.csv
-    :widths: 30, 20, 20, 15, 15, 10
+    :widths: 16, 27, 27, 15, 15, 10
     :header-rows: 1
 
 .. figure:: img/map-interkosmos.png
     :name: figure-map-interkosmos
-    :scale: 40%
-    :align: center
 
     Państwa uczestniczące w ramach programu Interkosmos. Źródło: Wikipedia

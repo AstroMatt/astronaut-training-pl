@@ -18,8 +18,6 @@ VRL wyposażony jest w symulatory i urządzenia pozwalające na odtworzenie zewn
 
 .. figure:: img/infrastructure-vr-combined.png
     :name: figure-infrastructure-vr-combined
-    :scale: 33%
-    :align: center
 
     Astronauci trenujący EVA w laboratorium VRLab. Źródło: NASA/JSC
 
@@ -29,7 +27,5 @@ Laboratorium Haptics Europejskiej Agencji Kosmicznej znajduje się w Centrum In�
 
 .. figure:: img/infrastructure-vr-exoskeleton.jpg
     :name: figure-infrastructure-vr-exoskeleton
-    :scale: 15%
-    :align: center
 
     X-Arm-II exoskeleton jest wykorzystywany do symulacji odczuć podczas sterowania maszynami. Źródło: ESA

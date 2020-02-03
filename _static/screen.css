@@ -127,6 +127,11 @@
     .rst-current-version {background: var(--menu-background) !important;}
     .rst-versions {display: none;}
 
-    .figure img {}
-    .figure p {font-size: 0.9rem !important;}
+    .figure {text-align: center; width: 85%; margin: auto}
+    .figure img {max-height: 40rem}
+    .figure p {font-size: 0.9rem !important}
+
+    table {border-spacing: 0 !important; border-collapse: collapse !important;}
+    table * {font-size: 0.8rem !important; padding: 2px !important;}
+    table caption {font-size: 0.9rem !important}
 }

@@ -18,7 +18,5 @@ Podczas lotów promów kosmicznych amerykańska agencja NASA opracowała program
 
 .. figure:: img/spacecraft-space-shuttle-and-soyuz.png
     :name: figure-spacecraft-space-shuttle-and-soyuz
-    :scale: 10%
-    :align: center
 
     Rysunek przedstawia skalę amerykańskiego promu kosmicznego Space Shuttle oraz rosyjskiego statku Sojuz TMA :cite:`Portree1995`

@@ -8,7 +8,5 @@ Na chwilę obecną nie są znane dalsze plany na temat rekrutacji kolejnych astr
 
 .. figure:: img/selection-jaxa.jpg
     :name: figure-selection-jaxa
-    :scale: 100%
-    :align: center
 
     Chiaki Mukai, Koichi Wakata, Takao Doi, Soichi Noguchi, Akihiko Hoshide, Naoko Yamazaki, and Satoshi Furukawa Źródło: JAXA

@@ -38,25 +38,19 @@ Dla upamiętnienia lotu pierwszego Polaka załoga zabrała na pokład flagę i g
     :name: table-soyuz-30-timeline
     :file: data/soyuz-30-timeline.csv
     :header-rows: 1
-    :widths: 20, 5, 5, 5, 5, 5, 45
+    :widths: 15, 5, 5, 5, 5, 5, 50
 
 .. figure:: img/soyuz-30-crew.jpg
     :name: figure-soyuz-30-crew
-    :scale: 66%
-    :align: center
 
     Załoga Sojuz-30 (od lewej): Piotr Iljicz Klimuk oraz Mirosław Hermaszewski
 
 .. figure:: img/soyuz-30-simulator.jpg
     :name: figure-soyuz-30-simulator
-    :scale: 50%
-    :align: center
 
     Załoga Sojuz-30 (od lewej): Piotr Iljicz Klimuk oraz Mirosław Hermaszewski w trakcie szkolenia na symulatorze statku Sojuz.
 
 .. figure:: img/soyuz-30-onboard.jpg
     :name: figure-soyuz-30-onboard
-    :scale: 33%
-    :align: center
 
     Załoga Salut-6 (od lewej): Piotr Klimuk, Mirosław Hermaszewski, Aleksandr Ivanchenkov oraz Vladimir Kovalyonok

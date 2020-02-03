@@ -4,7 +4,5 @@ W trakcie programów Mercury, Gemini i Apollo astronauci byli transportowani do 
 
 .. figure:: img/survival-jungle-nasa.jpg
     :name: figure-survival-jungle-nasa
-    :scale: 75%
-    :align: center
 
     Astronauci podczas szkolenia przetrwania w panamskiej dżungli. Źródło: NASA/JSC

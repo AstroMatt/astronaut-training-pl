@@ -217,69 +217,69 @@ Statystyki i wykresy
      Summary of EVA's By Nationality
 
         Sorted By Nationality
-        Nationality	Total Time
+        Nationality    Total Time
         in Hours
-        American	2812.344
-        British	4.717
-        Canadian	39.800
-        Chinese	0.233
-        French	44.367
-        German	27.229
-        Italian	7.650
-        Japanese	54.194
-        Kazakh	42.606
-        Russian	1148.758
-        Swedish	31.900
-        Swiss	8.167
-        Ukrainian	41.783
+        American    2812.344
+        British    4.717
+        Canadian    39.800
+        Chinese    0.233
+        French    44.367
+        German    27.229
+        Italian    7.650
+        Japanese    54.194
+        Kazakh    42.606
+        Russian    1148.758
+        Swedish    31.900
+        Swiss    8.167
+        Ukrainian    41.783
 
 
         Sorted By Total Hours
-        Nationality	Total Time
+        Nationality    Total Time
         in Hours
-        American	2812.344
-        Russian	1148.758
-        Japanese	54.194
-        French	44.367
-        Kazakh	42.606
-        Ukrainian	41.783
-        Canadian	39.800
-        Swedish	31.900
-        German	27.229
-        Swiss	8.167
-        Italian	7.650
-        British	4.717
-        Chinese	0.233
+        American    2812.344
+        Russian    1148.758
+        Japanese    54.194
+        French    44.367
+        Kazakh    42.606
+        Ukrainian    41.783
+        Canadian    39.800
+        Swedish    31.900
+        German    27.229
+        Swiss    8.167
+        Italian    7.650
+        British    4.717
+        Chinese    0.233
         Summary of EVA's By Program
 
         Sorted By Program
-        Program	Total Time
+        Program    Total Time
         in Hours
-        Apollo	175.549
-        Gemini	26.000
-        ISS	2462.970
-        Mir	732.876
-        Project 921	0.233
-        Salyut	107.400
-        Skylab	83.667
-        Soyuz	1.767
-        STS	672.906
-        Voskhod	0.383
+        Apollo    175.549
+        Gemini    26.000
+        ISS    2462.970
+        Mir    732.876
+        Project 921    0.233
+        Salyut    107.400
+        Skylab    83.667
+        Soyuz    1.767
+        STS    672.906
+        Voskhod    0.383
 
 
         Sorted By Total Hours
-        Program	Total Time
+        Program    Total Time
         in Hours
-        ISS	2462.970
-        Mir	732.876
-        STS	672.906
-        Apollo	175.549
-        Salyut	107.400
-        Skylab	83.667
-        Gemini	26.000
-        Soyuz	1.767
-        Voskhod	0.383
-        Project 921	0.233
+        ISS    2462.970
+        Mir    732.876
+        STS    672.906
+        Apollo    175.549
+        Salyut    107.400
+        Skylab    83.667
+        Gemini    26.000
+        Soyuz    1.767
+        Voskhod    0.383
+        Project 921    0.233
 
 
         Summary of EVA's By Gender
@@ -289,58 +289,58 @@ Statystyki i wykresy
         Female = 228.483 hours (34 walks)
 
         Number of Individuals by Gender by Nationality
-        Gender	Nationality	Count
-        F	American	11
-        F	Russian	1
-        M	American	128
-        M	British	1
-        M	Canadian	3
-        M	Chinese	1
-        M	French	4
-        M	German	3
-        M	Italian	1
-        M	Japanese	3
-        M	Kazakh	1
-        M	Russian	61
-        M	Swedish	1
-        M	Swiss	1
-        M	Ukrainian	2
+        Gender    Nationality    Count
+        F    American    11
+        F    Russian    1
+        M    American    128
+        M    British    1
+        M    Canadian    3
+        M    Chinese    1
+        M    French    4
+        M    German    3
+        M    Italian    1
+        M    Japanese    3
+        M    Kazakh    1
+        M    Russian    61
+        M    Swedish    1
+        M    Swiss    1
+        M    Ukrainian    2
         Summary of EVA's By Gender, Nationality, and Program
 
         Total Duration in Hours
-        Gender	Nationality	Program	Duration	Walks
-        M	American	Apollo	175.550	53
-        M	American	Gemini	26.000	22
-        M	American	ISS	1230.967	185
-        M	American	ISS Expedition	418.067	74
-        M	American	Mir	25.900	5
-        M	American	Skylab	83.667	19
-        M	American	STS	627.278	98
-        M	British	ISS Expedition	4.717	1
-        M	Canadian	ISS	39.800	6
-        M	Chinese	Project 921	0.233	1
-        M	French	ISS	19.517	3
-        M	French	ISS Expedition	12.533	2
-        M	French	Mir	12.317	2
-        M	German	ISS	6.750	1
-        M	German	ISS Expedition	12.117	2
-        M	German	Mir	8.362	2
-        M	Italian	ISS Expedition	7.650	2
-        M	Japanese	ISS	20.083	3
-        M	Japanese	ISS Expedition	21.383	3
-        M	Japanese	STS	12.728	2
-        M	Kazakh	Mir	42.606	8
-        M	Russian	ISS	6.233	1
-        M	Russian	ISS Expedition	395.317	73
-        M	Russian	Mir	637.658	143
-        M	Russian	Salyut	103.833	31
-        M	Russian	Soyuz	1.767	2
-        M	Russian	Voskhod	0.383	1
-        M	Swedish	ISS	31.900	5
-        M	Swiss	STS	8.167	1
-        M	Ukrainian	ISS Expedition	41.783	7
-        F	American	ISS	68.850	10
-        F	American	ISS Expedition	125.300	18
-        F	American	Mir	6.033	1
-        F	American	STS	24.733	4
-        F	Russian	Salyut	3.567	1
+        Gender    Nationality    Program    Duration    Walks
+        M    American    Apollo    175.550    53
+        M    American    Gemini    26.000    22
+        M    American    ISS    1230.967    185
+        M    American    ISS Expedition    418.067    74
+        M    American    Mir    25.900    5
+        M    American    Skylab    83.667    19
+        M    American    STS    627.278    98
+        M    British    ISS Expedition    4.717    1
+        M    Canadian    ISS    39.800    6
+        M    Chinese    Project 921    0.233    1
+        M    French    ISS    19.517    3
+        M    French    ISS Expedition    12.533    2
+        M    French    Mir    12.317    2
+        M    German    ISS    6.750    1
+        M    German    ISS Expedition    12.117    2
+        M    German    Mir    8.362    2
+        M    Italian    ISS Expedition    7.650    2
+        M    Japanese    ISS    20.083    3
+        M    Japanese    ISS Expedition    21.383    3
+        M    Japanese    STS    12.728    2
+        M    Kazakh    Mir    42.606    8
+        M    Russian    ISS    6.233    1
+        M    Russian    ISS Expedition    395.317    73
+        M    Russian    Mir    637.658    143
+        M    Russian    Salyut    103.833    31
+        M    Russian    Soyuz    1.767    2
+        M    Russian    Voskhod    0.383    1
+        M    Swedish    ISS    31.900    5
+        M    Swiss    STS    8.167    1
+        M    Ukrainian    ISS Expedition    41.783    7
+        F    American    ISS    68.850    10
+        F    American    ISS Expedition    125.300    18
+        F    American    Mir    6.033    1
+        F    American    STS    24.733    4
+        F    Russian    Salyut    3.567    1
