@@ -1,5 +1,6 @@
 Uczestnictwo w przydziałach naziemnych astronautów
 ==================================================
+
 W Polsce jest wiele organizacji tj. Instytut Technologii Wojsk Lotniczych (ITWL) prowadzących badania nad nowatorskimi rozwiązaniami lotniczymi. W ramach zacieśnienia współpracy z agencjami kosmicznymi ośrodek ten mógłby stanowić podstawowe miejsce testowania nowych rozwiązań oraz opracowywania innowacyjnych systemów symulujących lądowanie na Księżycu lub Marsie jak również poruszanie się i nawigację w terenie pozaziemskim.
 
 Polska posiada unikalną infrastrukturę w postaci habitatu, pozwalającą na odtworzenie warunków izolacji i prowadzenie badań nad dynamiką zespołu jak również optymalizacją procedur operacyjnych.

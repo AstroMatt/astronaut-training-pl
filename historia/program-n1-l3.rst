@@ -1,5 +1,6 @@
 Program Księżycowy (N1-L3)
---------------------------
+==========================
+
 ZSRR konkurował ze Stanami Zjednoczonymi w ramach wyścigu kosmicznego. Punktem kulminacyjnym całego Space Race miał być załogowy lot na Księżyc. W tym celu Główny Konstruktor Siergiej Pawłowicz Korolew (SP, Główny Konstruktor) rozpoczął pracę nad rakietą N1. W ramach programu stworzony został również moduł orbitujący (ros. *LOK - Lunnyj Orbitalny Korabl*) oraz lądownik (ros. *LK - Lunnyj Korabl*) przedstawiony na obrazku :numref:`figure-spacecraft-lk-models`.
 
 W 1966 roku zaczęto symulacje lądowania a kosmonauci zostali przydzieleni do treningów księżycowych (:numref:`table-selection-n1-l3`). Stworzono grupy, których celami były:

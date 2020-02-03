@@ -1,6 +1,6 @@
+Pilotaż statku kosmicznego Sojuz
+================================
 
-Pilotaż oraz wykorzystanie systemów statku kosmicznego Sojuz
-============================================================
 Na chwilę obecną jednym z najważniejszych aspektów szkolenia astronautów przed lotem kosmicznym jest szkolenie z wykorzystywania systemów rosyjskiego statku kosmicznego Sojuz. Operacje wykonywane przez ten statek są w pełni zautomatyzowane, ale w sytuacjach awaryjnych istnieje możliwość przejścia na tzw. ręczny tryb i samodzielne przejęcie kontroli nad kapsułą. Z tego też powodu zarówno astronautów jak i kosmonautów poddaje się szkoleniu, które trwa około 790 godzin i obejmuje aspekty :cite:`Hadfield2013`:
 
 Sytuacje normalne:

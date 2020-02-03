@@ -1,7 +1,6 @@
-
-
 Sytuacje awaryjne statku kosmicznego
 ====================================
+
 Loty kosmiczne są obarczone wysokim stopniem ryzyka. Większość z godzin przeprowadzonych w symulatorze statku kosmicznego Sojuz ma za zadanie przygotować załogę na umiejętność reakcji w krytycznych sytuacjach. Do najbardziej prawdopodobnych i najgroźniejszych sytuacji należy: rozszczelnienie oraz pożar.
 
 Rozszczelnienie

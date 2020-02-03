@@ -16,5 +16,6 @@ Na podstawie dominujących cech wśród astronautów analizowanych programów w 
     program-apollo.rst
     program-n1-l3.rst
     program-interkosmos.rst
+    lot-hermaszewskiego.rst
     program-iss.rst
     rekordy.rst

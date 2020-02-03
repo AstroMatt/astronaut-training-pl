@@ -1,5 +1,6 @@
 Centra szkolenia astronautów
 ============================
+
 Szkolenie astronautów odbywa się m.in. w wyspecjalizowanych ośrodkach treningowych. Skala i złożoność procesu szkolenia wymaga współpracy wielu agencji. Na chwilę obecną astronauci szkoleni są w ramach programów wymiany we wszystkich ośrodkach szkoleniowych. Ze względu na amerykańską regulację ITAR (International Traffic in Arms Regulations) określającą przemysł kosmiczny i rakietowy jako broń i zakazujący współpracy z Chinami, astronauci NASA nie odbywają szkolenia w ośrodkach ACC. Pozostałe kraje kooperują i wzajemnie szkolą astronautów w zakresie swojej specjalizacji. :numref:`table-infrastructure-training-centers` przedstawia listę centrów szkoleniowych.
 
 .. csv-table:: Lista ośrodków szkoleniowych astronautów.

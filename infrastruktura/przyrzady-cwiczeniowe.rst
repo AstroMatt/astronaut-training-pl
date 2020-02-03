@@ -1,5 +1,6 @@
 Przyrządy ćwiczeniowe
 =====================
+
 W siłowniach i laboratoriach w których ćwiczą astronauci coraz częściej zaczyna się wykorzystywać nowoczesne technologie. Wśród nowatorskich pomysłów prowadzi się badania nad wykorzystaniem technologii VR do stymulacji mózgu podczas wykonywania ćwiczenia w celu przyspieszenia rehabilitacji astronautów powracających z długotrwałych lotów. Do przyrządów ćwiczeniowych wykorzystywanych podczas szkolenia i późniejszej fizjoterapii można zaliczyć:
 
 - koła reńskie (obroty prawo-lewo),

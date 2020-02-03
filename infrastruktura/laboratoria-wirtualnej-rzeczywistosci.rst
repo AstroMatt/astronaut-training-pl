@@ -1,5 +1,6 @@
 Laboratoria Wirtualnej Rzeczywistości
 =====================================
+
 Laboratoria wirtualnej (ang. *VR - Virtual Reality*) oraz rozszerzonej (ang. *AR - Augmented Reality*) pozwalają na trening skomplikowanych czynności oraz procedur bez narażania życia astronautów i konieczności posiadania kosztownej infrastruktury. Ponadto astronauci szkolą się w używaniu technologii haptycznych tj. sprzężenia zwrotnego (ang. *Force Feedback*) oraz umiejętności interakcji człowiek-maszyna (ang. *HMI - Human-Machine Interaction*). Do najważniejszych laboratoriów VR należą:
 
 - Virtual Reality Laboratory (VRL), NASA,

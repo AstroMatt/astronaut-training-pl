@@ -1,5 +1,6 @@
 Symulatory lotu
 ===============
+
 Symulatory lotu są od wielu lat wykorzystywane w lotnictwie i towarzyszyły astronautom w ich szkoleniu od początków Space Race. W najprostszym podziale symulatory lotu dzielą się na stacjonarne (Basic Instrument Training Device [BITD], Flight and Navigation Procedures Trainer [FNPT], Flight Training Device [FTD]) oraz ruchome (ang. *FFS - Full Flight Simulator*) :cite:`Kelly2017`. Symulatory FFS pozwalają na odczucie zwrotów oraz odchyleń. Do najbardziej znanych symulatorów zalicza się:
 
 - symulator lądownika LM w programie Apollo,

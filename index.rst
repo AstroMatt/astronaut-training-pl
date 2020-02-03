@@ -4,13 +4,13 @@
     :hidden:
 
     wstep/index.rst
-    historia-kosmonautyki/index.rst
-    infrastruktura-szkoleniowa/index.rst
-    selekcja-astronautow/index.rst
+    historia/index.rst
+    infrastruktura/index.rst
+    selekcja/index.rst
     szkolenie-podstawowe/index.rst
-    robotyka-i-systemy-iss/index.rst
-    spacery-kosmiczne/index.rst
-    pilotaz/index.rst
+    szkolenie-iss/index.rst
+    szkolenie-eva/index.rst
+    szkolenie-pilotaz/index.rst
     przydzialy-naziemne/index.rst
     ankieta/index.rst
     polski-program-astronautyczny/index.rst

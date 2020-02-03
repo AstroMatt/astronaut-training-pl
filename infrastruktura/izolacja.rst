@@ -1,5 +1,6 @@
 Eksperymenty izolacyjne
 =======================
+
 Długotrwały pobyt w przestrzeni kosmicznej przy niezmiennym towarzystwie wpływa na bardzo dużo złożonych procesów psychologicznych i sociodynamicznych. W szczególności przy planowanych misjach na Marsach czy dłuższych pobytach na Księżycu konieczne jest opracowanie sposobów wczesnej detekcji problemów psychicznych oraz sprawniejsze ich rozwiązywanie. W tym celu organizacje kosmiczne wykorzystują następujące metody:
 
 - wykorzystanie komór (pojemników) izolacyjnych tj. Personal Rescue Enclosure (PRE),

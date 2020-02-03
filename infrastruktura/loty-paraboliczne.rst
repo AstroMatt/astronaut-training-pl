@@ -1,5 +1,6 @@
-Loty paraboliczne symulujące środowisko mikrograwitacji
-=======================================================
+Loty paraboliczne
+=================
+
 W celu zapoznania astronautów z wpływem mikrograwitacji na organizm człowieka oraz specyficznym zachowaniem podczas spadku swobodnego agencje kosmiczne zaczęły stosować samoloty w lotach parabolicznych. W zależności od parametrów paraboli można otrzymać:
 
 - mikrograwitacja 0g,

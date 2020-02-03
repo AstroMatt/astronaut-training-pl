@@ -1,5 +1,6 @@
 Baseny neutralnej pływalności
 =============================
+
 Od czasów przygotowania do lotu w ramach misji Gemini 12, gdy amerykański astronauta Buzz Aldrin jako pierwszy wykorzystał techniki nurkowania w celu symulacji EVA agencje kosmiczne zaczęły wykorzystywać ośrodki neutralnej pływalności (ang. *Neutral Buoyancy*) do szkolenia astronautów.
 
 Ponadto baseny neutralnej pływalności wykorzystywane są również w szkoleniu awaryjnego opuszczania statku kosmicznego. Przykładem tego typu urządzeń jest symulator H.U.E.T. (Helicopter Underwater Egress Trainer) oraz M.E.T.S. (Modular Egress Training Simulator). W tego typu urządzenia wyposażone jest jedynie laboratorium NBL należące do NASA. Astronauci innych agencji w celu odbycia szkolenia z ratownictwa morskiego wykorzystują infrastrukturę należącą do firm prywatnych.
