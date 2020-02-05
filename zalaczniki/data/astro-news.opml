@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Analog Astronaut Training Center</title>
+    </head>
+    <body>
+        <outline text="Podcasts" title="Podcasts">
+            <outline type="rss" text="Houston We Have a Podcast" title="Houston We Have a Podcast" xmlUrl="https://www.nasa.gov/rss/dyn/Houston-We-Have-a-Podcast.rss" htmlUrl="http://www.nasa.gov/"/>
+            <outline type="rss" text="The Orbital Mechanics Podcast" title="The Orbital Mechanics Podcast" xmlUrl="http://feeds.feedburner.com/orbitalpodcast" htmlUrl="https://theorbitalmechanics.com/show-notes/"/>
+            <outline type="rss" text="The Rocket Ranch" title="The Rocket Ranch" xmlUrl="https://www.nasa.gov/rss/dyn/Rocket-Ranch.rss" htmlUrl="http://www.nasa.gov/"/>
+        </outline>
+        <outline text="ESA" title="ESA">
+            <outline type="rss" text="Thomas Pesquet's Proxima blog" title="Thomas Pesquet's Proxima blog" xmlUrl="http://blogs.esa.int/thomas-pesquet/feed/" htmlUrl="http://blogs.esa.int/thomas-pesquet"/>
+            <outline type="rss" text="Education - RSS" title="Education - RSS" xmlUrl="http://www.esa.int/rss/feed/Education" htmlUrl="http://www.esa.int/"/>
+            <outline type="rss" text="ESA Education" title="ESA Education" xmlUrl="http://www.esa.int/rss/EDU.xml" htmlUrl="https://www.esa.int/Education"/>
+            <outline type="rss" text="ESA Human and Robotic Exploration" title="ESA Human and Robotic Exploration" xmlUrl="http://www.esa.int/rssfeed/Our_Activities/Human_Spaceflight" htmlUrl="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration"/>
+            <outline type="rss" text="iriss mission blog" title="iriss mission blog" xmlUrl="http://blogs.esa.int/iriss/feed/" htmlUrl="http://blogs.esa.int/iriss"/>
+            <outline type="rss" text="ESA Careers at ESA" title="ESA Careers at ESA" xmlUrl="http://www.esa.int/rssfeed/Careers_at_ESA" htmlUrl="https://www.esa.int/About_Us/Careers_at_ESA"/>
+            <outline type="rss" text="European Space Agency, ESA" title="European Space Agency, ESA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIBaDdAbGlFDeS33shmlD0A" htmlUrl="https://www.youtube.com/channel/UCIBaDdAbGlFDeS33shmlD0A"/>
+            <outline type="rss" text="ESA Space Engineering &amp; Technology" title="ESA Space Engineering &amp; Technology" xmlUrl="http://www.esa.int/rssfeed/Our_Activities/Space_Engineering_Technology" htmlUrl="https://www.esa.int/Enabling_Support/Space_Engineering_Technology"/>
+            <outline type="rss" text="Rocket Science" title="Rocket Science" xmlUrl="http://blogs.esa.int/rocketscience/feed/" htmlUrl="http://blogs.esa.int/rocketscience"/>
+            <outline type="rss" text="European Space Agency, ESA (TEDxESA) on YouTube" title="European Space Agency, ESA (TEDxESA) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=PLbyvawxScNbvkq6flW2L83cJuCDT9MHmV" htmlUrl="https://youtube.com/playlist?list=PLbyvawxScNbvkq6flW2L83cJuCDT9MHmV"/>
+            <outline type="rss" text="ESA Blog Navigator" title="ESA Blog Navigator" xmlUrl="http://blogs.esa.int/feed/" htmlUrl="http://blogs.esa.int"/>
+            <outline type="rss" text="Caves &amp; pangaea blog" title="Caves &amp; pangaea blog" xmlUrl="http://blogs.esa.int/caves/feed/" htmlUrl="http://blogs.esa.int/caves"/>
+            <outline type="rss" text="ESA - Current Vacancies" title="ESA - Current Vacancies" xmlUrl="http://www.esa.int/hr/vn.xml" htmlUrl="http://www.esa.int/About_Us/Careers_at_ESA/Vacancies"/>
+            <outline type="rss" text="European Space Agency, ESA (EAC Training) on YouTube" title="European Space Agency, ESA (EAC Training) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=PLbyvawxScNbt4eoStrOLrB0ZKiz-I3OZs" htmlUrl="https://youtube.com/playlist?list=PLbyvawxScNbt4eoStrOLrB0ZKiz-I3OZs"/>
+            <outline type="rss" text="Science &amp; Technology" title="Science &amp; Technology" xmlUrl="http://sci.esa.int/newssyndication/rss/sciweb.xml" htmlUrl="https://sci.esa.int/web/newssyndication/rss/sciweb.xml/-/asset_publisher/Lbqlu6xp3TsN/rss"/>
+            <outline type="rss" text="ESA Human and Robotic Exploration" title="ESA Human and Robotic Exploration" xmlUrl="http://www.esa.int/rssfeed/HSF" htmlUrl="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration"/>
+            <outline type="rss" text="ESA Top News" title="ESA Top News" xmlUrl="http://www.esa.int/rssfeed/Our_Activities/Space_News" htmlUrl="https://www.esa.int/"/>
+            <outline type="rss" text="Astronaut Class of 2009" title="Astronaut Class of 2009" xmlUrl="http://blogs.esa.int/astronauts/feed/" htmlUrl="http://blogs.esa.int/astronauts"/>
+            <outline type="rss" text="Jan Wörner's blog" title="Jan Wörner's blog" xmlUrl="http://blogs.esa.int/janwoerner/feed/" htmlUrl="http://blogs.esa.int/janwoerner"/>
+            <outline type="rss" text="ESA Poland" title="ESA Poland" xmlUrl="http://www.esa.int/pol/rssfeed/Poland" htmlUrl="http://www.esa.int/ESA_in_your_country/Poland"/>
+            <outline type="rss" text="ESA Space Science" title="ESA Space Science" xmlUrl="http://www.esa.int/rss/ESC.xml" htmlUrl="https://www.esa.int/Science_Exploration/Space_Science"/>
+        </outline>
+        <outline text="Roscosmos" title="Roscosmos">
+            <outline type="rss" text="РОСКОСМОС : Новости" title="РОСКОСМОС : Новости" xmlUrl="http://www.roscosmos.ru/rss/102/" htmlUrl="http://www.roscosmos.ru/"/>
+            <outline type="rss" text="Роскосмос ТВ" title="Роскосмос ТВ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCOcpUgXosMCIlOsreUfNFiA" htmlUrl="https://www.youtube.com/channel/UCOcpUgXosMCIlOsreUfNFiA"/>
+            <outline type="rss" text="РОСКОСМОС : Новости" title="РОСКОСМОС : Новости" xmlUrl="http://en.roscosmos.ru/rss/102/" htmlUrl="http://www.roscosmos.ru/"/>
+        </outline>
+        <outline text="NASA" title="NASA">
+            <outline type="rss" text="NASA (This Week @NASA) on YouTube" title="NASA (This Week @NASA) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=PL1D946ACB21752C0E" htmlUrl="https://youtube.com/playlist?list=PL1D946ACB21752C0E"/>
+            <outline type="rss" text="NASA Johnson (Spacewalks) on YouTube" title="NASA Johnson (Spacewalks) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=PLTXQuaxXBKKygvlwk84OTCU6SH3enVHdS" htmlUrl="https://youtube.com/playlist?list=PLTXQuaxXBKKygvlwk84OTCU6SH3enVHdS"/>
+            <outline type="rss" text="NASA Astronaut Peggy Whitson" title="NASA Astronaut Peggy Whitson" xmlUrl="http://astropeggy.tumblr.com/rss" htmlUrl="https://astropeggy.tumblr.com/"/>
+            <outline type="rss" text="NASA X (NASA X Episodes) on YouTube" title="NASA X (NASA X Episodes) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=PL8E4CC853AD46B738" htmlUrl="https://youtube.com/playlist?list=PL8E4CC853AD46B738"/>
+            <outline type="rss" text="NASA (Space to Ground) on YouTube" title="NASA (Space to Ground) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=PL2aBZuCeDwlStfc-bEbQ1AnC-Qj4pa0k-" htmlUrl="https://youtube.com/playlist?list=PL2aBZuCeDwlStfc-bEbQ1AnC-Qj4pa0k-"/>
+            <outline type="rss" text="Space Station News" title="Space Station News" xmlUrl="http://www.nasa.gov/rss/shuttle_station.rss" htmlUrl="http://www.nasa.gov/"/>
+            <outline type="rss" text="NASA Johnson (Astronauts at a Glance) on YouTube" title="NASA Johnson (Astronauts at a Glance) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=PLTXQuaxXBKKyTkzjEPNfsCOYPrfr3Xuw3" htmlUrl="https://youtube.com/playlist?list=PLTXQuaxXBKKyTkzjEPNfsCOYPrfr3Xuw3"/>
+            <outline type="rss" text="NASA's Kennedy Space Center (Inside KSC!) on YouTube" title="NASA's Kennedy Space Center (Inside KSC!) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=PLStC43yAV6zRjiANG0LDoJEgDtIESFTV3" htmlUrl="https://youtube.com/playlist?list=PLStC43yAV6zRjiANG0LDoJEgDtIESFTV3"/>
+            <outline type="rss" text="NASA (ScienceCasts) on YouTube" title="NASA (ScienceCasts) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=PL8A2171FA17D43A35" htmlUrl="https://youtube.com/playlist?list=PL8A2171FA17D43A35"/>
+            <outline type="rss" text="NASAflix" title="NASAflix" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIgvEDsEH6m3QpnnyKZ7AXA" htmlUrl="https://www.youtube.com/channel/UCIgvEDsEH6m3QpnnyKZ7AXA"/>
+        </outline>
+        <outline text="Polish Space" title="Polish Space">
+            <outline type="rss" text="SpaceResearchCentre" title="SpaceResearchCentre" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIMO3IWQiwXtGTusEqj325w" htmlUrl="https://www.youtube.com/channel/UCIMO3IWQiwXtGTusEqj325w"/>
+            <outline type="rss" text="AstroNET" title="AstroNET" xmlUrl="https://news.astronet.pl/index.php/feed/" htmlUrl="https://news.astronet.pl"/>
+            <outline type="rss" text="Kosmonauta.net" title="Kosmonauta.net" xmlUrl="http://www.kosmonauta.net/feed/" htmlUrl="https://kosmonauta.net"/>
+            <outline type="rss" text="Centrum Badań Kosmicznych" title="Centrum Badań Kosmicznych" xmlUrl="http://www.cbk.waw.pl/index.php?option=com_content&amp;view=section&amp;layout=blog&amp;id=2&amp;Itemid=91&amp;format=feed&amp;type=atom" htmlUrl="https://www.cbk.waw.pl"/>
+            <outline type="rss" text="Crazy Nauka" title="Crazy Nauka" xmlUrl="http://www.crazynauka.pl/category/trudne-pytania/feed/" htmlUrl="https://www.crazynauka.pl"/>
+            <outline type="rss" text="Kosmos – Crazy Nauka" title="Kosmos – Crazy Nauka" xmlUrl="http://www.crazynauka.pl/category/kosmo/feed/" htmlUrl="https://www.crazynauka.pl"/>
+            <outline type="rss" text="polsa.gov.pl" title="polsa.gov.pl" xmlUrl="https://polsa.gov.pl/wydarzenia/komunikaty?format=feed&amp;type=atom" htmlUrl="https://polsa.gov.pl"/>
+            <outline type="rss" text="Puls Kosmosu" title="Puls Kosmosu" xmlUrl="http://feeds.feedburner.com/PulsKosmosu" htmlUrl="https://www.pulskosmosu.pl"/>
+            <outline type="rss" text="Polski Astronauta" title="Polski Astronauta" xmlUrl="http://www.astronauta.pl/feed/" htmlUrl="http://www.astronauta.pl"/>
+            <outline type="rss" text="Analog Astronaut Training Center" title="Analog Astronaut Training Center" xmlUrl="https://www.astronaut.center/feed/" htmlUrl="https://www.astronaut.center"/>
+            <outline type="rss" text="Space24" title="Space24" xmlUrl="http://www.space24.pl/feed/?category=&amp;type=82&amp;limit=10" htmlUrl="https://www.space24.pl/"/>
+        </outline>
+        <outline text="Science" title="Science">
+            <outline type="rss" text="Fermilab" title="Fermilab" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCD5B6VoXv41fJ-IW8Wrhz9A" htmlUrl="https://www.youtube.com/channel/UCD5B6VoXv41fJ-IW8Wrhz9A"/>
+            <outline type="rss" text="TED Talks Daily (HD video)" title="TED Talks Daily (HD video)" xmlUrl="http://feeds.feedburner.com/TedtalksHD" htmlUrl="https://www.ted.com/talks"/>
+            <outline type="rss" text="minutephysics" title="minutephysics" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUHW94eEFW7hkUMVaZz4eDg" htmlUrl="https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg"/>
+            <outline type="rss" text="Periodic Videos" title="Periodic Videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtESv1e7ntJaLJYKIO1FoYw" htmlUrl="https://www.youtube.com/channel/UCtESv1e7ntJaLJYKIO1FoYw"/>
+            <outline type="rss" text="Sixty Symbols" title="Sixty Symbols" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvBqzzvUBLCs8Y7Axb-jZew" htmlUrl="https://www.youtube.com/channel/UCvBqzzvUBLCs8Y7Axb-jZew"/>
+            <outline type="rss" text="Science_technology | Euronews RSS" title="Science_technology | Euronews RSS" xmlUrl="http://feeds.feedburner.com/euronews/en/sci-tech/" htmlUrl="http://www.euronews.com"/>
+            <outline type="rss" text="SmarterEveryDay" title="SmarterEveryDay" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6107grRI4m0o2-emgoDnAA" htmlUrl="https://www.youtube.com/channel/UC6107grRI4m0o2-emgoDnAA"/>
+            <outline type="rss" text="MinuteEarth (uploads) on YouTube" title="MinuteEarth (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UUeiYXex_fwgYDonaTcSIk6w" htmlUrl="https://youtube.com/playlist?list=UUeiYXex_fwgYDonaTcSIk6w"/>
+            <outline type="rss" text="Kopalnia Wiedzy" title="Kopalnia Wiedzy" xmlUrl="http://kopalniawiedzy.pl/wiadomosci.rss" htmlUrl="https://kopalniawiedzy.pl"/>
+            <outline type="rss" text="TED-Ed" title="TED-Ed" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsooa4yRKGN_zEE8iknghZA" htmlUrl="https://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA"/>
+        </outline>
+        <outline text="Rocket Science" title="Rocket Science">
+            <outline type="rss" text="Rakiety.org.pl » Kanał z wpisami" title="Rakiety.org.pl » Kanał z wpisami" xmlUrl="http://www.rakiety.org.pl/feed/" htmlUrl="http://www.rakiety.org.pl"/>
+            <outline type="rss" text="SpaceX" title="SpaceX" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtI0Hodo5o5dUb67FeUjDeA" htmlUrl="https://www.youtube.com/channel/UCtI0Hodo5o5dUb67FeUjDeA"/>
+            <outline type="rss" text="SpaceX" title="SpaceX" xmlUrl="http://www.spacex.com/news.xml" htmlUrl="https://www.spacex.com/news"/>
+        </outline>
+        <outline text="Analog Astronautics" title="Analog Astronautics">
+            <outline type="rss" text="Space Adventures" title="Space Adventures" xmlUrl="http://spaceadv.tumblr.com/rss" htmlUrl="https://spaceadv.tumblr.com/"/>
+            <outline type="rss" text="Polar Motion » Feed" title="Polar Motion » Feed" xmlUrl="http://polar-motion.com/feed/" htmlUrl="https://polar-motion.com"/>
+            <outline type="rss" text="Pavilion Lake Research Project" title="Pavilion Lake Research Project" xmlUrl="http://www.pavilionlake.com/blog/feed/" htmlUrl="http://www.pavilionlake.com/blog"/>
+            <outline type="rss" text="HI-SEAS" title="HI-SEAS" xmlUrl="http://hi-seas.org/?feed=rss2" htmlUrl="http://hi-seas.org"/>
+            <outline type="rss" text="nasa.gov/analogsfieldtesting" title="nasa.gov/analogsfieldtesting" xmlUrl="https://blogs.nasa.gov/analogsfieldtesting/feed/" htmlUrl="https://blogs.nasa.gov/analogsfieldtesting"/>
+            <outline type="rss" text="Astronauts4Hire" title="Astronauts4Hire" xmlUrl="http://www.astronauts4hire.org/feeds/posts/default" htmlUrl="http://www.astronauts4hire.org/"/>
+        </outline>
+        <outline text="Scientific Publications" title="Scientific Publications">
+            <outline type="rss" text="ScienceDirect Publication: Acta Astronautica" title="ScienceDirect Publication: Acta Astronautica" xmlUrl="http://rss.sciencedirect.com/publication/science/00945765" htmlUrl="https://www.sciencedirect.com/journal/acta-astronautica"/>
+            <outline type="rss" text="Iaf" title="Iaf" xmlUrl="http://www.iafastro.org/feed/" htmlUrl="http://www.iafastro.org"/>
+            <outline type="rss" text="ScienceDirect Publication: Acta Astronautica" title="ScienceDirect Publication: Acta Astronautica" xmlUrl="http://rss.sciencedirect.com/publication/science/00945765_OA/open-access" htmlUrl="https://www.sciencedirect.com/journal/acta-astronautica"/>
+            <outline type="rss" text="International Astronautical Federation iafastro.org" title="International Astronautical Federation iafastro.org" xmlUrl="http://www.iafastro.org/events/upcoming-events/feed/" htmlUrl="http://www.iafastro.org"/>
+        </outline>
+        <outline text="Aerospace Industry Jobs" title="Aerospace Industry Jobs">
+            <outline type="rss" text="polsa.gov.pl - Praca" title="polsa.gov.pl - Praca" xmlUrl="http://pak.bip.gov.pl/articles/index.rss" htmlUrl="http://pak.bip.gov.pl/"/>
+            <outline type="rss" text="Current Vacancies - EUMETSAT Website" title="Current Vacancies - EUMETSAT Website" xmlUrl="http://www.eumetsat.int/website/home/RSS/CurrentVacancies/index.html?lang=en" htmlUrl="http://www.eumetsat.int/website/home/RSS/CurrentVacancies/"/>
+            <outline type="rss" text="Current Vacancies - EUMETSAT Website" title="Current Vacancies - EUMETSAT Website" xmlUrl="http://www.eumetsat.int/website/home/RSS/CurrentVacancies/index.html" htmlUrl="http://www.eumetsat.int/website/home/RSS/CurrentVacancies/"/>
+            <outline type="rss" text="DLR - Jobs and Career" title="DLR - Jobs and Career" xmlUrl="http://www.dlr.de/dlr/jobs/en//contentxxl/services/export/getcachedcontent.aspx?mid=1003&amp;mdefid=71&amp;eid=7" htmlUrl="http://www.dlr.de/dlr/jobs/"/>
+            <outline type="rss" text="RHEA Group" title="RHEA Group" xmlUrl="http://www.rheagroup.com/feed/" htmlUrl="http://www.rheagroup.com"/>
+        </outline>
+        <outline text="Space News" title="Space News">
+            <outline type="rss" text="News – Spaceflight101" title="News – Spaceflight101" xmlUrl="http://spaceflight101.com/news/feed/" htmlUrl="http://spaceflight101.com"/>
+            <outline type="rss" text="Daily Moon" title="Daily Moon" xmlUrl="http://www.moondaily.com/moondaily.xml" htmlUrl="http://www.moondaily.com/index.html"/>
+            <outline type="rss" text="Daily Mars" title="Daily Mars" xmlUrl="http://www.marsdaily.com/marsdaily.xml" htmlUrl="http://www.marsdaily.com/index.html"/>
+            <outline type="rss" text="SpaceFlight Insider" title="SpaceFlight Insider" xmlUrl="http://spaceflightinsider.com/feed/" htmlUrl="https://www.spaceflightinsider.com"/>
+            <outline type="rss" text="NASASpaceFlight.com" title="NASASpaceFlight.com" xmlUrl="http://www.nasaspaceflight.com/feed/" htmlUrl="https://www.nasaspaceflight.com"/>
+            <outline type="rss" text="TheSpaceAdventurer" title="TheSpaceAdventurer" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUz8VniiVouhmF7lAomvSmg" htmlUrl="https://www.youtube.com/channel/UCUz8VniiVouhmF7lAomvSmg"/>
+            <outline type="rss" text="Scott Manley" title="Scott Manley" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCxzC4EngIsMrPmbm6Nxvb-A" htmlUrl="https://www.youtube.com/channel/UCxzC4EngIsMrPmbm6Nxvb-A"/>
+            <outline type="rss" text="TMRO" title="TMRO" xmlUrl="http://www.tmro.tv/feed/" htmlUrl="https://tmro.tv"/>
+            <outline type="rss" text="Collect SPACE" title="Collect SPACE" xmlUrl="http://feeds.feedburner.com/CollectspaceTodayInSpaceHistory" htmlUrl="http://www.collectspace.com/"/>
+        </outline>
+        <outline text="Canadian Space Agency" title="Canadian Space Agency">
+            <outline type="rss" text="Canadian Space Agency" title="Canadian Space Agency" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdNtqpHlU1pCaVy2wlzxHKQ" htmlUrl="https://www.youtube.com/channel/UCdNtqpHlU1pCaVy2wlzxHKQ"/>
+        </outline>
+        <outline text="Must Read" title="Must Read">
+            <outline type="rss" text="Space Lectures » Feed" title="Space Lectures » Feed" xmlUrl="https://space-lectures.com/feed/" htmlUrl="https://space-lectures.com"/>
+            <outline type="rss" text="Education - RSS" title="Education - RSS" xmlUrl="http://www.esa.int/rss/feed/Education" htmlUrl="http://www.esa.int/"/>
+            <outline type="rss" text="ESA Education" title="ESA Education" xmlUrl="http://www.esa.int/rss/EDU.xml" htmlUrl="https://www.esa.int/Education"/>
+            <outline type="rss" text="Kosmonauta.net" title="Kosmonauta.net" xmlUrl="http://www.kosmonauta.net/feed/" htmlUrl="https://kosmonauta.net"/>
+            <outline type="rss" text="ESA Human and Robotic Exploration" title="ESA Human and Robotic Exploration" xmlUrl="http://www.esa.int/rssfeed/HSF" htmlUrl="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration"/>
+            <outline type="rss" text="NASA Johnson (Astronauts at a Glance) on YouTube" title="NASA Johnson (Astronauts at a Glance) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=PLTXQuaxXBKKyTkzjEPNfsCOYPrfr3Xuw3" htmlUrl="https://youtube.com/playlist?list=PLTXQuaxXBKKyTkzjEPNfsCOYPrfr3Xuw3"/>
+            <outline type="rss" text="Polski Astronauta" title="Polski Astronauta" xmlUrl="http://www.astronauta.pl/feed/" htmlUrl="http://www.astronauta.pl"/>
+            <outline type="rss" text="Analog Astronaut Training Center" title="Analog Astronaut Training Center" xmlUrl="https://www.astronaut.center/feed/" htmlUrl="https://www.astronaut.center"/>
+        </outline>
+        <outline text="ISS" title="ISS">
+            <outline type="rss" text="ISS On-Orbit Status Report" title="ISS On-Orbit Status Report" xmlUrl="http://www.nasa.gov/directorates/heo/reports/iss_reports/iss_reports.rss" htmlUrl="https://blogs.nasa.gov/stationreport"/>
+            <outline type="rss" text="SpaceRef ISS Top Stories" title="SpaceRef ISS Top Stories" xmlUrl="http://www.spaceref.com/rss/iss.xml" htmlUrl="http://spaceref.com/iss/"/>
+        </outline>
+        <outline text="Human Spaceflight" title="Human Spaceflight">
+            <outline type="rss" text="News About ISS" title="News About ISS" xmlUrl="http://www.space-travel.com/Station_News.xml" htmlUrl="http://www.spacedaily.com/Station_News.html"/>
+            <outline type="rss" text="Newest questions tagged crewed-spaceflight - Space Exploration Stack Exchange" title="Newest questions tagged crewed-spaceflight - Space Exploration Stack Exchange" xmlUrl="https://space.stackexchange.com/feeds/tag?tagnames=crewed-spaceflight&amp;sort=newest" htmlUrl="https://space.stackexchange.com/questions/tagged/?tagnames=crewed-spaceflight&amp;sort=newest"/>
+            <outline type="rss" text="Drew Ex Machina » Feed" title="Drew Ex Machina » Feed" xmlUrl="https://www.drewexmachina.com/feed/" htmlUrl="https://www.drewexmachina.com"/>
+            <outline type="rss" text="Space Lectures » Feed" title="Space Lectures » Feed" xmlUrl="https://space-lectures.com/feed/" htmlUrl="https://space-lectures.com"/>
+            <outline type="rss" text="WIRED (It's Different In Space!) on YouTube" title="WIRED (It's Different In Space!) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=PLibNZv5Zd0dzIMflOlqR6_Zs8GwErdGze" htmlUrl="https://youtube.com/playlist?list=PLibNZv5Zd0dzIMflOlqR6_Zs8GwErdGze"/>
+            <outline type="rss" text="SpaceRef" title="SpaceRef" xmlUrl="http://feeds.feedburner.com/spaceref/jext" htmlUrl="http://spaceref.com/"/>
+            <outline type="rss" text="The Spudis Lunar Resources Blog" title="The Spudis Lunar Resources Blog" xmlUrl="http://www.spudislunarresources.com/blog/feed/" htmlUrl="http://www.spudislunarresources.com/blog"/>
+            <outline type="rss" text="Human spaceflight" title="Human spaceflight" xmlUrl="https://www.youtube.com/feeds/videos.xml?playlist_id=PL878933F37684D570"/>
+            <outline type="rss" text="Newest questions tagged astronauts - Space Exploration Stack Exchange" title="Newest questions tagged astronauts - Space Exploration Stack Exchange" xmlUrl="https://space.stackexchange.com/feeds/tag?tagnames=astronauts&amp;sort=newest" htmlUrl="https://space.stackexchange.com/questions/tagged/?tagnames=astronauts&amp;sort=newest"/>
+            <outline type="rss" text="Newest questions tagged apollo-program - Space Exploration Stack Exchange" title="Newest questions tagged apollo-program - Space Exploration Stack Exchange" xmlUrl="https://space.stackexchange.com/feeds/tag?tagnames=apollo-program&amp;sort=newest" htmlUrl="https://space.stackexchange.com/questions/tagged/?tagnames=apollo-program&amp;sort=newest"/>
+            <outline type="rss" text="JSC Features" title="JSC Features" xmlUrl="https://roundupreads.jsc.nasa.gov/rss.ashx" htmlUrl="https://jscfeatures.jsc.nasa.gov"/>
+            <outline type="rss" text="Newest questions tagged mars - Space Exploration Stack Exchange" title="Newest questions tagged mars - Space Exploration Stack Exchange" xmlUrl="https://space.stackexchange.com/feeds/tag?tagnames=mars&amp;sort=newest" htmlUrl="https://space.stackexchange.com/questions/tagged/?tagnames=mars&amp;sort=newest"/>
+            <outline type="rss" text="DVIDS Unit RSS Feed: NASA" title="DVIDS Unit RSS Feed: NASA" xmlUrl="https://www.dvidshub.net/rss/unit/1759" htmlUrl="https://www.dvidshub.net"/>
+            <outline type="rss" text="Newest questions tagged iss - Space Exploration Stack Exchange" title="Newest questions tagged iss - Space Exploration Stack Exchange" xmlUrl="https://space.stackexchange.com/feeds/tag?tagnames=iss&amp;sort=newest" htmlUrl="https://space.stackexchange.com/questions/tagged/?tagnames=iss&amp;sort=newest"/>
+        </outline>
+        <outline type="rss" text="showRSS personal feed" title="showRSS personal feed" xmlUrl="http://showrss.info/user/14660.rss?magnets=true&amp;namespaces=true&amp;name=clean&amp;quality=null&amp;re=null" htmlUrl="http://showrss.info"/>
+    </body>
+</opml>

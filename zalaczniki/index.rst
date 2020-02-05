@@ -7,6 +7,7 @@ Załączniki
 
     european-astronauts-charter.rst
     survey-en.rst
+    learn-more.rst
 
     astronauts-roscosmos.rst
     astronauts-nasa.rst
