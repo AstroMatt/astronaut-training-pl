@@ -12,8 +12,6 @@
     szkolenie-eva/index.rst
     szkolenie-pilotaz/index.rst
     przydzialy-naziemne/index.rst
-    ankieta/index.rst
-    polski-program-astronautyczny/index.rst
     zakonczenie/index.rst
     zalaczniki/index.rst
     zalaczniki/learn-more.rst

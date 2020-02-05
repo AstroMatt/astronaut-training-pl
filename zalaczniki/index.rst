@@ -6,7 +6,6 @@ Załączniki
 .. toctree::
 
     european-astronauts-charter.rst
-    survey-en.rst
 
     astronauts-roscosmos.rst
     astronauts-nasa.rst

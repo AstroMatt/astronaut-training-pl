@@ -92,6 +92,7 @@ master_doc = 'index'
 templates_path = ['_templates']
 highlight_language = 'python3'
 pygments_style = 'borland'
+autodoc_typehints = "description"
 sys.path.insert(0, os.path.abspath('_extensions'))
 
 

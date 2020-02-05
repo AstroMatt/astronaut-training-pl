@@ -37,4 +37,6 @@ Signature
 *Cologne, this fifteenth day of August two thousand one anno domini*
 
 
-.. note:: Źródło: http://www.esa.int/Our_Activities/Human_Spaceflight/European_Astronaut_Selection/European_astronaut_charter
+.. note::
+
+    Źródło: http://www.esa.int/Our_Activities/Human_Spaceflight/European_Astronaut_Selection/European_astronaut_charter

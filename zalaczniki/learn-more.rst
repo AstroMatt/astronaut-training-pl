@@ -3,7 +3,9 @@ Gdzie szukać informacji?
 ************************
 
 
-.. hint:: Pobierz moją listę RSSów :download:`data/astro-news.opml`
+.. hint::
+
+    Pobierz moją listę RSSów :download:`data/astro-news.opml`
 
 
 Źródła informacji
