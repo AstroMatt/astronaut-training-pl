@@ -1,4 +1,4 @@
-project = 'Analiza procesu selekcji, przygotowania do długotrwałych misji oraz treningu EVA w wybranych agencjach kosmicznych w celu zaproponowania programu szkolenia polskiego astronauty w kontekście przyszłych misji księżycowych'
+project = 'Proces szkolenia astronautów'
 author = 'Matt Harasymczuk'
 email = 'matt@astronauta.pl'
 
