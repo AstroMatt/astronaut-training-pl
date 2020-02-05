@@ -23,9 +23,8 @@ numfig_format = {
 }
 
 exclude_patterns = [
-    '**/_TODO.rst',
-    '_todo/*',
     '_data/*',
+    '_img/*',
 ]
 
 suppress_warnings = [
@@ -80,10 +79,11 @@ exclude_patterns += [
     '**/contrib/*',
     '**/solution/*',
     '**/solutions/*',
+    '**/_template.rst',
     '**.ipynb_checkpoints',
     'README.rst',
-    'LICENSE.rst',
     'TODO.rst',
+    '**/_TODO.rst',
     'Thumbs.db',
     '.DS_Store',
 ]
@@ -123,7 +123,6 @@ html_secnumber_suffix = '. '
 html_title = project
 html_favicon = '_static/favicon.png'
 html_static_path = ['_static']
-html_sidebars = {'sidebar': ['localtoc.html', 'sourcelink.html', 'searchbox.html']}
 
 if html_theme == 'sphinx_rtd_theme':
     html_context.update({
