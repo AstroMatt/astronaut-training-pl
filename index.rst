@@ -15,10 +15,12 @@
     ankieta/index.rst
     polski-program-astronautyczny/index.rst
     zakonczenie/index.rst
+    zalaczniki/index.rst
 
 
+************
 Bibliografia
-============
+************
 .. bibliography:: _references/bibliography.bib
     :style: alpha
     :all:

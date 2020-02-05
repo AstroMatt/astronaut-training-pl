@@ -2,23 +2,22 @@
 Charter of the European Astronaut Corps
 ***************************************
 
-.. todo:: http://www.esa.int/Our_Activities/Human_Spaceflight/European_Astronaut_Selection/European_astronaut_charter
 
 Our Vision
 ==========
-
 Shaping and Sharing Human Space Exploration
 
 Through
 
 Unity in Diversity
 
+
 Our Mission
 ===========
-
 We Shape Space by bringing our European values to the preparation, support, and operation of the space flights that advance peaceful human exploration.
 
 We Share Space with the people of Europe by communicating our vision, goals, experiences, and the results of our missions.
+
 
 Our Values
 ==========
@@ -36,3 +35,6 @@ Our Values
 Signature
 =========
 *Cologne, this fifteenth day of August two thousand one anno domini*
+
+
+.. note:: Źródło: http://www.esa.int/Our_Activities/Human_Spaceflight/European_Astronaut_Selection/European_astronaut_charter

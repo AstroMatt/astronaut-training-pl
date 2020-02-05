@@ -6,7 +6,6 @@ html_theme = 'sphinx_rtd_theme'
 
 todo_emit_warnings = False
 todo_include_todos = False
-suppress_warnings = ['toc.secnum', 'autosectionlabel.*']
 
 extensions = [
     'sphinx.ext.todo',
@@ -24,8 +23,14 @@ numfig_format = {
 }
 
 exclude_patterns = [
+    '**/_TODO.rst',
     '_todo/*',
     '_data/*',
+]
+
+suppress_warnings = [
+    'toc.secnum',
+    #'autosectionlabel.*',
 ]
 
 # article - for articles in scientific journals, presentations, short reports, program documentation, invitations, ...

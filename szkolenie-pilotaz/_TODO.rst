@@ -7,7 +7,6 @@ Na ten fakt wpłynęły następujące cechy:
 - przyzwyczajenie pilota i jego rodziny do niebezpiecznego charakteru pracy :cite:`Glover2016`.
 
 
-
 .. todo::
     Reentry contingency: :cite:`Hadfield2013`
     Small leak of oxygen (not a big deal, they have several spares)
@@ -96,11 +95,11 @@ Tabele
 
 .. csv-table:: Parametry techniczne statków kosmicznych Soyuz w różnych wersjach
     :name: table-soyuz-characteristics
-    :file: ../data/soyuz-characteristics.csv
+    :file: data/soyuz-characteristics.csv
     :header-rows: 1
     :stub-columns: 1
 
 .. csv-table:: Systemy statku Soyuz
     :name: table-soyuz-systems
-    :file: ../data/soyuz-systems.csv
+    :file: data/soyuz-systems.csv
     :header-rows: 1

@@ -95,8 +95,8 @@ Przygotowanie powrotu na Ziemię
     - Astronauci wydłużają się o 5-7 cm i maja problemy z mieszczeniem się w swoje Custom made siedzenia w Sojuzie
     - Space Shuttle Wystawiała kółka by się rozgrzały
 
-Przygotowanie
--------------
+Przygotowanie statku i załogi
+-----------------------------
 - Przygotowanie do powrotu na Ziemię
 - Przekazanie dowodzenia ISS
 - Pakowanie Sojuz (​Only cosmonauts are allowed to pack Soyuz before reentry.)

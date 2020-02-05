@@ -9,3 +9,8 @@ Kurs został podzielony na trzy etapy:
 - kurs astrobiologiczny i mikrobiologiczny na uniwersytetach w Niemczech i w ośrodku EAC oraz Niemiecką Agencję Kosmiczną i Lotniczą (DLR).
 
 Ponadto wykorzystywane są również obszary krateru Ries w okolicach Nördlingen, Niemcy oraz teren Bletterbach we włoskich Dolomitach.
+
+.. csv-table:: Członkowie wyprawy PANGAEA 2017
+    :name: table-survival-pangaea
+    :file: data/survival-pangaea.csv
+    :header-rows: 1

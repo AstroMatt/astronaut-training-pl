@@ -2,10 +2,13 @@
 Selekcja kandydatów
 *******************
 ​
-
     Ability to parse and solve complex problems rapidly with incomplete information in a hostile environment, this is what makes you an astronaut. ​Astronaut is a person who can quickly without complete information make a decision when decisions can mean life or death.
 
-    -- Chris Hadfield, An Astronaut's Guide to Life on Earth :cite:`Hadfield2013`
+    -- Chris Hadfield, CSA Astronaut, An Astronaut's Guide to Life on Earth :cite:`Hadfield2013`
+
+    Astronauts are overachievers and some astronauts go on to very eclectic things. One of the most interesting astronauts is Story Musgrave. He was an active astronaut for over 30 years and holds the distinction of being the only astronaut to fly on all five space shuttles. While he was an astronaut he obtained 7 graduate degrees – math, computers, chemistry, medicine, physiology, literature, and psychology. In his spare time he was a trauma surgeon, pilot, and parachutist. Today he operates a palm farm in Florida, a production company in Australia, and a sculpture company in California. He is a landscape architect. He has worked for Walt Disney's Imagineering team as a concept artist. He teaches design at the Art Center College of Design in Pasadena. And he's a public speaker with 20 honorary doctorates.
+
+    -- Robert Frost, NASA MCC, What do astronauts do once they leave NASA? :cite:`Frost2017`
 
 Przygotowanie astronautów i kosmonautów do długotrwałych misji kosmicznych zaczyna się od wyboru kandydatów do szkolenia podstawowego. Na chwilę obecną najczęściej rekrutuje się osoby wśród najbardziej pożądanych zawodów, tj.:
 

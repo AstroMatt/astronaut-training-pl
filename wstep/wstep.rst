@@ -7,9 +7,29 @@ Wprowadzenie
 
 Eksploracja leży w naturze człowieka. Podbój nowych lądów na Ziemi pozwolił na znaczne przyspieszenie rozwoju cywilizacji i technologii. Dzięki postępom w nauce, inżynierii i medycynie wydłużyła się średnia długość życia oraz zwiększyła się jego jakość. Załogowe loty kosmiczne to nieunikniona przyszłość ludzkości. Obecnie prowadzone są badania weryfikujące studium wykonalności, a także trwają prace nad opracowywaniem technologii dla misji człowieka na Księżyc i Marsa planowanych odpowiednio na 2028 i 2035 rok.
 
+Historia załogowych lotów kosmicznych sięga roku 1961 gdy 12 kwietnia rosyjski pilot Yuri Gagarin jako pierwszy przekroczył umowną granicę kosmosu, tzw. linię Kármána :cite:`Cordoba2004`. Od tego czasu w kosmosie wg. definicji FAI było 556 osób :cite:`Astronaut-Statistics`. W tym gronie znajduje się dwunastu amerykańskich astronautów, którzy postawili stopę na innym ciele niebieskim - na Księżycu. W ciągu czterdziestu lat od pierwszego lotu załogowego człowiek na stałe zaczął mieszkać na orbicie. Międzynarodowa stacja kosmiczna jest miejscem codziennej pracy dla sześciu astronautów i kosmonautów, którzy prowadzą badania naukowe w różnych dziedzinach technicznych, inżynieryjnych, biologicznych i chemicznych. Średni czas przebywania członka załogi na stacji wynosi sześć miesięcy.
+
+W marcu 2016 Scott Kelly i Michaił Kornijenko powrócili z 340 dniowego pobytu na stacji ISS zapisując się w historii jako nieliczni ludzie z łącznym "nalotem" kosmicznym powyżej roku. Obecnie agencja kosmiczna NASA planuje lot człowieka na Marsa i misja Scotta Kelly była jednym z pierwszych etapów w tym programie. Głównym obszarem zainteresowania naukowców jest zbadanie wpływu mikrograwitacji na ciało ludzkie, układ kostny i mięśniowy, przemieszczenie płynów ustrojowych wewnątrz ciała oraz zmiany zachodzące w psychice ludzkiej podczas długotrwałej izolacji. Podczas pobytu na Międzynarodowej Stacji Kosmicznej (ISS) brat bliźniak Scotta Kelly'ego - Mark, również astronauta NASA, był poddawany identycznym badaniom na Ziemi. Dzięki unikalnej możliwości porównania wyników dwóch bliźniaków jednojajowych amerykańska agencja kosmiczna będzie w stanie bardzo dokładnie zbadać wpływ powyższych czynników na ciało ludzkie. Cykl adaptacji do grawitacji oraz badania po powrocie, którym byli poddani obaj bracia trwały do końca roku 2016. Wyniki analizy danych nadal są opracowywane :cite:`Edwards2018`.
+
+Aby rozważać temat dalszej eksploracji kosmosu agencje kosmiczne muszą rozwiązać problemy nie tylko medyczne jak wspomniane powyżej, ale również techniczne, tj.:
+
+- efektywne systemy podtrzymywania życia (zamknięty obieg),
+- obiegu i filtracji powietrza,
+- usuwania dwutlenku węgla z powietrza,
+- obieg wody technicznej i pitnej,
+- systemy chłodzenia,
+- pozyskiwanie i magazynowanie energii,
+- przechowywanie oraz produkcja pożywienia w środowisku mikrograwitacji,
+- zadania operacyjne i planowanie misji,
+- ochrona przed mikrometeorytami,
+- ochrona przed promieniowaniem kosmicznym,
+- umiejętność pozyskiwania paliwa rakietowego z zasobów na innym ciele niebieskim.
+
+Aby skutecznie przygotować ekspertów do prowadzenia badań i działań operacyjnych konieczna jest restrykcyjna selekcja oraz przygotowanie załogi do trudnych warunków pozaziemskiej aktywności. Sam proces podstawowego przeszkolenia załogi trwa około dwa lata. Następnie astronauci czekają na przydział do misji wykonując różne zadania na Ziemi (więcej w rozdziale :ref:`Przydziały naziemne`). Po uzyskaniu przydziału do misji astronauci przygotowują się do wykonywania specyficznych zadań przez kolejne około dwa lata.
+
 Długotrwałe kosmiczne loty załogowe wymagają rozwiązania wielu problemów inżynieryjnych oraz stworzenia technologii, których aplikacja znajduje się również w innych dziedzinach. Przez inwestycję w sektor kosmiczny państwo rozwija gospodarkę i stymuluje rozwój naukowy. Bezpośrednim przykładem wykorzystania technologii opracowanych w ramach rozwoju programów kosmicznych jest m.in. nawigacja satelitarna, telekomunikacja, telemedycyna i robotyka. Urządzenia i aparaty matematyczne tj. filtr Kalmana stworzony na potrzeby programu Apollo znajdują zastosowanie w każdym aspekcie życia i są szeroko używane a ich wpływ jest niewymierny. Na każde €1 zainwestowane w segment kosmiczny szacowany jest zwrot na poziomie €6 w postaci dochodów bezpośrednich, pośrednich i indukowanych :cite:`ESASpaceSolidInvestment2012`.
 
-Poza kwestiami ekonomicznymi programy kosmiczne pozwalają również na wykształcenie kadry, stworzenie infrastruktury oraz zagospodarowanie przyszłych inżynierów i naukowców edukowanych na uczelniach w kraju. Polska ze względu na brak programu astronautycznego nie posiada obecnie kompetencji w tym temacie. Od czasu przystąpienia do Europejskiej Agencji Kosmicznej 19 listopada 2012 roku kraj jest stale niedoreprezentowany w kwestii zatrudnienia kadry. Wg. danych działu kadr ESA w roku 2018 było 12 pracowników pochodzenia polskiego.
+Poza kwestiami ekonomicznymi programy kosmiczne pozwalają również na wykształcenie kadry, stworzenie infrastruktury oraz zagospodarowanie przyszłych inżynierów i naukowców edukowanych na uczelniach w kraju. Polska ze względu na brak programu astronautycznego nie posiada obecnie kompetencji w tym temacie. Od czasu przystąpienia do Europejskiej Agencji Kosmicznej 19 listopada 2012 roku kraj posiada mniejszą ilość przedstawicieli niż pozwalałby na to parytet, którym przy zatrudnianiu kieruje się ESA.. Wg. danych działu kadr ESA w roku 2018 było 12 pracowników pochodzenia polskiego.
 
 Sektor prywatny przyspiesza eksplorację kosmosu. Można to zaobserwować na przykładzie rynku amerykańskiego gdzie firmy tzw. "new space" m.in. SpaceX, Blue Origin, Virgin Galactic oraz "old space", tj.: United Launch Alliance, Orbital ATK, Boeing, Lockheed Martin bardzo intensywnie inwestują w rozwój technologii kosmicznych oraz w załogowe loty. Ten trend można obserwować również w Polsce gdzie od czasu przystąpienia Polski do ESA stale powstają i rozwijają się nowe organizacje prywatne. Na koniec roku 2018 mamy już 300 podmiotów gospodarczych w ramach tej branży.
 

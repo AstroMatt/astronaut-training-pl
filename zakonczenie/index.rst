@@ -2,8 +2,15 @@
 Zakończenie
 ***********
 
+    Communication, Teamwork, Commitment to excellence
 
-Celem niniejszej pracy była analiza procesu selekcji, przygotowania do misji oraz treningu EVA w wybranych agencjach kosmicznych w celu zaproponowania Polskiego Programu Astronautycznego. W ramach pracy został przedstawiony proces, który jest wdrożony w agencjach NASA, ESA, CSA, Roskosmos, JAXA i CNSA wraz z analizą infrastruktury szkoleniowej i stworzona propozycja programu, oszacowanie budżetu oraz zakresu zasobów koniecznych do realizacji przedsięwzięcia.
+    -- Victor Glover, NASA Astronaut :cite:`Glover2016`
+
+    Polecieliśmy w kosmos, tylko po to by docenić to co mamy na Ziemi.
+
+    -- Mirosław Hermaszewski, Ciężar Nieważkości :cite:`Hermaszewski2013`
+
+Celem niniejszej pracy była analiza procesu selekcji, przygotowania do misji oraz treningu EVA w wybranych agencjach kosmicznych w celu zaproponowania Polskiego Programu Astronautycznego. W ramach pracy został przedstawiony proces, który jest wdrożony w agencjach NASA, ESA, CSA, Roscosmos, JAXA i CNSA wraz z analizą infrastruktury szkoleniowej i stworzona propozycja programu, oszacowanie budżetu oraz zakresu zasobów koniecznych do realizacji przedsięwzięcia.
 
 Niniejsza praca poprzez analizę procesu selekcji, programów szkolenia oraz infrastruktury treningowej podjęła próbę wykazania, iż:
 

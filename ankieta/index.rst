@@ -278,7 +278,3 @@ Wraz ze wzrastającym poparciem dla załogowych lotów, które już wynosi ponad
 Wyniki ankiety potwierdzają postawione tezy oraz kierunek transformacji jakie powinny przejść organizacje rządowe i państwowe agencje kosmiczne proponowane przez autora niniejszej publikacji.
 
 
-Załączniki
-==========
-.. include:: survey-en.rst
-
