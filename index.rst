@@ -16,4 +16,5 @@
     polski-program-astronautyczny/index.rst
     zakonczenie/index.rst
     zalaczniki/index.rst
+    zalaczniki/learn-more.rst
     _references/index.rst
