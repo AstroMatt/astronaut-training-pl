@@ -1,6 +1,6 @@
-project = 'Proces szkolenia astronautów'
+project = 'Proces selekcji i szkolenia astronautów'
 author = 'Matt Harasymczuk'
-email = 'matt@astronauta.pl'
+email = 'matt@astronaut.center'
 
 html_theme = 'sphinx_rtd_theme'
 
