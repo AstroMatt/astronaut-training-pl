@@ -140,10 +140,11 @@ latex_documents = [('index', f'{project_slug}.tex', project, author, latex_docum
 latex_elements = {
     'papersize': 'a4paper',
     'pointsize': '10pt',
-    'figure_align': 'htbp',
+    'figure_align': 'H', # 'htbp',
 
     # Fix for: LaTeX Backend Fails with Citations In Figure Captions
     'preamble': r"""
+        \usepackage{float}
         \usepackage{etoolbox}
         \AtBeginEnvironment{figure}{\renewcommand{\phantomsection}{}}
     """
