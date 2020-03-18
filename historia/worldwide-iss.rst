@@ -7,7 +7,7 @@ Na chwilę obecną najbardziej czasochłonną częścią procesu szkolenia astro
 
 .. figure:: img/spacestation-iss.png
     :name: figure-spacestation-iss
-    :scale: 66%
+    :width: 80%
     :align: center
 
     Schemat stacji kosmicznej ISS. Źródło: Wikipedia

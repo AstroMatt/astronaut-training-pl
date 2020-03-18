@@ -6,7 +6,7 @@ Po pozytywnym zaliczeniu egzaminów teoretycznych z przedmiotu zaznajomienia si�
 
 .. figure:: img/spacesuit-a7l-schematics.jpg
     :name: figure-spacesuit-a7l-schematics
-    :scale: 50%
+    :width: 80%
     :align: center
 
     Warstwy skafandra na przykładzie amerykańskiego *A7L*. Źródło: NASA/JSC

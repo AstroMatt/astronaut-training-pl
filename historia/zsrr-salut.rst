@@ -12,7 +12,7 @@ Stacje wyposażone były w port dokowania, dzięki któremu zarówno załogowe j
 
 .. figure:: img/spacestation-salyut-6.png
     :name: figure-spacestation-salyut-6
-    :scale: 100%
+    :width: 80%
     :align: center
 
     Schemat stacji kosmicznej Salut-6. Źródło: Wikipedia

@@ -16,7 +16,7 @@ Z przyczyn zdrowotnych Deke Slayton został zdyskwalifikowany z udziału w progr
 
 .. figure:: img/selection-mercury.jpg
     :name: figure-selection-mercury
-    :scale: 7%
+    :width: 80%
     :align: center
 
     Astronauci programu Mercury tzw. "Original Seven". Pierwszy rząd, od lewej do prawej: Walter M. Schirra, Jr., Donald K. "Deke" Slayton, John H. Glenn, Jr., and M. Scott Carpenter; tylny rząd, Alan B. Shepard, Jr., Virgil I. "Gus" Grissom, L. Gordon Cooper, Jr. źródło: NASA :cite:`Mercury7`.
@@ -24,7 +24,7 @@ Z przyczyn zdrowotnych Deke Slayton został zdyskwalifikowany z udziału w progr
 
 .. figure:: img/spacecraft-comparision-mercury-gemini-vostok-voshod.jpg
     :name: spacecraft-comparision-mercury-gemini-vostok-voshod
-    :scale: 75%
+    :width: 80%
     :align: center
 
     Schemat porównawczy statków Mercury, Gemini, Wostok i Woschod. Źródło: Wikipedia

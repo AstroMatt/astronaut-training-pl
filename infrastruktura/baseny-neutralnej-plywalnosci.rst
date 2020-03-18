@@ -12,7 +12,7 @@ Ponadto baseny neutralnej pływalności wykorzystywane są również w szkoleniu
 
 .. figure:: img/infrastructure-neutral-buoyancy-comparision.png
     :name: figure-infrastructure-neutral-buoyancy-comparision
-    :scale: 75%
+    :width: 80%
     :align: center
 
     Porównanie skali oraz kształtów basenów neutralnej pływalności. Górny rząd pokazuje rzut z góry, dolny rzut z boku Źródło: Wikipedia
@@ -25,7 +25,7 @@ Obecnie gdy ISS jest w pełni operacyjny w basenie NBL odbywa się bardzo dużo 
 
 .. figure:: img/infrastructure-neutral-buoyancy-nbl.jpg
     :name: figure-infrastructure-neutral-buoyancy-nbl
-    :scale: 25%
+    :width: 80%
     :align: center
 
     Basen neutralnej pływalności NBL znajdujący się w Houston, TX, USA. Źródło: NASA/JSC
@@ -53,7 +53,7 @@ Ponadto ośrodek wykorzystywany jest również jako miejsce testowania narzędzi
 
 .. figure:: img/infrastructure-neutral-buoyancy-nbf.jpg
     :name: figure-infrastructure-neutral-buoyancy-nbf
-    :scale: 25%
+    :width: 80%
     :align: center
 
     Basen neutralnej pływalności NBF znajdujący się w European Astronaut Center w Kolonii w Niemczech. Źródło: ESA/S. Corvaja
@@ -64,7 +64,7 @@ W celu certyfikacji do korzystania z rosyjskiego skafandra Orlan astronauci musz
 
 .. figure:: img/infrastructure-neutral-buoyancy-hydrolab.jpg
     :name: figure-infrastructure-neutral-buoyancy-hydrolab
-    :scale: 50%
+    :width: 80%
     :align: center
 
     Basen neutralnej pływalności Hydro Lab znajdujący się w Centrum Przygotowania Kosmonautów w Gwiezdnym Miasteczku w Rosji. Źródło: Roskosmos/CPK
@@ -75,7 +75,7 @@ Chińska Państwowa Agencja Kosmiczna otworzyła ośrodek do szkolenia taikonaut
 
 .. figure:: img/infrastructure-neutral-buoyancy-acc.jpg
     :name: figure-infrastructure-neutral-buoyancy-acc
-    :scale: 50%
+    :width: 80%
     :align: center
 
     Basen neutralnej pływalności ACC znajdujący się w Centrum Astronautycznym w Pekinie. Źródło: China Space Report
@@ -90,7 +90,7 @@ Ośrodek badawczy neutralnej pływalności (NBRF) został wybudowany w ramach gr
 
 .. figure:: img/infrastructure-neutral-buoyancy-nbrf.jpg
     :name: figure-infrastructure-neutral-buoyancy-nbrf
-    :scale: 50%
+    :width: 80%
     :align: center
 
     Basen neutralnej pływalności NBRF znajdujący się na Uniwersytecie Maryland w USA. Źródło: Diamondback/Julia Reed

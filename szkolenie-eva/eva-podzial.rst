@@ -9,7 +9,7 @@ Większość skafandrów działa w podobny sposób i składa się z 4 podstawowy
 
 .. figure:: img/spacesuit-emu-layers.png
     :name: figure-spacesuit-emu-layers
-    :scale: 50%
+    :width: 80%
     :align: center
 
     Warstwy skafandra na przykładzie amerykańskiego *EMU*. Źródło: NASA/JSC

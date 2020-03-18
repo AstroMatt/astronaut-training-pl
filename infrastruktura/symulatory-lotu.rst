@@ -16,7 +16,7 @@ Symulatory lotu służą nie tylko szkoleniu astronautów ale również pozwalaj
 
 .. figure:: img/infrastructure-sim-soyuz-1.jpg
     :name: figure-infrastructure-sim-soyuz-1
-    :scale: 33%
+    :width: 80%
     :align: center
 
     Astronauci Oleg Novitskiy (Roskosmos) oraz Thomas Pesquet (ESA) ćwiczą procedury w symulatorze Sojuz w CPK w Gwiezdnym Miasteczku. Źródło: ESA

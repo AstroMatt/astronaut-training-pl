@@ -8,7 +8,7 @@ Ponadto podczas szkolenia astronauci odgrywają scenariusz pomocy osobie poszkod
 
 .. figure:: img/survival-winter-soyuz-flare.jpg
     :name: figure-survival-winter-soyuz-flare
-    :scale: 33%
+    :width: 80%
     :align: center
 
     Astronauci przywdziewają strój pozwalający na przetrwanie w niskich temperaturach podczas szkolenia survivalowego w zimowych warunkach w Centrum Przygotowania Kosmonautów w Gwiezdnym Miasteczku. Źródło: Roscosmos/CPK

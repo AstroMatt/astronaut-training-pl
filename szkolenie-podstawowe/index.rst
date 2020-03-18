@@ -43,7 +43,7 @@ Chociaż kanadyjscy astronauci odbywają większość szkolenia w JSC w Houston 
 
 .. figure:: img/astronaut-career-lifecycle.png
     :name: figure-astronaut-career-lifecycle
-    :scale: 75%
+    :width: 80%
     :align: center
 
     Schemat prezentuje cykl kariery astronauty od jego selekcji, treningu podstawowego, wsparcia obecnie trwających misji po szkolenie do przydzielonej misji (ang. mission specific training).

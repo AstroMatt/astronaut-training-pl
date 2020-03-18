@@ -4,7 +4,7 @@ Prace w przestrzeni kosmicznej wymagają znajomości wysokospecjalistycznych nar
 
 .. figure:: img/eva-tools.png
     :name: figure-eva-tools
-    :scale: 85%
+    :width: 80%
     :align: center
 
     Narzędzia wykorzystywane podczas EVA. Źródło: NASA/JSC

@@ -5,7 +5,7 @@ Do przygotowania astronautów w ograniczonym zakresie ruchu oraz przy zmieniają
 
 .. figure:: img/infrastructure-suspension-schematics.png
     :name: figure-infrastructure-suspension-schematics
-    :scale: 75%
+    :width: 80%
     :align: center
 
     System podwieszania zastosowany do treningu astronautów w Centrum Przygotowania Kosmonautów w Gwiezdnym Miasteczku w Rosji. Źródło: NASA/JSC

@@ -16,7 +16,7 @@ Podczas lotu Jurija Romanenko w 1973 roku w ramach misji Salut 6 kosmonauta dozn
 
 .. figure:: img/training-dentistry.jpg
     :name: figure-training-dentistry
-    :scale: 75%
+    :width: 80%
     :align: center
 
     Astronauta CSA David Saint-Jacques podczas kursu dentystycznego. Źródło: Canadian Space Agency

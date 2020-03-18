@@ -19,14 +19,14 @@ Podczas przygotowań do misji Gemini 12 amerykański astronauta Buzz Aldrin jako
 
 .. figure:: img/selection-gemini-1.jpg
     :name: figure-selection-gemini-1
-    :scale: 20%
+    :width: 80%
     :align: center
 
     Astronauci pierwszego naboru do programu Gemini. Rząd z tyłu, od lewej: See, McDivitt, Lovell, White, Stafford. Rząd z przodu: Conrad, Borman, Armstrong, Young. Źródło: NASA/JSC
 
 .. figure:: img/selection-gemini-2.jpg
     :name: figure-selection-gemini-2
-    :scale: 7%
+    :width: 80%
     :align: center
 
     Astronauci drugiego naboru do programu Gemini. Rząd z tyłu, od lewej: Collins, Cunningham, Eisele, Freeman, Gordon, Schweickart, Scott, Williams. Rząd z przodu: Aldrin, Anders, Bassett, Bean, Cernan, Chaffee. Źródło: NASA/JSC

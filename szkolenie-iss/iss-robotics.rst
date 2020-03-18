@@ -7,7 +7,7 @@ Głównym urządzeniem użytym podczas konstrukcji stacji ISS jak również dla 
 
 .. figure:: img/iss-robotics-controller.jpg
     :name: figure-iss-robotics-controller
-    :scale: 33%
+    :width: 80%
     :align: center
 
     Astronautka NASA Christina M. Hammock podczas ćwiczeń systemów robotycznych. Źródło: NASA/JSC

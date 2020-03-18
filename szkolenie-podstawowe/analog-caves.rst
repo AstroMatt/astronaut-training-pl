@@ -4,7 +4,7 @@ Misja CAVES (Cooperative Adventure for Valuing and Exercising human behaviour an
 
 .. figure:: img/survival-caves-pool.jpg
     :name: figure-survival-caves-pool
-    :scale: 33%
+    :width: 80%
     :align: center
 
     Astronauci Europejskiej Agencji kosmicznej podczas misji CAVES w 2016 roku do jaskini Sa Grutta na Sardynii we Włoszech. W wyprawie wzięli udział astronauci z CNSA (Ye Guangfu), Roskosmos (Sergei Vladimirovich), JAXA (Aki Hoshide), ESA (Pedro Duque) i NASA (Ricky Arnold, Jessica Muir). Źródło: ESA/V. Crobu

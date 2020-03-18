@@ -5,7 +5,7 @@ Proces selekcji i szkolenia astronautów
 .. only:: html
 
     .. figure:: /_img/_cover.png
-        :scale: 25%
+        :width: 80%
         :align: center
 
 .. toctree::
