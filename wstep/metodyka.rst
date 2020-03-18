@@ -1,3 +1,6 @@
+Metoda, techniki badawcze oraz procedura analizy
+================================================
+
 Praca jest próbą analizy jakościowej procesów szkolenia astronautów w wybranych agencjach kosmicznych, tj. NASA, ESA, CSA, JAXA, Roskosmos i CNSA wraz z przeglądem infrastruktury szkoleniowej. W trakcie opracowywania materiałów niniejszej publikacji autor, korzystając z faktu, iż był etatowym pracownikiem Europejskiej Agencji Kosmicznej miał możliwość dokładnej analizy procesów oraz przeprowadzenia rozmów z astronautami, dyrektorem ds. lotów załogowych i eksploracji robotycznej (ang. *HRE - Human Spaceflight and Robotic Exploration*), kontrolerami lotów jak również z trenerami astronautów.
 
 Programy kosmiczne były dotychczas prowadzone głównie przez dwa państwa USA i Federację Rosyjską (wcześniej Związek Socjalistycznych Republik Radzieckich). ZSRR był inicjatorem współpracy międzynarodowej. W ramach programu Interkosmos polecieli pierwsi kosmonauci niebędący obywatelami wyżej wymienionych mocarstw, a generał Hermaszewski został pierwszym polakiem, który tego dokonał.

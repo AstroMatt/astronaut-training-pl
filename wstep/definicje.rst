@@ -1,3 +1,6 @@
+Definicje
+=========
+
 Agencje kosmiczne nazywają osoby wysyłane w kosmos w różny sposób. W większości przypadków jest to tłumaczenie lub analogia do frazy "osoba nawigująca w kosmosie" lub "osoba nawigująca w między gwiazdami". W celu uproszczenia w poniższej pracy przyjmuje stosowanie nazewnictwa w języku polskim dla wszystkich nazw profesji. Ponadto słowo astronauta będzie wykorzystane jako zamiennik pozostałych. :numref:`table-spaceman-names` prezentuje konwencje przyjęte przez poszczególne agencje.
 
 .. csv-table:: Konwencje nazewnicze stanowiska osoby lecącej w kosmos w wybranych agencjach kosmicznych
