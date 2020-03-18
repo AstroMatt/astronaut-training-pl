@@ -2,6 +2,9 @@
 Przydziały naziemne
 *******************
 
+    Communication, Teamwork, Commitment to excellence
+
+    -- Victor Glover, NASA Astronaut :cite:`Glover2016`
 
 Przydziały naziemne (ang. *Ground Assignments*) to czas astronauty pomiędzy misjami, który jest wykorzystywany zarówno na treningi w celu podtrzymania umiejętności, szkolenie innych astronautów, pomoc w opracowaniu nowych rozwiązań inżynieryjnych, stworzeniu procedur operacyjnych i choreografii EVA, testowanie nowych symulatorów oraz rozwiązań robotycznych jak również na popularyzację nauki i eksploracji kosmosu :cite:`ESAAstronautsGroundAssignments`.
 

@@ -2,10 +2,6 @@
 Zakończenie
 ***********
 
-    Communication, Teamwork, Commitment to excellence
-
-    -- Victor Glover, NASA Astronaut :cite:`Glover2016`
-
     Polecieliśmy w kosmos, tylko po to by docenić to co mamy na Ziemi.
 
     -- Mirosław Hermaszewski, Ciężar Nieważkości :cite:`Hermaszewski2013`
