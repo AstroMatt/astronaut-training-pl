@@ -64,4 +64,3 @@ Niniejsza praca poprzez analizę procesu selekcji, programów szkolenia oraz inf
 - stworzenie programu szkolenia i jego wdrożenie pozwoli na obniżenie kosztów posiadania polskiego astronauty,
 - bogata i unikalna infrastruktura w polsce pozwala na obniżenie kosztów i optymalizację procesu szkolenia  europejskich astronautów,
 - Polska zyska na stworzeniu programu oraz posiadaniu astronauty.
-

@@ -1,3 +1,8 @@
+.. figure:: /_img/_cover.png
+    :scale: 25%
+    :align: center
+
+
 .. toctree::
     :maxdepth: 4
     :numbered:
