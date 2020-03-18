@@ -7,5 +7,7 @@ Ze względów geopolitycznych program został zamknięty, a orbitery trafiły ko
 
 .. figure:: img/spacecraft-buran-vs-shuttle.png
     :name: figure-spacecraft-buran-vs-shuttle
+    :scale: 25%
+    :align: center
 
     Zestawienie porównawcze rakiety Sojuz, Space Shuttle oraz Energia-Buran. Źródło: Wikipedia

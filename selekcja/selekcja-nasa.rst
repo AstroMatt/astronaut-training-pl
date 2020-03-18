@@ -6,5 +6,7 @@ Klasy astronautów podobnie jak zespoły przydzielone do misji tworzą tzw. insy
 
 .. figure:: img/selection-nasa-2017.jpg
     :name: figure-selection-nasa-2017
+    :scale: 10%
+    :align: center
 
     Selekcja astronautów NASA rozpoczynających szkolenie w 2017 roku (ang. *2017 NASA Astronaut Class*): (od lewej) Zena Cardman, Jasmin Moghbeli, Jonny Kim, Frank Rubio, Matthew Dominick, Warren Hoburg, Robb Kulin, Kayla Barron, Bob Hines, Raja Chari, Loral O'Hara and Jessica Watkins. Źródło: NASA/Robert Markowitz :cite:`Whiting2018`

@@ -6,10 +6,14 @@ W trakcie misji używane są techniki neutralnej pływalności oraz zmniejszonej
 
 .. figure:: img/survival-neemo-overview.jpg
     :name: figure-survival-neemo-overview
+    :scale: 25%
+    :align: center
 
     Astronauta NASA na tle habitatu Aquarius . Źródło: NASA/JSC
 
 .. figure:: img/survival-neemo-lesa.jpg
     :name: figure-survival-neemo-lesa
+    :scale: 50%
+    :align: center
 
     Astronauta NASA Kjell Lindgren rozkłada Lunar Evacuation System Assembly. Źródło: ESA/EAC

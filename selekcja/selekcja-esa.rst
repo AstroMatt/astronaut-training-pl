@@ -4,5 +4,7 @@ Jednym z warunków kandydowania na stanowisko astronauty ESA jest narodowość. 
 
 .. figure:: img/selection-esa-2009.jpg
     :name: figure-selection-esa-2009
+    :scale: 20%
+    :align: center
 
     Sześciu nowych rekrutów European Astronaut Corps w European Astronaut Centre w roku 2009. Timothy Peake, Andreas Mogensen, Alexander Gerst, Luca Parmitano, Samantha Cristoforetti, Thomas Pesquet. Źródło: ESA–M. Koell :cite:`European-Astronaut-Corps`

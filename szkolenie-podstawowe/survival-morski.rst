@@ -8,5 +8,7 @@ Dla astronautów NASA szkolenie z przetrwania na morzu jest kluczowe. Ze względ
 
 .. figure:: img/survival-water-soyuz-wetsuit.jpg
     :name: figure-survival-water-soyuz-wetsuit
+    :scale: 50%
+    :align: center
 
     Rosyjski kosmonauta podczas szkolenia ratownictwa morskiego wykonuje skok do wody z kapsuł Soyuz. Kosmonauta jest ubrany w suchy skafander pozwalający na utrzymanie ciepła w zimnej wodzie. Źródło: Roskosmos/CPK

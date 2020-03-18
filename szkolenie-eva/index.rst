@@ -25,6 +25,8 @@ Na chwilę obecną wyjścia w przestrzeń kosmiczną skupiają się głównie na
 
 .. figure:: img/eva-infrastructure-and-supporting-systems.png
     :name: figure-eva-infrastructure-and-supporting-systems
+    :scale: 66%
+    :align: center
 
     Podział systemów oraz infrastruktury EVA. Źródło: NASA/JSC
 

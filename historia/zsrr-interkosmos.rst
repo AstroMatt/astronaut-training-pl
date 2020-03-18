@@ -21,5 +21,7 @@ Kosmonautów w ramach programu Interkosmos wybierano z najlepszych pilotów wśr
 
 .. figure:: img/map-interkosmos.png
     :name: figure-map-interkosmos
+    :scale: 40%
+    :align: center
 
     Państwa uczestniczące w ramach programu Interkosmos. Źródło: Wikipedia

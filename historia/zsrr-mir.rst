@@ -7,5 +7,7 @@ Jej konstrukcja rozpoczęła się od przeniesienia zasobów dostarczonych przez 
 
 .. figure:: img/spacestation-mir.png
     :name: figure-spacestation-mir
+    :scale: 50%
+    :align: center
 
     Schemat stacji kosmicznej Mir. Źródło: Wikipedia

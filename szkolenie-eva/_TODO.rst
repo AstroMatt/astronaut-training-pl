@@ -142,6 +142,8 @@ Są jednym z najmniej wykorzystywanych elementów skafandrów dla wyjść w prze
 
 .. figure:: img/spacesuit-a7l-boots.jpg
     :name: figure-spacesuit-a7l-boots
+    :scale: 100%
+    :align: center
 
     Buty astronauty stanowiące część skafandra *A7L* wykorzystywanego w programie Apollo podczas EVA na Księżycu. Źródło: NASA/JSC
 
@@ -268,6 +270,8 @@ Charakterystyka skafandra EMU
 
 .. figure:: img/spacesuit-emu-dcm.png
     :name: figure-spacesuit-emu-dcm
+    :scale: 100%
+    :align: center
 
     Moduł kontrolny z wyświetlaczem amerykańskiego skafandra EMU (ang. *EMU DCM - Display and Control Module*). Źródło: NASA/JSC
 
@@ -365,6 +369,8 @@ Test skafandrów w komorach ciśnieniowych
 
 .. figure:: img/spacesuit-sokol-pressure-test-vacuum-monitoring.jpg
     :name: figure-spacesuit-sokol-pressure-test-vacuum-monitoring
+    :scale: 100%
+    :align: center
 
     Astronauta ESA Andreas Mogensen podczas testów skafandra w komorze ciśnieniowej w Gwiezdnym Miasteczku. Źródło: ESA/EAC
 
@@ -373,6 +379,8 @@ Trening wykorzystujący systemy podwieszania
 ===========================================
 .. figure:: img/eva-suspension-01.jpg
     :name: figure-eva-suspension-01
+    :scale: 100%
+    :align: center
 
     System podwieszania zastosowany do treningu astronautów w Centrum Przygotowania Kosmonautów w Gwiezdnym Miasteczku w Rosji. Źródło: NASA/JSC
 
