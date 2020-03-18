@@ -1,7 +1,8 @@
-.. figure:: /_img/_cover.png
-    :scale: 25%
-    :align: center
+.. only:: html
 
+    .. figure:: /_img/_cover.png
+        :scale: 25%
+        :align: center
 
 .. toctree::
     :maxdepth: 4
