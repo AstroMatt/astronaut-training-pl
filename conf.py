@@ -112,7 +112,7 @@ today = date.today().strftime('%Y-%m-%d')
 
 version = f'#{sha1}, {today}'
 release = f'#{sha1}, {today}'
-copyright = f'{year}, {author} <{email}>'
+copyright = f'{year}, CC-BY-SA-4.0, {author} <{email}>, version: #{sha1}, last update: {today}'
 
 html_show_sphinx = False
 html_use_smartypants = False
