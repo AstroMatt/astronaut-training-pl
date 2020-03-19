@@ -33,6 +33,7 @@ const ALPHABET = {
 };
 
 document.addEventListener("DOMContentLoaded", () => {
+    $('head').append('<script async src="https://www.googletagmanager.com/gtag/js?id=UA-92351316-6"></script>');
 
     /* Replace solution links to chapter */
     document.querySelectorAll('a.download').forEach( (a) => {
@@ -74,6 +75,14 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     } catch (e) {}
 
+
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-92351316-6');
+
+
     let search_input = '<iframe src="https://duckduckgo.com/search.html?site=python.astrotech.io&prefill=Search..." style="overflow:hidden;margin:0;padding:0;width:200px;height:40px;" frameborder="0"></iframe>';
     document.querySelectorAll('div[role="search"]')[0].innerHTML = search_input;
+
 });
