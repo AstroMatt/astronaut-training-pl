@@ -11,7 +11,7 @@ Celem niniejszej pracy była analiza procesu selekcji, przygotowania do misji or
 Niniejsza praca poprzez analizę procesu selekcji, programów szkolenia oraz infrastruktury treningowej podjęła próbę wykazania, iż:
 
 - Polska jest w stanie stworzyć infrastrukturę szkoleniową i uczestniczyć w programie astronautycznym,
-- stworzenie programu szkolenia i jego wdrożenie pozwoli na obniżenie kosztów posiadania polskiego astronauty,
+- stworzenie programu szkolenia i jego wdrożenie pozwoli na obniżenie kosztów posiadania astronauty,
 - bogata i unikalna infrastruktura w Polsce pozwala na obniżenie kosztów i optymalizację procesu szkolenia europejskich astronautów,
 - Polska zyska na stworzeniu programu oraz posiadaniu astronauty.
 

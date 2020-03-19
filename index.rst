@@ -2,10 +2,11 @@
 Proces selekcji i szkolenia astronautów
 ***************************************
 
+
 .. only:: html
 
     .. figure:: /_img/_cover.png
-        :width: 80%
+        :width: 60%
         :align: center
 
 .. toctree::
@@ -26,3 +27,4 @@ Proces selekcji i szkolenia astronautów
     zalaczniki/index.rst
     zalaczniki/learn-more.rst
     _references/index.rst
+
