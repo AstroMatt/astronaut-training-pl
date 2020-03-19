@@ -11,8 +11,8 @@ sphinx:
 # Additional formats
 formats:
    - pdf
+   - epub
 #   - htmlzip
-#   - epub
 
 python:
   version: 3.7
