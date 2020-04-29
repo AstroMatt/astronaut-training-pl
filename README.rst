@@ -33,10 +33,6 @@ Proces szkolenia astronautów
 
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
-.. note:: For consulting or training course requests please email matt@astrotech.io
-
-.. warning:: Before training course please setup your environment as described here :ref:`Install`.
-
 .. raw:: html
 
     <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
