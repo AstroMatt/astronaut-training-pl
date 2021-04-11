@@ -45,6 +45,13 @@ html_context = {}
 # beamer - For writing presentations (see LaTeX/Presentations).
 latex_documentclass = 'report'
 
+if 'sphinxcontrib.bibtex' in extensions:
+    bibtex_bibfiles = [
+        '_references/bibliography.bib']
+    bibtex_bibliography_header = ".. rubric:: References"
+    bibtex_footbibliography_header = bibtex_bibliography_header
+    bibtex_default_style = 'alpha'
+
 
 # -- Standard book config -----------------------------------------------------
 
