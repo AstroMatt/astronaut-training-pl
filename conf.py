@@ -1,6 +1,7 @@
 project = 'Proces selekcji i szkolenia astronautów'
 author = 'Matt Harasymczuk'
 email = 'matt@astronaut.center'
+language = 'pl'
 
 html_theme = 'sphinx_rtd_theme'
 
@@ -8,29 +9,30 @@ todo_emit_warnings = False
 todo_include_todos = False
 
 extensions = [
-    'sphinx.ext.todo',
-    'sphinx.ext.mathjax',
     'sphinx.ext.autosectionlabel',
+    'sphinx.ext.duration',
+    'sphinx.ext.extlinks',
+    'sphinx.ext.mathjax',
+    'sphinx.ext.todo',
     'sphinxcontrib.bibtex',
 ]
 
-language = 'pl'
 numfig_format = {
-    'section': 'Rozdz. %s',
-    'figure': 'Ryc. %s',
-    'table': 'Tab. %s',
-    'code-block': 'List. %s',
+    'section': 'Rozdz. %s.',
+    'figure': 'Ryc. %s.',
+    'table': 'Tab. %s.',
+    'code-block': 'List. %s.',
 }
 
 exclude_patterns = [
-    '_data/*',
-    '_img/*',
 ]
 
 suppress_warnings = [
     'toc.secnum',
-    #'autosectionlabel.*',
+    'autosectionlabel.*',
 ]
+
+html_context = {}
 
 # article - for articles in scientific journals, presentations, short reports, program documentation, invitations, ...
 # proc - a class for proceedings based on the article class.
@@ -43,7 +45,6 @@ suppress_warnings = [
 # beamer - For writing presentations (see LaTeX/Presentations).
 latex_documentclass = 'report'
 
-html_context = {}
 
 # -- Standard book config -----------------------------------------------------
 
@@ -53,7 +54,7 @@ import subprocess
 import sys
 from datetime import date
 
-needs_sphinx = '2.2'
+needs_sphinx = '2.4'
 
 imgmath_image_format = 'png'
 imgmath_latex = 'latex'
@@ -72,7 +73,9 @@ exclude_patterns += [
     '_build',
     '_extensions',
     '_img',
+    '_data',
     '_slides',
+    '_i18n',
     '_static',
     '_themes',
     '_tmp',
@@ -93,8 +96,11 @@ templates_path = ['_templates']
 highlight_language = 'python3'
 pygments_style = 'borland'
 autodoc_typehints = "description"
+autosectionlabel_maxdepth = 4
+
 sys.path.insert(0, os.path.abspath('_extensions'))
 
+extlinks = {'isbn': ('https://e-isbn.pl/IsbnWeb/start/search.html?szukaj_fraza=%s', 'ISBN: ')}
 
 # 0 - sequence number of image in whole document
 # 1 - sequence number of image in header level 1 (only if :numbered: option is present at toctree directive)
@@ -117,7 +123,7 @@ copyright = f'{year}, CC-BY-SA-4.0, {author} <{email}>, version: #{sha1}, last u
 html_show_sphinx = False
 html_use_smartypants = False
 html_search_language = language
-html_add_permalinks = ""
+html_add_permalinks = '¶'
 html_theme_path = ['_themes']
 html_secnumber_suffix = '. '
 html_title = project

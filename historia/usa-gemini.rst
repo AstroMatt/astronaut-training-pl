@@ -5,7 +5,7 @@ W celu sprostania wymaganiom postawionym przez prezydenta J. F. Kennedy'ego doty
 
 - demonstracja wytrzymałości człowieka i ekwipunku w lotach kosmicznych trwających od 8 do 14 dni,
 - zbliżenie i dokowanie (ang. *Rendezvous and docking*) dwóch statków kosmicznych oraz manewrowanie połączonym zespołem na orbicie używając systemu napędowego dokowanego pojazdu,
-- demonstracja spacerów kosmicznych (ang. *EVA - Extra-Vehicular Activity*) na zewnątrz pojazdu wraz z pokazaniem możliwości wykonywania operacji przez astronautę w ciśnieniowym skafandrze :cite:`McDivitt1965`,
+- demonstracja spacerów kosmicznych (ang. *EVA - Extra-Vehicular Activity*) na zewnątrz pojazdu wraz z pokazaniem możliwości wykonywania operacji przez astronautę w ciśnieniowym skafandrze :cite:`Granath2015`,
 - udoskonalenie procedury wejścia w atmosferę (ang. *re-entry*) i precyzyjnego lądowania w określonym miejscu :cite:`Kranz2001`.
 
 Amerykańska agencja kosmiczna NASA podczas projektu Gemini przeprowadziła dwa nabory na astronautów (:numref:`figure-selection-gemini-1`, :numref:`figure-selection-gemini-2`).
